@@ -1,8 +1,6 @@
-Papyri.info, or the Papyrological Navigator (PN) and Editor (PE) are 
+**Prototype**: With funding from the [Andrew W. Mellon Foundation](http://www.mellon.org/) and the [National Endowment for the Humanities](http://www.neh.gov/), in  2006/07 [Columbia University Libraries](http://library.columbia.edu/) developed specifications for a 'Papyrological Navigator,' with a view to demonstrating that multiple digital papyrological resources could be co-displayed in a scholarly web resource, and in the following year released a prototype PN. In 2007/08, with further support from the Mellon Foundation a Duke-led team launched 'Integrating Digital papyrolog
 
-**Background.** With funding from the Andrew W. Mellon Foundation and the National Endowment for the Humanities, in  2006/2007 Columbia University Libraries developed specifications for a 'Papyrological Navigator,' with a view to demonstrating that multiple digital papyrological resources could be co-displayed in a scholarly web resource.
-
-In 2008, a prototype PN was developed at Columbia, later moved to [NYU Institute for the Study of the Ancient World](http://isaw.nyu.edu/) in 2009. 
+was developed at Columbia, later moved to [NYU Institute for the Study of the Ancient World](http://isaw.nyu.edu/) in 2009. 
 
 and the project joined forces with the Mellon-funded Integrating Digital Papyrology (IDP) project. The current version of the PN represents a complete redesign of the original, using Open Source tools including Apache Solr and the Jena/Fuseki RDF triple store. 
 
