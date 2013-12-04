@@ -12,7 +12,7 @@ Work was conducted by teams at the [Institut für Papyrologie, Universität Heid
 
 The DDbDP is co-directed by **James Cowey** and **Joshua Sosin**, who together set policy in close consultation with **Rodney Ast**, the Editorial Board, and other colleagues. Day-to-day editorial decisions are made democratically by the Editorial Board (**Rodney Ast**, **Lajos Berkes**, **W. Graham Claytor**, **James Cowey**, **Jenny Cromwell**, **Hélène Cuvigny**, **Alain Delattre**, **Mark Depauw**, **Christian-Jürgen Gruber**, **Paul Heilporn**, **Cisca Hoogendijk**, **Thomas Kruse**, **Tonia Sarri**, **Joshua D. Sosin**, **Arthur Verhoogt**), often in consultation with other colleagues. Editorial proposals of special difficulty or weight are referred to a board of Senior Editors, who advise the Editorial Board on the virtue of the submissions. Senior Editors are: **Isabella Andorlini**, **Roger Bagnall**, **Willy Clarysse**, **Hélène Cuvigny**, **Nikolaos Gonis**, **Dieter Hagedorn**, **Ann Hanson**, **Andrea Joerdens**, **James Keenan**, and **Klaas Worp**.
 
-The current public version is available via [papyri.info](papyri.info).
+The current public version is available via [papyri.info](http://papyri.info).
 
 As of July 2013 [papyri.info](papyri.info), including the DDbDP, is under the stewardship of the [Duke Collaboratory for Classics Computing](http://blogs.library.duke.edu/dcthree/) (DC3), a digtial classics R&D unit within the Duke University Libraries.
 
