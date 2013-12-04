@@ -1,6 +1,6 @@
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The **Papyrological Navigator** (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the **Papyrological Editor** (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly and curatorial metadata, bibliography, and images.
 
-The Papyrological Navigator aggregates material from the Advanced Papyrological Information System 
+Papyri.info aggregates material from the Advanced Papyrological Information System 
 (APIS), [Duke Databank of Documentary Papyri](ddbdp.md) (DDbDP), [Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens](http://www.rzuser.uni-heidelberg.de/~gv0/) (HGV), [Bibliographie Papyrologique](http://www.ulb.ac.be/philo/cpeg/bp.htm) (BP), and depends on close collaboration with  [Trismegistos](http://www.trismegistos.org/), for rigorous maintainence of relationship mapping and unique identifiers. Work is in progress to incorporate content from the [Arabic Papyrological Database](http://orientw.uzh.ch:8080/apd/project.jsp) (APD) as well. ...read [more](about.md).
 
 
