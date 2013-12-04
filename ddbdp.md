@@ -14,7 +14,7 @@ The DDbDP is co-directed by **James Cowey** and **Joshua Sosin**, who together s
 
 The current public version is available via [papyri.info](http://papyri.info).
 
-As of July 2013 [papyri.info](papyri.info), including the DDbDP, is under the stewardship of the [Duke Collaboratory for Classics Computing](http://blogs.library.duke.edu/dcthree/) (DC3), a digtial classics R&D unit within the Duke University Libraries.
+As of July 2013 [papyri.info](http://papyri.info), including the DDbDP, is under the stewardship of the [Duke Collaboratory for Classics Computing](http://blogs.library.duke.edu/dcthree/) (DC3), a digtial classics R&D unit within the Duke University Libraries.
 
 Please feel free to direct questions regarding the DDBDP to Rodney Ast (ast AT uni-heidelberg DOT de), James Cowey (james.cowey AT urz.uni-heidelberg DOT de), and Joshua Sosin (joshua.sosin AT duke DOT edu); best to email all three, since inevitably all three will discuss.
 
