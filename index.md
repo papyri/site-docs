@@ -13,7 +13,6 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
   <tr>
     <td width="50%" valign="top" style="padding-left:10em;padding-right:2em;"><h2>About</h2>
     <ul class="about">
-      <li><a href="about.html" title="learn more about papyri.info">about papyri.info</a></li>
       <li><a href="http://www.ori.uzh.ch/apd" title="learn about the Arabic Papyrological Database">about APD</a></li>
       <li><a href="http://www.columbia.edu/cu/lweb/projects/digital/apis/about.html" title="learn about the Advanced Papyrological Information System">about APIS</a></li>
 
