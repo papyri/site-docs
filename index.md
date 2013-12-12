@@ -14,7 +14,7 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
     <td width="50%" valign="top" style="padding-left:10em;padding-right:2em;"><h2>About</h2>
     <ul class="about">
       <li><a href="http://www.columbia.edu/cu/lweb/projects/digital/apis/about.html" title="learn about the Advanced Papyrological Information System">about APIS</a></li>
-      <li><a href="/ddbdp" title="learn about the Duke Databank of Documentary Papyri">about DDbDP</a></li>
+      <li><a href="/docs/ddbdp" title="learn about the Duke Databank of Documentary Papyri">about DDbDP</a></li>
       <li><a href="http://www.rzuser.uni-heidelberg.de/%7Egv0/" title="learn about the Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens">about HGV</a></li>
       <li><a href="http://www.ulb.ac.be/philo/cpeg/bp.htm" title="learn about the Bibliographie Papyrologique">about BP</a></li>
       <li><a href="http://www.trismegistos.org/" title="learn about the Trismegistos project">about Trismegistos</a></li>
