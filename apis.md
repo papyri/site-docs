@@ -2,4 +2,4 @@
 
 Active development and hosting of the APIS technical infrastructure was carried out at a number of APIS partner institutions, most recently Columbia and NYU. As of 1 July 2013 the host and steward of canonical APIS data is papyri.info, which is served by the DC3 and Duke University Libraries.
 
-Collections of any size may now contribute catalog records, images, texts, translations, and metadata to papyri.info without becoming an APIS member. 
+Collections of any size may now contribute catalog records, images, texts, translations, and metadata to papyri.info on their own, without having to become an APIS member. 
