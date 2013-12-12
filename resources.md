@@ -1,3 +1,20 @@
+[The Arabic Papyrology Database](http://www.ori.uzh.ch/apd) (APD): Searchable database of Arabic documents on parchment, papyrus and paper from the 7th to 16th c. A.D. (metadata and images).
+[Arabic Papyrology School](http://www.ori.uzh.ch/aps> (APS): Interactive introduction to Arabic papyrology. 
+[Banque de données des textes coptes documentaires](http://dev.ulb.ac.be/philo/bad/copte/): Searchable databank with information pertaining to Coptic documentary texts (metadata only).
+[Catalogue of Paraliterary Papyri](http://cpp.arts.kuleuven.ac.be/searchform.html) (CPP): Searchable catalog of paraliterary texts, including texts in what was formerly called the Catalogue of Mythographic Papyri (metadata and ancient language texts).
+[Checklist of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets](http://scriptorium.lib.duke.edu/papyrus/texts/clist.html): Abbreviations for papyrological publications
+[Demotic Texts Archive](http://oi.uchicago.edu/OI/DEPT/RA/ABZU/DEMOTIC_WWW.HTML) (Oriental Institute, Chicago): Collection of Demotic language material on the Web (metadata, images, bibliography, links).
+[Heidelberger Gesamtverzeichnis](http://www.rzuser.uni-heidelberg.de/~gv0/gvz.html) (HGV): Searchable database of published Greek and Latin documents. Browse by <a href="http://www.rzuser.uni-heidelberg.de/~gv0/Texte/HGV-Texte.html">Texte im HGV</a> (metadata only).
+[Leuven Database of Ancient Books](http://ldab.arts.kuleuven.be) (LDAB): Searchable database with information pertaining to published literary texts (metadata only).
+[Leuven Homepage of Papyrus Archives](http://www.trismegistos.org/arch.php) (LHPC): Register of ancient archives from Greco-Roman Egypt (metadata only).
+[Leuven Homepage of Papyrus Collections](http://www.trismegistos.org/coll.php) (LHPC): Register of papyrus collections located around the world (metadata only).
+[Mertens-Pack3](http://www.ulg.ac.be/facphl/services/cedopal/pages/mp3anglais.htm) (M-P3): Searchable catalog of Greek and Latin literary papyri (metadata and some links to images).
+[Medieval Nubia](http://www.medievalnubia.info): Site dedicated to collaborative publication of resources for the study of Medieval Nubia.
+     	<p><a href="http://www.trismegistos.org/"><strong>Trismegistos</strong>:</a>&nbsp;An interdisciplinary portal of papyrological and epigraphical resources associated with Egypt and the Nile valley between ca 800 BC and AD 800.</p> 
+      <p><strong><a href="http://adam.igl.ku.dk/~bulow/papy-l.html">(Papy-L):</a></strong> E-mail discussion list dedicated to the exchange of information of interest to papyrologists and scholars of Greco-Roman Egypt.</p> 
+      <p><strong><span class="style2"><a href="http://www.iaw.uni-heidelberg.de/hps/pap/WL/WL.html">(WL) WörterListen:</a></span></strong>&nbsp;Index (PDF) of Greek and Latin terms from documents published since 1996.Â&nbsp; This is a critical supplement to the DDBDP, which does not allow searching of material published after ca. 1995.</p>
+
+
 <table id="resources"> 
   <tr valign="middle"> 
     <td height="50" class="head1" colspan="2" align="center"><h1>Papyrological Tools and Resources</h1></td> 
