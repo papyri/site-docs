@@ -15,9 +15,8 @@
  * [Papy-L](http://adam.igl.ku.dk/~bulow/papy-l.html): Email discussion list dedicated to the exchange of information of interest to papyrologists and scholars of Greco-Roman Egypt.
  * [WörterListen](http://www.iaw.uni-heidelberg.de/hps/pap/WL/WL.html) (WL): Index (PDF) of Greek and Latin terms from documents published since 1996.
 
-**Some Collections**
+**Some Collections** For a comprehensive list see [Trismegistos](http://www.trismegistos.org/coll/list_all.php)
  * [Cologne](http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie) 
- * [University of Copenhagen, The Carlsberg Papyrus Collection](http://www.hum.ku.dk/cni/papcoll/index.html) 
  * [University of Copenhagen, Institute of Greek and Latin](http://www.igl.ku.dk/~bulow/PHaun.html), including [archive of negatives](http://www.igl.ku.dk/~bulow/aipdescr.html) from the AIP International Papyrus Archive.
  * [Geneva](http://www.ville-ge.ch/musinfo/collections/bpu/papyrus/index.html). 
  * [Giessen](http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?db=pap)
