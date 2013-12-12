@@ -2,7 +2,7 @@
  * [The Arabic Papyrology Database](http://www.ori.uzh.ch/apd) (APD): Searchable database of Arabic documents on parchment, papyrus and paper from the 7th to 16th c. A.D. (metadata and images).
  * [Arabic Papyrology School](http://www.ori.uzh.ch/aps> (APS): Interactive introduction to Arabic papyrology. 
  * [Banque de données des textes coptes documentaires](http://dev.ulb.ac.be/philo/bad/copte/): Searchable databank with information pertaining to Coptic documentary texts (metadata only).
- * [Catalogue of Paraliterary Papyri](http://cpp.arts.kuleuven.ac.be/searchform.html) (CPP): Searchable catalog of paraliterary texts, including texts in what was formerly called the Catalogue of Mythographic Papyri (metadata and ancient language texts).
+ * [Catalogue of Paraliterary Papyri](http://cpp.arts.kuleuven.be/index.php) (CPP): Searchable catalog of paraliterary texts, including texts in what was formerly called the Catalogue of Mythographic Papyri (metadata and ancient language texts).
  * [Checklist of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets](http://scriptorium.lib.duke.edu/papyrus/texts/clist.html): Abbreviations for papyrological publications
  * [Demotic Texts Archive](http://oi.uchicago.edu/OI/DEPT/RA/ABZU/DEMOTIC_WWW.HTML) (Oriental Institute, Chicago): Collection of Demotic language material on the Web (metadata, images, bibliography, links).
  * [Heidelberger Gesamtverzeichnis](http://www.rzuser.uni-heidelberg.de/~gv0/gvz.html) (HGV): Searchable database of published Greek and Latin documents. Browse by <a href="http://www.rzuser.uni-heidelberg.de/~gv0/Texte/HGV-Texte.html">Texte im HGV</a> (metadata only).
