@@ -23,7 +23,7 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
     <td width="50%" valign="top" style="padding-left:2em;padding-right:10em;"><h2>More information</h2>
     <ul class="about">
       <li><a href="http://digitalpapyrology.blogspot.com/">Digital Papyrology blog</a></li> 
-      <li><a href="resources.html">papyrological resources</a></li>
+      <li><a href="/docs/resources">papyrological resources</a></li>
       <li><a href="feedback.html">send feedback</a></li>
     </ul></td>
   </tr>
