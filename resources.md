@@ -1,7 +1,7 @@
 **Papyrological Tools and Resources**
 
  * [The Arabic Papyrology Database](http://www.ori.uzh.ch/apd) (APD): Searchable database of Arabic documents on parchment, papyrus and paper from the 7th to 16th c. A.D. (metadata and images).
- * [Arabic Papyrology School](http://www.ori.uzh.ch/aps> (APS): Interactive introduction to Arabic papyrology. 
+ * [Arabic Papyrology School](http://www.ori.uzh.ch/aps) (APS): Interactive introduction to Arabic papyrology. 
  * [Banque de données des textes coptes documentaires](http://dev.ulb.ac.be/philo/bad/copte/): Searchable databank with information pertaining to Coptic documentary texts.
  * [Catalogue of Paraliterary Papyri](http://cpp.arts.kuleuven.be/index.php) (CPP): Searchable catalog of paraliterary texts, including texts in what was formerly called the Catalogue of Mythographic Papyri.
  * [Checklist of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets](http://scriptorium.lib.duke.edu/papyrus/texts/clist.html): Abbreviations for papyrological publications
@@ -17,6 +17,7 @@
  * [WörterListen](http://www.iaw.uni-heidelberg.de/hps/pap/WL/WL.html) (WL): Index (PDF) of Greek and Latin terms from documents published since 1996.
 
 **Organizations**
+
  * [American Society of Papyrologists](http://classics.uc.edu/asp) (ASP)
  * [Association Internationale de Papyrologues](http://www.ulb.ac.be/assoc/aip) (AIP) 
  * [International Association for Coptic Studies](http://rmcisadu.let.uniroma1.it/~iacs) (IACS)
