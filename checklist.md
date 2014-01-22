@@ -28,14 +28,14 @@
  * XIX, Urkunden aus Hermupolis, ed . H Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760-2839, mostly in Greek (2760 in Latin). [K.G. Saur]
  
  
-BKT
+### BKT
 = Berliner Klassikertexte. Berlin.
-I, Didymos, Kommentar zu Demosthenes (Papyrus 9780) nebst Wörterbuch zu Demosthenes' Aristocratea (Papyrus 5008), ed. H. Diels and W. Schubart. 1904. [MF 1.11]
-II, Anonymer Kommentar zu Platons Theaetet (Papyrus 9782) nebst drei Bruchstücken philosophischen Inhalts (Pap. N.8; P.9766. 9569), ed. H. Diels and W. Schubart. 1905. [MF 1.12]
-III, Griechische Papyri medizinischen und naturwissenschaftlichen Inhalts, ed. K. Kalbfleisch and H. Schöne. 1905. [MF 1.13]
-IV, Hierokles; Ethische Elementarlehre (Papyrus 9780), nebst den bei Stobäus erhaltenen ethischen Exzerpten aus Hierokles, ed. H. von Arnim. 1906. [MF 1.14]
-V, Griechische Dichterfragmente: Pt. I, Epische und elegische Fragmente; Pt. II, Lyrische und dramatische Fragmente, ed. W. Schubart and U. von Wilamowitz-Moellendorff. 1907. [MF 1.15]
-VI, Altchristliche Texte, ed. C. Schmidt and W. Schubart. 1910. [MF 1.16]
-VII, Rhetorische Papyri, ed. K. Kunst. 1923. [MF 1.17]
-VIII, Berliner Septuagintafragmente, ed. O. Stegmüller. 1939. [MF 1.18]
-IX, Catalogue of Greek and Latin Literary Papyri in Berlin (P.Berol.inv. 21101—21299, 21911), ed. G. Ioannidou. Mainz 1996. [PvZ]
+ * I, Didymos, Kommentar zu Demosthenes (Papyrus 9780) nebst Wörterbuch zu Demosthenes' Aristocratea (Papyrus 5008), ed. H. Diels and W. Schubart. 1904. [MF 1.11]
+ * II, Anonymer Kommentar zu Platons Theaetet (Papyrus 9782) nebst drei Bruchstücken philosophischen Inhalts (Pap. N.8; P.9766. 9569), ed. H. Diels and W. Schubart. 1905. [MF 1.12]
+ * III, Griechische Papyri medizinischen und naturwissenschaftlichen Inhalts, ed. K. Kalbfleisch and H. Schöne. 1905. [MF 1.13]
+ * IV, Hierokles; Ethische Elementarlehre (Papyrus 9780), nebst den bei Stobäus erhaltenen ethischen Exzerpten aus Hierokles, ed. H. von Arnim. 1906. [MF 1.14]
+ * V, Griechische Dichterfragmente: Pt. I, Epische und elegische Fragmente; Pt. II, Lyrische und dramatische Fragmente, ed. W. Schubart and U. von Wilamowitz-Moellendorff. 1907. [MF 1.15]
+ * VI, Altchristliche Texte, ed. C. Schmidt and W. Schubart. 1910. [MF 1.16]
+ * VII, Rhetorische Papyri, ed. K. Kunst. 1923. [MF 1.17]
+ * VIII, Berliner Septuagintafragmente, ed. O. Stegmüller. 1939. [MF 1.18]
+ * IX, Catalogue of Greek and Latin Literary Papyri in Berlin (P.Berol.inv. 21101—21299, 21911), ed. G. Ioannidou. Mainz 1996. [PvZ]
