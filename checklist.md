@@ -6,7 +6,7 @@
  = _Actenstücke aus der Königlichen Bank zu Theben in den Museen zu Berlin_, London, Paris, ed. U. Wilcken. Berlin 1887. (AbhBerlin 1886, Anhang, Abh.1; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde I [Leipzig 1970] 39—104). Nos. 1—12. Republished in UPZ II 205—207, 214—215, 217—221, 226—228. [MF 1.10; rp. DZA]
 
 ### BGU
- = Aegyptische Urkunden aus den Königlichen (later Staatlichen) Museen zu Berlin, Griechische Urkunden. Berlin.
+ = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin.
  * I, 1895. Nos. 1—361. [MF 1.1; rp. CG]
  * II, 1898. Nos. 362—696. [MF 1.2; rp. CG]
  * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG]
@@ -29,7 +29,7 @@
  
  
 ### BKT
-= Berliner Klassikertexte. Berlin.
+= _Berliner Klassikertexte_. Berlin.
  * I, Didymos, Kommentar zu Demosthenes (Papyrus 9780) nebst Wörterbuch zu Demosthenes' Aristocratea (Papyrus 5008), ed. H. Diels and W. Schubart. 1904. [MF 1.11]
  * II, Anonymer Kommentar zu Platons Theaetet (Papyrus 9782) nebst drei Bruchstücken philosophischen Inhalts (Pap. N.8; P.9766. 9569), ed. H. Diels and W. Schubart. 1905. [MF 1.12]
  * III, Griechische Papyri medizinischen und naturwissenschaftlichen Inhalts, ed. K. Kalbfleisch and H. Schöne. 1905. [MF 1.13]
@@ -41,13 +41,13 @@
  * IX, Catalogue of Greek and Latin Literary Papyri in Berlin (P.Berol.inv. 21101—21299, 21911), ed. G. Ioannidou. Mainz 1996. [PvZ]
 
 ### BKU
-= Aegyptische Urkunden aus den Koeniglichen (later Staatlichen) Museen zu Berlin: Koptische Urkunden.
+= _Aegyptische Urkunden aus den Koeniglichen_ (later Staatlichen) _Museen zu Berlin: Koptische Urkunden_.
  * I, Berlin 1895—1905. Nos. 1—192. The following texts have been republished in SB Kopt. I:
  * II.1, Berlin 1904. Nos. 256—318 (only the first fascicle was published). No papyri were ever assigned publication numbers 193-255.
  * III, ed. H. Satzinger. Heft 1, 1967; Heft 2, 1968. Nos. 319—514. Berlin. [Bruno Hessling Verlag]
 
 ### CPR
-= Corpus Papyrorum Raineri. Vienna.
+= _Corpus Papyrorum Raineri_. Vienna.
  * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG]
  * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67]
  * III, Series Arabica I, ed. A. Grohmann. 1924. Pt. 1, Allgemeine Einführung in die arabischen Papyri; Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln.
@@ -81,3 +81,43 @@
  * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 2009.
  * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG]
  * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG]
+
+### P.Aberd.
+= _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104]
+ 
+### P.Abinn.
+= The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also SB X 10755, XIV 11380 and XX 14954.
+
+### P.Achm.
+= Les Papyrus grecs d'Achmîm à la Bibliothèque Nationale de Paris, ed. P. Collart. Cairo 1930. (BIFAO 31 [1930] 33—111). Nos. 1—9. [MF 1.73]
+
+### P.Ackerpacht.
+= Demotische Ackerpachtverträge der Ptolemäerzeit. Untersuchungen zu Aufbau, Entwicklung und inhaltlichen Aspekten einer Gruppe von demotischen Urkunden, ed. H. Felber. Wiesbaden 1997. (Ägyptologische Abhandlungen 58). 24 texts and 8 fragments are studied in this volume. Not all the texts are edited or reprinted in full and they are not numbered serially.
+
+### P.Adl.
+= The Adler Papyri, Greek texts ed. E.N. Adler, J.G. Tait, F.M. Heichelheim. Demotic texts ed. F.Ll. Griffith. Oxford 1939. Greek nos. 1—21, Demotic nos. 1—30. An additional Demotic piece, no. 31, was published by N.J. Reich, Journal of the American Oriental Society 36 (1936) 168—169. [Rp. CG] 
+
+### P.Äg.Handschrift.
+= Ägyptische Handschriften (Teil 2), ed. E. Lüddeckens and K.-Th. Zauzich. Wiesbaden 1971. (Verzeichnis der orientalischen Handschriften in Deutschland XIX 2). This volume lists (nos. 1—333) the Demotic papyri in Berlin.
+
+### P.Alex.
+= Papyrus grecs du Musée Gréco-Romain d'Alexandrie, ed. A. Swiderek and M. Vandoni. Warsaw 1964. (Travaux du Centre d'Archéologie Méditerranéenne de l'Académie Polonaise des Sciences 2). Nos. 1—40 on pp. 47—79; otherwise a catalogue of descriptions and other material relating to the Alexandria papyri. [o.p.]
+
+### P.Alex.Giss.
+= Papyri variae Alexandrinae et Gissenses, ed. J. Schwartz. Brussels 1969. (Pap.Brux. VII). Nos. 1—61; nos. 62—73 are notes to other texts. Texts reprinted as SB X 10617—10653. [FERE]
+
+### P.Amh.
+= The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk, ed. B.P. Grenfell and A.S. Hunt. London.
+ * I, The Ascension of Isaiah and Other Theological Fragments. 1900. Nos. 1—9. [MF 1.43; rp. CG]
+ * II, Classical Fragments and Documents of the Ptolemaic, Roman and Byzantine Periods. 1901. Nos. 10—201. No. 145 has a Coptic greeting at the end. [MF 1.44; rp. CG]
+
+### P.Amh.Eg.
+= The Amherst Papyri, Being an Account of the Egyptian Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk, ed. P.E. Newberry with an appendix on a Coptic papyrus by W.E. Crum. London 1899. The Coptic text, which is on pp. 59—61, was later republished as P.KRU 69.
+
+### P.Ammon
+= The Archive of Ammon Scholasticus of Panopolis.
+ * I, The Legacy of Harpocration, ed. W.H. Willis and K. Maresch. Opladen 1997. (Pap.Colon. XXVI/1). Nos. 1—25. [FS]
+ * II, Das Archiv des Aurelius Ammon (P.Ammon): Papyri aus den Sammlungen des Istituto Papirologico "G. Vitelli" (Università di Firenze), der Duke University, Durham N.C., und der Universität zu Köln, ed. K. Maresch and I. Andorlini. Paderborn 2006. (Pap.Colon. 26, 2). Nos. 26-56; separate fascicle of plates. [Verlag Ferdinand Schöningh]
+
+### P.Amst. I
+= Die Amsterdamer Papyri I, ed. R.P. Salomons, P.J. Sijpesteijn, K.A. Worp. Zutphen 1980. (Stud.Amst. XIV). Nos. 1—100. [TPC] Cf. also P.Gron.Amst.
