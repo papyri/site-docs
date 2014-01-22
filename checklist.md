@@ -121,3 +121,37 @@
 
 ### P.Amst. I
 = Die Amsterdamer Papyri I, ed. R.P. Salomons, P.J. Sijpesteijn, K.A. Worp. Zutphen 1980. (Stud.Amst. XIV). Nos. 1—100. [TPC] Cf. also P.Gron.Amst.
+
+### P.Anag.
+= Corpus Papyrorum Anagennesis, ed. F. Farid. Athens 1986. Revised texts originally published by various editors in the journal Anagennesis vols. 1—3 (1981—1983). There is no index but the texts from this volume were entered in the DDBDP. The texts were not given numbers and must be referred to by page number. A number of texts were taken up in SB XVI from their original publication in the three volumes of the journal Anagennesis.
+
+### P.Ant.
+= The Antinoopolis Papyri. London.
+ * I, ed. C.H. Roberts. 1950. (Egypt Exploration Society, Graeco-Roman Memoirs 28). Nos. 7—50 (nos. 1—6 are in Shorthand Manuals). [EES]
+ * II, ed. J.W.B. Barns and H. Zilliacus. 1960. (Egypt Exploration Society, Graeco-Roman Memoirs 37). Nos. 51—110. [EES]
+ * III, ed. J.W.B. Barns and H. Zilliacus. 1967. (Egypt Exploration Society, Graeco-Roman Memoirs 47). Nos. 111—214. [EES]
+
+### P.Aphrod.Lit.
+= Hellénisme dans l'Égypte du VIe siècle. La bibliothèque et l'oeuvre de Dioscore d'Aphrodité, ed. J.-L. Fournet. Cairo 1999. (MIFAO 115). Nos. 1-51. [SEVPO]
+
+### P.Apoll.
+= Papyrus grecs d'Apollônos Anô, ed. R. Rémondon. Cairo 1953. (Documents de fouilles de l'Institut Français d'Archéologie Orientale du Caire 19). Nos. 1—105; no. 91 reprinted as SB Kopt. I 7. [MF 1.41] Nos. 106 and 107 = SB XIV 11917—11918; nos. 108—110 = SB XVI 12428—12431.
+
+### P.Ashm.
+= Catalogue of the Demotic Papyri in the Ashmolean Museum.
+ * I, Embalmers' Archives from Hawara, ed. E.A.E. Reymond, including Greek Documents and Subscriptions, ed. J.W.B. Barns. Oxford 1973. Nos. 1—21 are Demotic; there are Greek subscriptions to nos. 3, 4, 5, 10, 14—15 and 16—17. Nos. 22—25 are Greek texts. Greek texts reprinted as SB XIV 11404—11413. A further text is published at SB I 4369. [OUP]
+
+### P.Assoc.
+= Les associations religieuses en Égypte d'après les documents démotiques, ed. F. de Cenival. Cairo 1972. (Institut Français d'Archéologie Orientale. Bibliothèque d'Étude 46). Seven Demotic texts are reedited: P.LilleDem. I 29; P.Cair. II 30605, 30606, 30619, 31178, 31179 and a Hamburg text originally edited by W. Erichsen in Acta Orientalia 26 (1962) 97—107. Two further texts have been studied from photographs and provided with transcription, translation and commentary: P.Berl.Dem. 3115 (pp. 18—19 and plates 38—41) and a Prague text edited by W. Erichsen, P.Prag.Satzung.
+
+### P.Athen.
+= Papyri Societatis Archaeologicae Atheniensis, ed. G.A. Petropoulos. Athens 1939. (Pragmateiai tês Akademias Athênôn 10). Nos. 1—70. [MF 1.64; rp. CG]. Further texts published in Anekdotoi philologikoi kai idiôtikoi papyroi, ed. M.G. Tsoukalas. Athens 1962. (Bibliothêkê tês en Athênais Philekpaideutikês Hetaireias 17); reprinted in SB VIII 9860—9862.
+
+### P.Athen.Xyla
+= P.Sta.Xyla: The Byzantine Papyri of the Greek Papyrological Society I, ed. B.G. Mandilaras. Nos. 1—21. Nos. 5, 6, 8, 12, 13, 17, 18 have Coptic in their dockets. Athens 1993. [Greek Papyrological Society]
+
+### P.Aust.Herr.
+= P.Trophitis: New Ptolemaic Texts Relating to Egyptian Alimentary and Sale Contracts. Greek Abstracts from a Kibotos Archive, ed. R.G. Herring. Diss. University of Texas, 1989. Nos. 1—20. Republished in SB XX 14470—14493. In SB XX the rectos and versos of P.Aust.Herr. 6, 12 and 18 are given separate numbers. Also the fragments a—h listed on pp. 74—75 are republished as SB XX 14492. [UMI, 1992; order no. 9005594]
+
+### P.Auswahl
+= Auswahl frühdemotischer Texte (zum Gebrauch im akademischen Studien sowie zum Selbststudium zusammengestellt), by W. Erichsen. Heft 1, Texte; 2, Umschrift und Glossar; 3, Schriftliste. Copenhagen 1950.
