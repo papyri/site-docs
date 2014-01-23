@@ -486,3 +486,41 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### P.CrumST (see O.CrumST)
 
 ### P.CrumVC (see O.CrumVC)
+
+### P.Customs
+= _Customs Duties in Graeco-Roman Egypt_, by P.J. Sijpesteijn. Zutphen 1987. (Stud.Amst. XVII). Within a monographic study of customs, 109 new texts and 19 republished texts are catalogued in List I (pp.102—143) among a chronological list of 919 customs transactions; the numbers denote not individual papyri but separate transactions attested, as many as 152 assigned to a single papyrus text (e.g. 733—884). The new and republished texts are edited in "Notes to List I" (pp. 144—189) and fully indexed (pp. 217—229). Republished are P.Stras. II 123, SB XII 10789, Stud.Pal. XXII 63.2—7, 9—12, 14 and 64. 3—4, 6—8, 10. Five additional texts (formerly P.Lond. descripta) are edited in "Addenda et Corrigenda" pp. 1—6, to be renumbered as 428a—d and 596a. Plates of new texts in pocket. [TPC]
+
+### P.David
+= _Antidoron Martino David oblatum, Miscellanea Papyrologica_, ed. E. Boswinkel, B.A. van Groningen, P.W. Pestman. Leiden 1968. (Pap.Lugd.Bat. XVII). Nos. 12 and 15 are Demotic; 1, 3, 4, 7, 10, 14, 16 and 17 Greek papyrus documents, 5 and 18 literary; 6 two ostraca. Greek documents, nos. 1, 3, 4, 6.1, 10, 16, and 17, are reprinted as SB X 10281—10287; no. 7 is reprinted as SB XX 14229. [EJB]
+
+### P.Demotica
+= _Demotica_, ed. W. Spiegelberg
+
+ * I, 1925. (SBMünchen 1925, Abh. 6); II, 1928. (SBMünchen 1928, Abh. 2). These two volumes are collections of comments on various matters Demotic. In vol. I no. 2 is a papyrus; no. 14 is a mummy wrapping with writing; nos. 15—18 are ostraca. No. 2 was republished in Mitt. Inst. Orientforschung 1 (1953) 234 (F. Hintze) and no. 18 = O.Tempeleide 180. In vol. II there are texts on cloth on pp. 17—23, names on linen mummy wrapping; two mummy labels on wood are published on pp. 29—32; and an ostrakon on pp. 49—52. Other texts noted in this volume are inscriptions.
+
+### P.Diog.
+= _Les archives de Marcus Lucretius Diogenes et textes apparentés,_ ed. P. Schubert. Bonn 1990. (Pap.Texte Abh. XXXIX). Nos. 1—68; nos. 1, 10—11 are Latin, the remainder Greek. [RH]
+
+### P.Dime
+= _Demotische Dokumente aus Dime_
+
+ * I,   see O.Dime.
+ * II, Quittungen, ed. S. L. Lippert and M. Schentuleit. Wiesbaden 2006. [OH]
+
+### P.Dion.
+= _Les archives privés de Dionysios, fils de Kephalas_, ed. E. Boswinkel and P.W. Pestman. Leiden 1982; with a separate fascicle of plates. (Pap.Lugd.Bat. XXII). Nos. 1—8 Demotic, nos. 9—41 and appendix A—B Greek. [EJB]
+
+### P.Dion.Herm.
+= _Greek Papyrus Documents from Dionysias and from the Cairo Museum_, ed. M.A.I. Aly. Cairo 2001 (BullCPS 18) Nos. 1—13. Reprinted in SB XXVI 16554—16565
+
+### P.Diosk.
+= _Das Archiv des Phrurarchen Dioskurides_, ed. J.M.S. Cowey, K. Maresch and C. Barnes. Paderborn 2003. (Pap.Colon. XXX). Nos. 1—18.
+
+### P.Dryton
+= _The Bilingual Family Archive of Dryton, his Wife Apollonia and their Daughter Senmouthis_, ed. K. Vandorpe. Brussels 2002. (Coll.Hellen. 4). Nos. 1—58. Nos. 1—50 are papyri; nos. 51—58 ostraca. Nos. 1, 21 and 29 are Greek with a Demotic note on the verso; nos. 2—4, 11,16, 17, 19, 22, 25, 30—34, 36, 37—44, 46—48, 56 and 57 are Greek; nos. 5, 6, 8—10, 12—15, 18, 20, 21, 23, 24, 26—29, 35, 43 appendix, 45, 49, 51—55, and 58 are Demotic. No. 7 is a notice of an unpublished Demotic text.
+
+### P.Dubl.
+= _Greek Papyri from Dublin,_ ed. B.C. McGing. Bonn 1995. (Pap.Texte Abh. XLII). Nos. 1—34. [RH]
+
+### P.Dura
+= _The Excavations at Dura-Europos conducted by Yale University and the French Academy of Inscriptions and Letters, Final Report V, Part I, The Parchments and Papyri_, ed. C.B. Welles, R.O. Fink, and J.F. Gilliam. New Haven 1959. Nos. 1—155 (no. 1—11 are literary or subliterary; nos. 3, 10—24, 28, 33, 35—38, 47—50, 109—112, 119, 149, 152—154 are parchment; no. 53 is a waxed tablet and no. 131 is leather). Greek, nos. 1—10, 12—25, 29, 31—53, 123, 126—127, 129, 132, 137, 140—141, 144, 146—150; Latin, nos. 54, 56—65, 67—122, 124—125, 130—131, 133—136, 138, 142—143, 145; Greek and Latin, nos. 26, 30, 55, 66, 128, 139; Greek and Aramaic, no. 27; Greek and Syriac, no. 28; Hebrew, no. 11; Aramaic, nos. 151, 152; Parthian, no. 153; Persian, nos. 154, 155. [MF 1.62]
