@@ -1650,7 +1650,7 @@ A number of these texts had been published in translation in PSI IX 1001—1010A
 ### P.Zen.Pestm.
 = Greek and Demotic Texts from the Zenon Archive, ed. under the general direction of P.W. Pestman. Leiden 1980. (Pap.Lug.Bat. XX). Nos. 1—13 are bilingual Greek and Demotic papyri; nos. 14—76 Greek papyri. Appendix nos. A—F. [EJB]
 
-SB
+### SB
 = Sammelbuch griechischer Urkunden aus Aegypten. (A collection of documentary papyri, ostraca, inscriptions, mummy tablets and related texts published in journals or unindexed catalogues. Begun by F. Preisigke in 1915, continued by F. Bilabel, E. Kiessling, and H.-A. Rupprecht). In progress.
 
  * I, Strassburg and Berlin 1913—1915. Nos. 1—6000. [MF 1.33; rp. WdG]
