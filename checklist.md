@@ -1304,9 +1304,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
 ### P.Pommersf.
 = _Ein frühbyzantinisches Szenario für die Amtswechslung in der Sitonie: die griechischen Papyri aus Pommersfelden (PPG), mit einem Anhang über die Pommersfeldener Digestenfragmente und die Überlieferungsgeschichte der Digesten_, ed. A.J.B. Sirks, P.J. Sijpesteijn and K.A. Worp. Munich 1996. (Münch.Beitr. 86). [Beck]
-P.Prag.
 
-### = _Papyri Graecae Wessely Pragenses_, ed. R. Pintaudi, R. Dostálová and L. Vidman. Firenze. [LGF]. See also P.Prag.Varcl.
+### P.Prag.
+= _Papyri Graecae Wessely Pragenses_, ed. R. Pintaudi, R. Dostálová and L. Vidman. Firenze. [LGF]. See also P.Prag.Varcl.
 
  * I, 1988. (Pap.Flor. XVI). Nos. 1—117.
  * II, 1995. (Pap.Flor. XXVI). Nos. 118—205.
