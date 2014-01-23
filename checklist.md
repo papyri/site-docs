@@ -625,3 +625,66 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 
 ### P.FuadUniv. (or P.FuadCrawford)
 = _Fuad I University Papyri_, ed. D.S. Crawford. Alexandria 1949. (Publ.Soc.Fouad VIII). Nos. 1—43. See under P.Grad. for further information on these papyri. [MF 2.95; rp.CG]
+
+### P.Gebelen
+= _Die demotischen Gebelen-Urkunden der Heidelberger Papyrus-Sammlung_, ed. U. Kaplony-Heckel. Heidelberg 1963. (Pap.Heid. N.F. IV). Nos. 1—42. No. 8 = P.Ackerpacht. 18; no. 9 = P.Ackerpacht 10. [CWV]
+
+### P.Gen.
+= _Les Papyrus de Genève_.
+
+ * I, ed. J. Nicole. Geneva 1896—1906. Nos. 1—81. [MF 2.47; rp. AMH 1967]. Outside this numeration, Nicole published other papyri in Textes grecs inédits de la Collection papyrologique de Genève (Geneva 1909), nos. I—VI; the documentary texts IV and V are reprinted as SB I 15—17 (15 republished with additions as BGU XIII 2216) and SB I 1, respectively.
+ * I, 2nd ed., ed. P.Schubert and I. Jornot with contributions by C. Wick. Geneva 2002. Nos. 1-10, 12-44, 66-78 and 80-81 of the 1st edition are reedited here. The other texts are of the Abinnaeus Archive and have already been reedited in P.Abinn. [Bibliothèque Publique et Universitaire]
+ * II, ed. Cl. Wehrli. Geneva 1986. Nos. 82—117. [Bibliothèque Publique et Universitaire]
+ * III, ed. P. Schubert. Geneva 1996. Nos. 118—146. [Bibliothèque Publique et Universitaire]
+ * IV, ed. S. Gaffino Moeri, S. Gällnö, N. Poget, P. Schubert, and others. Geneva 2010. Nos. 147—205; nos. 147—160 literary / sub-literarary; nos. 161—205 documentary; no. 189 Greek-Coptic bilingual.
+
+### P.Genova
+= _Papiri dell'Università di Genova_.
+
+ * I, ed. M. Amelotti and L. Zingale Migliardi. Milan 1974. (Univ. di Genova, Fondazione Nobile Agostino Poggi 10). Nos. 1—50. [AG]
+ * II, ed. L. Migliardi Zingale. Florence 1980. (Pap.Flor. VI). Nos. 51—85 papyri; nos. 86—90 ostraca. [LGF]
+ * III, ed. L. Migliardi Zingale. Florence 1991. (Pap.Flor. XX). Nos. 91—130. [LGF]
+
+### P.Giss.
+= _Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen_, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910); Pt. II, nos. 36—57 (1910); Pt. III, nos. 58—126 (1912). [Rp. CG]
+
+### P.Giss.Apoll.
+= _Briefe des Apollonios-Archives aus der Sammlung Papyri Gissenses_, ed. M. Kortus. Giessen 1999. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 49). Nos. 1-43.
+
+### P.Giss.Lit.
+= _Die Giessener literarischen Papyri und die Caracalla-Erlasse_, ed. P.A. Kuhlmann. Giessen 1994. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 46). This volume includes a reedition of P.Giss. 40.
+
+### P.Giss.Univ.
+= _Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek_. Giessen.
+
+ * I, Griechische Papyrusurkunden aus ptolemäischer und römischer Zeit, ed. H. Kling. 1924. (Schriften der hessischen Hochschulen, Universität Giessen 1924, 4). Nos. 1—16. [MF 2.20; rp. CG]
+ * II, Ein Bruchstück des Origenes über Genesis I, 28, ed. P. Glaue. 1928. (Schriften 1928, 1). No. 17. [MF 2.21; rp. CG]
+ * III, Griechische Privatbriefe, ed. H. Büttner. 1931. (Schriften 1931, 3). Nos. 18—33. [MF 2.22; rp. CG]
+ * IV, Literarische Stücke, ed. H. Eberhart. 1935. (Schriften 1935, 2). Nos. 34—45. [MF 2.23; rp. CG]
+ * V, Alexandrinische Geronten vor Kaiser Gaius: Ein neues Bruchstuck der sogenannten Alexandrinischen Martyrer-Akten, ed. A. von Premerstein. 1939. (Schriften der Ludwigs-Universität zu Giessen, Jg. 1936). No. 46. [MF 2.24; rp. CG]
+ * VI, Griechische Verwaltungsurkunden von Tebtynis aus dem Anfang des dritten Jahrhunderts n. Chr., ed. G. Rosenberger. 1939. Nos. 47—53. [MF 2.25; rp. CG]
+ * Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ. Giss.), by K.A. Worp. 1975. (KurzberichteGiessen 35). [MF 2.26]
+
+### P.Got.
+= _Papyrus grecs de la Bibliothèque municipale de Gothembourg_, ed. H. Frisk. Gothenburg 1929. (Göteborgs Högskolas Årsskrift 35 [1929] pt. 1). Nos. 1—21; nos. 22—114 descripta. [Rp. CG]
+
+### P.Grad.
+= _Griechische Papyri der Sammlung Gradenwitz_, ed. G. Plaumann. Heidelberg 1914. (SBHeidelberg 1914, Abh. 15). Nos. 1—19; 17 and 18 are descripta. Texts 1—3, 5—16 and 19 reprinted as SB III 6275—6290; no 4 is SB I 5680. Further on the collection see ZPE 128 (1999) 153—160 and 134 (2001) 163-178, where D. Hagedorn and K.A. Worp provide information on the widely dispersed Gradenwitz collection, with a concordance for inventory numbers and published pieces. [MF 2.19; rp. CG]
+
+### P. Graux
+
+* I, Nos. 1 and 2, ed. H. Henne in BIFAO 21 (1923) 189ff; nos. 3—8, ed. H. Henne in BIFAO 27 (1927) 1ff.; all reprinted as SB IV 7461—7468.
+* II, Papyrus Graux II, ed. H. Cuvigny. Geneva 1995. (Hautes Études du Monde Gréco-Romain 19). Nos. 9—29. [Droz]
+* III, Papyrus Graux III (P.Graux 30), ed. S. Kambitsis. Geneva 1997. (Hautes Études du Monde Gréco-Romain 23). No. 30. [Droz]
+* IV, Papyrus Graux IV (P.Graux 31), ed. S. Kambitsis. Geneva 2004. (Hautes Études du Monde Gréco–Romain 34). No. 31. [Droz]
+
+### P.Grenf.
+
+ * I, An Alexandrian Erotic Fragment and other Greek Papyri chiefly Ptolemaic, ed. B.P. Grenfell. Oxford 1896. Nos. 1—70. [MF 2.105; rp. CG]
+ * II, New Classical Fragments and Other Greek and Latin Papyri, ed. B.P. Grenfell and A.S. Hunt. Oxford 1897. Nos. 1—113. [MF 2.110; rp. CG]
+
+### P.Gron.
+= _Papyri Groninganae; Griechische Papyri der Universitätsbibliothek zu Groningen nebst zwei Papyri der Universitätsbibliothek zu Amsterdam_, ed. A.G. Roos. Amsterdam 1933. (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, Nieuwe Reeks 32, no. 4). Nos. 1—22. The two Amsterdam papyri at the end should be cited as P.Gron.Amst. 1—2; no. 1 is republished at SB XXIV 15970. See also another Amsterdam University Library text at SB XII 11229. [Rp. CG]
+
+### P.Gur.
+= _Greek Papyri from Gurob_, ed. J.G. Smyly. Dublin 1921. (Royal Irish Academy, Cunningham Memoirs 12). Nos. 1—29. [MF 1.53]
