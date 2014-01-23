@@ -9,8 +9,11 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### BGU
  = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin.
+
  * I, 1895. Nos. 1—361. [MF 1.1; rp. CG]
+
  * II, 1898. Nos. 362—696. [MF 1.2; rp. CG]
+
  * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG]
  * IV, 1912. Nos. 1013—1209. [MF 1.4; rp. CG]
  * V, Der Gnomon des Idios Logos. Erster Teil: Der Text, ed. W. Schubart. 1919. Zweiter Teil: Der Kommentar, by W. Graf von Uxkull-Gyllenband. 1934. No. 1210. [MF 1.5; rp. CG]
