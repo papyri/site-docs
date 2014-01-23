@@ -1106,3 +1106,236 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
 ### P.Murabba'ât
 = _Les grottes de Murabba'ât_, ed. P. Benoit, J.T. Milik and R. de Vaux. Oxford 1961. (Discoveries in the Judaean Desert of Jordan 2). Nos. 89—157 are Greek, 158—159 Latin. Texts nos. 89—91, 94, 114—117 reprinted as SB X 10300—10307. Separate volume of plates. [OUP]
+
+### P.NagHamm.
+= _Nag Hammadi Codices. Greek and Coptic Papyri from the Cartonnage of the Covers_, ed. J.W.B. Barns, G.M. Browne and J.C. Shelton. Leiden 1981. (Nag Hammadi Studies XVI). Nos. 1—153 (Greek), C1—C19 (Coptic). [EJB]
+
+### P.Naqlun
+= _Deir El-Naqlun: The Greek Papyri_.
+
+ * I, ed. T. Derda. Warsaw 1995. Nos. 1—12 papyri, nos. 13—14 inscriptions on amphorae. Plates in separate vol. [Wydawnictwa Uniwersytetu Warszawskiego]
+ * II, ed. T. Derda, with J. Urbanik and J. van der Vliet. Warsaw 2008. (JJurPap supplement 9) Nos. 15—34; nos. 15—20 literary; nos. 21—34 documentary.
+
+### P.Neph.
+= _Das Archiv des Nepheros und verwandte Texte_, ed. B. Kramer, J.C. Shelton and G.M. Browne. Mainz 1987. (Aegypt.Trev. IV). Part I, Das Archiv des Nepheros, nos. 1—14, 17—42 Greek, nos. 15—16 Coptic. Part II, Verwandte Texte aus der Heidelberger Papyrussammlung, nos. 43—49 Greek. [PvZ]
+
+### P.Ness.
+= _Excavations at Nessana_.
+
+ * I, Introductory volume, ed. H.D. Colt. Pp. 259—262 contain a summary by P. Mayerson of Nessana papyri relating to agriculture. London 1962.
+ * II, Literary Papyri, ed. L. Casson and E.L. Hettich. Princeton 1950. Nos. 1—13. [PUP]
+ * III, Non-Literary Papyri, ed. C.J. Kraemer, Jr. Princeton 1958. Nos. 14—195. [PUP]
+
+### P.NYU
+= _Greek Papyri in the Collection of New York University_.
+
+ * I, Fourth Century Documents from Karanis, ed. N. Lewis. Leiden 1967. (New York Univ., Department of Classics, Monographs on Mediterranean Antiquity I). Nos. 1—25. [NYU or EJB]
+ * II, Papyri from the New York University Collection II, ed. B. Nielson and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; ZPE 136 (2001) 125—144: II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53. For the indices see www.papy.uni-hd.de/WL/PNYU\_II\_Indices.pdf]
+
+### P.Oslo
+= _Papyri Osloenses_. Oslo.
+
+ * I, Magical Papyri, ed. S. Eitrem. 1925. Nos. 1—6. [o.p.]
+ * II, ed. S. Eitrem and L. Amundsen. 1931. Nos. 7—64. [o.p.]
+ * III, ed. S. Eitrem and L. Amundsen. 1936. Nos. 65—200. [UF]
+
+### P.Oxf.
+= _Some Oxford Papyri_, ed. E.P. Wegener. Leiden 1942 (text), 1948 (plates). (Pap.Lugd.Bat. IIIA and IIIB). Nos. 1—19. [MF 2.57]
+
+### P.Oxf.Griffith
+= _L'Archivio demotico del tempio di Soknopaiu Nesos nel Griffith Institute di Oxford_, ed. E. Bresciani. Milan 1975. (Testi e documenti per lo studio dell'antichità 49). Nos. 13—75 are documents.
+
+### P.Oxy.
+= _The Oxyrhynchus Papyri_. Published by the Egypt Exploration Society in Graeco-Roman Memoirs. London. The number in parentheses at the end of each entry is the number in this series. Earlier vols. carry the heading of Egypt Exploration Fund, Graeco-Roman Branch; even after the title change numbers were not assigned to the volumes until the 1950s. The system followed here is that adopted retroactively by the EES. [all vols. EES]
+
+ * I, Nos. 1—207, ed. B.P. Grenfell and A.S. Hunt. 1898. (1). Cf. P.Oxy.Descr.
+ * II, Nos. 208—400, ed. B.P. Grenfell and A.S. Hunt. 1899. (2)
+ * III, Nos. 401—653, ed. B.P. Grenfell and A.S. Hunt. 1903. (5)
+ * IV, Nos. 654—839, ed. B.P. Grenfell and A.S. Hunt. 1904. (6)
+ * V, Nos. 840—844, ed. B.P. Grenfell and A.S. Hunt. 1908. (8)
+ * VI, Nos. 845—1006, ed. B.P. Grenfell and A.S. Hunt. 1908. (9) No. 984 reedited as P.Oxy.Census.
+ * VII, Nos. 1007—1072, ed. A.S. Hunt. 1910. (10)
+ * VIII, Nos. 1073—1165, ed. A.S. Hunt. 1911. (11)
+ * IX, Nos. 1166—1223, ed. A.S. Hunt. 1912. (12)
+ * X, Nos. 1224—1350, ed. B.P. Grenfell and A.S. Hunt. 1914. (13)'
+ * XI, Nos. 1351—1404, ed. B.P. Grenfell and A.S. Hunt. 1915. (14)
+ * XII, Nos. 1405—1593, ed. B.P. Grenfell and A.S. Hunt. 1916. (15)
+ * XIII, Nos. 1594—1625, ed. B.P. Grenfell and A.S. Hunt. 1919. (16)
+ * XIV, Nos. 1626—1777, ed. B.P. Grenfell and A.S. Hunt. 1920. (17)
+ * XV, Nos. 1778—1828, ed. B.P. Grenfell and A.S. Hunt. 1922. (18)
+ * XVI, Nos. 1829—2063, ed. B.P. Grenfell, A.S. Hunt, and H.I. Bell. 1924. (19)
+ * No. 2064 was published in Two Theocritus Papyri, ed. A.S. Hunt and J. Johnson. London 1930. (22)
+ * XVII, Nos. 2065—2156, ed. A.S. Hunt. 1927. (20)
+ * XVIII, Nos. 2157—2207, ed. E. Lobel, C.H. Roberts and E.P. Wegener. 1941. (26)
+ * XIX, Nos. 2208—2244, ed. E. Lobel, E.P. Wegener, C.H. Roberts and H.I. Bell. 1948. (27)
+ * XX, Nos. 2245—2287, ed. E. Lobel, E.P. Wegener, C.H. Roberts. 1952. (29)
+ * XXI, Nos. 2288—2308, ed. E. Lobel. 1951. (30)
+ * XXII, Nos. 2309—2353, ed. E. Lobel and C.H. Roberts. 1954. (31)
+ * XXIII, Nos. 2354—2382, ed. E. Lobel. 1956. (34)
+ * XXIV, Nos. 2383—2425, ed. E. Lobel, C.H. Roberts, E.G. Turner and J.W.B. Barns. 1957. (35)
+ * XXV, Nos. 2426—2437, ed. E. Lobel and E.G. Turner. 1959. (36)
+ * XXVI, Nos. 2438—2451, ed. E. Lobel. 1961. (38)
+ * XXVII, Nos. 2452—2480, ed. E.G. Turner, J.R. Rea, L. Koenen, and J.M.F. Pomar. 1962. (39)
+ * XXVIII, Nos. 2481—2505, ed. E. Lobel. 1962. (40)
+ * XXIX, No. 2506, ed. D. Page. 1963. (41)
+ * XXX, Nos. 2507—2530, ed. E. Lobel. 1964. (44)
+ * XXXI, Nos. 2531—2616, ed. J.W.B. Barns, P.J. Parsons, J.R. Rea and E.G. Turner. 1966. (45)
+ * XXXII, Nos. 2617—2653, ed. E. Lobel. 1967. (46)
+ * XXXIII, Nos. 2654—2682, ed. P.J. Parsons, J.R. Rea and E.G. Turner. 1968. (48)
+ * XXXIV, Nos. 2683—2732, ed. L. Ingrams, P. Kingston, P.J. Parsons and J.R. Rea. 1968. (49)
+ * XXXV, Nos. 2733—2744, ed. E. Lobel. 1968. (50)
+ * XXXVI, Nos. 2745—2800, ed. R.A. Coles, D. Foraboschi, A.H. Soliman el-Mosallamy, J.R. Rea, U. Schlag and others. 1970. (51)
+ * XXXVII, Nos. 2801—2823, ed. E. Lobel. 1971. (53)
+ * XXXVIII, Nos. 2824—2877, ed. G.M. Browne, J.D. Thomas, E.G. Turner, M.E. Weinstein and others. 1971. (54)
+ * XXXIX, Nos. 2878—2891, ed. E. Lobel. 1972. (55)
+ * XL, Nos. 2892—2942, ed. J.R. Rea. 1972. (56)
+ * XLI, Nos. 2943—2998, ed. G.M. Browne, R.A. Coles, J.R. Rea, J.C. Shelton, E.G. Turner and others. 1972. (57)
+ * XLII, Nos. 2999—3087, ed. P.J. Parsons. 1974. (58)
+ * XLIII, Nos. 3088—3150, ed. J.R. Rea and others. 1975. (60)
+ * XLIV, Nos. 3151—3208, ed. A.K. Bowman, M.W. Haslam, J.C. Shelton and J.D. Thomas. 1976. (62)
+ * XLV, Nos. 3209—3266, ed. A.K. Bowman, M.W. Haslam, S.A. Stephens, M.L. West and others. 1977. (63)
+ * XLVI, Nos. 3267—3315, ed. J.R. Rea. 1978. (65)
+ * XLVII, Nos. 3316—3367, ed. R.A. Coles and M.W. Haslam, with contributions from 8 others. 1980. (66)
+ * XLVIII, Nos. 3368—3430, ed. M. Chambers, W.E.H. Cockle, J.C. Shelton and E.G. Turner. 1981. (67)
+ * XLIX, Nos. 3431—3521, ed. A. Bülow-Jacobsen and J.E.G. Whitehorne. 1982. (69)
+ * L, Nos. 3522—3600, ed. various editors. 1983. (70)
+ * LI, Nos. 3601—3646, ed. J.R. Rea. 1984. (71)
+ * LII, Nos. 3647—3694, ed. H.M. Cockle. 1984. (72)
+ * LIII, Nos. 3695—3721, ed. M.W. Haslam. 1986. (73)
+ * LIV, Nos. 3722—3776, ed. R.A. Coles, H. Maehler, P.J. Parsons, with contributions from J.M. Bremer and R.J.D. Carden. 1987. (74)
+ * LV, Nos. 3777—3821, ed. J.R. Rea. 1988. (75)
+ * LVI, Nos. 3822—3875, ed. M.G. Sirivianou, with contributions by H.-C. Gunther, P.J. Parsons, P. Schubert and others. 1989. (76)
+ * LVII, Nos. 3876—3914, ed. M.W. Haslam, H. El-Maghrabi and J.D. Thomas. 1990. (77)
+ * LVIII, Nos. 3915—3962, ed. J.R. Rea. 1991. (78)
+ * LIX, Nos. 3963—4008, ed. E.W. Handley, H.G. Ioannidou, P.J. Parsons and J.E.G. Whitehorne. 1992. (79)
+ * LX, Nos. 4009—4092, ed. R.A. Coles, M.W. Haslam, P.J. Parsons and others. 1994. (80)
+ * LXI, Nos. 4093—4132, ed. T. Gagos, M.W. Haslam and N. Lewis. 1995. (81). There is a list of astronomical texts, nos. 4133—4300, now published in P.Oxy.Astr.
+ * LXII, Nos. 4301—4351, ed. J.C. Shelton and J.E.G. Whitehorne. 1995. (82)
+ * LXIII, Nos. 4352—4400, ed. J. Rea. 1996. (83)
+ * LXIV, Nos. 4401—4441, ed. E.W. Handley and U. Wartenberg. 1997. (84)
+ * LXV, Nos. 4442—4493, ed. M.W. Haslam, A. Jones, F. Maltomini, M.L. West, W.E.H. Cockle, R.A. Coles, D. Montserrat and J.D. Thomas with contributions by 11 others. 1998. (85)
+ * LXVI, Nos. 4494—4544, ed. N. Gonis, J. Chapa, W.E.H. Cockle, D. Obbink, P.J. Parsons and J.D. Thomas with contributions by 8 others. 1999. (86)
+ * LXVII, Nos. 4545—4629, ed. R. A. Coles, N. Gonis, A. Nodar, D. Obbink, R. Stewart with contributions by 45 others. 2001. (87) There is a list of Homeric papyri, nos. 4630—4638, now published as Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. Florence 2002. (Studi e Testi di Papirologia, N. S. 1).
+ * LXVIII, Nos. 4639—4704, ed. N. Gonis, D. Obbink and P. J. Parsons with contributions by 15 others. 2003. (88)
+ * LXIX, Nos. 4705-4758, ed. N. Gonis, D. Obbink, and others. 2005. (89)
+ * LXX, Nos. 4759-4802, ed. N. Gonis, J. D. Thomas, and R. Hatzilambrou. 2006. (90)
+ * LXXI, Nos. 4803-4843, ed. R. Hatzilambrou, P.J. Parsons, J. Chapa, and others. 2007. (91)
+ * LXXII, Nos. 4844-4930, ed. N. Gonis, D. Colomo, and others. 2008. (92)
+ * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94)
+ * LXXIV, Nos. 4968—5019, ed. D. Leith and others.. (95)
+ * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary.
+
+### P.Oxy.Astr.
+= _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
+
+### P.Oxy.Census
+= _The Census Register P.Oxy. 984: The Reverse of Pindar's Paeans_, ed. R.S. Bagnall, B.W. Frier and I.C. Rutherford. Brussels 1997. (Pap.Brux. XXIX). [FERE]
+
+### P.Oxy.Descr.
+= "Varia Descripta Oxyrhynchita," ed. D. Montserrat, G. Fantoni, P. Robinson. BASP 31 (1994) 11—80 and plates 1—18. Nos. 1—20, reeditions of papyri published as descripta, P.Oxy. I 159, 164—165, 167, 171, 174, 176—177, 179, 181—182, 186, 192, 201—202, 204—207.
+
+### P.Oxy.Hels.
+= _Fifty Oxyrhynchus Papyri_, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio and M. Kaimio. Helsinki 1979. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 63). Nos. 1—50. [AB]
+
+### P.PalauRib.
+= _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.]
+
+### P.PalauRib.Lit.
+= _Papiros literarios griegos dei fondo Palau-Ribes_, ed. J. O'Callaghan. Barcelona 1993. (Estud.Pap. 3). Nos. 1—40. [Sem.Pap.Barc.]
+
+### P.Pa-Month
+= _Der Totenpapyrus des Pa-Month (P. Bibl. nat. 149)_, ed. M. A. Stadler. Wiesbaden 2003. (Studien zum Altägyptischen Totenbuch 6).
+
+### P.Panop.
+= _Urkunden aus Panopolis_, ed. L.C. Youtie, D. Hagedorn, H.C. Youtie. Bonn 1980. Nos. 1—31. Reprint without plates of original publication in three articles in ZPE 7 (1971) 1—40; 8 (1971) 207—234; and 10 (1973) 101—170, from which texts reprinted as SB XII 10968—10981, 10992—10996, 11213—11224. [RH]
+
+### P.Panop.Beatty
+= _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF]
+
+### P.Paramone
+= _Editionen und Aufsätze von Mitgleidern des heidelberger Instituts für Papyrologie zwischen 1982 und 2004_, ed. J. M. S. Cowey and B. Kramer. (Archiv Beih. 16) 19 texts are published; nos. 1–18 are Greek and 19 is Coptic. Munich and Leipzig 2004. [KGS]
+
+### P.Paris
+= _Notices et textes des papyrus du Musée du Louvre et de la Bibliothèque Impériale_, ed. J.A. Letronne, W. Brunet de Presle and E. Egger. Paris 1865. (Notices et extraits des manuscrits de la Bibliothèque Impériale et autres bibliothèques 18.2). Separate volume of plates. Papyri nos. 1—71, mostly republished in UPZ; ostraca nos. 1—13, mostly republished in WO II; 8 mummy labels. [MF 2.66 (text only); rp. CG (text only)]
+
+### P.Petaus
+= _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS]
+
+### P.Petersb.
+= _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in P.Ross.Georg.; cf. SB II p. 61.
+
+### P.Petr.
+= _The Flinders Petrie Papyri_. Dublin. (Royal Irish Academy, Cunningham Memoirs).
+
+ * I, ed. J.P. Mahaffy. 1891. (Memoirs VIII), and pt. II, plates. Nos. 1—30. [MF 1.29; rp. CG]
+ * II, ed. J.P. Mahaffy. 1893. (Memoirs IX), and plates. Nos. 1—50. [MF 1.30; rp. CG]
+ * III, ed. J.P. Mahaffy and J.G. Smyly. 1905. (Memoirs XI), and plates. Nos. 1—146. There are notices of Demotic material at no. 59(c) on p. 175; at no. 69(b) on p. 195 and at no. 110 on p. 275. [MF 1.31]
+
+### P.Petr.2 I
+= _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31.
+
+### P.Petra
+= _The Petra Papyri_
+
+ * I, ed. J. Frösén, A. Arjava and M. Lehtinen with contributions by Z.T. Fiema, C.A. Kuehn, T. Purola, T. Rankinen, M. Vesterinen and M. Vierros. Amman 2002. (American Center of Oriental Research Publications 4). Nos. 1—16.
+ * III, ed. A. Arjava, M. Buchholz, and T. Gagos. Amman 2007. (American Center of Oriental Research Publications 5). Nos. 18-36.
+
+### P.Petrettini
+= _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114).
+
+### P.Pher.
+= _Eine Steuerliste aus Pheretnuis_, ed. P.J. Sijpesteijn and K.A. Worp. Amsterdam 1993. (Stud.Amst. XXXIII). [JCG]
+
+### P.Phil.
+= _Papyrus de Philadelphie_, ed. J. Scherer. Cairo 1947. (Publ.Soc.Fouad VII). Nos. 1—35. [MF 2.94]
+
+### P.PisaLit.
+= _Papiri letterari greci_, ed. A. Carlini et al. Pisa 1978. (Biblioteca degli studi classici e orientali). Nos. 1—38. 
+
+### P.Pisentius
+= "Textes coptes. Extraits de la correspondence de St. Pésunthius, évêque de Coptos, et de plusieurs documents analogues (juridiques et économiques)," ed. E. Revillout in three issues of the RevÉgypt 9 (1900) 133—177; 10 (1902) 34—47; and 14 (1914) 22—32. Republication of some texts: 64 = BKU I 78; 65 = P.KRU 115; 67 = BKU I 48; 72 = P.KRU 109; 73 = P.KRU 111; and 83 = P.KRU 40.
+
+### P.Poethke
+= _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40.
+
+### P.Polit.Jud.
+= _Urkunden des Politeuma der Juden von Herakleopolis (144/3 ‚ 133/2 v. Chr.)_, ed. K. Maresch and J.M.S. Cowey. Wiesbaden 2001. (Pap.Colon. XXIX). Nos. 1-20. [FS]
+
+### P.Pommersf.
+= _Ein frühbyzantinisches Szenario für die Amtswechslung in der Sitonie: die griechischen Papyri aus Pommersfelden (PPG), mit einem Anhang über die Pommersfeldener Digestenfragmente und die Überlieferungsgeschichte der Digesten_, ed. A.J.B. Sirks, P.J. Sijpesteijn and K.A. Worp. Munich 1996. (Münch.Beitr. 86). [Beck]
+P.Prag.
+
+### = _Papyri Graecae Wessely Pragenses_, ed. R. Pintaudi, R. Dostálová and L. Vidman. Firenze. [LGF]. See also P.Prag.Varcl.
+
+ * I, 1988. (Pap.Flor. XVI). Nos. 1—117.
+ * II, 1995. (Pap.Flor. XXVI). Nos. 118—205.
+
+### P.Prag.Satzung.
+= _Die Satzungen einer ägyptischen Kultgenossenschaft aus der Ptolemäerzeit nach einem demotischen Papyrus in Prag_, ed. W. Erichsen. Copenhagen 1959. (Det Kongelige Danske Videnskabernes Selskab. Historisk-filosofiske Skrifter 4.1).
+
+### P.Prag.Varcl
+= _Papyri Wessely Pragenses_, ed. L. Varcl, in Listy Filologické (texts, translations, notes, but no indexes). [Before 1988 known as P.Prag.] [MF 2.70]
+
+ * I, nos. 1—13, LF 70 (1946) 273—286 (SB VI 9052—9064).
+ * nos. 14—25, LF 71 (1947) 177—185 (SB VI 9072—9083).
+ * II, nos. 1—3, LF (Suppl. Eunomia) 80 (1957) 16—31 and 56—80 (SB VI 9406—9408).
+ * nos. 4—8, LF (Eun.) 81 (1958) 6—27 (SB VI 9409).
+ * nos. 9—10, LF (Eun.) 81 (1958) 69—77 (SB VI 9409).
+ * nos. 11—17, LF (Eun.) 82 (1959) 3—18 (SB VI 9410).
+ * nos. 18—21, LF (Eun.) 82 (1959) 81—86 (SB VI 9411—9414).
+ * nos. 22—33, LF (Eun.) 83 (1960) 16—25 (SB VI 9415).
+ * nos. 34—39, LF (Eun.) 83 (1960) 50—55 (SB VI 9415).
+ * nos. 40—53, LF (Eun.) 84 (1961) 37—46 (SB VI 9415).
+
+### P.Princ.
+= _Papyri in the Princeton University Collections_.
+
+ * I, ed. A.C. Johnson and H.B. van Hoesen. Baltimore 1931. (The Johns Hopkins Univ. Studies in Archaeology X). Nos. 1—14. [MF 2.36; rp. CG]
+ * II, ed. E.H. Kase, Jr. Princeton 1936. (Princ.Stud.Pap. I). Nos. 15—107. The Coptic verso of no. 84 has been published in ZPE 96 (1993) 227—229 (L.S.B. MacCoull). [MF 2.37; rp. CG]
+ * III, ed. A.C. Johnson and S.P. Goodrich. Princeton 1942. (Princ.Stud.Pap. IV). Nos. 108—191. [MF 2.38; rp. CG]
+
+### P.Princ.Roll
+= _A Papyrus Roll in the Princeton Collection_, ed. E.H. Kase, Jr. Baltimore 1933. [MF 2.71] Text reprinted as SB V 7621. A new edition by R.S. Bagnall and K.A. Worp in Archiv 30 (1984) 53—82.
+
+### P.Princ.Scheide (Princ.Stud.Pap. III).
+
