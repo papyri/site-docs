@@ -1427,13 +1427,13 @@ P.Prag.
 = "Koptische Schutzbriefe," ed. W. Till (with an historical-legal study by H. Liebesny). MDAI (Kairo) 8 (1938) 71—127. Nos. 1—103. Nos. 2—3, 12—13, 17, 56, 59, 68, 77, 84—86, 92, 95, 97, 99—101 are papyri. The rest are ostraca. No. 84 is reedited as P.Bal. 188.
 
 ### P.Select.
-= Papyri Selectae, ed. E. Boswinkel, P.W. Pestman and P.J. Sijpesteijn. Leiden 1965. (Pap.Lugd.Bat. XIII). Nos. 1—24 papyri; no. 25 mummy labels (i—ii) and ostraca (iii—vi). [EJB]
+= _Papyri Selectae_, ed. E. Boswinkel, P.W. Pestman and P.J. Sijpesteijn. Leiden 1965. (Pap.Lugd.Bat. XIII). Nos. 1—24 papyri; no. 25 mummy labels (i—ii) and ostraca (iii—vi). [EJB]
 
 ### P.Sel.Warga
-= Select Papyri, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279]
+= _Select Papyri_, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279]
 
 ### PSI
-= Papiri greci e latini. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502.
+= _Papiri greci e latini_. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502.
 
  * I, 1912. Nos. 1—112. [MF 1.65; rp. Bd'E]
  * II, 1913. Nos. 113—156. [MF 1.66; rp. Bd'E]
@@ -1452,40 +1452,40 @@ P.Prag.
  * XV, ed. †V. Bartoletti, G. Bastianini, G. Messeri, F. Montanari, R. Pintaudi. 2008. Nos. 1453—1574. Nos. 1453—1468 previously published by V. Bartoletti and M. Manfredi in PSI XV, fasc. 1, 1979 (all literary); nos. 1478—1479, 1484, 1489, 1508, 1513—1515, 1522, 1526, 1528, 1531, 1532, 1536—1538, 1540, 1543, 1544, 1546, 1556, 1557, 1561—1566 and 1569 previously published in PSI XV Estr or in SB XII.
  
 ### PSI XV Estr.
-= Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I., ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
+= _Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I._, ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
 
 ### PSI Com.
-= Papiri della Società Italiana alla Scuola Normale Superiore di Pisa, ed G. Bastianini, M. S. Funghi and G. Messeri. Florence 2005. (ComunicazioniVitelli 6). Nos. 1—20.
+= _Papiri della Società Italiana alla Scuola Normale Superiore di Pisa_, ed G. Bastianini, M. S. Funghi and G. Messeri. Florence 2005. (ComunicazioniVitelli 6). Nos. 1—20.
 
 ### PSI Congr.XI
-= Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia. Florence 1965. Nos. 1—14.
+= _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
 
 ### PSI Congr.XVII
-= Trenta testi greci da papiri letterari e documentari editi in occasione del XVII Congresso Internazionale di Papirologia. Florence 1983. Nos. 1—30.
+= _Trenta testi greci da papiri letterari e documentari editi in occasione del XVII Congresso Internazionale di Papirologia_. Florence 1983. Nos. 1—30.
 
 ### PSI Congr.XX
-= Dai papiri della Società Italiana: Omaggio al XX Congresso Internazionale di Papirologia. Florence 1992. Nos. 1—20.
+= _Dai papiri della Società Italiana: Omaggio al XX Congresso Internazionale di Papirologia_. Florence 1992. Nos. 1—20.
 
 ### PSI Congr.XXI
-= Dai papiri della Società Italiana: Omaggio al XXI Congresso Internazionale di Papirologia. Florence 1995. Nos. 1—19.
+= _Dai papiri della Società Italiana: Omaggio al XXI Congresso Internazionale di Papirologia_. Florence 1995. Nos. 1—19.
 
 ### PSI Corr. I
-= Correzioni e riedizioni di papiri della Società Italiana I, ed. M. Manfredi. Florence 1977. A reedition of PSI 240, 835, 1148, 1150, 1156 and 1244.
+= _Correzioni e riedizioni di papiri della Società Italiana I_, ed. M. Manfredi. Florence 1977. A reedition of PSI 240, 835, 1148, 1150, 1156 and 1244.
 
 ### PSI Il.
-= Papiri dell' Iliade, ed. M. Manfredi. Florence 2000. Nos. 1—24.
+= _Papiri dell' Iliade_, ed. M. Manfredi. Florence 2000. Nos. 1—24.
 
 ### PSI Od.
-= Papiri dell' Odissea. Seminario papirologico 1977—78, ed. M. Manfredi. Florence 1979. Nos. 1—14.
+= _Papiri dell' Odissea_. Seminario papirologico 1977—78, ed. M. Manfredi. Florence 1979. Nos. 1—14.
 
 ### P.Siegesfeier
-= Eine Neue Urkunde zu der Siegesfeier des Ptolemaios IV, ed. W. Spiegelberg. (SBMünchen 1926.2). Munich 1926.
+= _Eine Neue Urkunde zu der Siegesfeier des Ptolemaios IV_, ed. W. Spiegelberg. (SBMünchen 1926.2). Munich 1926.
 
 ### P.Sijp.
-= Papyri in Memory of P. J. Sijpesteijn, ed. A. J. B. Sirks and K. A. Worp. Oakville, Conn. 2007. (Am.Stud.Pap. 40). Nos. 1-61 (no. 38a-y are ostraka). [Oxbow]
+= _Papyri in Memory of P. J. Sijpesteijn_, ed. A. J. B. Sirks and K. A. Worp. Oakville, Conn. 2007. (Am.Stud.Pap. 40). Nos. 1-61 (no. 38a-y are ostraka). [Oxbow]
 
 ### P.Siut
-= A Family Archive from Siut, from Papyri in the British Museum Including an Account of a Trial Before the Laocritae in the Year B.C. 170, ed. H.F.H. Thompson. Oxford 1934. With a separate portfolio of plates. Inv. nos. 10575 and 10591-10600.
+= _A Family Archive from Siut, from Papyri in the British Museum Including an Account of a Trial Before the Laocritae in the Year B.C. 170_, ed. H.F.H. Thompson. Oxford 1934. With a separate portfolio of plates. Inv. nos. 10575 and 10591-10600.
 
 ### P.SlaveryDem.
 = Slavery in Pharaonic Egypt, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
