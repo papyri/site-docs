@@ -28,7 +28,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
  * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM]
  * XVII, Griechische Papyrusurkunden spätrömischer und byzantinischer Zeit aus Hermopolis Magna, ed. G. Poethke. Munich-Leipzig 2001. (Archiv Beih. 7) Nos. 2675-2730. [KGS]
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731-2759. [BAM]
- * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760-2839, mostly in Greek (2760 in Latin). [K.G. Saur]
+ * XIX, Urkunden aus Hermupolis, ed . H Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760-2839, mostly in Greek (2760 in Latin). [K.G. Saur]
  
  
 ### BKT
@@ -841,6 +841,7 @@ P.Hou
 
 ### P.Köln
 = _Kölner Papyri_.
+
  * I, ed. B. Kramer and R. Hübner. Opladen 1976. (Pap.Colon. VII/1). Nos. 1—57. [FS]
  * II, ed. B. Kramer and D. Hagedorn. Opladen 1978. (Pap.Colon. VII/2). Nos. 58—114 papyri; nos. 115—124 ostraca. [FS]
  * III, ed. B. Kramer, M. Erler, D. Hagedorn and R. Hübner. Opladen 1980. (Pap.Colon. VII/3). Nos. 125—166. [FS]
@@ -1339,3 +1340,177 @@ P.Prag.
 
 ### P.Princ.Scheide (Princ.Stud.Pap. III).
 
+### P.QasrIbrim
+= _Demotic Papyri and Ostraca from Qasr Ibrim_, ed. J. D. Ray. London 2005. Nos. 1–40. Nos. 1—11 are papyri, nos.12—40 are ostraca. All are Demotic. [EES]
+
+### P.QuelquesTextes
+= _Quelques textes démotiques archaïques_, trans. E. Revillout with facsimile drawings of 10 texts by E. Boudier. Paris 1895.
+
+### P.Quseir
+= "Papyri and Ostraka from Quseir al-Qadim," ed. R.S. Bagnall, in BASP 23 (1986) 1—60 and plates 1—27. Nos. 1—23 are papyri (3 Latin), 24—48 ostraca (3 Latin), 49—74 dipinti, 75 mummy labels, 76 inscriptions on mica. Texts reprinted as SB XX 14248—14277.
+
+### P.Rain.Cent.
+= _Festschrift zum 100-jährigen Bestehen der Papyrussammlung der Österreichischen Nationalbibliothek, Papyrus Erzherzog Rainer_. Vienna 1983. Nos. 1—166. Nos. 1—2 are hieroglyphic; 3—5 Demotic; 6—12 Coptic; 13 Pehlevi; 14—19 Hebrew; 20—162 Greek; nos. 163—166 Latin. All these texts are on papyrus. Separate volume of plates. [ÖNB]
+
+### P.Rain.Unterricht
+= _Neue Texte aus dem antiken Unterricht_, ed. H. Harrauer and P.J. Sijpesteijn. Vienna 1985. (MPER XV). Nos. 1—184. [ÖNB]
+
+### P.Rain.UnterrichtKopt.
+= _Neue Texte und Dokumentation zum Koptisch-Unterricht_, ed. M.R.M. Hasitzka. Vienna 1990. (MPER XVIII). Nos. 1—332. [ÖNB]
+
+### P.Recueil
+= _Recueil de textes démotiques et bilingues_, ed. P.W. Pestman with J. Quaegebeur and R.L. Vos. Leiden 1977. Part I, Transcriptions (and notes): nos. 1—3, 7—10, Demotic; 4—6 Demotic with Greek subscriptions (Greek republished as P.Brookl. 88—90); 11, a graffito, is an Egyptian text written in Greek letters; no. 12 a Greek inscription with some Egyptian words in Greek letters; 13 and 14 are Greek texts with Demotic subscriptions (no. 13 = P.Gen. I 32, no. 14 = Chrest.Wilck. 89); nos. 15—23 are mummy labels, (21 is Demotic, the others are bilingual). Part II, Traductions (and notes). Part III, Index et Planches. [EJB]
+
+### P.Rein.
+
+ * I, Papyrus grecs et démotiques recueillis en Égypte, ed. T. Reinach, W. Spiegelberg and S. de Ricci. Paris 1905. Nos. 1—58 Greek. There are 7 Demotic texts and one Greek literary ostracon ("A"). The Demotic texts and the Ptolemaic documents nos. 7—40 are reedited in P.Dion. [Rp. CG]
+ * II, Les Papyrus Théodore Reinach, ed. P. Collart. Cairo 1940. (BIFAO 39). Nos. 59—119 papyri; 120—143 ostraca. [MF 2.46]
+
+### P.Rev.
+= _Revenue Laws of Ptolemy Philadelphus_, ed. B.P. Grenfell. Oxford 1896. Reed. J. Bingen in SB Beiheft 1, 1952. [MF 1.51; Bh. MF 2.75]
+
+### P.RevilloutCopt.
+= _Papyrus coptes. Actes et contrats des museés de Boulaq et du Louvre_, ed. E. Revillout. Paris 1876. Nos. 1—14, 11 bis and 12 bis from the Bulaq Museum and nos. 1—10 from the Louvre. No. 1 from the Louvre was republished in P.KRU 40; nos. 3—10 from the Louvre were also published by Revillout in the Comptes Rendus of the First International Congress of Orientalists. Paris 1873, III 55—68.
+
+### P.Ross.Georg.
+= _Papyri russischer und georgischer Sammlungen_. Tiflis. [Rp. AMH]
+
+ * I, Literarische Texte, ed. G. Zereteli. 1925. Nos. 1—24. [MF 2.1]
+ * II, Ptolemäische und frührömische Texte, ed. O. Krüger. 1929. Nos. 1—43. [MF 2.2]
+ * III, Spätrömische und byzantinische Texte, ed. G. Zereteli and P. Jernstedt. 1930. Nos. 1—57. [MF 2.3]
+ * IV, Die Kome-Aphrodito Papyri der Sammlung Lichačov, ed. P. Jernstedt. 1927. Nos. 1—27. [MF 2.4]
+ * V, Varia, ed. G. Zereteli and P. Jernstedt. 1935. Nos. 1—73. [MF 2.5]
+
+### P.Ryl.
+= _Catalogue of the Greek and Latin Papyri in the John Rylands Library, Manchester_. Manchester.
+
+ * I, Literary Texts, ed. A.S. Hunt. 1911. Nos. 1—61. [JRL]
+ * II, Documents of the Ptolemaic and Roman Periods, ed. J. de M. Johnson, V. Martin and A.S. Hunt. 1915. Nos. 62—456. [JRL]
+ * III, Theological and Literary Texts, ed. C.H. Roberts. 1938. Nos. 457—551. [JRL]
+ * IV, Documents of the Ptolemaic, Roman and Byzantine Periods, ed. C.H. Roberts and E.G. Turner. 1952. Nos. 552—717. [JRL]
+
+### P.Ryl.Copt.
+= _Catalogue of the Coptic Manuscripts in the Collection of the John Rylands Library_, ed. W.E. Crum. Manchester 1909. Nos. 1—467.
+
+### P.Ryl.Dem.
+= _Catalogue of the Demotic Papyri in the John Rylands Library, Manchester_, ed. F.Ll. Griffith. Manchester 1909. [Rp. GO]
+
+ * I, Atlas of Facsimiles, nos. 1—45.
+ * II, Hand-copies of the earlier documents. (Nos. I—IX).
+ * III, Key-list, Translations, Commentaries and Indices. (There are Greek subscriptions to nos. 15A, 17, 18 and 19, republished in P.Ryl. II 248—251).
+
+### P.Sakaon
+= _The Archive of Aurelius Sakaon: Papers of an Egyptian Farmer in the last Century of Theadelphia_, ed. G.M. Parássoglou. Bonn 1978. (Pap. Texte Abh. XXIII). Nos. 1—98; ostraca nos. 78—81, 83, 85, 88, 90—91. [RH]
+
+### P.Sarap.
+= _Les archives de Sarapion et de ses fils: une exploitation agricole aux environs d'Hermoupolis Magna (de 90 à 133 p.C.)_, ed. J. Schwartz. Cairo 1961. (Institut Français d'Archéologie Orientale, Bibliothèque d'Étude 29). Nos. 1—103. [SEVPO]
+
+### P.Sarga
+= _Wadi Sarga, Coptic and Greek Texts_, ed. W.E. Crum and H.I. Bell, with an introduction by R. Campbell Thompson. Copenhagen 1922. (Coptica III). The Greek and Coptic texts are listed on p. xv; no. 9 is on vellum, no. 12 on papyrus, the remainder on ostraca (= O.Sarga). All the documentary texts listed in P.Sarga on page xv as Greek, nos. 121—127, 147, 150—151, 155—156, 159—160, 195, 199—201, 205—374, 380—385 are reprinted in SB XVIII. There is a concordance in SB XIX, Abschnitt 7. Many of these texts contain a word or more in Coptic.
+
+### P.Schenkung.
+= _Eine demotische Schenkungsurkunde aus der Zeit des Darius_, ed. W. Erichsen. Wiesbaden 1963. (Akad.Wiss.Mainz, Abh. geistes- und sozialwissenschaftlichen Klasse 1962, 6).
+
+### P.Schow
+= _Charta papyracea graece scripta Musei Borgiani Velitris qua series incolarum Ptolemaidis Arsinoiticae in aggeribus et fossis operantium exhibetur_, ed. N. Schow. Rome 1788. Text republished as SB I 5124.
+
+### P.Schøyen
+= _Papyri Graecae Schøyen_, ed. R. Pintaudi. Florence 2005. Nos. 1—25; 1—25 literary; 14—15 and 17—20 parchment, 11 wood tablet, 24 bronze tablet, 25 bronze tablet from Asia Minor [LGF]
+
+### P.Schreibertrad.
+= _Die Ägyptische Schreibertradition in Aufbau, Sprache und Schrift der demotischen Kaufverträge aus ptolemäischer Zeit_, ed. K.-Th. Zauzich. I, Text; II, Anmerkungen, Indices, Tabellen der Anlage. Wiesbaden 1968. (Äg.Abh. 19). A catalogue of sales (nos. 1—95) and associated cession documents (nos. 96—159), not an edition of texts. In some cases, however, a transcript and translation of a text are given. These are as follows: 1, 4, 5, 11, 14, 15, 20, 26, 30 (unpublished), 42, 47, 56, 94, 97, 100, 108, 109, 115 (unpublished), 118, 127, 132 and 157. No. 118 has been republished by G. Vittman in Enchoria 15 (1987) 99—112. [OH]
+
+### P.Schub.
+= _Griechische literarische Papyri_, ed. W. Schubart. Berlin 1950. (Berichte über die Verhandl. der Sächsischen Akademie der Wissenschaften Leipzig, Phil.-Hist. Kl. 97, 5). Nos. 1—43. [Rp. CG]
+
+### P.Schutzbriefe
+= "Koptische Schutzbriefe," ed. W. Till (with an historical-legal study by H. Liebesny). MDAI (Kairo) 8 (1938) 71—127. Nos. 1—103. Nos. 2—3, 12—13, 17, 56, 59, 68, 77, 84—86, 92, 95, 97, 99—101 are papyri. The rest are ostraca. No. 84 is reedited as P.Bal. 188.
+
+### P.Select.
+= Papyri Selectae, ed. E. Boswinkel, P.W. Pestman and P.J. Sijpesteijn. Leiden 1965. (Pap.Lugd.Bat. XIII). Nos. 1—24 papyri; no. 25 mummy labels (i—ii) and ostraca (iii—vi). [EJB]
+
+### P.Sel.Warga
+= Select Papyri, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279]
+
+### PSI
+= Papiri greci e latini. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502.
+
+ * I, 1912. Nos. 1—112. [MF 1.65; rp. Bd'E]
+ * II, 1913. Nos. 113—156. [MF 1.66; rp. Bd'E]
+ * III, 1914. Nos. 157—279. Nos. 254—279 are ostraca. [MF 1.67]
+ * IV, 1917. Nos. 280—445. [MF 1.68]]
+ * V, 1917. Nos. 446—550. No. 460 is an ostracon. [MF 1.69]
+ * VI, 1920. Nos. 551—730. [MF 1.70]
+ * VII, 1925. Nos. 731—870. [MF 1.71; rp. Bd'E]
+ * VIII, 1927. Nos. 871—1000. Nos. 983—1000 are ostraca. [MF 1.72]
+ * IX, 1929. Nos. 1001—1096. [MF 1.74; rp. Bd'E]
+ * X, 1932. Nos. 1097—1181. [MF 1.75; rp. Bd'E]
+ * XI, 1935. Nos. 1182—1222. [MF 1.76; rp. Bd'E]
+ * XII, fasc. I, ed. M. Norsa; fasc. II, ed. V. Bartoletti. 1943—1951. Nos. 1223—1295; nos. 1268—1271 are ostraca. [MF 2.88; FL]
+ * XIII, ed. M. Norsa and V. Bartoletti. 1949—1953. Nos. 1296—1370. [MF 2.89; fasc. 2 only, FL]
+ * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL]
+ * XV, ed. †V. Bartoletti, G. Bastianini, G. Messeri, F. Montanari, R. Pintaudi. 2008. Nos. 1453—1574. Nos. 1453—1468 previously published by V. Bartoletti and M. Manfredi in PSI XV, fasc. 1, 1979 (all literary); nos. 1478—1479, 1484, 1489, 1508, 1513—1515, 1522, 1526, 1528, 1531, 1532, 1536—1538, 1540, 1543, 1544, 1546, 1556, 1557, 1561—1566 and 1569 previously published in PSI XV Estr or in SB XII.
+ 
+### PSI XV Estr.
+= Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I., ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
+
+### PSI Com.
+= Papiri della Società Italiana alla Scuola Normale Superiore di Pisa, ed G. Bastianini, M. S. Funghi and G. Messeri. Florence 2005. (ComunicazioniVitelli 6). Nos. 1—20.
+
+### PSI Congr.XI
+= Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia. Florence 1965. Nos. 1—14.
+
+### PSI Congr.XVII
+= Trenta testi greci da papiri letterari e documentari editi in occasione del XVII Congresso Internazionale di Papirologia. Florence 1983. Nos. 1—30.
+
+### PSI Congr.XX
+= Dai papiri della Società Italiana: Omaggio al XX Congresso Internazionale di Papirologia. Florence 1992. Nos. 1—20.
+
+### PSI Congr.XXI
+= Dai papiri della Società Italiana: Omaggio al XXI Congresso Internazionale di Papirologia. Florence 1995. Nos. 1—19.
+
+### PSI Corr. I
+= Correzioni e riedizioni di papiri della Società Italiana I, ed. M. Manfredi. Florence 1977. A reedition of PSI 240, 835, 1148, 1150, 1156 and 1244.
+
+### PSI Il.
+= Papiri dell' Iliade, ed. M. Manfredi. Florence 2000. Nos. 1—24.
+
+### PSI Od.
+= Papiri dell' Odissea. Seminario papirologico 1977—78, ed. M. Manfredi. Florence 1979. Nos. 1—14.
+
+### P.Siegesfeier
+= Eine Neue Urkunde zu der Siegesfeier des Ptolemaios IV, ed. W. Spiegelberg. (SBMünchen 1926.2). Munich 1926.
+
+### P.Sijp.
+= Papyri in Memory of P. J. Sijpesteijn, ed. A. J. B. Sirks and K. A. Worp. Oakville, Conn. 2007. (Am.Stud.Pap. 40). Nos. 1-61 (no. 38a-y are ostraka). [Oxbow]
+
+### P.Siut
+= A Family Archive from Siut, from Papyri in the British Museum Including an Account of a Trial Before the Laocritae in the Year B.C. 170, ed. H.F.H. Thompson. Oxford 1934. With a separate portfolio of plates. Inv. nos. 10575 and 10591-10600.
+
+### P.SlaveryDem.
+= Slavery in Pharaonic Egypt, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
+ 
+### P.Sorb.
+= Papyrus de la Sorbonne
+
+ * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF]
+ * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow]
+
+### P.Soter.
+= Das Archiv des Soterichos, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
+
+### P.Stras.
+= Griechische Papyrus der Kaiserlichen Universitäts- und Landes-bibliothek zu Strassburg, ed. F. Preisigke. Leipzig.
+
+ * I, 1912. Nos. 1—80. [MF 2.39, (incl. II)]
+ * II, 1920. Nos. 81—125. [See I]
+ * III, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. P. Collomp et ses élèves. Paris 1948. (Publications de la Faculté des Lettres de l'Université de Strasbourg 97). Nos. 126—168.
+ * IV, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. J. Schwartz et ses élèves. Strasbourg 1963. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg I). Nos. 169—300 (with index to Nos. 126—300). [BNU]
+ * V, ed. J. Schwartz et ses élèves. 1973. (Publications III). Nos. 301—500. [BNU]
+ * VI, ed. J. Schwartz et ses élèves. 1971—1975. (Publications IV). Nos. 501—600. Issued in fascicles 1/2, 3, 4 and 5. Nos. 501—520 were first published in the Bulletin de la Faculté des Lettres de Strasbourg 48 (1969—1970) 265—286. These were then re-issued with nos. 521—540 as Publications IV, 1/2, 1971. Index to nos. 501—800 by B. Kramer in Publications X. [BNU]
+ * VII, ed. J. Schwartz et ses élèves. 1976—1979. Issued in fascicles 1/2, 3, 4 and 5. (Publications V). Nos. 601—700. Index to nos. 501—800 by B. Kramer in Publications X. [BNU]
+ * VIII, ed. J. Schwartz et ses élèves. 1980-1985. Issued in fascicles 1, 2, 3, 4, and 5. (Publications VI). Nos. 701—800. Index to nos. 501—800 by B. Kramer in Publications X (1986). [BNU]
+ * IX, ed. J. Schwartz et ses élèves. 1985-1989. Issued in fascicles 1, 2, 3, 4, and 5. (Publications IX). Nos. 801—900. [BNU]
+
+### P.Stras.Dem.
+= Die demotischen Papyrus der Strassburger Bibliothek, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
