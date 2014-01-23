@@ -9,6 +9,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### BGU
  = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin.
+ 
  * I, 1895. Nos. 1—361. [MF 1.1; rp. CG]
  * II, 1898. Nos. 362—696. [MF 1.2; rp. CG]
  * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG]
@@ -32,6 +33,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
  
 ### BKT
 = _Berliner Klassikertexte_. Berlin.
+
  * I, Didymos, Kommentar zu Demosthenes (Papyrus 9780) nebst Wörterbuch zu Demosthenes' Aristocratea (Papyrus 5008), ed. H. Diels and W. Schubart. 1904. [MF 1.11]
  * II, Anonymer Kommentar zu Platons Theaetet (Papyrus 9782) nebst drei Bruchstücken philosophischen Inhalts (Pap. N.8; P.9766. 9569), ed. H. Diels and W. Schubart. 1905. [MF 1.12]
  * III, Griechische Papyri medizinischen und naturwissenschaftlichen Inhalts, ed. K. Kalbfleisch and H. Schöne. 1905. [MF 1.13]
@@ -44,12 +46,14 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### BKU
 = _Aegyptische Urkunden aus den Koeniglichen_ (later Staatlichen) _Museen zu Berlin: Koptische Urkunden_.
+
  * I, Berlin 1895—1905. Nos. 1—192. The following texts have been republished in SB Kopt. I:
  * II.1, Berlin 1904. Nos. 256—318 (only the first fascicle was published). No papyri were ever assigned publication numbers 193-255.
  * III, ed. H. Satzinger. Heft 1, 1967; Heft 2, 1968. Nos. 319—514. Berlin. [Bruno Hessling Verlag]
 
 ### CPR
 = _Corpus Papyrorum Raineri_. Vienna.
+
  * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG]
  * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67]
  * III, Series Arabica I, ed. A. Grohmann. 1924. Pt. 1, Allgemeine Einführung in die arabischen Papyri; Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln.
@@ -110,6 +114,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Amh.
 = _The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk_, ed. B.P. Grenfell and A.S. Hunt. London.
+
  * I, The Ascension of Isaiah and Other Theological Fragments. 1900. Nos. 1—9. [MF 1.43; rp. CG]
  * II, Classical Fragments and Documents of the Ptolemaic, Roman and Byzantine Periods. 1901. Nos. 10—201. No. 145 has a Coptic greeting at the end. [MF 1.44; rp. CG]
 
@@ -118,6 +123,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Ammon
 = _The Archive of Ammon Scholasticus of Panopolis_.
+
  * I, The Legacy of Harpocration, ed. W.H. Willis and K. Maresch. Opladen 1997. (Pap.Colon. XXVI/1). Nos. 1—25. [FS]
  * II, Das Archiv des Aurelius Ammon (P.Ammon): Papyri aus den Sammlungen des Istituto Papirologico "G. Vitelli" (Università di Firenze), der Duke University, Durham N.C., und der Universität zu Köln, ed. K. Maresch and I. Andorlini. Paderborn 2006. (Pap.Colon. 26, 2). Nos. 26-56; separate fascicle of plates. [Verlag Ferdinand Schöningh]
 
@@ -129,6 +135,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Ant.
 = _The Antinoopolis Papyri_. London.
+
  * I, ed. C.H. Roberts. 1950. (Egypt Exploration Society, Graeco-Roman Memoirs 28). Nos. 7—50 (nos. 1—6 are in Shorthand Manuals). [EES]
  * II, ed. J.W.B. Barns and H. Zilliacus. 1960. (Egypt Exploration Society, Graeco-Roman Memoirs 37). Nos. 51—110. [EES]
  * III, ed. J.W.B. Barns and H. Zilliacus. 1967. (Egypt Exploration Society, Graeco-Roman Memoirs 47). Nos. 111—214. [EES]
@@ -141,6 +148,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Ashm.
 = _Catalogue of the Demotic Papyri in the Ashmolean Museum._
+
  * I, Embalmers' Archives from Hawara, ed. E.A.E. Reymond, including Greek Documents and Subscriptions, ed. J.W.B. Barns. Oxford 1973. Nos. 1—21 are Demotic; there are Greek subscriptions to nos. 3, 4, 5, 10, 14—15 and 16—17. Nos. 22—25 are Greek texts. Greek texts reprinted as SB XIV 11404—11413. A further text is published at SB I 4369. [OUP]
 
 ### P.Assoc.
@@ -165,6 +173,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Bad.
 = _Veröffentlichungen aus den badischen Papyrus-Sammlungen_. Heidelberg. Series continues with P.Heid. I.
+
  * I, Demotische Papyri, ed. W. Spiegelberg. 1923. [MF 2.49]
  * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50]
  * III, Ein koptisches Fragment über die Begründer des Manichäismus, ed. F. Bilabel. 1924. No. 46. [MF 2.51]
@@ -186,6 +195,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Beatty
 = _Chester Beatty Biblical Papyri_, ed. F.G. Kenyon. London. [I—VIII, MF 1.84]
+
  * I, General Introduction. 1933. [HF]
  * II, The Gospels and Acts. 1933. Pt. 2, Plates. 1934. [text HF]
  * III, Pauline Epistles and Revelation. 1934. Pt. 2, Plates of Revelation. 1936. [HF]
@@ -213,6 +223,7 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 
 ### P.Berl.Dem.
 = _Demotische Papyri aus den Staatlichen Museen zu Berlin_
+
  * I, Papyri von der Insel Elephantine, ed. K.-Th. Zauzich. Berlin 1978.
  * II, Thebanische Kaufverträge des 3. und 2. Jarhhunderts v.u.Z., ed. S. Grunert. Berlin 1981.
  * III, Papyri von der Insel Elephantine, ed. K.-Th. Zauzich. Berlin 1992.
@@ -223,6 +234,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Berl.Leihg.
 = _Berliner Leihgabe griechischer Papyri_.
+
  * I, ed. T. Kalén and the Greek Seminar at Uppsala. Uppsala 1932. (Uppsala Universitets Årsskrift 1932, Filosofi, Språkvetenskap och Historiska Vetenskaper 1). Nos. 1—25. [MF 1.61]
  * II, aus dem Nachlass T. Kaléns ed. A. Tomsin. Uppsala 1977. (Studia Graeca Upsaliensia XII). Nos. 26—46. [o.p.]
 
@@ -255,6 +267,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Bodm.
 = _Papyrus Bodmer_, publications of Bibliotheca Bodmeriana, Cologny-Génève (unless otherwise stated). [Reprint of series in 10 vols. by KGS]
+
  * I, Iliade, chants 5 et 6, ed. V. Martin. 1954. [o.p.]
  * II, Évangile de Jean (chaps. 1—14), ed. V. Martin. 1956. With supplement, chaps. 14—21, ed. V. Martin. 1958. New edition, ed. V. Martin and J.W.B. Barns. 1962. With photographic reproduction of complete text of chaps. 1—21. [new ed. BB]
  * III, Évangile de Jean et Genèse I—IV, 2 en bohairique, ed. R. Kasser. Louvain 1958. (Corpus Scriptorum Christianorum Orientalium 177, 178 = Scriptores Coptici 25, 26).
@@ -299,6 +312,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Brit.Mus.
 = _Catalogue of the Demotic Papyri in the British Museum_
+
  * I, A Theban Archive of the Reign of Ptolemy I Soter, ed. S.R.K. Glanville. London 1939. Published here are inventory nos. 10522—10530, 10535—10537. There are plates of all (or parts of all). There is an additional plate of inv. no. 10500. [BMP]
  * II, The Instructions of Onchsheshonqy, Part 1, Introduction, transliteration, translation, notes and plates, ed. S.R.K. Glanville. London 1955. Part 2 has never been published. [BMP]
  * III, The Mortuary Texts of Papyrus BM 10507, ed. M. Smith. London 1987. [BMP]
@@ -318,6 +332,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Brux.
 = _Papyri Bruxellenses Graecae_
+
  * I, ed. G. Nachtergael. Brussels 1974. Nos. 1—21. Nos. 1—18 are a republication of P.Brux.inv. E. 7616. See Pap.Lugd.Bat. V. [FERE]
  * II, Le poème élégiaque hellénistique P.Brux.inv. E 8934 et P.Sorb.inv. 2254. Édition, commentaire et analyse stylistique, ed. M. Huys. Brussels 1991. No. 22. [FERE] There are also Brussels texts at SB I 4325; V 8025, 8027, 8035 a—c, 8263—8264; VI 8982—8985, 9051, 9161, 9163, 9199, 9206—9210, 9216, 9360; VIII 10163; X 10274, 10556—10557; XIV 11337, 1140, 11845—11849; XVI 12493; XVIII 13367; XX 14393, 14399, 14663.
 
@@ -329,6 +344,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Bub.
 = _Die verkohlten Papyri aus Bubastos_. Opladen.
+
  * I, Rolls 1—4, ed. J. Frösén and D. Hagedorn. 1989. (Pap.Colon. XV/1). [FS]
  * II, Roll 5, ed. D. Hagedorn and K. Maresch. 1998. (Pap.Colon. XV/2) [FS]
 
@@ -337,6 +353,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Cair.
 = Service des Antiquités de l'Égypte, Catalogue Général des Antiquités égyptiennes du Musée du Caire. Die demotischen Denkmäler.
+
  * I, Die Demotischen Inschriften, ed. W. Spiegelberg. Leipzig 1904.
  * II, Die Demotischen Papyrus, ed. W. Spiegelberg. Part 1, Text. Strassburg 1908. Part 2, Plates. Strassburg 1906. Nos. 30601—31270 and 50001—50022.
  * III, Demotische Inschriften und Papyri, ed. W. Spiegelberg. Berlin 1932. Stelae etc. nos. 50023-50057; papyri nos. 50058—50165.
@@ -352,6 +369,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.Cair.Masp.
 = Papyrus grecs d'époque byzantine, Catalogue général des antiquités égyptiennes du Musée du Caire, ed. J. Maspero. Cairo.
+
  * I, 1911. (Cat. 51). Nos. 67001—67124. [MF 1.38; rp. OZ/CG]
  * II, 1913. (Cat. 54). Nos. 67125—67278. An expanded and corrected text of no. 67140 is republished in vol. III pp. 1—2; the subsequently discovered first part of no. 67169 is published as no. 67169bis in vol. III pp. 2—6. [MF 1.39; rp. OZ/CG]
  * III, 1916. (Cat. 73). Nos. 67279—67359. [MF 1.40; rp. OZ/CG]
@@ -369,6 +387,7 @@ Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian M
 
 ### P.Cair.Zen.
 = Zenon Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire, ed. C.C. Edgar. Cairo.
+
  * I, 1925. (Cat. 79). Nos. 59001—59139. [MF 1.46; rp. GO]
  * II, 1926. (Cat. 82). Nos. 59140—59297. [MF 1.47; rp. GO]
  * III, 1928. (Cat. 85). Nos. 59298—59531. [MF 1.48; rp.GO]
@@ -377,6 +396,7 @@ Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian M
 
 ### P.Carlsb.
 = The Carlsberg Papyri
+
  * I, Demotic Texts from the Collection, ed. P.J. Frandsen with contributions by K.-Th. Zauzich, W.J. Tait and M. Chauveau. Copenhagen 1991. 4 Demotic texts are published by inventory number, P.dem.Carlsb. inv. 207, 230, 236 and 301. On pp. 129—140 Tait lists the published Carlsberg texts, Demotic, Greek and Coptic, numbered serially. Nos. 46—48 are reprinted in SB XVI 12342—12344; No. 51 is SB XVIII 13314; Nos. 53, 55 and 57 (+SB XII 11157) are SB XX 15023, 14952 and 15024 respectively. [MTP]
  * II, Hieratische Papyri aus Tebtynis, in 2 volumes, ed. J. Osing. Copenhagen 1998. (Carsten Niebuhr Institute. Publications 17.) Vol. 1 publishes 5 texts (I—V) reconstituted from fragments found in Copenhagen, Berlin, Paris and Florence. Vol. 2 is an elephant folio volume of plates. [MTP]
  * III, A Miscellany of Demotic Texts and Studies, ed. P.J. Frandsen and K. Ryholt with contributions by J.F. Quack, K. Ryholt, M. Smith, W.J. Tait, K.-Th. Zauzich. Copenhagen 2000. (Carsten Niebuhr Institute. Publications 22). [MTP]
@@ -406,6 +426,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### P.Choix
 = Choix de textes juridiques en hiératique "anormal" et en démotique, ed. M. Malinine. Nos. 1-19.
+
  * I, Traduction et commentaire philologique. Paris 1953. (Bibliothèque de l'École des Hautes Études, Sciences historiques et philologiques, 300).
  * II, Transcriptions, published by F. de Cenival from the files of M. Malinine. Cairo 1983. (Institut Français d'Archéologie Orientale du Caire. Recherches d'archéologie, de philologie et d'histoire XVIII).
 
@@ -426,6 +447,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### P.Col.
 = Columbia Papyri.
+
  * I, Upon Slavery in Ptolemaic Egypt (P.Col.inv. 480), by W.L. Westermann. New York 1929. [Rp. CG]
  * II, Tax Lists and Transportation Receipts from Theadelphia, ed. W.L. Westermann and C.W. Keyes. New York 1932. No. 1 recto. [Rp. CG]
  * III, Zenon Papyri: Business Papers of the Third Century B.C. dealing with Palestine and Egypt I, ed. W.L. Westermann and E.S. Hasenoehrl. New York 1934. Nos. 2—59. [Rp. CG]
@@ -449,7 +471,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### P.CorpusRevillout
 = Corpus Papyrorum Aegypti, ed. E. Revillout and A. Eisenlohr. Paris.
+
  * I, Papyrus démotiques du Louvre, transl. E. Revillout.
+
    * Fasc. 1, nos. 1—6. 1885.
    * Fasc. 2, nos. 7—15. 1891.
    * Fasc. 3, nos. 16—23. 1893.
