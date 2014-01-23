@@ -388,7 +388,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.Cair.Zen.
 = _Zenon Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire_, ed. C.C. Edgar. Cairo.
 
- * I, 1925. (Cat. 79). Nos. 59001—59139. [MF 1.46; rp. GO]
+ * I, 1925. (Cat. 79). Nos. 59001—59139. [MF 1.46; rp. GO]
  * II, 1926. (Cat. 82). Nos. 59140—59297. [MF 1.47; rp. GO]
  * III, 1928. (Cat. 85). Nos. 59298—59531. [MF 1.48; rp.GO]
  * IV, 1931. (Cat. 90). Nos. 59532—59800. [MF 1.49; rp. GO]
@@ -1491,16 +1491,16 @@ P.Prag.
 = _Slavery in Pharaonic Egypt_, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
  
 ### P.Sorb.
-= Papyrus de la Sorbonne
+= _Papyrus de la Sorbonne_
 
  * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF]
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow]
 
 ### P.Soter.
-= Das Archiv des Soterichos, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
+= _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
 
 ### P.Stras.
-= Griechische Papyrus der Kaiserlichen Universitäts- und Landes-bibliothek zu Strassburg, ed. F. Preisigke. Leipzig.
+= _Griechische Papyrus der Kaiserlichen Universitäts- und Landes-bibliothek zu Strassburg_, ed. F. Preisigke. Leipzig.
 
  * I, 1912. Nos. 1—80. [MF 2.39, (incl. II)]
  * II, 1920. Nos. 81—125. [See I]
@@ -1513,4 +1513,4 @@ P.Prag.
  * IX, ed. J. Schwartz et ses élèves. 1985-1989. Issued in fascicles 1, 2, 3, 4, and 5. (Publications IX). Nos. 801—900. [BNU]
 
 ### P.Stras.Dem.
-= Die demotischen Papyrus der Strassburger Bibliothek, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
+= _Die demotischen Papyrus der Strassburger Bibliothek_, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
