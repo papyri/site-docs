@@ -526,55 +526,55 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _The Excavations at Dura-Europos conducted by Yale University and the French Academy of Inscriptions and Letters, Final Report V, Part I, The Parchments and Papyri_, ed. C.B. Welles, R.O. Fink, and J.F. Gilliam. New Haven 1959. Nos. 1—155 (no. 1—11 are literary or subliterary; nos. 3, 10—24, 28, 33, 35—38, 47—50, 109—112, 119, 149, 152—154 are parchment; no. 53 is a waxed tablet and no. 131 is leather). Greek, nos. 1—10, 12—25, 29, 31—53, 123, 126—127, 129, 132, 137, 140—141, 144, 146—150; Latin, nos. 54, 56—65, 67—122, 124—125, 130—131, 133—136, 138, 142—143, 145; Greek and Latin, nos. 26, 30, 55, 66, 128, 139; Greek and Aramaic, no. 27; Greek and Syriac, no. 28; Hebrew, no. 11; Aramaic, nos. 151, 152; Parthian, no. 153; Persian, nos. 154, 155. [MF 1.62]
 
 ### P.Edfou
-= Papyri published in Fouilles Franco-Polonaises I—III, a series issued by the Institut Français d'Archéologie Orientale du Caire and the University of Warsaw. [MF 1.63]
-I, Tell Edfou 1937, by B. Bruyère, J. Manteuffel, K. Michalowski, J. Sainte Fare Garnot. Cairo 1937. Chap. V, pp. 141—191, includes papyri I—IV; for ostraca nos. 1—230 see O.Edfou I.
-II, Tell Edfou 1938, by K. Michalowski, J. de Linage, J. Manteuffel, J. Sainte Fare Garnot. Cairo 1938. Chap. III, pp. 137—166, includes papyri V—VII; for ostraca nos. 231—325 see O.Edfou II.
-III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuffel, M. Zejmo-Zejmis. Cairo 1950. Chap. V, pp. 329—372, includes papyrus VIII; for ostraca nos. 326—483 see O.Edfou III. Papyrus IX ed. R. Rémondon, "Soldats de Byzance d'après un papyrus trouvé à Edfou," in RechPap 1 (1961) 41—93. Text reprinted as SB VI 9613.
+= _Papyri published in Fouilles Franco-Polonaises I—III_, a series issued by the Institut Français d'Archéologie Orientale du Caire and the University of Warsaw. [MF 1.63]
+ * I, Tell Edfou 1937, by B. Bruyère, J. Manteuffel, K. Michalowski, J. Sainte Fare Garnot. Cairo 1937. Chap. V, pp. 141—191, includes papyri I—IV; for ostraca nos. 1—230 see O.Edfou I.
+ * II, Tell Edfou 1938, by K. Michalowski, J. de Linage, J. Manteuffel, J. Sainte Fare Garnot. Cairo 1938. Chap. III, pp. 137—166, includes papyri V—VII; for ostraca nos. 231—325 see O.Edfou II.
+ * III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuffel, M. Zejmo-Zejmis. Cairo 1950. Chap. V, pp. 329—372, includes papyrus VIII; for ostraca nos. 326—483 see O.Edfou III. Papyrus IX ed. R. Rémondon, "Soldats de Byzance d'après un papyrus trouvé à Edfou," in RechPap 1 (1961) 41—93. Text reprinted as SB VI 9613.
 
 ### P.Edg.
 = "Selected Papyri from the Archives of Zenon," ed. C.C. Edgar, in Annales du Service des Antiquités de l'Égypte. Cairo. [MF 2.29]
 
 ### P.Egerton
-= Fragments of an Unknown Gospel and Other Early Christian Papyri, ed. H.I. Bell and T.C. Skeat. London 1935.
+= _Fragments of an Unknown Gospel and Other Early Christian Papyri_, ed. H.I. Bell and T.C. Skeat. London 1935.
 
 ### P.Egger
 = A papyrus published by Egger in Bulletin de la Société des antiquaires de France (Paris 1862) 128-131. See SB II p. 58 which indicates republication in UPZ; the text does not, however, appear there.
 
 ### P.Ehevertr.
-= Ägyptische Eheverträge, ed. E. Lüddeckens. Wiesbaden 1960. (Äg.Abh. 1).
+= _Ägyptische Eheverträge_, ed. E. Lüddeckens. Wiesbaden 1960. (Äg.Abh. 1).
 
 ### P.Eirene
-= Studia Graeca et Latina (Papyrologica)
+= _Studia Graeca et Latina (Papyrologica)_
 
  * I, ed. J. Bazant and R. Pintaudi with many others. Prague 1998. (Eirene 34 [1998]). Nos. 1-37.
  * II, ed. J. Bazant and R. Pinaudi with many others. Prague 2004. (Eirene 40 [2004] pages 1-193.) Nos. 1-32; no. 11 is a mummy label; nos. 30 and 31 are magical drawings.
 
 ### P.Eleph.
-= Aegyptische Urkunden aus den Königlichen Museen in Berlin: Griechische Urkunden, Sonderheft. Elephantine-Papyri, ed. O. Rubensohn. Berlin 1907. Nos. 1—32 and 3 fragments. [MF 2.81; rp. CG]
+= _Aegyptische Urkunden aus den Königlichen Museen in Berlin: Griechische Urkunden_, Sonderheft. _Elephantine-Papyri_, ed. O. Rubensohn. Berlin 1907. Nos. 1—32 and 3 fragments. [MF 2.81; rp. CG]
 
 ### P.Eleph.Dem.
-= Demotische Papyrus von der Insel Elephantine, ed. W. Spiegelberg. Leipzig 1908. (Dem.Stud. 2). Nos. 1—13; nos. 5—7 and 12 have Greek subscriptions
+= _Demotische Papyrus von der Insel Elephantine_, ed. W. Spiegelberg. Leipzig 1908. (Dem.Stud. 2). Nos. 1—13; nos. 5—7 and 12 have Greek subscriptions
 
 ### P.Eleph.Wagner
-= Elephantine XIII: Les papyrus et les ostraca grecs d'Elephantine, ed. G. Wagner. Mainz 1998. (Deutsches Archäologisches Institut (Kairo), Archäologische Veröffentlichungen 70). Papyri nos. I—IV; ostraca nos. 1—372; nos. 166—278 are descripta. [PvZ]
+= E_lephantine XIII: Les papyrus et les ostraca grecs d'Elephantine_, ed. G. Wagner. Mainz 1998. (Deutsches Archäologisches Institut (Kairo), Archäologische Veröffentlichungen 70). Papyri nos. I—IV; ostraca nos. 1—372; nos. 166—278 are descripta. [PvZ]
 
 ### P.Enteux.
-=ΕΝΤΕΥΞΕΙΣ: Requêtes et plaintes adressées au Roi d'Égypte au IIIe siècle avant J.-C., ed. O. Guéraud. Cairo 1931—32. (Publ.Soc.Fouad I). Nos. 1—113 and appendix of 4 texts. [MF 1.52]
+= _ΕΝΤΕΥΞΕΙΣ: Requêtes et plaintes adressées au Roi d'Égypte au IIIe siècle avant J.-C._, ed. O. Guéraud. Cairo 1931—32. (Publ.Soc.Fouad I). Nos. 1—113 and appendix of 4 texts. [MF 1.52]
 
 ### P.Erasm.
-= Papyri in the Collection of the Erasmus University (Rotterdam).
+= _Papyri in the Collection of the Erasmus University (Rotterdam)_.
 
  * I, ed. P.J. Sijpesteijn and Ph.A. Verdult. Brussels 1986. (Pap.Brux. XXI). Nos. 1—22. [FERE]
  * II, = P.Erasmianae II, Parts of the Archive of an Arsinoite Sitologus from the Middle of the Second Century BC, ed. Ph.A. Verdult. Amsterdam 1991. (Stud.Amst. XXXII). Nos. 23—58. [JCG]. Rev. ed. of P.Erasmianae II, Delen van een arsinoitisch sitologen-archief uit het midden van de tweede eeuw v. Chr., ed. Ph.A. Verdult (Rotterdam 1988; Mededelingen van het Juridisch Instituut van de Erasmus Universiteit Rotterdam, nr. 45) and one unnumbered text P.Abcoude (51a, pp. 241—242) also reprinted as SB XIV 11962.
 
 ### P.Erbstreit
-= Ein Erbstreit aus dem ptolemäischen Ägypten, ed. O. Gradenwitz, F. Preisigke, W. Spiegelberg. Strassburg 1912. (Schriften der Wissenschaftlichen Gesellschaft in Strassburg 13). The Greek text in this volume should be cited as SB I 4512.
+= _Ein Erbstreit aus dem ptolemäischen Ägypten_, ed. O. Gradenwitz, F. Preisigke, W. Spiegelberg. Strassburg 1912. (Schriften der Wissenschaftlichen Gesellschaft in Strassburg 13). The Greek text in this volume should be cited as SB I 4512.
 
 ### P.Erl.
-= Die Papyri der Universitätsbibliothek Erlangen, ed. W. Schubart. Leipzig 1942. (Katalog der Handschriften der Universitätsbibliothek Erlangen, Neubearbeitung, Band III, Teil I). Nos. 1—149. [o.p.]
+= _Die Papyri der Universitätsbibliothek Erlangen_, ed. W. Schubart. Leipzig 1942. (Katalog der Handschriften der Universitätsbibliothek Erlangen, Neubearbeitung, Band III, Teil I). Nos. 1—149. [o.p.]
 
 ### P.Erl.Diosp.
-= Ein spätantikes Wirtschaftsbuch aus Diospolis Parva, ed. F. Mitthof. Munich/Leipzig 2002. (Archiv Beih. 12) Nos. 1—5. [KGS]
+= _Ein spätantikes Wirtschaftsbuch aus Diospolis Parva_, ed. F. Mitthof. Munich/Leipzig 2002. (Archiv Beih. 12) Nos. 1—5. [KGS]
 
 ### P.Euphrates
 = "Documents d'archives romains inédits du Moyen Euphrates," ed. D Feissel and J. Gascou.
@@ -584,3 +584,45 @@ III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuf
  * Part III, Journal des Savants 2000, pages 157–208, nos. 11–17. Nos. 12 and 15 are on parchment. There is a Syriac subscription on no. 12.
  * There is no index for these texts. See also the preliminary report in CRAI 1989, pages 535–561. There are 21 texts in this archive, two of which were not publishable. Nos. 19 and 20 are Syriac and are published as follows:
 J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant du Moyen Euphrate," CRAI 1990, pages 144–163. No. A = no. 19 in Feissel and Gascou's list is published in full. The first 8 lines of no. B = no. 20 are also given. Both are on parchment. No. 20 is fully edited by J. Teixidor, "Un document syriaques de fermage de 242 après J.–C.," Semitica 41/42 (1991/1992) 195–208.
+
+### P.Fam.Tebt.
+= _A Family Archive from Tebtunis_, ed. B.A. van Groningen. Leiden 1950. (Pap.Lugd.Bat. VI). Nos. 1—55. [MF 2.60]
+
+### P.Fam.Theb.
+= _A Family Archive from Thebes_, ed. M. El-Amir. Cairo 1959. Nos. 1—26. Nos. 14, 16, 19, 20, 21 and 22 have Greek subscriptions. These were first published by N.J. Reich in Mizraim 9 (1938) 119—132 and republished as SB VI 8965—8970. Nos. 14R and 25R have been republished as P.Ehevertr. 13 and 20.
+
+### P.Fay.
+= _Fayum Towns and their Papyri_, ed. B.P. Grenfell, A.S. Hunt and D.G. Hogarth. London 1900. (Egypt Exploration Society, Graeco-Roman Memoirs 3). Nos. 1—366 are papyri; ostraca (numbered separately) 1—50. [EES]
+
+### P.Fay.Copt.
+= _Coptic Manuscripts Brought from the Fayyum by W.M. Flinders Petrie, Esq., D.C.L., Together with a Papyrus in the Bodleian Library_, ed. W.E. Crum. London 1893. Nos. 1—55.
+
+### P.Flor.
+= _Papiri greco-egizii, Papiri Fiorentini_ (Supplementi Filologico-Storici ai Monumenti Antichi). Milan. [Rp. BdE]
+
+ * I, Documenti pubblici e privati dell'età romana e bizantina, ed. G. Vitelli. 1906. Nos. 1—105.
+ * II, Papiri letterari ed epistolari, ed. D. Comparetti. 1908—1910. Nos. 106—278.
+ * III, Documenti e testi letterari dell'età romana e bizantina, ed. G. Vitelli. 1915. Nos. 279—391.
+
+### P.Forshall
+= _Description of the Greek Papyri in the British Museum_, by J. Forshall. London 1839. Nos. 1—44. All reprinted, mostly in P.Lond. I (see the concordance at SB II pp. 84—85). The London texts republished in UPZ are listed there in vol. I, page v. Nos. II-XV and XVIII were reprinted but not reedited by B. Peyron in "Papyri greci del Museo di Londra e della Bibliotheca Vaticana' in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841).
+
+### P.Fouad
+= _Les Papyrus Fouad I_, ed. A. Bataille, O. Guéraud, P. Jouguet, N. Lewis, H. Marrou, J. Scherer and W.G. Waddell. Cairo 1939. (Publ.Soc. Fouad III). Nos. 1—89; no. 45 is Latin. [MF 2.91]
+
+### P.Frankf.
+= _Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt_, ed. H. Lewald. Heidelberg 1920. (SBHeidelberg 1920, Abh. 14). Nos. 1—7. An additional text at SB XIV 12093. [MF 1.25]
+
+### P.Freer
+= _Greek and Coptic Papyri in the Freer Gallery of Art_, ed. L.S.B. MacCoull. Diss. Washington D.C. 1973. Nos. 1—6 Greek, nos. 7—10 Coptic. Nos. 1—2 are reedited by J. Gascou and L.S.B. MacCoull in "Le cadastre d'Aphroditô," Travaux et Memoires 10 (1987) 103—158 with 10 plates, reprinted as SB XX 14669. Nos. 3—4 are reedited by J. Gascou in Hommes et richesses dans l'empire byzantin. Réalités byzantines, I: IVe—VIIe siècle (Paris 1989) 279—313, reprinted as SB XX 14494. [UMI, order no. 73—19,867]
+
+### P.Freib.
+= _Mitteilungen aus der Freiburger Papyrussammlung_.
+
+ * I, Literarische Stücke, ed. W. Aly. Ptolemäische Kleruchenurkunde, ed. M. Gelzer. Heidelberg 1914. (SBHeidelberg 1914, Abh. 2). Nos. 1—7; no. 7 reprinted as SB I 5942. [MF 1.80; rp. CG]
+ * II, Juristische Texte der römischen Zeit, ed. J. Partsch. Heidelberg 1916. (SBHeidelberg 1916, Abh.10). Nos. 8—11. Texts reprinted as SB III 6291—6294. [MF 1.81; rp. CG]
+ * III, Juristische Urkunden der Ptolemäerzeit, ed. J. Partsch. Heidelberg 1927. (AbhHeidelberg 1927, Abh. 7). Nos. 12—38. [MF 1.82; rp. CG]
+ * IV, Griechische und demotische Papyri der Universitätsbibliothek Freiburg, ed. R.W. Daniel, M. Gronewald, H.-J. Thissen. Bonn 1986. (Pap.Texte Abh. XXXVIII). Nos. 39—44 are listed in P.Freib. IV as follows: 39 = SB V 7600; 40—41 = SB III 6094—6095; 42 = SB IV 7351; 43 = SB VI 9562; 44 = P.Customs 266. Nos. 45—71 Greek; nos. 72—75 Demotic. There are two additional Demotic texts, P.Berlin P.15791 and P.Berlin P.23742, published here. [RH]
+
+### P.FuadUniv. (or P.FuadCrawford)
+= _Fuad I University Papyri_, ed. D.S. Crawford. Alexandria 1949. (Publ.Soc.Fouad VIII). Nos. 1—43. See under P.Grad. for further information on these papyri. [MF 2.95; rp.CG]
