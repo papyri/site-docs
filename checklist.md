@@ -1488,7 +1488,7 @@ P.Prag.
 = _A Family Archive from Siut, from Papyri in the British Museum Including an Account of a Trial Before the Laocritae in the Year B.C. 170_, ed. H.F.H. Thompson. Oxford 1934. With a separate portfolio of plates. Inv. nos. 10575 and 10591-10600.
 
 ### P.SlaveryDem.
-= Slavery in Pharaonic Egypt, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
+= _Slavery in Pharaonic Egypt_, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
  
 ### P.Sorb.
 = Papyrus de la Sorbonne
