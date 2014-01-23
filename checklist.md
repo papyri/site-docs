@@ -473,7 +473,6 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Corpus Papyrorum Aegypti_, ed. E. Revillout and A. Eisenlohr. Paris.
 
  * I, Papyrus démotiques du Louvre, transl. E. Revillout.
-
    * Fasc. 1, nos. 1—6. 1885.
    * Fasc. 2, nos. 7—15. 1891.
    * Fasc. 3, nos. 16—23. 1893.
