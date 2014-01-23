@@ -524,3 +524,63 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### P.Dura
 = _The Excavations at Dura-Europos conducted by Yale University and the French Academy of Inscriptions and Letters, Final Report V, Part I, The Parchments and Papyri_, ed. C.B. Welles, R.O. Fink, and J.F. Gilliam. New Haven 1959. Nos. 1—155 (no. 1—11 are literary or subliterary; nos. 3, 10—24, 28, 33, 35—38, 47—50, 109—112, 119, 149, 152—154 are parchment; no. 53 is a waxed tablet and no. 131 is leather). Greek, nos. 1—10, 12—25, 29, 31—53, 123, 126—127, 129, 132, 137, 140—141, 144, 146—150; Latin, nos. 54, 56—65, 67—122, 124—125, 130—131, 133—136, 138, 142—143, 145; Greek and Latin, nos. 26, 30, 55, 66, 128, 139; Greek and Aramaic, no. 27; Greek and Syriac, no. 28; Hebrew, no. 11; Aramaic, nos. 151, 152; Parthian, no. 153; Persian, nos. 154, 155. [MF 1.62]
+
+### P.Edfou
+= Papyri published in Fouilles Franco-Polonaises I—III, a series issued by the Institut Français d'Archéologie Orientale du Caire and the University of Warsaw. [MF 1.63]
+I, Tell Edfou 1937, by B. Bruyère, J. Manteuffel, K. Michalowski, J. Sainte Fare Garnot. Cairo 1937. Chap. V, pp. 141—191, includes papyri I—IV; for ostraca nos. 1—230 see O.Edfou I.
+II, Tell Edfou 1938, by K. Michalowski, J. de Linage, J. Manteuffel, J. Sainte Fare Garnot. Cairo 1938. Chap. III, pp. 137—166, includes papyri V—VII; for ostraca nos. 231—325 see O.Edfou II.
+III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuffel, M. Zejmo-Zejmis. Cairo 1950. Chap. V, pp. 329—372, includes papyrus VIII; for ostraca nos. 326—483 see O.Edfou III. Papyrus IX ed. R. Rémondon, "Soldats de Byzance d'après un papyrus trouvé à Edfou," in RechPap 1 (1961) 41—93. Text reprinted as SB VI 9613.
+
+### P.Edg.
+= "Selected Papyri from the Archives of Zenon," ed. C.C. Edgar, in Annales du Service des Antiquités de l'Égypte. Cairo. [MF 2.29]
+
+### P.Egerton
+= Fragments of an Unknown Gospel and Other Early Christian Papyri, ed. H.I. Bell and T.C. Skeat. London 1935.
+
+### P.Egger
+= A papyrus published by Egger in Bulletin de la Société des antiquaires de France (Paris 1862) 128-131. See SB II p. 58 which indicates republication in UPZ; the text does not, however, appear there.
+
+### P.Ehevertr.
+= Ägyptische Eheverträge, ed. E. Lüddeckens. Wiesbaden 1960. (Äg.Abh. 1).
+
+### P.Eirene
+= Studia Graeca et Latina (Papyrologica)
+
+ * I, ed. J. Bazant and R. Pintaudi with many others. Prague 1998. (Eirene 34 [1998]). Nos. 1-37.
+ * II, ed. J. Bazant and R. Pinaudi with many others. Prague 2004. (Eirene 40 [2004] pages 1-193.) Nos. 1-32; no. 11 is a mummy label; nos. 30 and 31 are magical drawings.
+
+### P.Eleph.
+= Aegyptische Urkunden aus den Königlichen Museen in Berlin: Griechische Urkunden, Sonderheft. Elephantine-Papyri, ed. O. Rubensohn. Berlin 1907. Nos. 1—32 and 3 fragments. [MF 2.81; rp. CG]
+
+### P.Eleph.Dem.
+= Demotische Papyrus von der Insel Elephantine, ed. W. Spiegelberg. Leipzig 1908. (Dem.Stud. 2). Nos. 1—13; nos. 5—7 and 12 have Greek subscriptions
+
+### P.Eleph.Wagner
+= Elephantine XIII: Les papyrus et les ostraca grecs d'Elephantine, ed. G. Wagner. Mainz 1998. (Deutsches Archäologisches Institut (Kairo), Archäologische Veröffentlichungen 70). Papyri nos. I—IV; ostraca nos. 1—372; nos. 166—278 are descripta. [PvZ]
+
+### P.Enteux.
+=ΕΝΤΕΥΞΕΙΣ: Requêtes et plaintes adressées au Roi d'Égypte au IIIe siècle avant J.-C., ed. O. Guéraud. Cairo 1931—32. (Publ.Soc.Fouad I). Nos. 1—113 and appendix of 4 texts. [MF 1.52]
+
+### P.Erasm.
+= Papyri in the Collection of the Erasmus University (Rotterdam).
+
+ * I, ed. P.J. Sijpesteijn and Ph.A. Verdult. Brussels 1986. (Pap.Brux. XXI). Nos. 1—22. [FERE]
+ * II, = P.Erasmianae II, Parts of the Archive of an Arsinoite Sitologus from the Middle of the Second Century BC, ed. Ph.A. Verdult. Amsterdam 1991. (Stud.Amst. XXXII). Nos. 23—58. [JCG]. Rev. ed. of P.Erasmianae II, Delen van een arsinoitisch sitologen-archief uit het midden van de tweede eeuw v. Chr., ed. Ph.A. Verdult (Rotterdam 1988; Mededelingen van het Juridisch Instituut van de Erasmus Universiteit Rotterdam, nr. 45) and one unnumbered text P.Abcoude (51a, pp. 241—242) also reprinted as SB XIV 11962.
+
+### P.Erbstreit
+= Ein Erbstreit aus dem ptolemäischen Ägypten, ed. O. Gradenwitz, F. Preisigke, W. Spiegelberg. Strassburg 1912. (Schriften der Wissenschaftlichen Gesellschaft in Strassburg 13). The Greek text in this volume should be cited as SB I 4512.
+
+### P.Erl.
+= Die Papyri der Universitätsbibliothek Erlangen, ed. W. Schubart. Leipzig 1942. (Katalog der Handschriften der Universitätsbibliothek Erlangen, Neubearbeitung, Band III, Teil I). Nos. 1—149. [o.p.]
+
+### P.Erl.Diosp.
+= Ein spätantikes Wirtschaftsbuch aus Diospolis Parva, ed. F. Mitthof. Munich/Leipzig 2002. (Archiv Beih. 12) Nos. 1—5. [KGS]
+
+### P.Euphrates
+= "Documents d'archives romains inédits du Moyen Euphrates," ed. D Feissel and J. Gascou.
+
+ * Part I, Journal des Savants 1995. pages 65–119, nos. 1–5, all on papyrus. No. 1 has three Syriac characters at the end. Nos. 3 and 4 each has a signature in Syriac. No. 5 has a subscription in Latin. Reprinted SB XXII 15496–15500.
+ * Part II, Journal des Savants 1997, pages 3–57, nos. 6–10. All are on parchment. Nos. 6, 7 and 10 have subscriptions in Syriac. Reprinted SB XXIV 16167–16171.
+ * Part III, Journal des Savants 2000, pages 157–208, nos. 11–17. Nos. 12 and 15 are on parchment. There is a Syriac subscription on no. 12.
+There is no index for these texts. See also the preliminary report in CRAI 1989, pages 535–561. There are 21 texts in this archive, two of which were not publishable. Nos. 19 and 20 are Syriac and are published as follows:
+J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant du Moyen Euphrate," CRAI 1990, pages 144–163. No. A = no. 19 in Feissel and Gascou's list is published in full. The first 8 lines of no. B = no. 20 are also given. Both are on parchment. No. 20 is fully edited by J. Teixidor, "Un document syriaques de fermage de 242 après J.–C.," Semitica 41/42 (1991/1992) 195–208.
