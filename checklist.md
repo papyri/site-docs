@@ -1694,3 +1694,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * I, Papyri aus Unterägypten. Berlin—Leipzig 1927. Nos. 1—150. [MF 2.14; rp. WdG]
  * II, Papyri aus Oberägypten. Berlin 1935—1957. Nos. 151—229. [Rp. WdG]
+
+
+## Ostraca
+
+### O.AbuMina
+= _Greek Ostraka from Abu Mina_, ed. N. Litinas. Berlin and New York 2008. (Archiv Beih. 25). Nos. 1—1088; nos. 1089—1446 are decripta. [KGS]
