@@ -179,13 +179,13 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
 = _Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel: Pt. I, Urkunden in griechischer Sprache_, ed. E. Rabel. Nos. 1—26. Pt. II, Ein koptischer Vertrag, ed. W. Spiegelberg. Berlin 1917. (AbhGöttingen N.F. 16.3). [MF 1.86] See also SB XVIII 13752.
 
 ### P.Batav.
-= Textes grecs, démotiques et bilingues, ed. E. Boswinkel and P.W. Pestman. Leiden 1978. (Pap.Lugd.Bat. XIX). Nos. 1—2, 26—28, 42—48 Demotic; 3, 5, 25, 29—32, 40—41 bilingual (Greek and Demotic); 4, 6—24, 33—39 Greek. Nos. 1—24 are papyri, 25—28 ostraca, 29—39 linen, 40—48 mummy labels. [EJB]
+= _Textes grecs, démotiques et bilingues_, ed. E. Boswinkel and P.W. Pestman. Leiden 1978. (Pap.Lugd.Bat. XIX). Nos. 1—2, 26—28, 42—48 Demotic; 3, 5, 25, 29—32, 40—41 bilingual (Greek and Demotic); 4, 6—24, 33—39 Greek. Nos. 1—24 are papyri, 25—28 ostraca, 29—39 linen, 40—48 mummy labels. [EJB]
 
 ### P.Bawit Clackson
-= It is Our Father Who Writes: Orders from the Monastery of Apollo at Bawit, ed. S. J. Clackson. Cincinnatti 2008 (Am.Stud.Pap. XLIII). Nos. 1—91.
+= _It is Our Father Who Writes: Orders from the Monastery of Apollo at Bawit_, ed. S. J. Clackson. Cincinnatti 2008 (Am.Stud.Pap. XLIII). Nos. 1—91.
 
 ### P.Beatty
-= Chester Beatty Biblical Papyri, ed. F.G. Kenyon. London. [I—VIII, MF 1.84]
+= _Chester Beatty Biblical Papyri_, ed. F.G. Kenyon. London. [I—VIII, MF 1.84]
  * I, General Introduction. 1933. [HF]
  * II, The Gospels and Acts. 1933. Pt. 2, Plates. 1934. [text HF]
  * III, Pauline Epistles and Revelation. 1934. Pt. 2, Plates of Revelation. 1936. [HF]
@@ -197,64 +197,64 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
  * VIII, Enoch and Melito. Plates, 1941. Texts published in The Last Chapters of Enoch in Greek, ed. C. Bonner with the collaboration of H.C. Youtie. London 1937. (Studies and Documents VIII). [plates HF]
 
 ### P.Benaki
-= Greek Papyri in the Benaki Museum, from the Collections of the Historical Archive, ed. E. Papapolychroniou. Athens 2000. Nos. 1—7; nos. 1—5 are papyri; nos. 6—7 are the texts on two sides of a wooden tablet. [Benaki Museum]. Reprinted in SB XXVI 16683—16689.
+= _Greek Papyri in the Benaki Museum, from the Collections of the Historical Archive_, ed. E. Papapolychroniou. Athens 2000. Nos. 1—7; nos. 1—5 are papyri; nos. 6—7 are the texts on two sides of a wooden tablet. [Benaki Museum]. Reprinted in SB XXVI 16683—16689.
 
 ### P.Berl.Bibl.
-= Frammenti di papiri greci asservati nella Reale Biblioteca di Berlino, ed. G. Parthey. Rome 1865. (Memorie dell'Instituto di Corrispondenza Archeologica 2 [1865] 438—462). Cf. SB II p. 114.
+= _Frammenti di papiri greci asservati nella Reale Biblioteca di Berlino_, ed. G. Parthey. Rome 1865. (Memorie dell'Instituto di Corrispondenza Archeologica 2 [1865] 438—462). Cf. SB II p. 114.
 
 ### P.Berl.Bork.
-= Une description topographique des immeubles à Panopolis, ed. Z. Borkowski. Warsaw 1975. [AP]
+= _Une description topographique des immeubles à Panopolis_, ed. Z. Borkowski. Warsaw 1975. [AP]
 
 ### P.Berl.Brash.
-= Select Papyri from West-Berlin, ed. W.M. Brashear. Diss. Univ. of Michigan, Ann Arbor 1973. Of the 19 texts all are reedited in BGU XIII or XIV or as SB XIV 11855 and 11856. There is a concordance at SB XIV 11855. No. 2 is again reedited as P.Gen. II 103, no. 8 as C.Pap.Gr. II 43. [UMI, order no. 73—24,529]
+= _Select Papyri from West-Berlin_, ed. W.M. Brashear. Diss. Univ. of Michigan, Ann Arbor 1973. Of the 19 texts all are reedited in BGU XIII or XIV or as SB XIV 11855 and 11856. There is a concordance at SB XIV 11855. No. 2 is again reedited as P.Gen. II 103, no. 8 as C.Pap.Gr. II 43. [UMI, order no. 73—24,529]
 
 ### P.Berl.Cohen
-Greek Documentary Papyri from Egypt in the Berlin Aegyptisches Museum, ed. N. Cohen. Oakville, Conn. 2007. (Am.Stud.Pap. 44). Nos. 1-20. [Oxbow]
+= _Greek Documentary Papyri from Egypt in the Berlin Aegyptisches Museum_, ed. N. Cohen. Oakville, Conn. 2007. (Am.Stud.Pap. 44). Nos. 1-20. [Oxbow]
 
 ### P.Berl.Dem.
-= Demotische Papyri aus den Staatlichen Museen zu Berlin
+= _Demotische Papyri aus den Staatlichen Museen zu Berlin_
  * I, Papyri von der Insel Elephantine, ed. K.-Th. Zauzich. Berlin 1978.
  * II, Thebanische Kaufverträge des 3. und 2. Jarhhunderts v.u.Z., ed. S. Grunert. Berlin 1981.
  * III, Papyri von der Insel Elephantine, ed. K.-Th. Zauzich. Berlin 1992.
 Volumes in this series are published unbound. Texts are not numbered in serial fashion; each has only its inventory number and the text; translation and commentary for each is numbered separately. There is a photograph for each text.
 
 ### P.Berl.Frisk
-= Bankakten aus dem Faijûm nebst anderen Berliner Papyri, ed. H. Frisk. Gothenburg 1931. (Göteborgs kungl. Vetenskaps- och Vitterhets-Samhälles Handlingar, Femte Följden, Ser. A,2,2). Nos. 1—6. Texts reprinted as SB V 7515—7520. [MF 2.34; rp. CG]
+= _Bankakten aus dem Faijûm nebst anderen Berliner Papyri_, ed. H. Frisk. Gothenburg 1931. (Göteborgs kungl. Vetenskaps- och Vitterhets-Samhälles Handlingar, Femte Följden, Ser. A,2,2). Nos. 1—6. Texts reprinted as SB V 7515—7520. [MF 2.34; rp. CG]
 
 ### P.Berl.Leihg.
-= Berliner Leihgabe griechischer Papyri.
+= _Berliner Leihgabe griechischer Papyri_.
  * I, ed. T. Kalén and the Greek Seminar at Uppsala. Uppsala 1932. (Uppsala Universitets Årsskrift 1932, Filosofi, Språkvetenskap och Historiska Vetenskaper 1). Nos. 1—25. [MF 1.61]
  * II, aus dem Nachlass T. Kaléns ed. A. Tomsin. Uppsala 1977. (Studia Graeca Upsaliensia XII). Nos. 26—46. [o.p.]
 
 ### P.Berl.Möller
-= Griechische Papyri aus dem Berliner Museum, ed. S. Möller. Gothenburg 1929. Nos. 1—13. Texts reprinted as SB IV 7338—7350. [MF 2.87]
+= _Griechische Papyri aus dem Berliner Museum_, ed. S. Möller. Gothenburg 1929. Nos. 1—13. Texts reprinted as SB IV 7338—7350. [MF 2.87]
 
 ### P.Berl.Salmen.
-= Cartonnage Papyri in Context: New Ptolemaic Documents from Abu Sir al Malaq, ed. E. Salmenkivi. Helsinki 2002. (Commentationes Humanarum Litterarum 119) Nos. 1–20. [AB] Cf. BGU XVIII.
+= _Cartonnage Papyri in Context: New Ptolemaic Documents from Abu Sir al Malaq_, ed. E. Salmenkivi. Helsinki 2002. (Commentationes Humanarum Litterarum 119) Nos. 1–20. [AB] Cf. BGU XVIII.
 
 ### P.Berl.Sarisch.
-= Berliner griechische Papyri, Christliche literarische Texte und Urkunden aus dem 3. bis 8. Jh.n.Chr., ed. P. Sarischouli. Wiesbaden 1995. (Serta Graeca 3). Nos. 1—23. [L. Reichert Verlag]
+= _Berliner griechische Papyri, Christliche literarische Texte und Urkunden aus dem 3. bis 8. Jh.n.Chr._, ed. P. Sarischouli. Wiesbaden 1995. (Serta Graeca 3). Nos. 1—23. [L. Reichert Verlag]
 
 ### P.Berl.Schmidt
-= Die griechischen Papyrusurkunden der Königlichen Bibliothek zu Berlin, ed. W.A. Schmidt. Berlin 1842. (Forschungen auf dem Gebiet des Altertums 1). Nos. 1—2. Texts reprinted as SB I 4503—4504.
+= _Die griechischen Papyrusurkunden der Königlichen Bibliothek zu Berlin_, ed. W.A. Schmidt. Berlin 1842. (Forschungen auf dem Gebiet des Altertums 1). Nos. 1—2. Texts reprinted as SB I 4503—4504.
 
 ### P.Berl.Spieg.
-= Demotische Papyrus aus den Königlichen Museen zu Berlin, ed. von der Generalverwaltung mit erläuterndem Texte von W. Spiegelberg. Berlin and Leipzig 1902. A catalogue with photographs.
+= _Demotische Papyrus aus den Königlichen Museen zu Berlin_, ed. von der Generalverwaltung mit erläuterndem Texte von W. Spiegelberg. Berlin and Leipzig 1902. A catalogue with photographs.
 
 ### P.Berl.Thun.
-= Sitologen-Papyri aus dem Berliner Museum, ed. K. Thunell. Uppsala 1924. Texts reprinted as SB III 7193—7196 and as P.Berl.Leihg. I 1—4. [MF 2.106; rp.CG]
+= _Sitologen-Papyri aus dem Berliner Museum_, ed. K. Thunell. Uppsala 1924. Texts reprinted as SB III 7193—7196 and as P.Berl.Leihg. I 1—4. [MF 2.106; rp.CG]
 
 ### P.Berl.Zill.
-= Vierzehn Berliner griechische Papyri, ed. H. Zilliacus. Helsingfors 1941. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum XI, 4). Nos. 1—14. [MF 1.32]
+= _Vierzehn Berliner griechische Papyri_, ed. H. Zilliacus. Helsingfors 1941. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum XI, 4). Nos. 1—14. [MF 1.32]
 
 ### P.Bingen
-= Papyri in Honorem Johannis Bingen Octogenarii, ed. H. Melaerts. Leuven 2000. (Studia Varia Bruxellensia ad Orbem Graeco-Latinum Pertinentia 5). Nos. 1—151. Nos. 27—36 and 39—147 are Greek documents; nos. 38 and 39 Demotic and nos. 149—151 Coptic documents. No. 116 is a clay tablet. [Peeters]
+= _Papyri in Honorem Johannis Bingen Octogenarii_, ed. H. Melaerts. Leuven 2000. (Studia Varia Bruxellensia ad Orbem Graeco-Latinum Pertinentia 5). Nos. 1—151. Nos. 27—36 and 39—147 are Greek documents; nos. 38 and 39 Demotic and nos. 149—151 Coptic documents. No. 116 is a clay tablet. [Peeters]
 
 ### P.Bodl. I
-= Papyri Bodleianae I, ed. R.P. Salomons. Amsterdam 1996. (Stud.Amst. XXXIV). Nos. 1—171. An appendix inventories part of the Greek papyri in the Bodleian. [JCG]
+= _Papyri Bodleianae I_, ed. R.P. Salomons. Amsterdam 1996. (Stud.Amst. XXXIV). Nos. 1—171. An appendix inventories part of the Greek papyri in the Bodleian. [JCG]
 
 ### P.Bodm.
-= Papyrus Bodmer, publications of Bibliotheca Bodmeriana, Cologny-Génève (unless otherwise stated). [Reprint of series in 10 vols. by KGS]
+= _Papyrus Bodmer_, publications of Bibliotheca Bodmeriana, Cologny-Génève (unless otherwise stated). [Reprint of series in 10 vols. by KGS]
  * I, Iliade, chants 5 et 6, ed. V. Martin. 1954. [o.p.]
  * II, Évangile de Jean (chaps. 1—14), ed. V. Martin. 1956. With supplement, chaps. 14—21, ed. V. Martin. 1958. New edition, ed. V. Martin and J.W.B. Barns. 1962. With photographic reproduction of complete text of chaps. 1—21. [new ed. BB]
  * III, Évangile de Jean et Genèse I—IV, 2 en bohairique, ed. R. Kasser. Louvain 1958. (Corpus Scriptorum Christianorum Orientalium 177, 178 = Scriptores Coptici 25, 26).
@@ -289,40 +289,40 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * LII, "P.Bodmer LII: Isocrate, A Nicoclès 16—22, ed. P. Schubert, Museum Helveticum 54 (1997) 97—105.
 
 ### P.Bon.
-= Papyri Bononienses, ed. O. Montevecchi. Milan 1953. (Pubblicazioni dell'Università Cattolica del Sacro Cuore, N.S. 42). Nos. 1—49; no. 50 contains a mummy ticket and a parchment. [VP]
+= _Papyri Bononienses_, ed. O. Montevecchi. Milan 1953. (Pubblicazioni dell'Università Cattolica del Sacro Cuore, N.S. 42). Nos. 1—49; no. 50 contains a mummy ticket and a parchment. [VP]
 
 ### P.Bour.
-= Les Papyrus Bouriant, ed. P. Collart. Paris 1926. Nos. 1—63. [MF 1.87]
+= _Les Papyrus Bouriant_, ed. P. Collart. Paris 1926. Nos. 1—63. [MF 1.87]
 
 ### P.Brem.
-= Die Bremer Papyri, ed. U. Wilcken. Berlin 1936. (AbhBerlin 1936,2; rp. in U. Wilcken, Berliner Akademieschriften zur alten Geschichte und Papyruskunde II 193—368. Leipzig 1970). Nos. 1—83 are Greek; no. 84, in Coptic, is briefly described. [DZA; MF 1.83]
+= _Die Bremer Papyri_, ed. U. Wilcken. Berlin 1936. (AbhBerlin 1936,2; rp. in U. Wilcken, Berliner Akademieschriften zur alten Geschichte und Papyruskunde II 193—368. Leipzig 1970). Nos. 1—83 are Greek; no. 84, in Coptic, is briefly described. [DZA; MF 1.83]
 
 ### P.Brit.Mus.
-= Catalogue of the Demotic Papyri in the British Museum
+= _Catalogue of the Demotic Papyri in the British Museum_
  * I, A Theban Archive of the Reign of Ptolemy I Soter, ed. S.R.K. Glanville. London 1939. Published here are inventory nos. 10522—10530, 10535—10537. There are plates of all (or parts of all). There is an additional plate of inv. no. 10500. [BMP]
  * II, The Instructions of Onchsheshonqy, Part 1, Introduction, transliteration, translation, notes and plates, ed. S.R.K. Glanville. London 1955. Part 2 has never been published. [BMP]
  * III, The Mortuary Texts of Papyrus BM 10507, ed. M. Smith. London 1987. [BMP]
  * IV, Ptolemaic Legal Texts from the Theban Area, ed. C.A.R. Andrews. London 1990. Published texts in vol. IV are numbered sequentially Cat. 1 to Cat. 48. The indexes, however, give inventory number references. There is a concordance of inventory numbers with publication numbers on p. 108. In addition there is a concordance of Cat. nos. and plate nos. on p. 129. [BMP]
 
 ### P.Brit.Mus.Reich
-= Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3).
+= _Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum_, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3).
 
 ### P.Brookl.
-= Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum, ed. J.C. Shelton. Florence 1992. (Pap.Flor. XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF]
+= _Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum_, ed. J.C. Shelton. Florence 1992. (Pap.Flor. XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF]
 
 ### P.Brookl.Dem.
-= Catalog of Demotic Texts in the Brooklyn Museum, ed. G. R. Hughes, with contributions by B. P. Muhs and S. Vinson. Chicago 2005. (OIC 29). [OIP]
+= _Catalog of Demotic Texts in the Brooklyn Museum_, ed. G. R. Hughes, with contributions by B. P. Muhs and S. Vinson. Chicago 2005. (OIC 29). [OIP]
 
 ### P.Brookl.Pierce
-The three Brooklyn Museum Papyri published in R.H. Pierce, Three Demotic Papyri in the Brooklyn Museum (Oslo 1972 = Symb.Osl. Suppl. 24), have been republished with extensive commentary, translation and plates as P.Recueil 4—6
+= _Three Demotic Papyri in the Brooklyn Museum_, ed. R. H. Pierce. Oslo 1972. (Symb.Osl. Suppl. 24); republished with extensive commentary, translation and plates as P.Recueil 4—6
 
 ### P.Brux.
-= Papyri Bruxellenses Graecae
+= _Papyri Bruxellenses Graecae_
  * I, ed. G. Nachtergael. Brussels 1974. Nos. 1—21. Nos. 1—18 are a republication of P.Brux.inv. E. 7616. See Pap.Lugd.Bat. V. [FERE]
  * II, Le poème élégiaque hellénistique P.Brux.inv. E 8934 et P.Sorb.inv. 2254. Édition, commentaire et analyse stylistique, ed. M. Huys. Brussels 1991. No. 22. [FERE] There are also Brussels texts at SB I 4325; V 8025, 8027, 8035 a—c, 8263—8264; VI 8982—8985, 9051, 9161, 9163, 9199, 9206—9210, 9216, 9360; VIII 10163; X 10274, 10556—10557; XIV 11337, 1140, 11845—11849; XVI 12493; XVIII 13367; XX 14393, 14399, 14663.
 
 ### P.Brux.Bawit
-= Papyrus coptes et grecs du monastère d'apa Apollô de Baouît conservés aux Musées royaux d'Art et d'Histoire de Bruxelles, ed. A. Delattre. (Académie royale de Belgique. Mémoires de la Classe des Lettres. Collection in-8°. 3e série. Tome XLIII, No. 2045.)
+= _Papyrus coptes et grecs du monastère d'apa Apollô de Baouît conservés aux Musées royaux d'Art et d'Histoire de Bruxelles_, ed. A. Delattre. (Académie royale de Belgique. Mémoires de la Classe des Lettres. Collection in-8°. 3e série. Tome XLIII, No. 2045.)
 
 ### P.Brux.Dem.
 = Die demotischen Papyrus der Musées Royaux du Cinquantenaire, ed. W. Spiegelberg. Brussels 1909. Nos. 1— 7.
