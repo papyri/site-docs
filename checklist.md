@@ -686,5 +686,99 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### P.Gron.
 = _Papyri Groninganae; Griechische Papyri der Universitätsbibliothek zu Groningen nebst zwei Papyri der Universitätsbibliothek zu Amsterdam_, ed. A.G. Roos. Amsterdam 1933. (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, Nieuwe Reeks 32, no. 4). Nos. 1—22. The two Amsterdam papyri at the end should be cited as P.Gron.Amst. 1—2; no. 1 is republished at SB XXIV 15970. See also another Amsterdam University Library text at SB XII 11229. [Rp. CG]
 
+### P.Hal.
+= _Dikaiomata: Auszüge aus alexandrinischen Gesetzen und Verordnungen in einem Papyrus des Philologischen Seminars der Universität Halle (Pap.Hal. 1) mit einem Anhang weiterer Papyri derselben Sammlung_, ed. by the Graeca Halensis. Berlin 1913. Nos. 1—22. [Rp. CG]
+
+### P.Hamb.
+= _Griechische Papyrusurkunden der Hamburger Staats- und Universitätsbibliothek_.
+
+ * I (in 3 parts), ed. P.M. Meyer. Leipzig-Berlin 1911—1924. Pt. I, nos. 1—23; pt. II, nos. 24—56; pt. III, nos. 57—117. [MF 2.103: rp. CG]
+ * II mit einigen Stücken aus der Sammlung Hugo Ibscher, ed. B. Snell and others. Hamburg 1954. (Veröffentlichungen aus der Hamburger Staats- und Universitätsbibliothek 4). Nos. 118—192. [EH]
+ * III, ed. B. Kramer and D. Hagedorn. Bonn 1984. (Pap.Texte Abh. XXXI). Nos. 193—234. [RH]
+ * IV, ed. B. Kramer and D. Hagedorn. Stuttgart and Leipzig 1998. (Archiv Beih. 4). Nos. 235—283. [KGS]
+
+### P.Harkness
+= _Papyrus Harkness (MMA 31.9.7)_, ed. M. J. Smith. Oxford 2005. [Griffith Institute]
+
+### P.Harr.
+= _The Rendel Harris Papyri of Woodbrooke College, Birmingham_.
+
+ * I, ed. J.E. Powell. Cambridge 1936. Nos. 1—165. [Rp. CG]
+ * II, ed. R.A. Coles, M. Manfredi, P.J. Sijpesteijn, A.S. Brown et al. Zutphen 1985. (Stud.Amst. XXVI). Nos. 166—240. [TPC]
+
+### P.Harrauer
+= _Wiener Papyri als Festgabe zum 60. Geburtstag von Hermann Harrauer_, ed. B. Palme. Vienna 2001. Nos. 1-62. Nos. 1-3, 28-36, 38-45, 47-56 and 58-60 are Greek. Nos. 4 and 57 are Coptic. Nos. 5-11, 12-15 and 32-33 are Demotic. No. 37 is Latin. No. 61 is Arabic. Nos. 26-27 are Demotic and Greek. No. 46 is Greek and Latin. No. 62 is a medieval bilingual glossary (Latin/Greek). Nos. 1-2, 4, 12-36, 38-61 are papyri; nos. 5-11, 26-27 and 37 are ostraca. No. 3 is a tablet. [Holzhausen]
+
+### P.Haun.
+= _Papyri Graecae Haunienses_.
+
+ * I, Literarische Texte und ptolemäische Urkunden, ed. T. Larsen. Copenhagen 1942. Nos. 1—12. Documentary texts reprinted as SB VI 9242—9245. [Rp. CG] Five additional texts were published in Cahiers de l'Institut du Moyen-Âge Grec et Latin, Copenhagen 1971, by A. Bülow-Jacobsen and S. Ebbesen. Reprinted as SB XIV 11355—11358 and 11714; inv.317 also = P.Haun. II 19, inv. 318 = P.Haun. III 58. [CUI]
+ * II, ed. A. Bülow-Jacobsen. Bonn 1981. (Pap.Texte Abh. XXIX). Nos. 13—44. [RH]
+ * III, ed. T. Larsen and A. Bülow-Jacobsen. Bonn 1985. (Pap.Texte Abh. XXXVI). Nos. 45—69. [RH]
+
+### P.Hausw.
+= _The Hauswaldt Papyri_, ed. J. Manning. Sommerhausen 1997. (Dem.Stud. XII). Nos. 1—25. There are Greek dockets to nos. 2a and b, 8a and b, and 9a and b. This edition replaces a quasi-edition of the same texts, Die Hauswaldt-Papyri, ed. W. Spiegelberg with "Rechtsgeschichtliche Beiträge" by J. Partsch (Leipzig 1913), with a separate elephant-folio volume of plates. While the Spiegelberg edition does not transcribe or translate many of the texts, the plates volume is essential. Manning provides plates of nos. 10, 16, and 17; nos. 4 and 6 are no longer extant. The numbering of the texts is the same in both volumes. [Gisela Zauzich Verlag]
+
+### P.Hawara
+= _Demotische Urkunden aus Hawara_, ed. E. Lüddeckens, with R. Wassermann and for the Greek, R.W. Daniel. Stuttgart 1998. (Verzeichnis der orientalischen Handschriften in Deutschland. Supplementband 28). Nos. I—XXIV, some with multiple texts. There are Greek subscriptions at nos. 1—3, X, XII—XV, XVIa, XVIb, XVIIa, XVIIb, XIXa, XXIa/b, XXIII. [Franz Steiner Verlag] There are also Greek texts from Hawara. Some were published on pp. 24—36 in Hawara, Biahmu and Arsinoe, by W.M. Flinders Petrie. London 1889. [MF 2.73] Further publication of some texts by J.G. Milne, Archiv 5 (1913) 378—397. Some of the texts were republished in SB I. There is a concordance at SB II, pp. 126—27. Most of the documentary texts from Archiv are republished in SB XVIII 13219—13245.
+
+P.Heid.
+= _Veröffentlichungen aus der Heidelberger Papyrussammlung_. See also Pap.Heid.
+
+ * I (= Pap.Heid. N.F. II), Literarische griechische Texte der Heidelberger Papyrussammlung, ed. E. Siegmann. Heidelberg 1956. Nos. 181—209 (numbering cont. from P.Bad.). [CWV]
+ * II, Nos. 210—224, ed. J. Seyfarth in Archiv 16 (1958) 143—168; texts reprinted as SB VI 9530—9544.
+ * III (= Pap.Heid. N.F. III), Griechische Papyrusurkunden und Ostraka der Heidelberger Papyrussammlung, ed. P. Sattler. Heidelberg 1963. Nos. 225—248 (papyri), 249—288 (ostraca, all reedited in O.Heid.; nos. 257 and 258 contain Demotic). [CWV]
+ * IV (= Pap.Heid. N.F. V), Griechische Texte der Heidelberger Papyrussammlung, ed. B. Kramer and D. Hagedorn. Heidelberg 1986. Nos. 289—296 literary, 297—342 documentary. [CWV]
+ * V (= Pap.Heid. N.F. VI), Vertragliche Regelungen von Arbeiten im späten griechischsprachigen Ägypten, mit Editionen von Texten der Heidelberger Papyrussammlung, des Istituto Papirologico "G.Vitelli", des Ägyptischen Museums zu Kairo und des British Museum, London, ed. A. Jördens. Heidelberg 1990. Nos. 343—361. [CWV]
+ * VI (= Pap.Heid. N.F. VII), Ptolemäische Urkunden aus der Heidelberger Papyrussammlung, ed. R. Duttenhöfer. Heidelberg 1994. Nos. 362—386. [CWV]
+ * VII (= Pap.Heid. N.F. VIII), Fünfundzwanzig griechische Papyri aus den Sammlungen von Heidelberg, Wien und Kairo, ed. A. Papathomas. Heidelberg 1996. Nos. 387—411. [CWV]
+ * VIII (= Pap.Heid. N.F. X), Dokumentarische Papyri des 2. Jh. v. Chr. aus dem Herakleopolites, ed. D. Kaltsas. Heidelberg 2001. Nos. 412-421. [CWV]
+ * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. C. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV]
+
+### P.Hels.
+= _Papyri Helsingienses I, Ptolemäische Urkunden_, ed. J. Frösén, P. Hohti, J. and M. Kaimio, H. Zilliacus. Helsinki 1986. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 80). Nos. 1—47.
+
+### P.HengstenbergCopt.
+= "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327), but are now lost.
+
+### P.Hercul.
+See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante at Centro Internazionale per lo Studio dei Papiri Ercolanesi (Naples 1979) and Manuale di papirologia ercolanese, by M. Capasso (Lecce 1991 = Università degli Studi di Lecce, Dipartmento di Filologia Classica e Medioevale, Testi e Studi 3).
+
+### P.Herm.
+= _Papyri from Hermopolis and Other Documents of the Byzantine Period_, ed. B.R. Rees. London 1964. (Egypt Exploration Society, Graeco-Roman Memoirs 42). Nos. 1—85. [EES]
+
+### P.Hermias
+= _Le procès d'Hermias d'apres les sources démotiques et grecques_, ed. E. Revillout. Part 1, pp. 1—136. Paris 1884. Part 2, pp. 137—210. Paris 1903. There is material in this volume which has not been republished. The details are found in P.Choach.Survey.
+
+### P.Herm.Landl.
+= _Zwei Landlisten aus dem Hermupolites (P.Giss. 117 und P.Flor. 71)_, ed. P.J. Sijpesteijn and K.A. Worp. Zutphen 1978. (Stud.Amst. VII). There are also 2 additional texts (Stud.Pal. V 120 and P.Flor. I 87) in appendices. [TPC]
+
+### P.HermitageCopt.
+= _Koptskie teksty Gosudarstvennogo Ermitazha_, ed. P.V. Ernshtedt (Jernstedt). Leningrad, Izd-vo Akademii nauk. 1959. Nos. 1—77.
+
+### P.Hever
+= _Aramaic, Hebrew and Greek Documentary Texts from Nahal Hever and Other Sites, with an Appendix containing Alleged Qumran Texts (The Seiyâl Collection II)_, ed. H.M. Cotton and A. Yardeni. Oxford 1997. (Discoveries in the Judaean Desert 27). Nos. 7—50 are Aramaic and Hebrew documents; nos. 60—73 are Greek. There is also one Greek text, no. 361, in the appendix, not transcribed; a photographic image can be found on plate lxi. [OUP]
+
+### P.Hib.
+= _The Hibeh Papyri_. London.
+ 
+ * I, ed. B.P. Grenfell and A.S. Hunt. 1906. (Egypt Exploration Society, Graeco-Roman Memoirs 7). Nos. 1—171. There is a Demotic docket at no. 80 and no. 164 (descriptum) is a Demotic document. The receipts, nos. 105—107 and (in the descripta) nos. 136—142 have one line each of Demotic at the bottom of the Greek text. [EES]
+ * II, ed. E.G. Turner and M.-Th. Lenger. 1955. (Egypt Exploration Society, Graeco-Roman Memoirs 32). Nos. 172—284. [EES]
+
+### P.Holm.
+= _Papyrus Graecus Holmiensis, Recepte für Silber, Steine und Purpur_, ed. O. Lagercrantz. Uppsala and Leipzig 1913. (Arbeten utgifna med understöd af Vilhelm Ekmans Universitetsfond 13). [UUB]
+
+### P.Hombert
+= _La Collection Marcel Hombert_, ed. G. Nachtergael. Brussels
+
+ * I,1978. (Pap.Brux. XV). No. 27 is papyrus; nos. 28—31 ostraca; nos. 32—34 wooden tablets; texts reprinted SB XIV 11986—11991. (Nos. 1-26 are stamped amphora handles.) [FERE]
+ * II, 2003. (Pap.Brux. XXXII). Nos. 39—45. Nos. 39—42 and 45 are ostraca; no. 43 is a inscribed figurine and no. 44 is an inscription. [FERE]
+
+### P.Horak
+= _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. (Pap.Flor. XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF]
+
+P.Hou
+= _The Gooseherds of Hou_, ed. S. Vleeming. Leuven 1991. (Stud. Demotica 3). Nos. 1—13. [Peeters]
+
 ### P.Gur.
 = _Greek Papyri from Gurob_, ed. J.G. Smyly. Dublin 1921. (Royal Irish Academy, Cunningham Memoirs 12). Nos. 1—29. [MF 1.53]
