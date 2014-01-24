@@ -1700,3 +1700,279 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### O.AbuMina
 = _Greek Ostraka from Abu Mina_, ed. N. Litinas. Berlin and New York 2008. (Archiv Beih. 25). Nos. 1—1088; nos. 1089—1446 are decripta. [KGS]
+
+### O.Amst.
+= _Ostraka in Amsterdam Collections_, ed. R.S. Bagnall, P.J. Sijpesteijn and K.A. Worp. Zutphen 1976. (Stud.Amst. IX). Nos. 1—108. No. 6 contains Demotic; no. 93 is Coptic, see Enchoria 8 (1978) 149—150 (R.S. Bagnall). [TPC]
+
+### O.Ashm.
+= "Ostraca in the Ashmolean Museum at Oxford," in O.Bodl. I, pp. 63—81. Nos. 1—106
+
+### O.Ashm.Copt.
+= _Koptische Ostraka II: Ostraka aus dem Ashmolean Museum in Oxford_, ed. A. Biedenkopf-Ziehner. Wiesbaden 2000. Nos. 1-22. [OH]
+
+### O.Ashm.Shelt.
+= _Greek Ostraca in the Ashmolean Museum from Oxyrhynchus and other sites_, ed. J.C. Shelton. Firenze 1988. (Pap.Flor. XVII). Nos. 1—229. No. 1 contains a Demotic subscription. [LGF]
+
+### O.Bawit
+= _Le Monastère et la nécropole de Baouit_, ed. from the notes of J. Clédat by D. Bénazeth and M.-H. Rutschowscaya, with contributions from A. Boud’hors, R.-G. Coquin and E. Gaillard. Cairo 1999. (MIFAO 111bis). 94 ostraca are published on pp. 245—343; of these 57 (or 58) are in the Louvre, the location of the others being unknown. On pp. 349—358 there are images of 75 Greek and Coptic papyri, all but three of which are unpublished. Those three can be found in A. Boud’hors, "Papyrus de Clédat au Musée du Louvre," Divitiae Aegypti. Koptologische und verwandte Studien zu Ehren von Martin Krause, ed. C. Fluck et al. (Wiesbaden 1995) 29—35. [SEVPO]
+
+### O.BawitIFAO
+= _Ostraca grecs et coptes de Baouit_, ed. A. Boud'hors. Cairo 2004. (Bibliothèque d'Études Coptes 17). Nos. 1—67 and O.Nancy. Nos. 1—11, 13, 28. 30. 31. 43. 47—49 and O.Nancy are Greek and Coptic; nos. 12, 27, 29, 32, 46, and 60—67 are Coptic; nos. 16—26, 33—42, 44, 45, 50—53, 58 and 59 are Greek.
+
+### O.Berenike
+= _Documents from Berenike_
+
+ * I, Greek Ostraka from the 1996—1998 Seasons, ed. R.S. Bagnall, C. Helms and A.M.F.W. Verhoogt. Brussels 2000. (Pap.Brux. XXXI). Nos. 1—117.
+ * II, Texts from the 1999-2001 Seasons, ed. R. S. Bagnall, C. Helms, and A. M. F. W. Verhoogt. Brussels 2005. (Pap.Brux. 33). Nos. 118-260 (nos. 118-120 are inscriptions, 123-135 papyri, 136-257 ostraka, 258 a wooden tag, 259-260 instrumenta).
+
+### O.Berl.
+= _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in O.Brux. [MF 2.72]
+
+### O.Bodl.
+= _Greek Ostraca in the Bodleian Library at Oxford and Various Other Collections_.
+
+ * I, ed. J.G. Tait. London 1930. (Egypt Exploration Society, Graeco-Roman Memoirs 21). Nos. 1—406. There is Demotic (ed. H.F.H. Thompson) at nos. 4, 5, 7—9, 11, 14, 15—16, 18, 19—20, 22—25, 37, 42, 50, 70, 92, 93, 95, 96, 146—153, 203—205, 224—229, 308, 358 and 359—365. This volume also contains O.Ashm., O.Camb., O.Minor and O.Petr., which should be cited according to those abbreviations. [EES]
+ * II, Ostraca of the Roman and Byzantine Periods, ed. J.G. Tait and C. Préaux. London 1955. (Egypt Exploration Society, Graeco-Roman Memoirs 33). Nos. 407—2588. There is Demotic at nos. 418, 421, 462, 466, 469, 562, 563, 591, 592, 594, 596, 660, 765, 968, 969, 1015, 1143 and 1147. [EES]
+ * III, Indexes, compiled by J. Bingen and M. Wittek. London 1964. (Egypt Exploration Society, Graeco-Roman Memoirs 43). [EES]
+
+### O.Brit.Mus.Copt.
+
+ * I, Coptic and Greek Texts of the Christian Period from Ostraka, Stelae, etc. in the British Museum, ed. H.R. Hall. London 1905. The arrangement is in 100 plates, each of which contains one or more texts. There is also an appendix of 33 Coptic inscriptions. There is no index.
+ * II, Koptische Ostraka I: Ostraka aus dem Britischen Museum in London, ed. A. Biedenkopf-Ziehner. Wiesbaden 2000. Nos. 1-47, Add. 1-6. [OH]
+
+### O.Brux.
+= _Au Temps ou on lisait le grec en Égypte_, ed. J. Bingen. Brussels 1977. Nos. 1—20; reedition of O.Berl. 1-20.
+
+### O.Buch.
+= _The Bucheum_, by R. Mond and O.H. Myers. 3 vols. London 1934. (Egypt Exploration Society, 41st Memoir). There are Demotic, Greek and Coptic texts in vol. II: "The Demotic Ostraca," ed. G. Mattha on pp. 53—74; "The Greek Ostraca," ed. A.S. Hunt, T.C. Skeat and J.G. Tait on pp. 75—78; "The Coptic Ostraca," ed. W. Crum on pp. 78—80.
+
+### O.BuNjem
+= _Les Ostraca de Bu Njem_, ed. R. Marichal. Tripoli 1992. (Libya Antiqua, Suppl. VII). Nos. 1—151, Latin ostraca.
+
+### O.Cair.
+= _Ostraka greci del Museo Egizio del Cairo_, ed. C. Gallazzi, R. Pintaudi and K.A. Worp. Florence 1986. (Pap.Flor. XIV). Nos. 1—140. [LGF]
+
+### O.Cair.Cat.
+= _Catalogue général des antiquités égyptiennes du Musée du Caire_, nos. 9501—9711: Griechische Ostraka, by U. Wilcken, ed. C. Gallazzi. Cairo 1983. Not mainly a publication of ostraca but a list and short description of ostraca in the Cairo Museum. For the texts, see O.Cair. (concordance, p. xiv). Transcriptions are given in notes for 5 ostraca; texts reprinted in SB XX 14594-14598.
+
+### O.Cair.Monuments
+= _Catologue général des antiquités égyptiennes du Musée du Caire_, nos. 8001 – 8741: Coptic Monuments, by W. E. Crum. Cairo 1902. Not an edition, but a list and short description of all the Coptic texts in the Cairo Museum. Nos. 8001 – 8024, 8029, 8030, 8079 – 8100 and 8312 – 8316 are on parchment; nos. 8031 – 8078 and 8728 – 8741 are on papyrus; nos. 8025 – 8028 and 8101 – 8103 are on paper; no. 8104 is an inscribed jar; no. 8105 is not used; nos. 8106 – 8311 are ostraca; nos. 8317 and 8318 are painted on jars and nos. 8319 – 8727 are all grave stelae. Many of the inscribed stelae were transferred to the Coptic Museum; for these see I. Kamel, Coptic Funerary Stelae, (Catalogue général des antiquités du Musée copte, nos. 1-253) with a concordance on pp. 269 – 271.
+
+### O.Camb.
+= "Ostraca in the Cambridge University Library," in O.Bodl. I, pp. 153—173, nos. 1—141. Greek texts except nos. 124, 125(?), 127—128, 134—135 and 138, which contain Coptic items, and no. 136, which contains Demotic.
+
+### O.Chic.Muhs
+= _Tax Receipts, Taxpayers, and Taxes in Early Ptolemaic Thebes_, ed. B. P. Muhs. Chicago 2005. (Oriental Institute Publications 126). Nos. 1-61.[OI]
+
+### O.Claud.
+= _Mons Claudianus. Ostraca graeca et latina_. [SEVPO]
+
+ * I, ed. J. Bingen, A. Bülow-Jacobsen, W.E.H. Cockle, H. Cuvigny, L. Rubinstein and W. Van Rengen. Cairo 1992. (Institut Français d’Archéologie Orientale, Documents de Fouilles 29). Nos. 1—190.
+ * II, ed. J. Bingen, A. Bülow-Jacobsen, W.E.H. Cockle, H. Cuvigny, F. Kayser and W. Van Rengen. Cairo 1997. (Institut Français d’Archéologie Orientale, Documents de Fouilles 32). Nos. 191—416.
+ * III, Les reçus pour avances à la ‘familia,’ ed. H. Cuvigny. Cairo 2000. (Institut Français d’Archéologie Orientale, Documents de Fouilles 38). Nos. 417-631.
+ * IV, ed. A. Bülow-Jacobsen. Cairo 2009. (Institut Français d’Archéologie Orientale, Documents de Fouilles 47). Nos. 632—896.
+
+### O.Cret.Chers.
+= _Greek Ostraka from Chersonesos. Ostraca Cretica Chersonesi_, ed. N. Litinas. Vienna 2009. (Tyche supplement 6). Nos. 1—90.
+
+### O.Crum
+= _Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others_, ed. W.E. Crum. London 1902. Nos. 1—525, Add. 1-62. Translations and commentary on the texts arranged by type precede the Coptic texts themselves.
+
+### O.CrumST
+= _Short Texts from Coptic Ostraca and Papyri_, ed. W.E. Crum. Oxford 1921. Nos. 1—450. Papyri are nos. 1, 46, 48—49, 57—60, 96—97, 113, 116—118, 124, 126, 130, 138, 153—154, 156—157, 166, 170—193, 264—266, 329—330, 405, 436, 439. No. 438 is a tablet; the rest are ostraca. The Vienna ostraca published here have been republished in O.Vind.Copt. Nos. 96 and 181 are republished in BASP 32 (1995) 101-108, 113-116 (S. Clackson). No. 439 (= P.Lond. V 1720) is republished in ZPE 96 (1993) 229—233 (L.S.B. MacCoull).
+
+### O.CrumVC
+= _Varia Coptica_, ed. W.E. Crum. Aberdeen 1939. Nos. 1—129. Papyri are nos. 5—9, 38—39, 46—52, 100, 114—116 and 129. No. 5 is reedited with a new fragment in Enchoria 15 (1987) 55—59 (R.P. Salomons and P.J. Sijpesteijn).
+
+### O.Deir el-Bahari
+= _Le Monastère de St. Phoibammon_. Deir el-Bahari 5, ed. W. Godlewski. Warsaw 1986. Coptic ostraca nos. 1—19 (no. 16 is wood and no. 19 Arabic) are found in chapter 9, pp. 134—140.
+
+### O.Deiss. (see P.Meyer).
+
+### O.Dime
+= _Demotische Dokumente aus Dime I: Ostraka_, ed. S. L. Lippert and M. Schentuleit. Wiesbaden 2006.
+
+### O.Douch
+= _Les ostraca grecs de Douch_. Cairo.
+
+ * I, ed. H. Cuvigny and G. Wagner. 1986. (Institut Français d’Archéologie Orientale, Documents de Fouilles 24/1). Nos. 1—57. Nos. 40 and 49 are Coptic; no. 44 is termed Graeco-Coptic. [SEVPO]
+ * II, ed. H. Cuvigny and G. Wagner. 1988. (Documents de Fouilles 24/2). Nos. 58—183. No. 183 is Greek and Coptic. [SEVPO]
+ * III, ed. H. Cuvigny and G. Wagner. 1992. (Documents de Fouilles 24/3). Nos. 184—355. [SEVPO]
+ * IV, ed. G. Wagner. 1999. (Documents de Fouilles 24/4). Nos. 356—505. No. 468 is termed Graeco-Coptic. [SEVPO]
+ * V, ed. G. Wagner. 2001.(Documents de Fouilles 24/5). Nos. 506—639. [SEVPO]
+
+### O.Edfou, published in Tell Edfou vols. I—III; for bibliographical information see under P.Edfou.
+
+ * I, Cairo 1937. Nos. 1—230.
+ * II, Cairo 1938. Nos. 231—325. There is Demotic noted at nos. 232, 233, 238, 245 and 255.
+ * III, Cairo 1950. Nos. 326—372. There is Demotic noted at nos. 348, 353, 355 and 360.
+
+### O.EdfouIFAO.
+= _Ostraca grecs et coptes des fouilles franco-polonaises sur le site de Tell Edfou. O. EdfouCopte 1-145_, ed. S. Bacot. Cairo 2009. (Bibliothèque d'Études Coptes 17). Nos. 1—145. Nos. 36—43, 46—47, 55—57, 61—62 and 121 are Greek and Coptic; nos. 1—9, 11—35, 44—45, 58, 60, 63—87, 92—94, 104, 107—120 and 122—145 are Coptic; nos. 10, 48—54, 59, 88—91, 95—103 and 105—106 are Greek.
+
+### O.Eleph.Wagner (see P.Eleph.Wagner).
+
+### O.Elkab
+= _Elkab III. Les ostraca grecs_, ed. J. Bingen and W. Clarysse. Brussels 1989. (Publications du Comité des Fouilles Belges en Égypte, Elkab). Nos. 1—227. [FERE]
+
+### O.Erem.
+= "Griechische Ostraka in der Kaiserlichen Eremitage in St. Petersburg," ed. G. Zereteli in Archiv 5 (1913) 170—180, nos. 1—40. Now republished as SB XVIII 13179—13217.
+
+### O.Fay. (see P.Fay)
+
+### O.Florida
+= _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
+
+### O.Heid.
+= _Die griechischen Ostraka der Heidelberger Papyrus-Sammlung_, ed. C. Armoni, J. M. S. Cowey and D. Hagedorn with notes by W. Habermann. Heidelberg 2005. (Veröffentlichungen aus der Heidelberger Papyrus-Sammlung N.F. 11) Nos. 1-525; nos. 454-525 are descripta. There is Demotic in nos. 2, 30 and 35. The ostraca published in P.Heid. III are all reedited in this volume. There is a concordance on pages 513-514.[CWV]
+
+### O.Hor
+= _The Archive of Hor_, ed. J.D. Ray. London 1976. (Egypt Exploration Society, Texts from Excavations, 2). Nos. 1—65; no. 1 is Greek, the rest Demotic. [EES]
+
+### O.Joach.
+= _Die Prinz-Joachim-Ostraka_, ed. F. Preisigke and W. Spiegelberg. Strassburg 1914. (Schriften der Wissenschaftliche Gesellschaft in Strassburg 19). Nos. 1—22 are Greek, nos. 23—29 Demotic. Greek texts reprinted as SB III 6027—6034, 6920—6933. [Rp. CG]
+
+### O.Kellis
+= _Greek Ostraka from Kellis_, ed. K. A. Worp. Oxford 2004. (Dakhleh Oasis Project: Monograph 13). Nos. 1-293. Plates contain illustrations of the texts except for nos. 13, 23, 31, 58, 90, 141, 153, 160, 162—268, 284, 287 and 289. Included also is a CD which contains the same illustrations in PDF format. [Oxbow]
+
+### O.Krok.
+= _Ostraca de Krokodilô_, ed. H. Cuvigny.
+
+ * I, La correspondance militaire et sa circulation. Cairo 2005. (Fouilles de l'Ifao 51). Nos. 1-151. [IFAO]
+
+### O.Leid.
+= _Greek Ostraka: a Catalogue of the Greek Ostraka in the National Museum of Antiquities at Leiden, with a Chapter on the Greek Ostraka in the Papyrological Institute of the University of Leiden_, ed. R.S. Bagnall, P.J. Sijpesteijn and K.A. Worp. Zutphen 1980. (Collections of the National Museum of Antiquities at Leiden IV). Nos. 1—410. Descripta nos. 411—697. [TPC]
+
+### O.Leid.Dem.
+= _The Demotic Ostraca in the National Museum of Antiquities at Leiden_, ed. M.A.A. Nur el-Din. Leiden 1974. Nos. 1—590.
+
+### O.Lips. (see P.Lips.)
+
+### O.Louvre
+= _Ostraca démotiques du Musée du Louvre_.
+
+ * I, Reçus, ed. D. Devauchelle. In two parts: 1, Texte, and 2, Index et Planches. Cairo 1983. (Institut Français d’Archéologie Orientale, Bibliotheque d’Étude 82). Texts are not given sequential numbers; they must be cited by page and new inventory numbers. [SEVPO]
+
+### O.Lund.
+= _Ostraca Lundensia. Ostraka aus der Sammlung des Instituts für Altertumskunde an der Universität zu Lund_, ed. C. Tsiparis. Lund 1979. Nos. 1—32. [from Klassiska Institutionen, Sölvegatan 2, 22362 Lund, Sweden]
+
+### O.Magnien
+= _Quelques reçus d’impôts agricoles_, ed. M. Magnien. Paris 1902.
+
+O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
+
+### O.Mattha
+= _Demotic Ostrac_a, ed. G. Mattha. Cairo 1945. (Publ.Soc.Fouad VI). Nos. 1—276. [MF 2.93]
+
+### O.Medin.HabuCopt.
+= _Coptic Ostraca from Medinet Habu_, ed. E. Stefanski and M. Lichtheim. Chicago 1952. (Univ. of Chicago. Oriental Institute Publications 71). Nos. 1—400. There is a concordance of inventory nos. and publication nos. by T. Wilfong, Enchoria 17 (1990) 155—160.
+
+### O.Medin.HabuDem.
+= _Demotic Ostraca from Medinet Habu_, ed. M. Lichtheim. Chicago 1957. (Univ. of Chicago, Oriental Institute Publications 80). Nos. 1—160. There is a concordance of inventory nos. and publication nos. by M. Wojdyla, Enchoria 15 (1987) 213—214.
+
+### O.Medin.Madi
+= _Ostraka e papiri greci da Medinet Madi nelle campagne 1968 e 1969_, ed. D. Foraboschi. Milan 1976. (Testi e documenti per lo studio dell’antichità 53). Nos. 1—33 plus two papyri (= P.Medin.Madi). [CG]
+
+### O.Métrologie
+= _Mélanges sur la métrologie, l’économie politique et l’histoire de l’ancienne Égypte_, by E. Revillout. Paris 1895. 
+
+### O.Meyer (see P.Meyer)
+
+### O.Mich.
+= Greek Ostraca in the University of Michigan Collection
+
+ * I, Texts, ed. L. Amundsen. Ann Arbor 1935. (Univ. of Mich. Studies, Humanistic Series 34). Nos. 1—699. [MF1.27]
+ * II, Nos. 700—971, see P.Mich. VI.
+ * III, Nos. 972—1111, see P.Mich. VIII.
+ * IV, Nos. 1112—1144, ed. H.C. Youtie in ZPE 18 (1975) 267—282. Reprinted SB XIV 11499—11531.
+
+### O.Mich.Copt.
+= _Coptic Texts in the University of Michigan Collection_, ed. W.H. Worrell. Ann Arbor 1942. (Univ. of Mich. Studies, Humanistic Series 46). Pt. IV, "Letters and Documents on Ostraca or Fragments of Limestone," pp. 215—251. Nos. 1—28. See also P.Mich.Copt. and O.Mich.Copt.Etmoulon.
+
+### O.Mich.Copt.Etmoulon
+= _Coptic Texts in the University of Michigan Collection_, ed. W.H. Worrell. Ann Arbor 1942. (Univ. of Mich. Studies, Humanistic Series 46). Pt. V, "Etmoulon Ostraca," ed. H.C. Youtie and W.H. Worrell, pp. 253—294. Nos. 1—77 (reprinted SB Kopt. I 146—222). See also P.Mich.Copt. and O.Mich.Copt.
+
+### O.Minor
+= "Ostraca in Various Minor Collections," in O.Bodl. I, pp. 174—81. 41 ostraca from 8 collections; no. A6 has a reference to Demotic.
+
+### O.Mon.Phoib.
+= _Le Monastère de Phoebammon dans la Thébaïde_, ed. C. Bachatly. Tome 2: Graffiti, inscriptions et ostraca, ed. R. Rémondon, Yassâ ‘Abd al-Masîh, W.C. Till and O.H.E. KHS-Burmester. Cairo 1965. (Publications de la Société d’archéologie copte. Rapports de fouilles). "Coptic Ostraca", ed. W.C. Till and O.H.E. KHS-Burmester, are found on pp. 103—157, pls. 1—13. Nos. 1—125; nos. 1—3 are biblical, 4—5 legal, 6—18 letters, 19—125 fragments. No. 40 Greek? with cryptogram?
+
+### O.Muhs
+= _The Administration of Egyptian Thebes in the Early Ptolemaic Period_, by B.P. Muhs. Dissertation Univ. of Pennsylvania, Philadelphia 1996. Publishes 18 Demotic ostraca from the Brooklyn Museum and 47 Demotic ostraca from the Oriental Institute of the University of Chicago. [UMI, order no. 96-27970]
+
+### O.Muzawwaqa
+= "The Demotic Ostraca from Qaret el-Muzawwaqa," ed. M.A. Nur el-Din in Denkmäler der Oase Dachla: aus dem Nachlass von Ahmed Fakhry by J. Osing, M. Moursi, D. Arnold, O. Neugebauer, R.A. Parker, D. Pingree and M.A. Nur el-Din. Mainz 1982. (Deutsches Archäologisches Institut. Abt. Kairo. Archäologische Veröffentlichungen 28). Nos. 1—30. [PvZ]
+
+### O.Nancy (see O.BawitIFAO)
+
+### O.Narm.
+= Ostraka greci da Narmuthis (OGN I), ed. R. Pintaudi and P.J. Sijpesteijn. Pisa 1993. (Quaderni di Medinet Madi 2). Nos. 1—131. [Giardini, Pisa]
+
+### O.Narm.Dem.
+
+ * I, Ostraka demotici da Narmuti, ed. E. Bresciani, S. Pernigotti and M.C. Betro. Pisa 1983. (Quaderni di Medinet Madi 1). Nos. 1—33.
+ * II, Ostraka demotici e ieratici dall’ archivio bilingue di Narmuthis, ed. P. Gallo. Pisa 1997. Nos. 34—99. [Edizione ETS]
+ * III, Ostraka demotici e bilingui da Narmuthis (ODN 100-188) , ed. A. Menchetti. Pisa 2005. (Biblioteca di Studi Egittologici 5). Nos. 100-188.
+
+### O.Oasis
+= _Les Oasis d’Égypte à l’époque grecque, romaine et byzantine d’après les documents grecs_, by G. Wagner. Cairo 1987. (Institut Français d’Archéologie Orientale du Caire, Bibliothèque d’Étude 100). In a study of published and unpublished papyri, ostraca, tablets, inscriptions and graffiti referring to the Oases the following ostraca are edited: O.Chams el Din (pp. 44-47) = SB XX 14821-14825; O.AinLabakha (p. 82) = SB XX 14883; O.Bahria 1—22 (pp. 88—95), O.Sarm. 1—16 (pp. 96—101), O.Dor. 1—5 (pp. 102—103) and O.Bahria div. 1—16 (pp. 104—109) = SB XX 14885-14938. There are tablets at pp. 47 (= SB XX 14826) and 83-85 (= SB XX 14484). [SEVPO]
+
+### O.Ont.Mus. (or O.ROM)
+
+ * I, Death and Taxes: Ostraka in the Royal Ontario Museum, ed. A.E. Samuel, W.K. Hastings, A.K. Bowman and R.S. Bagnall. Toronto 1971. (Am.Stud.Pap. X). Nos. 1—72. There is notice of Demotic at nos. 1, 16, 25 and 46. [Oxbow]
+ * II, Ostraka in the Royal Ontario Museum II, ed. R.S. Bagnall and A.E. Samuel. Toronto 1976. (Am.Stud.Pap. XV). Nos. 73—289. No. 73 has Demotic. The inventory list given on pp. 104—117 lists many ostraca as non-Greek and others as Demotic or Coptic. [Oxbow]
+
+### O.Oslo
+= Ostraca Osloënsia, Greek Ostraca in Norwegian Collections, ed. L. Amundsen. Oslo 1933. (Avhandlinger utgitt av Det Norske Videnskaps-Akademi i Oslo, Hist.-Fil. Kl. 1933, No. 2). Nos. 1—28. [UF]
+
+### O.Paris (see P.Paris)
+
+### O.Petr.
+= "Ostraca in Prof. W.M. Flinders Petrie’s Collection at University College, London," in O.Bodl. I, pp. 82—152, nos. 1—476. Nos. 36 and 144 contain Demotic. No. 467 = SB Kopt. I 241.
+
+### O.Quseir (see P.Quseir)
+
+### O.Sarga (see P.Sarga)
+
+### O.Stras.
+
+ * I, Griechische und griechisch-demotische Ostraka der Universitäts- und Landesbibliothek zu Strassburg im Elsass, ed. P. Viereck. Berlin 1923. Nos. 1—812; a few are Demotic or bilingual. There is an index to the Demotic material. [MF 1.79]
+ * II, Thèbes et ses taxes: Recherches sur la fiscalité en Égypte romaine, ed. P. Heilporn. Paris 2009. Nos. 813—906. There is an index to the Demotic material. [De Boccard]
+
+### O.Tebt. (Nos. 1—20, see P.Tebt. II)
+
+### O.Tebt.Pad.
+= _Ostraka da Tebtynis della Università di Padova I_, ed. C. Gallazzi. Milan 1979. Nos. 1—70. [CG]
+
+### O.Tempeleide
+= _Die demotischen Tempeleide_, ed. U. Kaplony-Heckel. Wiesbaden 1963. (Ägyptologische Abhandlungen 6). Nos. 1—224, of which 52 were previously published. There is a catalogue listing of 286 further fragmentary ostraca of which 7 have been published.
+
+### O.Theb.
+= Theban Ostraca. London 1913. (Univ. of Toronto Studies, Philological Series I). Part I, Hieratic Texts, ed. A.H. Gardiner; 31 texts on pp. 1—16 with an additional text in an appendix on pp. 16a—16o. Part II, Demotic Texts, ed. H. Thompson; 44 texts not numbered serially on pp. 23—65. Part III, Greek Texts, ed. J.G. Milne; nos. 1—146 on pp. 71—161 with Demotic in nos. 16, 21—26, 28 and 31. Part IV, Coptic Texts, ed. H. Thompson; nos. 1—48 on pp. 179—212.
+
+### O.Vind.Copt.
+= Die koptischen Ostraka der Papyrussammlung der Österreichischen Nationalbibliothek, ed. W. C. Till. Vienna 1960. (Denkschrift Wien 78.1). Nos. 1—473.
+
+### O.Vleem.
+= _Ostraka Varia. Tax Receipts and Legal Documents on Demotic, Greek and Greek-Demotic Ostraka, Chiefly of the Early Ptolemaic Period, From Various Collections_, ed. S.P. Vleeming. Leiden 1994. (Pap.Lugd.Bat. XXVI). Nos. 1—62, of which 1A, 11A, 12—25, 17—29 and 31A contain Greek. [EJB]
+
+### O.WadiHamm.
+= "Nouveaux textes grecs du Ouadi Hammamat," ed. F. Kayser. Nos. 1—60, published with full indexes in ZPE 98 (1993) 111—156 and plates III—X. Texts reprinted as SB XXII 15660-15700.
+
+### O.Wångstedt
+= _Ausgewählte demotische Ostraka aus der Sammlung des Victoria-Museums zu Uppsala und der Staatlichen Papyrussammlung zu Berlin_, ed. S. Wångstedt. Uppsala 1954. Nos. 1—80.
+
+### O.Waqfa
+= _Les Ostraca grecs d’Aïn Waqfa (Oasis de Kharga)_, ed. H. Cuvigny, A. Hussein and G. Wagner. Cairo 1993. (Institut Français d’Archéologie Orientale, Documents de Fouilles 30). Nos. 1—79. [SEVPO]
+
+### O.Wilb.
+= _Les Ostraca grecs de la collection Charles-Edwin Wilbour au Musée de Brooklyn,_ ed. C. Préaux. New York 1935. Nos. 1—78; no. 1 has Demotic. [FERE; rp. CG]
+
+### O.Wilck. (or WO)
+= _Griechische Ostraka aus Aegypten und Nubien_, ed. U. Wilcken. Leipzig-Berlin 1899. 2 vols. Texts, vol. II, nos. 1—1624. Reprint Amsterdam 1970 with addenda compiled by P.J. Sijpesteijn. There is Demotic noted at nos. 95, 97, 141, 160, 305, 313, 314, 316, 394 and 1384. [MF 2.78—79; rp. CG, AMH]
+
+### O.Zauzich (see P.Zauzich)
+
+### O.Zürich
+= _Die demotischen Ostraka der Universtät zu Zürich_, ed. S. WÅngstedt. Uppsala 1965. (Bibliotheca Ekmania 62). Nos. 1—53.
