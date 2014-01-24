@@ -3160,3 +3160,57 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 2, Das europäische "Barbaricum" und die Zone der Mediterrankultur: Ihre historische Wechselwirkung und das Geschichtsbild des Poseidonios, by G. Dobesch. 1995.
  * 3, Ostrakismos und Prominenz in Athen: Attische Bürger des 5. Jh. v. Chr. auf den Ostraka, by S. Brenne. 2000.
  * 4, Foederati. Von der völkerrechtlichen Kategorie zur byzantinischen Truppengattung, by R. Scharf. 2001.
+
+## Congresses
+
+### PapCongr
+= Congresses sponsored by the Association Internationale de Papyrologues
+
+ * I, "Semaine Égyptologique et Papyrologique du 14 au 20 septembre 1930." Brussels. Published in CdÉ 6 (1931) 189—470.
+ * II, "XVIIIe Congrès International des Orientalistes. Leyde, du 7 au 1 septembre 1931. Section Autonome des Papyrologues." Published in CdÉ 7 (1932) 127—348.
+ * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934).
+ * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936).
+ * V, Actes du Ve Congrès International de Papyrologie, Oxford, 30 août—3 septembre 1937. Published by the Fondation Égyptologique Reine Élisabeth. (Brussels 1938).
+ * VI, Paris, 29 August—4 September 1949. No proceedings published.
+ * VII, L'Originalité de l'Égypte dans le monde gréco-romain, Septième Congrès International de Papyrologie, Genève, 1—6 septembre 1952. Museum Helveticum 10 (1953) 129—180.
+ * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956).
+ * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961).
+ * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964).
+ * XI, Atti dell'XI Congresso Internazionale di Papirologia, Milano, 2—8 settembre 1965. Published by the Istituto Lombardo di Scienze e Lettere. (Milan 1966).
+ * XII, Proceedings of the Twelfth International Congress of Papyrology, Ann Arbor, 13—17 August 1968. (Am.Stud.Pap. VII, Toronto 1970).
+ * XIII, Akten des XIII. Internationalen Papyrologenkongresses, Marburg/Lahn, 2—6 August 1971. (Münch.Beitr. 66, Munich 1974).
+ * XIV, Proceedings of the XIV International Congress of Papyrologists, Oxford, 24—31 July 1974. (Egypt Exploration Society, Graeco-Roman Memoirs 61, London 1975).
+ * XV, Actes du XVe Congrès International de Papyrologie, Brussels, 29 August—3 September 1977. (Pap.Brux. XVI—XIX, Brussels 1978).
+ * XVI, Proceedings of the Sixteenth International Congress of Papyrology, New York, 24—31 July 1980. (Am.Stud.Pap. XXIII, Chico 1981).
+ * XVII, Atti del XVII Congresso Internazionale di Papirologia (Napoli, 19—26 maggio 1983). 3 vols. (Centro Internazionale per lo Studio dei Papiri Ercolanesi, Naples 1984).
+ * XVIII, Proceedings of the XVIII International Congress of Papyrology, Athens 25—31 May 1986, ed. B. Mandilaras. 2 vols. (Greek Papyrological Society, Athens 1988).
+ * XIX, Proceedings of the XIX International Congress of Papyrology, Cairo 2—9 September 1989, ed. A.H.S. El-Mosallamy. 2 vols. (Center for Papyrological Studies, Cairo 1992).
+ * XX, Proceedings of the 20th International Congress of Papyrologists, Copenhagen 23—29 August 1992, ed. A. Bülow-Jacobsen. (Museum Tusculanum Press, Copenhagen 1994).
+ * XXI, Akten des 21. Internationalen Papyrologenkongresses, Berlin, 13.—19. 8. 1995. 2 vols. ed. B. Kramer, W. Luppe, H. Maehler and G. Poethke. (Archiv Beiheft 3, Stuttgart and Leipzig 1997).
+ * XXII, Atti del XXII Congresso Internazionale di Papirologia, Firenze, 23—29 agosto 1998. 2 vols. Separate vol. of plates. Ed. I. Andorlini, G. Bastianini, M. Manfredi and G. Menci. (Istituto Papirologico "G. Vitelli", Florence 2001).
+ * XXIII, Akten des 23. Internationalen Papyrologenkongresses, Wien, 22.—28. Juli 2001, ed. by B. Palme (Pap.Vind. 1, Vienna 2007).
+ * XXIV, Proceedings of the 24th International Congress of Papyrology, Helsinki, 1—7 August, 2004, 2 vols, ed. J. Frösén, T. Purola and E. Salmenkivi. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 122). Helsinki 2007.
+ * XXV, Proceedings of the 25th International Congress of Papyrology. Ann Arbor, July 29—August 4, 2007, ed. T. Gagos and A. Hyatt. (American Studies in Papyrology. Special Edition). Ann Arbor 2010. Online:  [http://quod.lib.umich.edu/i/icp](http://quod.lib.umich.edu/i/icp).
+ * XXVI, Actes du 26e Congrès international de papyrologie. Genève 16-21 août 2010, ed. P. Schubert. Geneva, 2012.
+
+### CoptCongr
+
+ * I, The Future of Coptic Studies. First International Congress of Coptology, Cairo, December 1976, ed. R.McL. Wilson. (Coptic Studies 1). Leiden 1978.
+* II, Acts of the Second International Congress of Coptic Studies, Roma, 22—26 September 1980, ed. T. Orlandi and F. Wisse. Rome 1985.
+* III, Coptic Studies. Acts of the Third International Congress of Coptic Studies, ed. W. Godlewski. Warsaw 1990.
+* IV, Actes du IVe Congrès copte, Louvain-la-Neuve 5—10 septembre 1988, vol. 1 Art et archéologie; vol. 2 De la linguistique au gnosticisme, ed. M. Rassart-Debergh and J. Ries. (Publications de l'Institut Orientaliste de Louvain 40—41). Louvain 1992.
+* V, Acts of the Fifth International Congress of Coptic Studies, Washington, 12—15 August 1992, vol. 1 Reports on recent research, ed. T. Orlandi; vol. 2 (2 parts) Papers from the sections, ed. D.W. Johnson. Rome 1993.
+* VI, Ägypten und Nubien in spätantiker und christlicher Zeit: Akten des 6. Internationalen Koptologenkongresses, Münster, 20.—26. Juli 1996, Bd. 1 Materielle Kultur, Kunst und religiöses Leben, Bd. 2 Schrifttum, Sprache und Gedankenwelt, ed. S. Emmel, M. Krause, S. G. Richter and S. Schaten. (Sprachen und Kulturen des christlichen Orients 6). Wiesbaden 1999.
+* VII, Coptic Studies on the Threshold of a New Millennium. Proceedings of the Seventh International Congress of Coptic Studies, Leiden, 27 August—2 September 2000, vol. 1 Language, Bible, Coptic and Copto-Arabic literature and manuscripts, Papyrology and epigraphy, Liturgy and theology, Gnostic, manichean and hermetic texts; vol. 2 Monasticism, History, ancient medieval and modern, Archaeology of Christian Egypt and Nubia, Art and material culture, ed. M. Immerzeel and J. van der Vliet. (Orientalia Lovaniensia Analecta 133). Leiden 2004.
+* VIII, Actes du Huitième Congrès international d'Études coptes. Paris, 28 juin—3 juillet 2004, vol. 1 Histoire et historiographie, Histoire de l'art et archéologie; vol. 2 Littérature, Bible, Liturgie et magie, Linguistique et papyrologie, Gnose et manichéisme, ed. N. Bosson and A. Boud'hors. (Orientalia Lovaniensia Analecta 163.) Paris 2006. See also: Huitième congrès international d'études coptes (Paris 2004). I. Bilans et perspectives 2000—2004, ed. A. Boud'hors and D. Vaillancourt. (Collections de l'Université Marc-Bloch - Strasbourg. Études d'Archéologie et d'Histoire ancienne. Cahiers de la Bibliothèque copte 15). Paris 2004.
+
+### DemCongr.
+* I, Internationale Demotisten-Colloquium, (Berlin, 26—28 September 1977), Enchoria 8 (1978) Supplement, Lieferung 1.
+* II, Aspects of Demotic Lexicography. Acts of the Second International Conference for Demotic Studies. Leiden (19—21 September 1984), ed. S.P. Vleeming. (Stud.Demotica I). Leuven 1987.
+* III, Cambridge, 8—12 September 1987. "Third Meeting of Demotists: A Report," by J. Quaegebeur and S.P. Vleeming, Enchoria 15 (1987) 247—253.
+* IV, Life in a Multicultural Society: Egypt from Cambyses to Constantine and beyond (Chicago 1990), ed. J.H. Johnson. (Univ. of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 51). Chicago 1992.
+* V, Acta Demotica: Acts of the Fifth International Conference for Demotists (Pisa, 4th—8th September 1993), ed. E. Bresciani (EVO 17 [1994]). Pisa 1994.
+* VI, Cairo, 2—8 September 1996. No proceedings published.
+* VII, Acts of the Seventh International Conference of Demotic Studies, Copenhagen, 23—27 August 1999, ed. K. Ryholt. (Museum Tusculanum Press, C.N.I. Publications 27). Copenhagen 2002.
+* VIII, Akten der 8. Internationalen Konferenz für demotische Studien, Würzburg, 28.—31. August 2002, ed. K. Zauzich and M. Stadler. Not yet published.
+* IX, Actes du IXe congrès international des études démotiques, Paris, 31 août—3 septembre 2005, ed. G. Widmer and D. Devauchelle. (IFAO, Bibliothèque d'études 147). Cairo 2009.
