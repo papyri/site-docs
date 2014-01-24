@@ -1,7 +1,7 @@
 # Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets
 ##### Founding Editors: John F. Oates and William H. Willis
 
-This is a work in progress and will eventually supersede [http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html)
+This is a work in progress and will eventually supersede <http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html>
 
 ## Papyri
 ### Actenstücke
