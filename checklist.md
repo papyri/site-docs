@@ -1976,3 +1976,36 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### O.Zürich
 = _Die demotischen Ostraka der Universtät zu Zürich_, ed. S. WÅngstedt. Uppsala 1965. (Bibliotheca Ekmania 62). Nos. 1—53.
+
+## Tablets
+
+### T.Alb.
+= _Tablettes Albertini, Actes privés de l’époque Vandale_, ed. C. Courtois, L. Leschi, C. Perrat and C. Saumagne. Paris 1952. Texts I—XXXIV; separate portfolio of plates.
+
+### T.Dacia
+= _Tablitele Cerate Dacice_, ed. I. I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
+
+### T.Jucundus
+= _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887.
+
+### T.Mom.Louvre
+= "Catalogue des étiquettes de momies du Musée du Louvre," ed. F. Baratte and B. Boyaval. Lille 1974—1979. Pt. 1, nos. 1—259 (CRIPEL 2, 1974); pt. 2, nos. 260—688 (CRIPEL 3, 1975); pt. 3, nos. 689—999 (CRIPEL 4, 1976); pt. 4, nos. 1000—1209 and indexes (CRIPEL 5, 1979).
+
+### T.Pizarras
+= _Las Pizarras Visigoda: edición crítica y estudio_, ed. I. Velázquez Soriano. Murcia 1989. (Antigüedad y cristianismo 6). Nos. 1-104.
+
+### T.Sulpicii
+= _Tabulae Pompeianae Sulpiciorum: edizione critica dell'archivio puteolano dei Sulpicii_, ed. G. Camodeca. 2 vols. Rome 1999. (Vetera 12) Nos.1—126. [Quasar]
+
+### T.Varie
+= _Tavolette lignee e cerate da varie collezioni_, ed. R. Pintaudi, P.J. Sijpesteijn et al. Florence 1989. (Pap.Flor. XVIII). Nos. 1—81 from six collections. [LGF]
+
+### T.Vindol.
+= _Vindolanda: the Latin Writing Tablets_
+
+ * I, ed. A.K. Bowman and J.D. Thomas. London 1983. (Britannia Monograph Series 4). Nos. 1—48, descripta 49—106, waxed tablets 107—117.
+ * II, ed. A.K. Bowman and J.D. Thomas, with contributions by J.N. Adams. London 1994. Nos. 118—573. [BMP]
+ * III, ed. A. K. Bowman and J. D. Thomas with contributions by J. Pearce. London 2003. Nos. 574—853. [BMP]
+
+### T.Vindon.
+= _Die römischen Schreibtafeln von Vindonissa_, ed. M.A. Speidel. 1996. (Veröffentlichungen der Gesellschaft Pro Vindonissa 12). Nos. 1—65, descripta nos. 66—90.
