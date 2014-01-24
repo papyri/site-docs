@@ -1091,7 +1091,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * VIII, Posidippo di Pella: epigrammati, ed. G. Bastianini and C. Gallazi with the collaboration of C. Austin. Vol. 1, Text; vol. 2 Images (including CD ROM). Milan 2001. No. 309. [LED - Edizioni Universitarie di Lettere Economia Diritto]
 
 ### P.Minnesota
-= _Back to Oegstgeest. The von Scherling Papyrus Collection. Some von Scherling Texts in Minnesota_, ed. M. Bakker, A. Bakkers and K. Worp. Cincinnati 2007. (BASP 44 [2007] pages 41–73). Nos. 1–11. (Indices, ed. A. V. Bakkers. [http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf]([http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf)).
+= _Back to Oegstgeest. The von Scherling Papyrus Collection. Some von Scherling Texts in Minnesota_, ed. M. Bakker, A. Bakkers and K. Worp. Cincinnati 2007. (BASP 44 [2007] pages 41–73). Nos. 1–11. Indices, ed. A. V. Bakkers. [http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf](http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf).
 
 ### P.Mon.Apollo
 = _Coptic and Greek texts relating to the Hermopolite Monastery of Apa Apollo_, ed. S.J. Clackson. Oxford 2000. (Griffith Institute Monographs). Nos. 1—66. Nos. 27, 31, 48 are Greek; the rest Coptic. [Oxbow]
@@ -1132,6 +1132,10 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, ed. T. Derda. Warsaw 1995. Nos. 1—12 papyri, nos. 13—14 inscriptions on amphorae. Plates in separate vol. [Wydawnictwa Uniwersytetu Warszawskiego]
  * II, ed. T. Derda, with J. Urbanik and J. van der Vliet. Warsaw 2008. (JJurPap supplement 9) Nos. 15—34; nos. 15—20 literary; nos. 21—34 documentary.
+
+### P.Narm.
+
+ * I, Narmouthis 2006: Documents et objects découverts à Médinet Madi en 2006, ed. E. Bresciani, A. Delattre, P. Heilporn, A. Martin, A. Menchetti, G. Nachtergael, R. Pintaudi and F. Silvano. Pisa 2010. (Monografie di “Egitto e Vicino Oriente” II). Nos. 1–13 are Greek papyri; no. 14 is a Greek tablet; nos. 15–19 are Demotic and bilingual ostraca; nos. 20–147 Greek ostraca; nos. 148–149 Greek inscriptions.
 
 ### P.Neph.
 = _Das Archiv des Nepheros und verwandte Texte_, ed. B. Kramer, J.C. Shelton and G.M. Browne. Mainz 1987. (Aegypt.Trev. IV). Part I, Das Archiv des Nepheros, nos. 1—14, 17—42 Greek, nos. 15—16 Coptic. Part II, Verwandte Texte aus der Heidelberger Papyrussammlung, nos. 43—49 Greek. [PvZ]
@@ -1241,6 +1245,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94)
  * LXXIV, Nos. 4968—5019, ed. D. Leith and others.. (95)
  * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary.
+ * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97).
+ * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98).
+ * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W. B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99). 
 
 ### P.Oxy.Astr.
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
@@ -1296,6 +1303,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, ed. J. Frösén, A. Arjava and M. Lehtinen with contributions by Z.T. Fiema, C.A. Kuehn, T. Purola, T. Rankinen, M. Vesterinen and M. Vierros. Amman 2002. (American Center of Oriental Research Publications 4). Nos. 1—16.
  * III, ed. A. Arjava, M. Buchholz, and T. Gagos. Amman 2007. (American Center of Oriental Research Publications 5). Nos. 18-36.
+ * IV, ed. A. Arjava, M. Buchholz, T. Gagos and M. Kaimio, with contributions by J. Kaimio, C. A. Kuehn and T. Purola. Amman 2011. Nos. 37–49.
 
 ### P.Petrettini
 = _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114).
@@ -1305,6 +1313,12 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
 ### P.Phil.
 = _Papyrus de Philadelphie_, ed. J. Scherer. Cairo 1947. (Publ.Soc.Fouad VII). Nos. 1—35. [MF 2.94]
+
+### P.Philammon
+= _Aktenbuch des Aurelios Philammon: Prozessberichte, Annona militaris und Magie in BGU IV 1024–1027_, ed. G. Poethke, S. Prignitz, V. Vaelske. Berlin and Boston 2012. (ArchivBeih. 34). 
+
+### P.Pintaudi
+= _Inediti offerti a Rosario Pintaudi per il suo 65° compleanno_, ed. D. Minutoli. Firenze 2012. Nos. 1–70.
 
 ### P.PisaLit.
 = _Papiri letterari greci_, ed. A. Carlini et al. Pisa 1978. (Biblioteca degli studi classici e orientali). Nos. 1—38. 
@@ -1326,6 +1340,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, 1988. (Pap.Flor. XVI). Nos. 1—117.
  * II, 1995. (Pap.Flor. XXVI). Nos. 118—205.
+ * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. (Pap.Flor. 41). Nos. 206–249.
 
 ### P.Prag.Satzung.
 = _Die Satzungen einer ägyptischen Kultgenossenschaft aus der Ptolemäerzeit nach einem demotischen Papyrus in Prag_, ed. W. Erichsen. Copenhagen 1959. (Det Kongelige Danske Videnskabernes Selskab. Historisk-filosofiske Skrifter 4.1).
@@ -1427,11 +1442,17 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 ### P.Schenkung.
 = _Eine demotische Schenkungsurkunde aus der Zeit des Darius_, ed. W. Erichsen. Wiesbaden 1963. (Akad.Wiss.Mainz, Abh. geistes- und sozialwissenschaftlichen Klasse 1962, 6).
 
+### P.Scholl
+= _Von Sklaven, Pächtern und Politikern: Beiträge zum Alltag in Ägypten, Griechenland und Rom. Δουλικὰ ἔργα zu Ehren von Reinhold Scholl_, ed. L. Popko, N. Quenouille and M. Rücker, with contributions by many others. Berlin and Boston 2012. (ArchivBeih. 33). Nos. 1–15.
+
 ### P.Schow
 = _Charta papyracea graece scripta Musei Borgiani Velitris qua series incolarum Ptolemaidis Arsinoiticae in aggeribus et fossis operantium exhibetur_, ed. N. Schow. Rome 1788. Text republished as SB I 5124.
 
 ### P.Schøyen
-= _Papyri Graecae Schøyen_, ed. R. Pintaudi. Florence 2005. Nos. 1—25; 1—25 literary; 14—15 and 17—20 parchment, 11 wood tablet, 24 bronze tablet, 25 bronze tablet from Asia Minor [LGF]
+= _Papyri Graecae Schøyen_
+
+ * I, ed. R. Pintaudi. Florence 2005. Nos. 1—25; 1—25 literary; 14—15 and 17—20 parchment, 11 wood tablet, 24 bronze tablet, 25 bronze tablet from Asia Minor [LGF]
+ * II, ed. D. Minutoli and R. Pintaudi. Florence 2010. (Pap.Flor. 40). Nos. 26–34.
 
 ### P.Schreibertrad.
 = _Die Ägyptische Schreibertradition in Aufbau, Sprache und Schrift der demotischen Kaufverträge aus ptolemäischer Zeit_, ed. K.-Th. Zauzich. I, Text; II, Anmerkungen, Indices, Tabellen der Anlage. Wiesbaden 1968. (Äg.Abh. 19). A catalogue of sales (nos. 1—95) and associated cession documents (nos. 96—159), not an edition of texts. In some cases, however, a transcript and translation of a text are given. These are as follows: 1, 4, 5, 11, 14, 15, 20, 26, 30 (unpublished), 42, 47, 56, 94, 97, 100, 108, 109, 115 (unpublished), 118, 127, 132 and 157. No. 118 has been republished by G. Vittman in Enchoria 15 (1987) 99—112. [OH]
@@ -1471,7 +1492,10 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I._, ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
 
 ### PSI Com.
-= _Papiri della Società Italiana alla Scuola Normale Superiore di Pisa_, ed G. Bastianini, M. S. Funghi and G. Messeri. Florence 2005. (ComunicazioniVitelli 6). Nos. 1—20.
+= _(Dai) Papiri della Società Italiana_. (CommunicazioniVitelli)
+
+ * I, Papiri della Società Italiana alla Scuola Normale Superiore di Pisa. Seminario 2003/2004, ed. G. Bastianini, M. S. Funghi and G. Messeri. Firenze 2005. (ComunicazioniVitelli 6 [2005] pages 1–164, tav. I–XIX). Nos. 1–20.
+ * II, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 6 [2011] pages 1–55, tav. I–VIII). Nos. 1–12.
 
 ### PSI Congr.XI
 = _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
@@ -1511,6 +1535,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF]
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow]
+ * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Papyrologica Parisina 1). Nos. 70–144.
 
 ### P.Soter.
 = _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
@@ -1532,7 +1557,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _Die demotischen Papyrus der Strassburger Bibliothek_, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
 
 ### P.Tebt.
-= The Tebtunis Papyri. London.
+= _The Tebtunis Papyri_. London.
 
  * I, ed. B.P. Grenfell, A.S. Hunt and J.G. Smyly. 1902. (Univ. of California Publications, Graeco-Roman Archaeology I; Egypt Exploration Society, Graeco-Roman Memoirs 4). Nos. 1—264. [EES]
  * II, ed. B.P. Grenfell and A.S. Hunt. 1907. (Univ. of California Publications, Graeco-Roman Archaeology II). Reprint 1970. (Egypt Exploration Society, Graeco-Roman Memoirs 52). Nos. 265—689. Ostraca (numbered separately) 1—20. [Rp. EES]
@@ -1542,13 +1567,13 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * V, Regaling Officials in Ptolemaic Egypt, ed. A. Verhoogt. Leiden and Boston 2005. (Pap.Lugd.Bat. XXXII). Nos 1—5 are P.Tebt. V 1151—1155. [EJB]
 
 ### P.Tebt.Tait
-= Papyri from Tebtunis in Egyptian and Greek, ed. W.J. Tait. London 1977. (Egypt Exploration Society, Texts from Excavations III). Nos. 1—23 Demotic; 24—34 Hieratic; 35—37 Hieroglyphic; 38—53 Greek. Only nos. 47—53 are documentary in nature. [EES]
+= _Papyri from Tebtunis in Egyptian and Greek_, ed. W.J. Tait. London 1977. (Egypt Exploration Society, Texts from Excavations III). Nos. 1—23 Demotic; 24—34 Hieratic; 35—37 Hieroglyphic; 38—53 Greek. Only nos. 47—53 are documentary in nature. [EES]
 
 ### P.Tebt.Wall
-= New Texts in the Economy of Tebtunis, ed. E.W. Wall. Diss. Duke University, Durham, N.C. 1983. Nos. 1—12. Texts reprinted as SB XVIII 13782—13793. [UMI, order no. 1983—20613]
+= _New Texts in the Economy of Tebtunis_, ed. E.W. Wall. Diss. Duke University, Durham, N.C. 1983. Nos. 1—12. Texts reprinted as SB XVIII 13782—13793. [UMI, order no. 1983—20613]
 
 ### P.Teos
-= The Archive of Teos and Thabis from Early Ptolemaic Thebes. P. Brux. Dem. Inv. E. 8252-8256, ed. M. Depauw. Turnhout 2000. (Monographies Reine Élisabeth 8). Nos. 1-13. No. 13 is linen. [FERE]
+= _The Archive of Teos and Thabis from Early Ptolemaic Thebes. P. Brux. Dem. Inv. E. 8252-8256_, ed. M. Depauw. Turnhout 2000. (Monographies Reine Élisabeth 8). Nos. 1-13. No. 13 is linen. [FERE]
 
 ### P.TestiBotti
 = Testi Demotici I, ed. G. Botti. Includes 3 papyri from Bologna, 6 papyri from Florence, 7 ostraca from Florence and one papyrus from Naples. There is a pocket of plates. Florence 1941.
@@ -1603,6 +1628,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
 ### P.Verpfründung.
 = Ägyptische Verpfründungsverträge mit Vermögensabtretungen, ed. W. Spiegelberg. Heidelberg 1923. (SBHeidelberg 1923.6). Translations of 4 texts are given here.
+
+### P.Vet.Aelii
+= _Veteranen unter den Severern und frühen Soldatenkaisern: Die Dokumentensammlungen der Veteranen Aelius Sarapammon und Aelius Syrion_, ed. P. Sänger. Stuttgart 2011. (Heidelberger Althistorische Beiträge und Epigraphische Studien 48). Nos. 1–19.
 
 ### P.Vind.Bosw.
 = Einige Wiener Papyri, ed. E. Boswinkel. Leiden 1942. (Pap.Lugd.Bat. II). Nos. 1—17. [MF 2.56]
@@ -1695,6 +1723,7 @@ A number of these texts had been published in translation in PSI IX 1001—1010A
  * XXIV, Wiesbaden 2003. Nos. 15875—16340. [OH]
  * XXV, Index to XXIV. Pt. 1, Abschn. 1—8, Wiesbaden 2007. Pt. 2, Abschn. 9, Wiesbaden 2008. [OH]
  * XXVI, ed. H.A. Rupprecht. Wiesbaden 2006. Nos. 16341- 16831. [OH]
+ * XXVII, Index to XXVI. Pt. 1, Abschn. 1–8, Wiesbaden 2007. Pt. 2, Abschn. 9, Wiesbaden 2012.
  * Beihefte, see P.Rev. (Bh. 1), P.Kar.Goodsp. and P.Mil.Vogl. I (Bh. 2).
 Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800—12801 = SB Kopt. I 224—225
 
@@ -1804,6 +1833,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Le Monastère de St. Phoibammon_. Deir el-Bahari 5, ed. W. Godlewski. Warsaw 1986. Coptic ostraca nos. 1—19 (no. 16 is wood and no. 19 Arabic) are found in chapter 9, pp. 134—140.
 
 ### O.Deiss. (see P.Meyer).
+
+### O.Did.
+= _Didymoi. Une garnison romaine dans le désert Oriental d’Égypte, vol. 2: Les Textes_, ed. H. Cuvigny, with contributions by F. Briquel-Chatonnet and T. Gagos. Cairo 2012. (Praesidia du désert de Bérénice 4). Nos. 22–465 are ostraca; nos. 466–479 are figured ostraca.
 
 ### O.Dime
 = _Demotische Dokumente aus Dime I: Ostraka_, ed. S. L. Lippert and M. Schentuleit. Wiesbaden 2006.
@@ -1923,7 +1955,9 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 ### O.Nancy (see O.BawitIFAO)
 
 ### O.Narm.
-= Ostraka greci da Narmuthis (OGN I), ed. R. Pintaudi and P.J. Sijpesteijn. Pisa 1993. (Quaderni di Medinet Madi 2). Nos. 1—131. [Giardini, Pisa]
+
+ * I, Ostraka greci da Narmuthis (OGN I), ed. R. Pintaudi and P.J. Sijpesteijn. Pisa 1993. (Quaderni di Medinet Madi 2). Nos. 1—131. [Giardini, Pisa]
+ * II, Ostraka greci e bilingui da Narmuthis, ed. A. Menchetti and R. Pintaudi. Brussels 2007–2009. (CdÉ 82 [2007] pages 227–280; 84 [2009] pages 201–238). Nos. 1–48.
 
 ### O.Narm.Dem.
 
@@ -1947,6 +1981,9 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 ### O.Petr.
 = "Ostraca in Prof. W.M. Flinders Petrie’s Collection at University College, London," in O.Bodl. I, pp. 82—152, nos. 1—476. Nos. 36 and 144 contain Demotic. No. 467 = SB Kopt. I 241.
 
+### O.Petr.Mus.
+= _Ostraca greci e bilingui del Petrie Museum of Egyptian Archaeology_, ed. M. S. Funghi,  G. Messeri and C. E. Römer. Firenze 2012. (Pap.Flor. 42). Nos. 1–796.
+
 ### O.Quseir (see P.Quseir)
 
 ### O.Sarga (see P.Sarga)
@@ -1964,8 +2001,16 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 ### O.Tempeleide
 = _Die demotischen Tempeleide_, ed. U. Kaplony-Heckel. Wiesbaden 1963. (Ägyptologische Abhandlungen 6). Nos. 1—224, of which 52 were previously published. There is a catalogue listing of 286 further fragmentary ostraca of which 7 have been published.
 
+### O.Taxes
+
+ * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B. P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
+
 ### O.Theb.
-= Theban Ostraca. London 1913. (Univ. of Toronto Studies, Philological Series I). Part I, Hieratic Texts, ed. A.H. Gardiner; 31 texts on pp. 1—16 with an additional text in an appendix on pp. 16a—16o. Part II, Demotic Texts, ed. H. Thompson; 44 texts not numbered serially on pp. 23—65. Part III, Greek Texts, ed. J.G. Milne; nos. 1—146 on pp. 71—161 with Demotic in nos. 16, 21—26, 28 and 31. Part IV, Coptic Texts, ed. H. Thompson; nos. 1—48 on pp. 179—212.
+= _Theban Ostraca_. London 1913. (Univ. of Toronto Studies, Philological Series I). Part I, Hieratic Texts, ed. A.H. Gardiner; 31 texts on pp. 1—16 with an additional text in an appendix on pp. 16a—16o. Part II, Demotic Texts, ed. H. Thompson; 44 texts not numbered serially on pp. 23—65. Part III, Greek Texts, ed. J.G. Milne; nos. 1—146 on pp. 71—161 with Demotic in nos. 16, 21—26, 28 and 31. Part IV, Coptic Texts, ed. H. Thompson; nos. 1—48 on pp. 179—212.
+
+### O.Trim.
+
+ * I, _Amheida I: Ostraka from Trimithis Volume 1: Texts from the 2004–2007 Seasons_, ed. R. S. Bagnall and G. R. Ruffini, with contributions by R. Cribiore and G. Vittmann. 2011. Online : [http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 1–454.
 
 ### O.Vind.Copt.
 = Die koptischen Ostraka der Papyrussammlung der Österreichischen Nationalbibliothek, ed. W. C. Till. Vienna 1960. (Denkschrift Wien 78.1). Nos. 1—473.
