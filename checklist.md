@@ -2009,3 +2009,167 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### T.Vindon.
 = _Die römischen Schreibtafeln von Vindonissa_, ed. M.A. Speidel. 1996. (Veröffentlichungen der Gesellschaft Pro Vindonissa 12). Nos. 1—65, descripta nos. 66—90.
+
+## Corpora
+
+### Chrest.Mitt. (or M.Chr.)
+= L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, II Bd. Juristischer Teil, II Hälfte Chrestomathie. Leipzig-Berlin 1912. Nos. 1—500. [MF 2.122—123 (with Grundzüge); rp. GO, all 4 vols.]
+
+### Chrest.Wilck. (or W.Chr.)
+= L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, I Bd. Historischer Teil, II Hälfte Chrestomathie. Leipzig-Berlin 1912. Nos. 1—382. [MF 2.120—121 (with Grundzüge); rp. GO, see Chrest.Mitt.]
+
+### Ch.L.A.
+= _Chartae Latinae Antiquiores_, established by A. Bruckner and R. Marichal. Vols. 1—49, ed. by them and their successors. Basel, Dietikon-Zurich 1954—1998. [UGV]
+ * I, Switzerland: Basle-St. Gall. nos. 1—108. 1954.
+ * II, Switzerland: St. Gall-Zurich, nos. 109—178. 1956.
+ * III, British Museum, London, nos. 179—223. 1963.
+ * IV, Great Britain, nos. 224—275. 1967.
+ * V, The United States of America I, nos. 276—308. 1975.
+ * VI, The United States of America II, nos. 309—321. (P.Dura). 1975.
+ * VII, The United States of America III, nos. 322—354. (P.Dura). 1975.
+ * VIII, The United States of America IV, nos. 355—356. (P.Dura). 1976.
+ * IX, The United States V, nos. 357—395. (P.Dura), 396—406. 1977.
+ * X, Germany I, nos. 407—464. 1979
+ * XI, Germany II, nos. 465—517. 1979.
+ * XII, Germany III, nos. 515—548. 1978.
+ * XIII, France I, nos. 549—571. 1981.
+ * XIV, France II, nos. 572—594. 1982.
+ * XV, France III, nos. 595—618. 1986.
+ * XVI, France IV, nos. 619—638. 1986.
+ * XVII, France V, nos. 651—658. 1984.
+ * XVIII, France VI, nos. 659—669. 1985.
+ * XIX, France VII, nos. 670—691. 1987.
+ * XX, Italy I, nos. 701—712. 1982.
+ * XXI, Italy II, nos. 713—717. 1983.
+ * XXII, Italy III, nos. 718—729. 1983.
+ * XXIII, Italy IV, nos. 730—750. 1985.
+ * XXIV, Italy V, nos. 751—776. 1985.
+ * XXV, Italy VI, nos. 777—798. 1986.
+ * XXVI, Italy VII, nos. 799—813. 1987.
+ * XXVII, Italy VIII, nos. 814—838. 1992.
+ * XXVIII, Italy IX, nos. 839—865. 1988.
+ * XXIX, Italy X, nos. 862—889. 1993. The numbers 862—865 are reused from the preceding volume for different texts.
+ * XXX, Italy XI, nos. 894—914. 1988.
+ * XXXI, Italy XII, nos. 915—936. 1989.
+ * XXXII, Italy XIII, nos. 937—960. 1989.
+ * XXXIII, Italy XIV, nos. 961—984. 1989.
+ * XXXIV, Italy XV, nos. 985—1009. 1989.
+ * XXXV, Italy XVI, nos. 1010—1038. 1990.
+ * XXXVI, Italy XVII, nos. 1039—1068. 1990.
+ * XXXVII, Italy XVIII, nos. 1069—1095. 1990.
+ * XXXVIII, Italy XIX, nos. 1096—1125. 1990.
+ * XXXIX, Italy XX, nos. 1126—1155. 1991.
+ * XL, Italy XXI, nos. 1156—1185. 1991.
+ * XLI, Egypt I, nos. 1186—1206. 1994.
+ * XLII, Egypt II, nos. 1207—1239. 1994.
+ * XLIII, Austria I, nos. 1240—1260. 1995.
+ * XLIV, Austria II, nos. 1261—1316. 1996.
+ * XLV, Austria III, nos. 1317—1359. 1996.
+ * XLVI, Belgium, Greece, Ireland, Israel, Norway, Holland, Republic of Georgia, Spain, nos. 1361—1402. 1995.
+ * XLVII, Addenda, nos. 1403—1468. 1997.
+ * XLVIII, Corrigenda. 1997
+ * XLIX, Concordanza. 1998
+ * L, begins a new series devoted to Latin Charters of the 9th century. See the Introduction by editors, G. Cavallo and G. Nicolaj. These volumes are not papyrological in nature and are not listed here.
+
+### C.Epist.Lat.
+= _Corpus Epistolarum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. (Pap.Flor. XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
+
+### C.Étiq.Mom.
+= _Corpus des étiquettes de momies grecques_, ed. B. Boyaval. Lille 1976. (Publications de l'Université de Lille III). Nos. 1657 and 2077 were previously unedited.
+
+### C.Gloss.Biling.
+= _Glossaria bilinguia in papyris et membranis reperta_, ed. J. Kramer.
+
+ * I, Bonn 1983. (Pap.Texte Abh. XXX). [RH]
+ * II, Munich-Leipzig 2001. (Archiv Beih. 8). [KGS]
+
+### C.Illum.Pap. I
+= _Illuminierte Papyri, Pergamente und Papiere I_, ed. U. Horak. Vienna 1992. (Pegasus Oriens I). Nos. 1, 28, 31, 34, 38, 45, 49, 54 and 59 include Greek documentary texts. [Verlag Holzhausen]
+
+### C.Jud.Syr.Eg.
+= _The Judaean-Syrian-Egyptian Conflict of 103—101 B.C.: A Multilingual Dossier Concerning a "War of Sceptres,"_ ed. E. van 't Dack, W. Clarysse, G. Cohen, J. Quaegebeur and J.K. Winnicki. Brussels 1989. (Coll.Hellen. I).
+
+### C.Ord.Ptol.
+= _Corpus des Ordonnances des Ptolémées_, ed. M.-Th. Lenger. Brussels 1964. (Acad. Roy. de Belgique, Cl. des Lettres, Mémoires, coll. in 8�, 57, 1). 2nd ed., corrected and updated, 1980. (Mémoires 64, 2). [ARB]. See also Corpus des Ordonnances des Ptolémées: Bilan des additions et corrections (1964—1988); Compléments à la bibliographie by M.-Th. Lenger. Brussels 1990. (Pap.Brux. XXIV). [FERE]
+
+### C.Pap.Gr.
+= _Corpus Papyrorum Graecarum_, ed. O. Montevecchi and others.
+
+ * I, I Contratti di baliatico, ed. M.M. Masciadri and O. Montevecchi. Nos. 1—40 and four appendices. Milan 1984. (Separate volume of plates).
+ * II, Il Controllo della popolazione nell'Egitto Romano, Pt. 1, Le Denunce di morte, ed. L. Casarico. Nos. 1—82 and two appendices. Azzate 1985. (Separate volume of plates).
+
+### C.Pap.Hengstl
+= _Griechische Papyri aus Ägypten als Zeugnisse des öffentlichen und privaten Lebens_, ed. J. Hengstl with G. Häge and H. Kühnert. Munich 1978. 161 documents with translation and commentary. [Heimeran]
+
+### C.Pap.Jud. = _Corpus Papyrorum Judaicarum_. Cambridge, Mass.
+
+ * I, ed. V.A. Tcherikover. 1957. Nos. 1—141.
+ * II, ed. V.A. Tcherikover and A. Fuks. 1960. Nos. 142—450.
+ * III, ed. V.A. Tcherikover, A. Fuks and M. Stern. 1964. Nos. 451—520.
+
+### C.Pap.Lat.
+= _Corpus Papyrorum Latinarum_, ed. R. Cavenaile. Wiesbaden 1958. Nos. 1—345 plus Annexe nos. 1—28. [OH]
+
+### C.Ptol.Sklav.
+= _Corpus der ptolemäischen Sklaventexte_, ed. R. Scholl. Stuttgart 1990. (Forschungen zur antiken Sklaverei, Beiheft 1). In three parts: I, Nos. 1—114; II, Nos. 115—260; III, Indices.
+
+### C.Zen.Palestine
+= _Des Grecs en Palestine au IIIe siècle avant Jésus-Christ: Le Dossier syrien des archives de Zénon de Caunos (261—252)_, ed. X. Durand. Paris 1997. (Cahier de la Revue Biblique 38).
+
+### Doc.Eser.Rom.
+= _Documenti per la storia dell'esercito romano in Egitto_, ed. S. Daris. Milan 1964. (Pubblicazioni dell'Università Cattolica del Sacro Cuore, Contributi, Serie Terza, Scienze Storiche IX). Nos. 1—108. [VP]
+
+### Feste
+= _Feste pubbliche e private nei documenti greci_, ed. M. Vandoni. Milan 1964. (Testi e documenti per lo studio dell'antichità 8, Serie Papyrologica I). Nos. 1—163. [CG]
+
+### FIRA III
+= _Fontes Iuris Romani Antejustiniani, pars tertia, Negotia_, ed. V. Arangio-Ruiz. 2nd ed. Florence 1943. Reprint Florence 1969 with an appendix of material prepared by Arangio-Ruiz before his death.
+
+### Horoscopes
+= _Greek Horoscopes_, by O. Neugebauer and H.B. Van Hoesen. Philadelphia 1957. (Memoirs of the American Philosophical Society 48).
+
+### Jur.Pap.
+= _Juristische Papyri_, ed. P.M. Meyer. Berlin 1920. Nos. 1—93. [MF 2.45; rp. ARES]
+
+### New Docs.
+= _New Documents Illustrating Early Christianity_. Various editors. North Ryde, NSW, and Grand Rapids, Mich.1981—. 8 vols. to date.
+
+### Oroscopi
+= _Oroscopi greci. Documentazione papirologica_, by D. Baccani. Messina 1992. (Ric.Pap. I). Nos. 1—18.
+
+### Pap.Agon.
+= _ehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = BGU IV 1074; 2 = BGU IV 1073; 3 = P.Oxy. XXVII 2476; 4 = P.Oxy.Hels. 25; 5 = P.Oxy. XXXI 2610; 6 = P.Lond. III 1178; 7 = Stud.Pal. V 121; 8 = P.Oslo III 85; 9 = P.Coll.Youtie II 69; 10 = P.Oxy. XLIII 3116. [FS]
+
+### Pap.Arbeit.
+= "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = CPR IV 156; 9 = CPR IV 157; 20 = CPR IV 162; and 25 = CPR IV 163).
+
+### Pap.Bürgsch.Copt.
+= "Die koptischen Bürgschaftsurkunden," by W.C. Till. Bull.Soc.Arch.Copt. 14 (1958) 165—226. Translations of 90 guarantees and sureties (nos. 3 and 58 = CPR IV 102 and 84 resp.).
+
+### Pap.Choix
+= _Choix de papyrus grecs: Essai de traitement automatique_, ed. J. Bingen, A. Tomsin, A. Bodson, J. Denooz, J.D. Dupont and E. Evrard. Liège 1968. 28 miscellaneous texts revised and republished.
+
+### Pap.Eleph.Eng.
+= _The Elephantine Papyri in English: Three Millennia of Cross-Cultural Continuity and Change_, ed. B. Porten with J.J. Farber, C.J. Martin, G. Vittman, L.S.B. MacCoull, and S. Clackson. Leiden 1996. (Documenta et Monumenta Orientis Antiqui, Studies in Near Eastern Archaeology and Civilization XXII). Texts in English translation from various languages: Egyptian Hieratic, nos. A1—10; Aramaic, nos. B1—52; Egyptian Demotic, nos. C1—37; Greek, nos. D1—52; Coptic, nos. E1—20; Arabic, nos. F1—2; Latin, nos. G1—2. [EJB]
+
+### Pap.Graec.Mag.
+= _Papyri Graecae Magicae_, ed. K. Preisendanz. 2 vols. Leipzig-Berlin 1928, 1931. Photostatic copies of proofs of an unpublished third volume are to be found in some libraries. A reprint including texts from the projected third vol. with revisions by A. Henrichs was published in 1974. [KGS] See also The Magical Papyri in Translation, by H.D. Betz (esp. p. xliv), Chicago 1985. See also below Suppl.Mag.
+
+### Rom.Mil.Rec.
+= _Roman Military Records on Papyrus_, ed. R.O. Fink. Cleveland 1971. (American Philological Association, Philological Monograph 26). Nos. 1—134. [OUP]
+
+### Sel.Pap.
+= _Select Papyri_. (The Loeb Classical Library). London and Cambridge, Mass. [HUP]
+
+ * I, Private Affairs, ed. A.S. Hunt and C.C. Edgar. 1932. Nos. 1—200.
+ * II, Official Documents, ed. A.S. Hunt and C.C. Edgar. 1934. Nos. 201—434.
+ * III, Literary Papyri: Poetry, ed. D.L. Page. 1942. Nos. 1—147.
+
+### Shorthand Manuals
+= _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
+
+### Suppl.Mag.
+= _Supplementum Magicum_, ed. with translations and notes by R.W. Daniel and F. Maltomini. (Pap.Colon. XVI).
+
+ * I, Opladen 1990. Nos. 1-51. [FS]
+ * II, Opladen 1992. Nos. 52-100. [FS]
