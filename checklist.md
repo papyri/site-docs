@@ -2271,12 +2271,15 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 7, Checklist of Editions of Greek and Latin Papyri, Ostraca and Tablets, 4th ed., by J.F. Oates, R.S. Bagnall, W.H. Willis and K.A. Worp. 1992.
  * 8, The Ptolemaic Basilikos Grammateus, by J.F. Oates. 1995.
  * 9, Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, 5th ed., by J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. 2001.
+
 ### Coll.Hellen.
- = Collectanea Hellenistica. Brussels 1989—. (Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van België, Klassieke Studies, Hellenisme). [ARB]
+ = _Collectanea Hellenistica_. Brussels 1989—. (Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van België, Klassieke Studies, Hellenisme). [ARB]
+
  * I, see C.Jud.Syr.Eg. (III Corpora).
  * II, see P.Petr.2
  * III, not yet published.
  * IV, see P.Dryton.
+
 ### CommunicazioniVitelli
  = Communicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
  * 1. 1995
@@ -2286,8 +2289,9 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 5. 2003
  * 6. 2005, see PSI Com.
  * 7. 2007
+
 ### CRIPEL
- = Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille. 1973— .
+ = _Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille_. 1973— .
  * I, Études sur l’Égypte et le Soudan anciens. Lille and Paris (Éditions Universitaires) 1973.
  * II, idem. 1974.
  * III, idem. 1975.
@@ -2314,8 +2318,9 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXIV, Sociétés urbaines en Égypte et au Soudan. 2004.
  * XXV, Sociétés urbaines en Égypte et au Soudan. 2005.
  * XXVI, Mélanges offerts à Francis Geus. ed. B. Gratien. Lille 2007.
+
 ### Dem.Stud.
- = Demotische Studien. Leipzig 1901—1929; Sommerhausen 1988—.
+ = _Demotische Studien_. Leipzig 1901—1929; Sommerhausen 1988—.
  * I, Aegyptische und griechische Eigennamen aus Mumienetiketten der römischen Kaiserzeit, by W. Spiegelberg. 1901. [Rp. CG]
  * II, See P.Eleph.Dem.
  * III, Der Sagenkreis des Königs Petubastis nach dem Strassburger demotischen Papyrus sowie den Wiener und Pariser Bruchstücken, ed. W. Spiegelberg. 1910. [Rp. CG]
@@ -2330,12 +2335,14 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XII, see P.Hausw.
  * XIII, Der verblendete Gelehrte: der erste Setna-Roman (P. Kairo 30646), ed. S. Goldbrunner. 2006. [Gisela Zauzich Verlag]
  * XIV, The demotic letter: a study of epistolographic scribal traditions against their intra- and intercultural background, by M. Depauw. 2006. [Gisela Zauzich Verlag]
+
 ### Estud.Pap.
- = Estudis de Papirologia i Filologia Bíblica. Barcelona 1991—. [Seminari de Papirologia, Institut de Teologia Fondamental]
+ = _Estudis de Papirologia i Filologia Bíblica_. Barcelona 1991—. [Seminari de Papirologia, Institut de Teologia Fondamental]
  * 1, The Funerary Papyrus Palau Rib. inv. nr. 450, ed. C. Sturtewagen. 1991.
  * 2, Il lessico latino nel greco d’Egitto, by S. Daris. 2nd ed., 1991.
  * 3, see P.PalauRib.Lit..
  * 4, see P.PalauRib.
+
 ### Graeco-Roman Memoirs, Egypt Exploration Society. London 1898— .
  * 1, see P.Oxy. I.
  * 2, see P.Oxy. II.
@@ -2429,8 +2436,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 90, see P.Oxy. LXX.
  * 91, see P.Oxy. LXXI.
  * 92, see P.Oxy. LXXII.
+
 ### KurzberichteGiessen
- = Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen
+ = _Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen_
+
  * I, Bericht über den VII. Internationalen Kongress für Papyrologie im Hinblick auf die Giessener Papyrussammlungen, by H.G. Gundel. 1956. Reprint 1968.
  * II, Die Giessener Papyrussammlungen. Überblick und Bibliographie, by H.G. Gundel. 1956. Reprint 1966.
  * III, Vorbemerkungen zum Inventar der Papyri bibliothecae universitatis Gissensis, by H.G. Gundel. 1956. 2nd edition 1968 = Kurzberichte XXVII.
@@ -2475,15 +2484,17 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XLII, Die Giessener hieroglyphischen und demotischen Texte, by U. Kaplony-Heckel. 1986.
  * XLIII, Die Unschuldserklärungen und Beichten im ägyptischen Totenbuch, in der römischen Elegie und im antiken Roman, by R. Merkelbach. 1987.
  * XLIV, Giessener Dokumente zur antiken Schriftkultur, by P. Kuhlmann. 1997.
+
 ### MPER
- = Mittheilungen aus der Sammlung der Papyrus Erzherzog Rainer, ed. J. Karabacek. Vienna. A publication of various articles, some concerned with Greek papyri. [MF 2.40—44]
+ = _Mittheilungen aus der Sammlung der Papyrus Erzherzog Rainer_, ed. J. Karabacek. Vienna. A publication of various articles, some concerned with Greek papyri. [MF 2.40—44]
  * I, 1887.
  * II—III, 1887.
  * IV, 1888.
  * V, 1892.
  * VI, 1897.
+
 ### MPER N.S.
- = Mitteilungen aus der Papyrussammlung der österreichischen Nationalbibliothek in Wien, Neue Serie. Vienna 1932—.
+ = _Mitteilungen aus der Papyrussammlung der österreichischen Nationalbibliothek in Wien, Neue Serie_. Vienna 1932—.
  * I, Griechische literarische Papyri I, ed. H. Gerstinger, H. Oellacher and K. Vogel. 1932. [MF 2.82]
  * II, Koptische Pergamente theologischen Inhalts, ed. W.C. Till. 1934. [MF 2.83]
  * III, Griechische literarische Papyri II, ed. H. Oellacher, with an index to Pts. I and II by H. Gerstinger and P. Sanz. 1939. [MF 2.84]
@@ -2512,8 +2523,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXVI, not yet published.
  * XXVII, see Lex.Lat.Lehnw. (IV, Instrumenta).
  * XXVIII, Isis, Das gottliche Kind, ed. M. A. Stadler. 2004. [ÖNB]
+
 ### Münch.Beitr.
- = Münchener Beiträge zur Papyrusforschung und antiken Rechtgeschichte. Munich 1915—. (C.H. Beck). All volumes in print unless noted o.p.
+ = _Münchener Beiträge zur Papyrusforschung und antiken Rechtgeschichte_. Munich 1915—. (C.H. Beck). All volumes in print unless noted o.p.
+
  * 1, Papyrologische Studien zum byzantinischen Urkundenwesen im Anschluß an P.Heidelberg 311, by E. von Druffel. 1915. 2nd ed. 1970.
  * 2, Ägyptisches Vereinswesen zur Zeit der Ptolemäer und Römer. Teil 1: Die Vereinsarten. Teil 2:Vereinswesen und Vereinsrecht, by M. San Nicolò. 1915. Both volumes 2nd ed. 1972, with Nachträgen by J. Herrmann.
  * 3, Frühchristliche Vorbereitungsgebete zur Taufe (Papyr. Berol. 13415), by T. Schermann. 1917. [o.p.]
@@ -2611,8 +2624,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 95, Id quod actum est. Zur Ermittlung des Parteiwillens im klassischen römischen Zivilprozess, by U. Babusiaux. 2006
  * 96, Authentizität und Geltung spätantiker Kaisergesetze. Studien zu den Sacra privilegia concilii Vizaceni, by W. Kaiser. 2007.
  * 97, Zwischen König und Karikatur. Das Bild Ptolemaios VIII. im Spannungsfeld der Überlieferung, by P.Nadig. 2007
+
 ### Mus.Tor.
- = Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi. Turin 1967—.
+ = _Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi_. Turin 1967—.
+
  * I, see P.Tor.Botti
  * II, Papiro ieratico n. 54003. Estratti magici e rituali del Primo Medio Regno, by A. Roccati. Turin 1970.
  * III, Der Papyrus 35001 und seine Satirisch-erotischen Zeichung und Inschriften, by J. Omlin. Turin 1973.
@@ -2622,8 +2637,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * VII, Due Libri dei Morti del principio del Nuovo Regno: il lenzuolo funerario della principessa Ahmosi e le tele del sa-hesu Ahmosi, by P. Ronsecco. Turin 1996.
  * VIII, De iudicio (Torino, Museo egizio, cat. 63000, cod. IV) Schenute von Atripe, by H. Behlmer. Turin 1997.
  * IX, Egyptian Healing Statues in Three Museums in Italy (Turin, Florence, Naples), by L. Kákosy. Turin 1999.
+
 ### Pap.Brux.
- = Papyrologica Bruxellensia. Brussels 1962—. (Fondation Égypto-logique Reine Élisabeth).
+ = _Papyrologica Bruxellensia_. Brussels 1962—. (Fondation Égypto-logique Reine Élisabeth).
+
  * I, see P.Iand.inv. 653.
  * II, Les Titulatures impériales dans les papyrus, les ostraca et les inscriptions d’Égypte (30 a.C.—284 p.C.), by P. Bureth. 1964. [FERE]
  * III, La Sitométrie dans les archives de Zénon, by T. Reekmans. 1966. [FERE]
@@ -2659,8 +2676,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXXII, see P.Hombert.
  * XXXIII, see O.Berenike II.
  * XXXIV, "Et maintenant ce ne sont plus que des villages..." Th�bes et sa r�gion aux �poques hell�nistique, romaine et byzantine. Actes du colloque tenu � Bruxelles les 2 et 3 d�cembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
+
 ### Pap.Castr.
- = Papyrologica Castroctaviana. Barcelona 1967— . [PIB]
+ = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
+
  * I, El papiro en los padres grecolatinos, ed. J. O’Callaghan. 1967.
  * II, Un nuovo frammento della Prima Lettera di Pietro, ed. S. Daris. 1967.
  * III, Il lessico latino nel greco d’Egitto, by S. Daris. 1971.
@@ -2673,11 +2692,15 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * X, Chrysostomus Nubianus: An Old Nubian Version of Ps.-Chrysostomus, "In Venerabilem Crucem Sermo,"by G.M. Browne. 1984.
  * XI, Das Johannesevangelium saïdisch, ed. H. Quecke. 1984.
  * XII, Gli Animali da trasporto nell’Egitto greco, romano e bizantino, by A. Leone. 1988.
+
 ### Pap.Classics. Important papyrological works reprinted under the auspices of the American Society of Papyrologists and issued by Oxbow Press.
+
  * I, Life in Egypt under Roman Rule, by N. Lewis (reprint of the Oxford University Press edition of 1983). 1999.
  * II, Greeks in Ptolemaic Egypt, by N. Lewis (reprint of the Oxford University Press edition of 1986). 2001.
+
 ### Pap.Colon.
- = Papyrologica Coloniensia, Sonderreihe of the series Wissen-schaftliche Abhandlungen der Arbeitsgemeinschaft für Forschung des Landes Nordrhein-Westfalen. Opladen 1964— .
+ = _Papyrologica Coloniensia, Sonderreihe of the series Wissen-schaftliche Abhandlungen der Arbeitsgemeinschaft für Forschung des Landes Nordrhein-Westfalen_. Opladen 1964— .
+
  * I, Der Psalmenkommentar von Tura, Quaternio IX, ed. A. Kehl. 1964. [FS]
  * II, see P.KölnLüddeckens.
  * III, The Ptolemaic Papyri of Homer, by S. West. 1967. [FS]
@@ -2710,8 +2733,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXIX, see P.Polit.Jud.
  * XXX, see P.Diosk.
  * XXXI, Die Nomarchen des Arsinoites, by Fabian Reiter. 2004. [FS]
+
 ### Pap.Flor.
- = Papyrologica Florentina. Florence. 1976— .
+ = _Papyrologica Florentina_. Florence. 1976— .
+
  * I, see P.Laur. I.
  * II, see P.Laur. II.
  * III, Euripide, Eretteo, Introduzione, testo e commento by P. Carrara. 1977. [LGF]
@@ -2751,8 +2776,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXXVI, Il Calamo e il papiro. La scritura greca dall'eta ellenistica ai primi secoli di Bisanzio, by G. Cavallo. 2005. [LGF]
  * XXXVII, Strategi and Royal Scribes of Roman Egypt (Str.R.Scr.2), by J. Whitehorne. 2006.
  * XXXVIII, Poteri centrali e poteri periferici nella tarda antichità. Confronti Conflitti, by L. di Paola and D. Minutoli. 2007 [LGF].
+
 ### Pap.Heid.
- = Veröffentlichungen aus der Heidelberger Papyrussammlung.
+ = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
+
  * I, Die Septuaginta-Papyri, ed. A. Deissmann. Heidelberg 1905. [MF 2.31]
  * II, Acta Pauli aus der Heidelberger koptischen Papyrushandschrift Nr. 1, ed. C. Schmidt. Leipzig 1904. [MF 2.32]
  * III, Papyri Schott-Reinhardt I, ed. C.H. Becker. Heidelberg 1906. Greek texts reprinted as SB I 5638—55. [MF 2.33]
@@ -2769,8 +2796,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * N.F. X, see P.Heid. VIII.
  * N.F. XI, see O.Heid.
  * N.F. XII, see P.Heid IX.
+
 ### Pap.Lugd.Bat.
- = Papyrologica Lugduno-Batava. Leiden 1941— .
+ = _Papyrologica Lugduno-Batava_. Leiden 1941— .
+
  * I, see P.Warr.
  * II, see P.Vindob.Bosw.
  * III, see P.Oxf.
@@ -2803,8 +2832,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXXI, Perspctives on Panopolis: An Egyptian Town from Alexander the Great to the Arab Conquest, ed. A. Egberts, B. P. Muhs and J. van der Vliet. 2002. [EJB]
  * XXXII, see P.Tebt. V.
  * XXXIII, see P.Worp.
+ * 
 ### Pap.Lup.
- = Papyrologica Lupiensia, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
+ = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
+
  * I, Papiri letterari greci e latini, ed. M. Capasso. 1992.
  * II, Papiri documentari greci, ed. M. Capasso. 1993.
  * III, Il Rotolo librario; fabbricazione, restauro, organizzazione interna, ed. M. Capasso. 1995.
@@ -2818,8 +2849,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XI, Dal Restauro dei materiali allo studio dei testi: Aspetti della ricerca papirologica, ed. M. Capasso. 2002.
  * XII, Da Ercolano all'Egitto. IV. Ricerche varie di Papirologia, ed. M.Capasso. 2003.
  * XIII, Papiri e ostraka greci, ed. M. Capasso. 2004.
+
 ### Pap.Texte Abh.
- = Papyrologische Texte und Abhandlungen, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
+ = _Papyrologische Texte und Abhandlungen_, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
+
  * I, Didymos der Blinde, Kommentar zu Hiob (Tura-Papyrus), Teil I, ed. A. Henrichs. 1968. [RH]
  * II, Didymos der Blinde, Kommentar zu Hiob (Tura-Papyrus), Teil II, ed. A. Henrichs. 1968. [RH]
  * III, Didymos der Blinde, Kommentar zu Hiob (Tura-Papyrus), Teil III, ed. U. Hagedorn, D. Hagedorn, L. Koenen. 1968. [RH]
@@ -2864,16 +2897,20 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XLII, see P.Dubl.
  * XLIII, see P. Louvre I.
  * XLIV, see P. Louvre II.
+
 ### Princ.Stud.Pap.
- = Princeton University Studies in Papyrology, vols. I—VI. 1936—1949. [PUP]
+ = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
+
  * I, see P.Princ. II.
  * II, Taxation in Egypt from Augustus to Diocletian, by S.L. Wallace. 1938. Reprint New York 1969.
  * III, The John H. Scheide Biblical Papyri: Ezekiel (P.Princ.Scheide) ed. A.C. Johnson, H.S. Gehman and E.H. Kase, Jr. 1938. [WHA]
  * IV, see P.Princ. III.
  * V, Currency in Roman and Byzantine Egypt, by L.C. West and A.C. Johnson. 1944.
  * VI, Byzantine Egypt: Economic Studies by A.C. Johnson and L.C. West. 1949.
+
 ### Publ.Soc.Fouad
- = Publications de la Société Fouad I (later Égyptienne) de Papyrologie, Textes et Documents. Cairo 1931—1951.
+ = _Publications de la Société Fouad I_ (later Égyptienne) _de Papyrologie, Textes et Documents_. Cairo 1931—1951.
+
  * I, see P.Enteux.
  * II, Un livre d’écolier du IIIe siècle avant J.-C., ed. O. Guéraud and P. Jouguet. 1938. [MF 2.90]
  * III, see P.Fouad.
@@ -2884,30 +2921,37 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * VIII, see P.FuadUniv.
  * IX, Entretien d’Origène avec Héraclide et les évêques, ses collègues, sur le père, le fils et l’âme, ed. J. Scherer. 1949. [MF 2.96]
  * X, Les Inscriptions grecques du temple de Hatshepsout à Deir el-Bahari, ed. A. Bataille. 1951. [MF 2.97]
- * 
- *  
+
 ### Publ.Sorb.Pap.
  = Publications de la Sorbonne, Série "Papyrologie", Université de Paris IV, Paris-Sorbonne.
+
  * I, J. van Haelst, Catalogue des papyrus juifs et chrétiens. 1976.
  * II, G. Husson, OIKIA, Le vocabulaire de la maison privée en Égypte d’après les papyrus grecs. 1983.
  * III, see P.Thmouis I.
+
 ### Ric.Pap.
- = Ricerca Papirologica. Messina 1992—. [Sicania editrice]
+ = _Ricerca Papirologica._ Messina 1992—. [Sicania editrice]
+
  * I, see Oroscopi. (III, Corpora).
  * II, Alle origini delle abbreviature latine. Una prima ricognizione (I secolo a.C.—IV secolo d.C.), by N. Giovè Marchioli. 1992.
  * III, Lessico dei Carmi di Dioscoro di Aphrodito, by A. Saija. 1998.
  * IV, Usi delle tavolette lignee e cerate nel mondo greco e romano, by P. Degni. 1998.
+
 ### Schr.Heid.
- = Papyrusinstitut Heidelberg, Schriften. Berlin and Leipzig 1920—1922. (See also Stud.Heid. below).
+ = _Papyrusinstitut Heidelberg, Schriften_. Berlin and Leipzig 1920—1922. (See also Stud.Heid. below).
+
  * I, Vom göttlichen Fluidum nach ägyptischer Anschauung, by F. Preisigke. 1920.
  * II, see P.Katoché.
  * III, Das Signalment in den Papyrusurkunden, by J. Hasebroek. 1921.
  * IV, see O.Berl.
  * V, Das Verhältnis der griechischen und ägyptischen Texte in den zwei-sprachigen Dekreten von Rosette und Kanopus, by W. Spiegelberg. 1922.
  * VI, Die Gotteskraft der frühchristlichen Zeit, by F. Preisigke. 1922.
-### SPP, see Stud.Pal.
+
+### SPP (see Stud.Pal.)
+
 ### Stud.Amst.
- = Studia Amstelodamensia ad epigraphicam, ius antiquum et papy-rologicam pertinentia. Amsterdam 1972—1976, 1989— , Zutphen 1976—86.
+ = _Studia Amstelodamensia ad epigraphicam, ius antiquum et papyrologicam pertinentia_. Amsterdam 1972—1976, 1989— , Zutphen 1976—86.
+
  * I, see P.Vind.Worp.
  * II, Index of Articles, Volumes 1—50 of Aegyptus, by S.M.E. van Lith. 1974. [AMH]
  * III, The Charm of Legal History, by H. van den Brink. 1974. [AMH]
@@ -2952,14 +2996,18 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * IV, see P.Tsenhor.
  * V, Some Coins of Artaxerxes and other Short Texts in the Demotic Script Found on Various Objects and Gathered from Many Publications, ed. S.P. Vleeming. 2001.
  * VI, see P.Zauzich.
+
 ### Stud.Heid.
- = Studien zur Epigraphik und Papyruskunde, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
+ = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
+
  * I 1, Die lateinischen Wörter und Namen in den griechischen Papyri, by B. Meinersmann, 1927.
  * I 2, Die Personennamen der Kopten: I (Untersuchungen), by G. Heuser. 1929. (The proposed Part II, Namenbuch, was never published except for a single fascicle in 1938).
  * I 4, Die semitischen Menschennamen in griechischen Inschriften und Papyri des vorderen Orients, by H. Wuthnow. 1930.
  * II 1, Osterfestbrief im achmimischen Dialekt des Koptischen, ed. W.C. Till. 1931.
+
 ### Stud.Pal. (or SPP)
- = Studien zur Palaeographie und Papyruskunde, ed. C. Wessely. Leipzig 1901—1924. An approximately annual publication, issued irregularly, and miscellaneous in character. Vols. I—V, VII, VIII, X, XIII, XIV, XVII, XX and XXII include documentary texts.
+ = _Studien zur Palaeographie und Papyruskunde_, ed. C. Wessely. Leipzig 1901—1924. An approximately annual publication, issued irregularly, and miscellaneous in character. Vols. I—V, VII, VIII, X, XIII, XIV, XVII, XX and XXII include documentary texts.
+
  * I, Greek texts in: "Die griechischen Papyrusurkunden des Theresianums in Wien," ed. C. Wessely, nos. 1—4 (pp.1—5, no. 4 reprinted as SB III 6086); "Trois papyrus du musée Guimet trouvés à Antinoë," ed. S. de Ricci, nos. 1—3 (pp. 6—8). 1901. [MF 2.114 (with vols. II and IV); rp. AMH]
  * II, Greek texts in "Die jüngsten Volkszählungen und die ältesten Indictionen in Ägypten," ed. C. Wessely, nos. 1—3 and four others unnumbered (pp. 26—35, no. 2 reprinted in vol. XXII 7). 1902. [MF 2.114 (with vols. I and IV); rp. AMH]
  * III, Griechische Papyrusurkunden kleineren Formats (P.Kl. Form. I), ed. C. Wessely. Nos. 1—701. 1904. [MF 2.115 (with VIII); rp. AMH]
@@ -2987,13 +3035,17 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXI, Griechisch-ägyptischer Offenbarungszauber, ed. Th. Hopfner. 1921. Revised ed. Amsterdam 1974. [Rp. AMH]
  * XXII, Catalogus papyrorum Raineri. Series Graeca. Pars II. Papyri N.24858—25024, aliique in Socnopaei Insula scripti, ed. C. Wessely. Nos. 1—184. 1922. [MF 2.119; rp. AMH]
  * XXIII, Griechisch-ägyptischer Offenbarungszauber: seine Methoden, ed. Th. Hopfner. 1924. [Rp. AMH in two volumes]
+
 ### Stud.Test.Pap.
- = Studi e testi di Papirologia. Florence. [FLM]
+ = _Studi e testi di Papirologia_. Florence. [FLM]
+
  * 1, Il testamento romano, by M. Amelotti. 1966
  * 2, Ricerche sulla maiuscola biblica, by G. Cavallo. 2 vols. 1967
  * 3, Il Cristianesimo in Egitto: Lettere private nei papiri dei secoli II-IV by M. Naldini. Florence 1968. Nos. 1-97. Second ed. Fiesole 1998, with addenda but no additional texts.
+
 ### Stud.Test.Pap. N.S.
- = Studi e Testi di Papirologia. Nuova Serie. Florence [Istituto Papirologico]
+ = _Studi e Testi di Papirologia. Nuova Serie_. Florence [Istituto Papirologico]
+
  * 1, Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. 2002.
  * 2, Le calzature nei papiri di eta greco-romana, by S. Russo. 2004.
  * 3, Not published.
@@ -3003,8 +3055,10 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * 7, Euripide e i papiri. Atti del convegno internazionale di studi. Firenze 10-11 giugno 2004, ed. G. Bastianini and A. Casanova. 2005.
  * 8, Callimaco: cent’anni di papiri. Atti del convegno internazionale di studi. Firenze 9-10 giugno 2005, ed. G. Bastianini and A. Casanova. 2006.
  * 9, I papiri di Saffo e di Alceo. Atti del convegno internazionale di studi. Firenze 8-9 giugno 2006, ed. G. Bastianini and A. Casanova. 2007.
+
 ### TycheSuppl.
- = Tyche, Supplementbände. Vienna 1992—. [AHN]
+ = _Tyche_, Supplementbände. Vienna 1992—. [AHN]
+ 
  * 1, A Mithraic Catechism from Egypt, by W.M. Brashear. 1992.
  * 2, Das europäische "Barbaricum" und die Zone der Mediterrankultur: Ihre historische Wechselwirkung und das Geschichtsbild des Poseidonios, by G. Dobesch. 1995.
  * 3, Ostrakismos und Prominenz in Athen: Attische Bürger des 5. Jh. v. Chr. auf den Ostraka, by S. Brenne. 2000.
