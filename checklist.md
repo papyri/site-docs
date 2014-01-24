@@ -181,6 +181,9 @@ This is a work in progress and will eventually supersede [http://library.duke.ed
  * V, Griechische, koptische und arabische Texte zur Religion und religiösen Literatur in Aegyptens Spätzeit, ed. F. Bilabel and A. Grohmann. 1934. Nos. 112—167. Nos. 112-113, 118-121, and 143-166 are Arabic; nos. 114-116, 122, 124-126, 131-142 and 167 Coptic; nos. 117 and 127-130 Greek; no. 123 Coptic-Arabic. [MF 2.53]
  * VI, Griechische Papyri, ed. G.A. Gerhard. 1938. Nos. 168—180. [MF 2.54]. Numbering continued in P.Heid. I.
 
+### P.Bagnall
+= _Papyrological Texts in Honor of Roger S. Bagnall_, ed. R. Ast, H. Cuvigny, T. M. Hickey, and J. Lougovaya. Durham, NC 2013. (Am.Stud.Pap. 53). Nos. 1–70. 
+
 ### P.Bal.
 = _Bala'izah: Coptic Texts from Deir el-Bala'izah in Upper Egypt_, ed. P.E. Kahle. London 1954. 2 vols. The following texts are Greek in whole or part: I 2 (parchment), 29; II 123, 130, 148, 180—182, 203—204, 286—289, 296—300, 308, 315, 345—346, 355—356, 361, 374—375, 381, 383, 386—394, 408 (papyri).
 
@@ -503,8 +506,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### P.Dime
 = _Demotische Dokumente aus Dime_
 
- * I,   see O.Dime.
+ * I, see O.Dime.
  * II, Quittungen, ed. S. L. Lippert and M. Schentuleit. Wiesbaden 2006. [OH]
+ * III, Urkunden, ed. S. L. Lippert and M. Schentuleit. Mit Beiträgen von F. Reiter Wiesbaden 2010. (Separate volume of plates). Nos. 1–41.
 
 ### P.Dion.
 = _Les archives privés de Dionysios, fils de Kephalas_, ed. E. Boswinkel and P.W. Pestman. Leiden 1982; with a separate fascicle of plates. (Pap.Lugd.Bat. XXII). Nos. 1—8 Demotic, nos. 9—41 and appendix A—B Greek. [EJB]
@@ -547,6 +551,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
  * I, ed. J. Bazant and R. Pintaudi with many others. Prague 1998. (Eirene 34 [1998]). Nos. 1-37.
  * II, ed. J. Bazant and R. Pinaudi with many others. Prague 2004. (Eirene 40 [2004] pages 1-193.) Nos. 1-32; no. 11 is a mummy label; nos. 30 and 31 are magical drawings.
+ * III, ed. J. Bazant, H. Harrauer and R. Pinaudi with many others. Prague 2010. (Eirene 46 [2010] pages 1–149). Nos. 1–37. 
 
 ### P.Eleph.
 = _Aegyptische Urkunden aus den Königlichen Museen in Berlin: Griechische Urkunden_, Sonderheft. _Elephantine-Papyri_, ed. O. Rubensohn. Berlin 1907. Nos. 1—32 and 3 fragments. [MF 2.81; rp. CG]
@@ -671,7 +676,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### P.Grad.
 = _Griechische Papyri der Sammlung Gradenwitz_, ed. G. Plaumann. Heidelberg 1914. (SBHeidelberg 1914, Abh. 15). Nos. 1—19; 17 and 18 are descripta. Texts 1—3, 5—16 and 19 reprinted as SB III 6275—6290; no 4 is SB I 5680. Further on the collection see ZPE 128 (1999) 153—160 and 134 (2001) 163-178, where D. Hagedorn and K.A. Worp provide information on the widely dispersed Gradenwitz collection, with a concordance for inventory numbers and published pieces. [MF 2.19; rp. CG]
 
-### P. Graux
+### P.Graux
 
 * I, Nos. 1 and 2, ed. H. Henne in BIFAO 21 (1923) 189ff; nos. 3—8, ed. H. Henne in BIFAO 27 (1927) 1ff.; all reprinted as SB IV 7461—7468.
 * II, Papyrus Graux II, ed. H. Cuvigny. Geneva 1995. (Hautes Études du Monde Gréco-Romain 19). Nos. 9—29. [Droz]
@@ -740,6 +745,9 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 
 ### P.HengstenbergCopt.
 = "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327), but are now lost.
+
+### P.Herakl.Bank
+= _Ptolemäische Bankpapyri aus dem Herakleopolites (P.Herakl.Bank). Papyri der Sammlungen in Heidelberg, Köln und Wien_, ed. K. Maresch. Paderborn et al. 2012. (Pap.Colon. 35). Nos. 1–6.
 
 ### P.Hercul.
 See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante at Centro Internazionale per lo Studio dei Papiri Ercolanesi (Naples 1979) and Manuale di papirologia ercolanese, by M. Capasso (Lecce 1991 = Università degli Studi di Lecce, Dipartmento di Filologia Classica e Medioevale, Testi e Studi 3).
@@ -853,6 +861,7 @@ P.Hou
  * IX, ed. M. Gronewald and others. Opladen 200l. (Pap.Colon. VII/9). Nos. 356—397. Nos. 383—392 are Coptic. Nos. 393—397 are drawings. Nos. 375—382, 387—392 are ostraca; no. 374 is a wooden tablet with Demotic on back; no. 384 is parchment. [FS]
  * X, ed. M. Gronewald and others. Paderborn 2003. (Pap.Colon. VII/10). Nos. 398—428. No. 423 is Hieratic; nos. 424 and 426—428 are Coptic; no. 425 is Greek and Coptic. [FS]
  * XI, ed. Ch. Armoni and others. Paderborn 2007. (Pap.Colon. VII/11). Nos. 429—466. No. 463 is Hieratic; nos. 464—466 are Coptic. [FS]
+ * XII, ed. Ch. Armoni, M. Gronewald, J. Lundon, K. Maresch, F. Reiter and G. Schenke. Paderborn et al. 2010. (Pap.Colon. VII, 12). Nos. 467–495. 
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
@@ -953,6 +962,9 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * I, Catalogue of the Coptic Manuscripts in the British Museum, ed. W.E. Crum. 1905. Nos. 1—1252. Nos. 1075-1079, 1093, 1130-1131, and possibly 460 are Greek.
  * II, Catalogue of Coptic literary manuscripts in the British Library acquired since 1906, ed. B. Layton. 1987. Nos. 1—258; no. 191 is a private letter: edited in ZÄS 119 (1992) 43—60 (H.-M. Schenke).
 
+### P.Lond.Herm.
+= _A Sixth-century Tax Register from the Hermopolite Nome_, ed. R. S. Bagnall, J. G. Keenan and L. S. B. MacCoull. Durham, NC 2011. (Am.Stud.Pap. 51). 
+
 ### P.Lond.Lit.
 = _Catalogue of the Literary Papyri in the British Museum_, ed. H.J.M. Milne. London 1927. Contains texts of many inedita, together with descriptions of texts published previously, especially those in Classical Texts from Papyri in the British Museum, ed. F.G. Kenyon, London 1891. [MF 1.58; rp. CG]
 
@@ -1032,6 +1044,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * XVII, P.Michigan XVII: The Michigan Medical Codex (P.Mich. 758 = P.Mich.inv. 21), ed. L.C. Youtie. Atlanta 1996. (Am.Stud.Pap. XXXV). [Oxbow]
  * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG]
  * XIX, P.Michigan XIX. Baptized for Our Sakes: A Leather Trisagion from Egypt (P.Mich. 799), ed. D.G. Martinez. Stuttgart and Leipzig 1999. (Beiträge zur Altertumskunde 120). No.799. [KGS]
+ * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P. J. Sijpesteijn and K. A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826.
 
 ### P.Mich.Aphrod.
 = _Settling a Dispute: Toward a Legal Anthropology of Late Antique Egypt_, by T. Gagos and P. van Minnen. Ann Arbor 1994. (New Texts from Ancient Cultures I). Contains a reedition of P.Vat.Aphrod. 10, to which is joined P.Mich.inv. 6922. [Univ. of Michigan Press]
@@ -1076,6 +1089,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * VI, Milan 1977. Nos. 258—300.
  * VII, La contabilità di un'azienda agricola nel II sec. d.C., ed. D. Foraboschi. Milan 1981. Nos. 301—308.
  * VIII, Posidippo di Pella: epigrammati, ed. G. Bastianini and C. Gallazi with the collaboration of C. Austin. Vol. 1, Text; vol. 2 Images (including CD ROM). Milan 2001. No. 309. [LED - Edizioni Universitarie di Lettere Economia Diritto]
+
+### P.Minnesota
+= _Back to Oegstgeest. The von Scherling Papyrus Collection. Some von Scherling Texts in Minnesota_, ed. M. Bakker, A. Bakkers and K. Worp. Cincinnati 2007. (BASP 44 [2007] pages 41–73). Nos. 1–11. (Indices, ed. A. V. Bakkers. [http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf]([http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf)).
 
 ### P.Mon.Apollo
 = _Coptic and Greek texts relating to the Hermopolite Monastery of Apa Apollo_, ed. S.J. Clackson. Oxford 2000. (Griffith Institute Monographs). Nos. 1—66. Nos. 27, 31, 48 are Greek; the rest Coptic. [Oxbow]
