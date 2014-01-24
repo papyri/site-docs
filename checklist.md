@@ -2834,7 +2834,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXXIII, see P.Worp.
  * 
 ### Pap.Lup.
- = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
+ = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce. 
 
  * I, Papiri letterari greci e latini, ed. M. Capasso. 1992.
  * II, Papiri documentari greci, ed. M. Capasso. 1993.
@@ -2881,7 +2881,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXVI, Didymos der Blinde, Kommentar zum Ecclesiastes (Tura-Papyrus), Teil I.2, ed. G. Binder. 1982. [RH]
  * XXVII, Three Rolls of the Early Septuagint: Genesis and Deuteronomy, by Z. Aly, with preface, introd. and notes by L. Koenen. 1980. [RH]
  * XXVIII, see P.Ups.Frid.
- * XXIX, see P.Haun. II.
+ * XXIX, see P.Haun. II. 
  * XXX, see C.Gloss.Biling. (III, Corpora).
  * XXXI, see P.Hamb. III.
  * XXXII, Die Lehre des Anchscheschonqi (P. BM 10508), ed. H.J. Thissen. 1984. [RH]
