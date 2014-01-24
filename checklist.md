@@ -1576,126 +1576,127 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _The Archive of Teos and Thabis from Early Ptolemaic Thebes. P. Brux. Dem. Inv. E. 8252-8256_, ed. M. Depauw. Turnhout 2000. (Monographies Reine Élisabeth 8). Nos. 1-13. No. 13 is linen. [FERE]
 
 ### P.TestiBotti
-= Testi Demotici I, ed. G. Botti. Includes 3 papyri from Bologna, 6 papyri from Florence, 7 ostraca from Florence and one papyrus from Naples. There is a pocket of plates. Florence 1941.
+= _Testi Demotici I_, ed. G. Botti. Includes 3 papyri from Bologna, 6 papyri from Florence, 7 ostraca from Florence and one papyrus from Naples. There is a pocket of plates. Florence 1941.
 
 ### P.Thead.
-= Papyrus de Théadelphie, ed. P. Jouguet. Paris 1911. Nos. 1—61, all reedited in P.Sakaon. [Rp. CG]
+= _Papyrus de Théadelphie_, ed. P. Jouguet. Paris 1911. Nos. 1—61, all reedited in P.Sakaon. [Rp. CG]
 
 ### P.Theon.
-= The Family of the Tiberii Iulii Theones, ed. P.J. Sijpesteijn. Amsterdam 1976. (Stud.Amst. V). Nos. 1—29. [AMH]
+= _The Family of the Tiberii Iulii Theones_, ed. P.J. Sijpesteijn. Amsterdam 1976. (Stud.Amst. V). Nos. 1—29. [AMH]
 
 ### P.Thmouis
-= Le Papyrus Thmouis 1, colonnes 68—160, ed. S. Kambitsis. Paris 1985. (Publ.Sorb.Pap. III).
+= _Le Papyrus Thmouis 1, colonnes 68—160_, ed. S. Kambitsis. Paris 1985. (Publ.Sorb.Pap. III).
 
 ### P.Thomas
-= Essays and Texts in Honor of J.David Thomas, ed. T. Gagos and R.S. Bagnall. Oakville 2001. (Am.Stud.Pap. XLII) Nos. 1-31. Nos. 8 and 9 are ostraca; nos. 10 and 19 inscriptions; nos. 16 and 17 are wooden mummy labels; no. 18 a limestone mummy label; no. 31 is a graffito. No. 6 is Latin; Nos. 20, 24 and 25 are bilingual, Greek and Latin; no. 18 is Demotic and no. 31 is Coptic. [Oxbow]
+= _Essays and Texts in Honor of J.David Thomas_, ed. T. Gagos and R.S. Bagnall. Oakville 2001. (Am.Stud.Pap. XLII) Nos. 1-31. Nos. 8 and 9 are ostraca; nos. 10 and 19 inscriptions; nos. 16 and 17 are wooden mummy labels; no. 18 a limestone mummy label; no. 31 is a graffito. No. 6 is Latin; Nos. 20, 24 and 25 are bilingual, Greek and Latin; no. 18 is Demotic and no. 31 is Coptic. [Oxbow]
 
 ### P.Tor.
 = "Papyri graeci Regii Taurinensis Musei Aegyptii," ed. A. Peyron in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie 31 (1827) 9—188 and 33 (1829) 1—80. Nos. 1-14. Texts republished in UPZ and P.Tor.Amen. [MF 2.85]
 
 ### P.Tor.Amen.
-= L'Archivio di Amenothes figlio di Horos. Testi demotici e greci relativi ad una famiglia di imbalsamatori del secondo sec. a.C., ed. P.W. Pestman. Milan 1981. (Mus.Tor. V). Nos. [5], 6—8 and 12 are Greek; nos. 1—4, 9—11 and 13—17 Demotic. There is a Demotic note to no. 7. [CG]
+= _L'Archivio di Amenothes figlio di Horos. Testi demotici e greci relativi ad una famiglia di imbalsamatori del secondo sec. a.C._, ed. P.W. Pestman. Milan 1981. (Mus.Tor. V). Nos. [5], 6—8 and 12 are Greek; nos. 1—4, 9—11 and 13—17 Demotic. There is a Demotic note to no. 7. [CG]
 
 ### P.Tor.Botti
-= L'Archivio demotico da Deir el-Medineh, ed. G. Botti. Part 1, Testo; Part 2, Tavole. Florence 1967. (Mus.Tor. I). Nos. 1—45. The versos of nos. 1 and 9 have been reversed in the publication. [FLM]
+= _L'Archivio demotico da Deir el-Medineh_, ed. G. Botti. Part 1, Testo; Part 2, Tavole. Florence 1967. (Mus.Tor. I). Nos. 1—45. The versos of nos. 1 and 9 have been reversed in the publication. [FLM]
 
 ### P.Tor.Choach.
-= Il Processo di Hermias e altri documenti dell'archivio dei choachiti, papiri greci e demotici conservati a Torino e in altre collezioni d'Italia, ed. P.W. Pestman. Turin 1992. (Mus.Tor. VI). Nos. 3—5, 8—9 and 11—12 are Greek; 1—2, 6—7, 10 and 13—14 Demotic. There are Greek receipts and dockets to nos. 2 and 10; a Greek docket to no. 13. A few Demotic signs are found on no. 9.
+= _Il Processo di Hermias e altri documenti dell'archivio dei choachiti, papiri greci e demotici conservati a Torino e in altre collezioni d'Italia_, ed. P.W. Pestman. Turin 1992. (Mus.Tor. VI). Nos. 3—5, 8—9 and 11—12 are Greek; 1—2, 6—7, 10 and 13—14 Demotic. There are Greek receipts and dockets to nos. 2 and 10; a Greek docket to no. 13. A few Demotic signs are found on no. 9.
 
 ### P.Tsenhor
-= Les Papyrus démotiques de Tsenhor, ed. P.W. Pestman. Leuven 1994. (Stud. Demotica IV). Nos. 1—17. [Peeters]
+= _Les Papyrus démotiques de Tsenhor_, ed. P.W. Pestman. Leuven 1994. (Stud. Demotica IV). Nos. 1—17. [Peeters]
 
  * I, Textes
  * II, Paléographie et Planches
 
 ### P.Turner
-= Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
+= _Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday_, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
 
 ### P.Ups.8
-= Der Fluch des Christen Sabinus, Papyrus Upsaliensis 8, ed. G. Björk. Uppsala 1938. (Arbeten utgivna med understöd av Vilhelm Ekmans Universitetsfond 47). [UUB]
+= _Der Fluch des Christen Sabinus, Papyrus Upsaliensis 8_, ed. G. Björk. Uppsala 1938. (Arbeten utgivna med understöd av Vilhelm Ekmans Universitetsfond 47). [UUB]
 
 ### P.Ups.Frid
-= Ten Uppsala Papyri, ed. B. Frid. Bonn 1981. (Pap.Texte Abh. XXVIII). Nos. 1—10. [RH]
+= _Ten Uppsala Papyri_, ed. B. Frid. Bonn 1981. (Pap.Texte Abh. XXVIII). Nos. 1—10. [RH]
 
 ### P.Vars.
-= Papyri Varsovienses, ed. G. Manteuffel, L. Zawadowski and C. Rozenberg. Warsaw 1935. (Universitas Varsoviensis, Acta Facultatis Litterarum I). Nos. 1—49 papyri; 50—53 ostraca. [Rp. CG 1974 with addendum by Z. Borkowski]. Second series in "Papyri e collectione Varsoviensi. Series nova," ed. G. Manteuffel in JJurPap 2 (1948) 81—110. Nos. 1—8. Texts reprinted as SB VI 9372—9375.
+= _Papyri Varsovienses_, ed. G. Manteuffel, L. Zawadowski and C. Rozenberg. Warsaw 1935. (Universitas Varsoviensis, Acta Facultatis Litterarum I). Nos. 1—49 papyri; 50—53 ostraca. [Rp. CG 1974 with addendum by Z. Borkowski]. Second series in "Papyri e collectione Varsoviensi. Series nova," ed. G. Manteuffel in JJurPap 2 (1948) 81—110. Nos. 1—8. Texts reprinted as SB VI 9372—9375.
 
 ### P.Vat.Aphrod.
-= I Papiri Vaticani di Aphrodito, ed. R. Pintaudi. Rome 1980. Separate portfolio of plates. Nos. 1—26. [VAT]
+= _I Papiri Vaticani di Aphrodito_, ed. R. Pintaudi. Rome 1980. Separate portfolio of plates. Nos. 1—26. [VAT]
 
 ### P.Vat.Mai
-= Classicorum Auctorum e Vaticanis codicibus editorum collectio, ed. A. Mai. Vol. IV (Rome 1831) contains on pp. 442-447, P.Vatican B (UPZ I 7); vol. V (Rome 1833) contains on pp. 350-361, P.Vatican E, F (UPZ I 15, 16) and on pp. 600-604, P.Vatican A, C, D (UPZ I 60, 51, 45). Nos. A, B, C and D were reedited by B. Peyron in "Papiri greci del Museo di Londra e della Bibliotheca Vaticana" in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841). This article also reprints P.Forshall (q.v.) II-XV and SVIII.
+= _Classicorum Auctorum e Vaticanis codicibus editorum collectio_, ed. A. Mai. Vol. IV (Rome 1831) contains on pp. 442-447, P.Vatican B (UPZ I 7); vol. V (Rome 1833) contains on pp. 350-361, P.Vatican E, F (UPZ I 15, 16) and on pp. 600-604, P.Vatican A, C, D (UPZ I 60, 51, 45). Nos. A, B, C and D were reedited by B. Peyron in "Papiri greci del Museo di Londra e della Bibliotheca Vaticana" in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841). This article also reprints P.Forshall (q.v.) II-XV and SVIII.
 
 ### P.Verpfründung.
-= Ägyptische Verpfründungsverträge mit Vermögensabtretungen, ed. W. Spiegelberg. Heidelberg 1923. (SBHeidelberg 1923.6). Translations of 4 texts are given here.
+= _Ägyptische Verpfründungsverträge mit Vermögensabtretungen_, ed. W. Spiegelberg. Heidelberg 1923. (SBHeidelberg 1923.6). Translations of 4 texts are given here.
 
 ### P.Vet.Aelii
 = _Veteranen unter den Severern und frühen Soldatenkaisern: Die Dokumentensammlungen der Veteranen Aelius Sarapammon und Aelius Syrion_, ed. P. Sänger. Stuttgart 2011. (Heidelberger Althistorische Beiträge und Epigraphische Studien 48). Nos. 1–19.
 
 ### P.Vind.Bosw.
-= Einige Wiener Papyri, ed. E. Boswinkel. Leiden 1942. (Pap.Lugd.Bat. II). Nos. 1—17. [MF 2.56]
+= _Einige Wiener Papyri_, ed. E. Boswinkel. Leiden 1942. (Pap.Lugd.Bat. II). Nos. 1—17. [MF 2.56]
 
 ### P.Vind.Sal.
-= Einige Wiener Papyri, ed. R.P. Salomons. Amsterdam 1976. (Stud.Amst. IV). Nos. 1—23. [AMH]
+= _Einige Wiener Papyri_, ed. R.P. Salomons. Amsterdam 1976. (Stud.Amst. IV). Nos. 1—23. [AMH]
 
 ### P.Vind.Sijp.
-= Einige Wiener Papyri, ed. P.J. Sijpesteijn. Leiden 1963. (Pap.Lugd.Bat. XI). Nos. 1—28. [MF 2.65]
+= _Einige Wiener Papyri_, ed. P.J. Sijpesteijn. Leiden 1963. (Pap.Lugd.Bat. XI). Nos. 1—28. [MF 2.65]
 
 ### P.Vind.Tand.
-= Fünfunddreissig Wiener Papyri, ed. P.J. Sijpesteijn and K.A. Worp. Zutphen 1976. (Stud.Amst. VI). (Separate volume of plates). Nos. 1—35. There is Demotic on the versos of nos. 9, 10, 12—15. [TPC]
+= _Fünfunddreissig Wiener Papyri_, ed. P.J. Sijpesteijn and K.A. Worp. Zutphen 1976. (Stud.Amst. VI). (Separate volume of plates). Nos. 1—35. There is Demotic on the versos of nos. 9, 10, 12—15. [TPC]
 
 ### P.Vind.Worp
-= Einige Wiener Papyri, ed. K.A. Worp. Amsterdam 1972. (Stud.Amst. I). Nos. 1—24. [AMH]
+= _Einige Wiener Papyri_, ed. K.A. Worp. Amsterdam 1972. (Stud.Amst. I). Nos. 1—24. [AMH]
 
 ### P.Warr.
-= The Warren Papyri, ed. M. David, B.A. van Groningen and J.C. van Oven. Leiden 1941. (Pap.Lugd.Bat. I). Nos. 1—21. [MF 2.55]
+= _The Warren Papyri_, ed. M. David, B.A. van Groningen and J.C. van Oven. Leiden 1941. (Pap.Lugd.Bat. I). Nos. 1—21. [MF 2.55]
 
 ### P.Wash.Univ.
-= Washington University Papyri.
+= _Washington University Papyri_.
 
  * I, ed. V.B. Schuman. Missoula 1980. (Am.Stud.Pap. XVII). Nos. 1—61. [Oxbow]
  * II, Papyri from the Washington University Collection, St. Louis, Missouri, Part II, ed. K. Maresch and Z.M. Packman. Opladen 1990. (Pap.Colon. XVIII). Nos. 62—108. [FS]
 
 ### P.Wisc.
-= The Wisconsin Papyri, ed. P.J. Sijpesteijn.
+= _The Wisconsin Papyri_, ed. P.J. Sijpesteijn.
+
  * I, Leiden 1967. (Pap.Lugd.Bat. XVI). Nos. 1—37. [EJB]
  * II, Zutphen 1977. (Stud.Amst. XI). Nos. 38—87. [TPC]
 
 ### P.Worp
-= Sixty-Five Papyrological Texts Presented to Klaas A. Worp on the Occasion of his 65th Birthday, ed. F. A. J. Hoogendijk and B. P. Muhs. Leiden 2008. nos. 1—4 are Greek semi-literary papyri; no. 5 is a Coptic semi-literary parchment; nos. 6—11, 53 Greek and Latin subliterary texts (53 an ostrakon); no. 12 is a Demotic text on a wooden board; nos. 13—37 are Greek documentary papyri (no. 27 is Greek/Latin); nos. 38—52, 54—61 are Greek documentary ostraka; nos. 62—64 are Coptic documents (62 an ostrakon); no. 65 is an Arabic papyrus. (Pap.Lugd.Bat. XXXIII). [EJB]
+= _Sixty-Five Papyrological Texts Presented to Klaas A. Worp on the Occasion of his 65th Birthday_, ed. F. A. J. Hoogendijk and B. P. Muhs. Leiden 2008. nos. 1—4 are Greek semi-literary papyri; no. 5 is a Coptic semi-literary parchment; nos. 6—11, 53 Greek and Latin subliterary texts (53 an ostrakon); no. 12 is a Demotic text on a wooden board; nos. 13—37 are Greek documentary papyri (no. 27 is Greek/Latin); nos. 38—52, 54—61 are Greek documentary ostraka; nos. 62—64 are Coptic documents (62 an ostrakon); no. 65 is an Arabic papyrus. (Pap.Lugd.Bat. XXXIII). [EJB]
 
 ### P.Würzb.
-= Mitteilungen aus der Würzburger Papyrussammlung, ed. U. Wilcken. Berlin 1934. (AbhBerlin 1933, 6; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde II [Leipzig 1970] 43—164). Nos. 1—22. [MF 2.28]
+= _Mitteilungen aus der Würzburger Papyrussammlung_, ed. U. Wilcken. Berlin 1934. (AbhBerlin 1933, 6; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde II [Leipzig 1970] 43—164). Nos. 1—22. [MF 2.28]
 
 ### P.Yadin
-= The Documents from the Bar Kochba Period in the Cave of Letters.
+= _The Documents from the Bar Kochba Period in the Cave of Letters_.
 
  * I, Greek Papyri, ed. N. Lewis. Jerusalem 1989. This volume contains the Greek texts of the papers of Babatha, nos. 5, 11—35 and one additional Greek text, no. 37. The Aramaic and Nabataean subscriptions to nos. 15, 17, 18, 19—22 and 27 are edited by Y.Yadin and J.C. Greenfield in a separate section on pages 135—149. The Aramaic and Nabataean—Aramaic texts of the Babatha archive, nos. 1—4, 6—10 and 36, are published in P.Yadin II. No. 36 has been subsumed under no. 9; see page 271 and figures 34 and 35 in P.Yadin II. [Israel Exploration Society]
  * II, Hebrew, Aramaic and Nabataean—Aramaic Papyri, ed. Y.Yadin, J.C. Greenfield, A. Yardeni and B.A. Levine with contributions by H. M. Cotton and J. Naveh. Separate volume of plates. Jerusalem 2002. The texts are not published in numerical order, but rather in the following categories: A, Legal Papyri with subheadings: Hebrew Legal Papyri, nos. 44—46; Aramaic Legal Papyri, nos. 7, 8, 10, 42, 43 and 47; Nabataean—Aramaic Legal Papyri, nos. 1—4, 6 and 9.
 B, The Bar Kokhba Letters with subheadings: Hebrew and Aramaic Letters, nos. 49—51, 53—58 and 60—63; Greek Letters, nos. 52 and 59. There is an illegible Greek subscription in no. 8 and an illegible Greek text (plate only) no. 64. [Israel Exploration Society]
 
 ### P.Yale
-= Yale Papyri in the Beinecke Rare Book and Manuscript Library.
+= _Yale Papyri in the Beinecke Rare Book and Manuscript Library_.
 
  * I, ed. J.F. Oates, A.E. Samuel and C.B. Welles. New Haven and Toronto 1967. (Am.Stud.Pap. II). Nos. 1—85. [Oxbow]
  * II, ed. S.A. Stephens. Chico 1985. (Am.Stud.Pap. XXIV). Nos. 86—136. [Oxbow]
  * III, ed. P. Schubert. Oakville 2001. (Am.Stud.Pap. XLI). No. 137. [Oxbow]
 
 ### P.YaleCopt.
-= Coptic Documentary Papyri from the Beinecke Library (Yale University), ed. L.S.B. MacCoull. Cairo 1986. (Textes et Documents 17). Nos. 1—39. The Greek sections of the codex, P.YaleCopt. 1, have been reedited in R. Duttenhöfer and K.A. Worp, "Die griechischen Paginae von P.Yale inv. 1804. Der revidierte Text," Tyche 11 (1996) 97—106.
+= _Coptic Documentary Papyri from the Beinecke Library (Yale University)_, ed. L.S.B. MacCoull. Cairo 1986. (Textes et Documents 17). Nos. 1—39. The Greek sections of the codex, P.YaleCopt. 1, have been reedited in R. Duttenhöfer and K.A. Worp, "Die griechischen Paginae von P.Yale inv. 1804. Der revidierte Text," Tyche 11 (1996) 97—106.
 
 ### P.Zauzich
-= Res severa verum gaudium. Festschrift für Karl–Theodore Zauzich zum 65. Geburtstag am 8. Juni 2004, ed. E. Hoffmann and H.–J. Thissen. Leuven 2004. (Studia Demotica 6) Nos. 1–83. All are Demotic papyri except as follows: nos. 2, 7, 18–38, 51–55, 71–72, 76–82 are ostraca; nos. 9 and 75 are inscriptions; no. 83 is a wooden tablet. No. 9 is Hieratico-demotic; no. 11 is Abnormal Hieratic; no. 39 is bilingual, Demotic and Greek; no. 49 is Aramaic and no. 75 is Hieroglyphic-Demotic. [Peeters]
+= _Res severa verum gaudium. Festschrift für Karl–Theodore Zauzich zum 65. Geburtstag am 8. Juni 2004_, ed. E. Hoffmann and H.–J. Thissen. Leuven 2004. (Studia Demotica 6) Nos. 1–83. All are Demotic papyri except as follows: nos. 2, 7, 18–38, 51–55, 71–72, 76–82 are ostraca; nos. 9 and 75 are inscriptions; no. 83 is a wooden tablet. No. 9 is Hieratico-demotic; no. 11 is Abnormal Hieratic; no. 39 is bilingual, Demotic and Greek; no. 49 is Aramaic and no. 75 is Hieroglyphic-Demotic. [Peeters]
 
 ### P.Zen.Dem.
-= Die Demotischen Urkunden des Zenon-Archivs, ed. W. Spiegelberg. Leipzig 1929. (Dem.Stud. 8). Nos. 1—25. [Rp. CG]
+= _Die Demotischen Urkunden des Zenon-Archivs_, ed. W. Spiegelberg. Leipzig 1929. (Dem.Stud. 8). Nos. 1—25. [Rp. CG]
 A number of these texts had been published in translation in PSI IX 1001—1010A—G. The bilinguals have been reedited in P.Zen.Pestm. as noted and a few others have been reedited in P.Mich. I and P.Cair.Zen.
 
 ### P.Zen.Pestm.
-= Greek and Demotic Texts from the Zenon Archive, ed. under the general direction of P.W. Pestman. Leiden 1980. (Pap.Lug.Bat. XX). Nos. 1—13 are bilingual Greek and Demotic papyri; nos. 14—76 Greek papyri. Appendix nos. A—F. [EJB]
+= _Greek and Demotic Texts from the Zenon Archive_, ed. under the general direction of P.W. Pestman. Leiden 1980. (Pap.Lug.Bat. XX). Nos. 1—13 are bilingual Greek and Demotic papyri; nos. 14—76 Greek papyri. Appendix nos. A—F. [EJB]
 
 ### SB
-= Sammelbuch griechischer Urkunden aus Aegypten. (A collection of documentary papyri, ostraca, inscriptions, mummy tablets and related texts published in journals or unindexed catalogues. Begun by F. Preisigke in 1915, continued by F. Bilabel, E. Kiessling, and H.-A. Rupprecht). In progress.
+= _Sammelbuch griechischer Urkunden aus Aegypten_. (A collection of documentary papyri, ostraca, inscriptions, mummy tablets and related texts published in journals or unindexed catalogues. Begun by F. Preisigke in 1915, continued by F. Bilabel, E. Kiessling, and H.-A. Rupprecht). In progress.
 
  * I, Strassburg and Berlin 1913—1915. Nos. 1—6000. [MF 1.33; rp. WdG]
  * II, Berlin and Leipzig 1918—1922. Index to I. [MF 1.34; rp. WdG]
@@ -1728,14 +1729,14 @@ A number of these texts had been published in translation in PSI IX 1001—1010A
 Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800—12801 = SB Kopt. I 224—225
 
 ### SB Kopt.
-= Koptisches Sammelbuch
+= _Koptisches Sammelbuch_
 
  * I, ed. M.R.M. Hasitzka. Vienna 1993. (MPER N.S. XXIII). Nos. 1—800. [ÖNB]
  * \*II, ed. M. R. M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
  * \*III, ed. M. R. M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1290 . (MPER, N.S. 23.3). [K.G. Saur]
 
 ### UPZ
-= Urkunden der Ptolemäerzeit (ältere Funde), ed. U. Wilcken. (Re-publication of texts published in the nineteenth century, up to but not including the Petrie papyri. There is a concordance at BL IV, pp. 118—123.)
+= _Urkunden der Ptolemäerzeit (ältere Funde)_, ed. U. Wilcken. (Re-publication of texts published in the nineteenth century, up to but not including the Petrie papyri. There is a concordance at BL IV, pp. 118—123.)
 
  * I, Papyri aus Unterägypten. Berlin—Leipzig 1927. Nos. 1—150. [MF 2.14; rp. WdG]
  * II, Papyri aus Oberägypten. Berlin 1935—1957. Nos. 151—229. [Rp. WdG]
@@ -2370,6 +2371,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### CRIPEL
  = _Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille_. 1973— .
+
  * I, Études sur l’Égypte et le Soudan anciens. Lille and Paris (Éditions Universitaires) 1973.
  * II, idem. 1974.
  * III, idem. 1975.
@@ -2399,6 +2401,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### Dem.Stud.
  = _Demotische Studien_. Leipzig 1901—1929; Sommerhausen 1988—.
+
  * I, Aegyptische und griechische Eigennamen aus Mumienetiketten der römischen Kaiserzeit, by W. Spiegelberg. 1901. [Rp. CG]
  * II, See P.Eleph.Dem.
  * III, Der Sagenkreis des Königs Petubastis nach dem Strassburger demotischen Papyrus sowie den Wiener und Pariser Bruchstücken, ed. W. Spiegelberg. 1910. [Rp. CG]
@@ -2416,12 +2419,14 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### Estud.Pap.
  = _Estudis de Papirologia i Filologia Bíblica_. Barcelona 1991—. [Seminari de Papirologia, Institut de Teologia Fondamental]
+
  * 1, The Funerary Papyrus Palau Rib. inv. nr. 450, ed. C. Sturtewagen. 1991.
  * 2, Il lessico latino nel greco d’Egitto, by S. Daris. 2nd ed., 1991.
  * 3, see P.PalauRib.Lit..
  * 4, see P.PalauRib.
 
 ### Graeco-Roman Memoirs, Egypt Exploration Society. London 1898— .
+
  * 1, see P.Oxy. I.
  * 2, see P.Oxy. II.
  * 3, see P.Fay.
