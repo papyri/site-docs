@@ -2761,7 +2761,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XXXI, see O.Berenike I.
  * XXXII, see P.Hombert.
  * XXXIII, see O.Berenike II.
- * XXXIV, "Et maintenant ce ne sont plus que des villages..." Th�bes et sa r�gion aux �poques hell�nistique, romaine et byzantine. Actes du colloque tenu � Bruxelles les 2 et 3 d�cembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
+ * XXXIV, "Et maintenant ce ne sont plus que des villages..." Thèbes et sa région aux époques hellénistique, romaine et byzantine. Actes du colloque tenu à Bruxelles les 2 et 3 décembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
 
 ### Pap.Castr.
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
