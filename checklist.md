@@ -476,10 +476,10 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Corpus Papyrorum Aegypti_, ed. E. Revillout and A. Eisenlohr. Paris.
 
  * I, Papyrus démotiques du Louvre, transl. E. Revillout.
-   * Fasc. 1, nos. 1—6. 1885.
-   * Fasc. 2, nos. 7—15. 1891.
-   * Fasc. 3, nos. 16—23. 1893.
-   * Fasc. 4, nos. 24—30. 1902. (Nos. 27—30 are literary.)
+    * Fasc. 1, nos. 1—6. 1885.
+    * Fasc. 2, nos. 7—15. 1891.
+    * Fasc. 3, nos. 16—23. 1893.
+    * Fasc. 4, nos. 24—30. 1902. (Nos. 27—30 are literary.)
  * II, Papyrus démotiques du British Museum, transl. E. Revillout. Fasc. 1, nos. 1—7. 1888.
 
 ### P.Count
@@ -530,6 +530,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### P.Edfou
 = _Papyri published in Fouilles Franco-Polonaises I—III_, a series issued by the Institut Français d'Archéologie Orientale du Caire and the University of Warsaw. [MF 1.63]
+
  * I, Tell Edfou 1937, by B. Bruyère, J. Manteuffel, K. Michalowski, J. Sainte Fare Garnot. Cairo 1937. Chap. V, pp. 141—191, includes papyri I—IV; for ostraca nos. 1—230 see O.Edfou I.
  * II, Tell Edfou 1938, by K. Michalowski, J. de Linage, J. Manteuffel, J. Sainte Fare Garnot. Cairo 1938. Chap. III, pp. 137—166, includes papyri V—VII; for ostraca nos. 231—325 see O.Edfou II.
  * III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuffel, M. Zejmo-Zejmis. Cairo 1950. Chap. V, pp. 329—372, includes papyrus VIII; for ostraca nos. 326—483 see O.Edfou III. Papyrus IX ed. R. Rémondon, "Soldats de Byzance d'après un papyrus trouvé à Edfou," in RechPap 1 (1961) 41—93. Text reprinted as SB VI 9613.
@@ -560,7 +561,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Demotische Papyrus von der Insel Elephantine_, ed. W. Spiegelberg. Leipzig 1908. (Dem.Stud. 2). Nos. 1—13; nos. 5—7 and 12 have Greek subscriptions
 
 ### P.Eleph.Wagner
-= E_lephantine XIII: Les papyrus et les ostraca grecs d'Elephantine_, ed. G. Wagner. Mainz 1998. (Deutsches Archäologisches Institut (Kairo), Archäologische Veröffentlichungen 70). Papyri nos. I—IV; ostraca nos. 1—372; nos. 166—278 are descripta. [PvZ]
+= _Elephantine XIII: Les papyrus et les ostraca grecs d'Elephantine_, ed. G. Wagner. Mainz 1998. (Deutsches Archäologisches Institut (Kairo), Archäologische Veröffentlichungen 70). Papyri nos. I—IV; ostraca nos. 1—372; nos. 166—278 are descripta. [PvZ]
 
 ### P.Enteux.
 = _ΕΝΤΕΥΞΕΙΣ: Requêtes et plaintes adressées au Roi d'Égypte au IIIe siècle avant J.-C._, ed. O. Guéraud. Cairo 1931—32. (Publ.Soc.Fouad I). Nos. 1—113 and appendix of 4 texts. [MF 1.52]
@@ -785,7 +786,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### P.Horak
 = _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. (Pap.Flor. XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF]
 
-P.Hou
+### P.Hou
 = _The Gooseherds of Hou_, ed. S. Vleeming. Leuven 1991. (Stud. Demotica 3). Nos. 1—13. [Peeters]
 
 ### P.Gur.
