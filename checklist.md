@@ -202,7 +202,7 @@ This is a work in progress and will eventually supersede <http://library.duke.ed
  * I, General Introduction. 1933. [HF]
  * II, The Gospels and Acts. 1933. Pt. 2, Plates. 1934. [text HF]
  * III, Pauline Epistles and Revelation. 1934. Pt. 2, Plates of Revelation. 1936. [HF]
- * Suppl. Pauline Epistles. 1936. Plates, 1937. [HF]
+     * Suppl. Pauline Epistles. 1936. Plates, 1937. [HF]
  * IV, Genesis. 1934. Pt. 2, Genesis (Pap. IV) Plates. 1935. Pt. 3, Genesis (Pap. IV) Plates. 1936. [HF]
  * V, Numbers and Deuteronomy. 1935. [HF]
  * VI, Isaiah, Jeremiah, Ecclesiasticus. 1937. V and VI, Plates. 1958. [HF]
