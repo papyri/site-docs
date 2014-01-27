@@ -1350,15 +1350,15 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _Papyri Wessely Pragenses_, ed. L. Varcl, in Listy Filologické (texts, translations, notes, but no indexes). [Before 1988 known as P.Prag.] [MF 2.70]
 
  * I, nos. 1—13, LF 70 (1946) 273—286 (SB VI 9052—9064).
- * nos. 14—25, LF 71 (1947) 177—185 (SB VI 9072—9083).
+     * nos. 14—25, LF 71 (1947) 177—185 (SB VI 9072—9083).
  * II, nos. 1—3, LF (Suppl. Eunomia) 80 (1957) 16—31 and 56—80 (SB VI 9406—9408).
- * nos. 4—8, LF (Eun.) 81 (1958) 6—27 (SB VI 9409).
- * nos. 9—10, LF (Eun.) 81 (1958) 69—77 (SB VI 9409).
- * nos. 11—17, LF (Eun.) 82 (1959) 3—18 (SB VI 9410).
- * nos. 18—21, LF (Eun.) 82 (1959) 81—86 (SB VI 9411—9414).
- * nos. 22—33, LF (Eun.) 83 (1960) 16—25 (SB VI 9415).
- * nos. 34—39, LF (Eun.) 83 (1960) 50—55 (SB VI 9415).
- * nos. 40—53, LF (Eun.) 84 (1961) 37—46 (SB VI 9415).
+     * nos. 4—8, LF (Eun.) 81 (1958) 6—27 (SB VI 9409).
+     * nos. 9—10, LF (Eun.) 81 (1958) 69—77 (SB VI 9409).
+     * nos. 11—17, LF (Eun.) 82 (1959) 3—18 (SB VI 9410).
+     * nos. 18—21, LF (Eun.) 82 (1959) 81—86 (SB VI 9411—9414).
+     * nos. 22—33, LF (Eun.) 83 (1960) 16—25 (SB VI 9415).
+     * nos. 34—39, LF (Eun.) 83 (1960) 50—55 (SB VI 9415).
+     * nos. 40—53, LF (Eun.) 84 (1961) 37—46 (SB VI 9415).
 
 ### P.Princ.
 = _Papyri in the Princeton University Collections_.
@@ -1909,7 +1909,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Magnien
 = _Quelques reçus d’impôts agricoles_, ed. M. Magnien. Paris 1902.
 
-O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
+### O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### O.Mattha
 = _Demotic Ostrac_a, ed. G. Mattha. Cairo 1945. (Publ.Soc.Fouad VI). Nos. 1—276. [MF 2.93]
@@ -2083,6 +2083,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### Ch.L.A.
 = _Chartae Latinae Antiquiores_, established by A. Bruckner and R. Marichal. Vols. 1—49, ed. by them and their successors. Basel, Dietikon-Zurich 1954—1998. [UGV]
+
  * I, Switzerland: Basle-St. Gall. nos. 1—108. 1954.
  * II, Switzerland: St. Gall-Zurich, nos. 109—178. 1956.
  * III, British Museum, London, nos. 179—223. 1963.
@@ -2201,7 +2202,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 = _Oroscopi greci. Documentazione papirologica_, by D. Baccani. Messina 1992. (Ric.Pap. I). Nos. 1—18.
 
 ### Pap.Agon.
-= _ehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = BGU IV 1074; 2 = BGU IV 1073; 3 = P.Oxy. XXVII 2476; 4 = P.Oxy.Hels. 25; 5 = P.Oxy. XXXI 2610; 6 = P.Lond. III 1178; 7 = Stud.Pal. V 121; 8 = P.Oslo III 85; 9 = P.Coll.Youtie II 69; 10 = P.Oxy. XLIII 3116. [FS]
+= _Zehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = BGU IV 1074; 2 = BGU IV 1073; 3 = P.Oxy. XXVII 2476; 4 = P.Oxy.Hels. 25; 5 = P.Oxy. XXXI 2610; 6 = P.Lond. III 1178; 7 = Stud.Pal. V 121; 8 = P.Oslo III 85; 9 = P.Coll.Youtie II 69; 10 = P.Oxy. XLIII 3116. [FS]
 
 ### Pap.Arbeit.
 = "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = CPR IV 156; 9 = CPR IV 157; 20 = CPR IV 162; and 25 = CPR IV 163).
@@ -2253,7 +2254,8 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * IX, Die Hieroglyphischen Ahnenreihen der ptolemäischen Könige, by M. Minas. 2000.
 
 ### Am.Stud.Pap.
- = American Studies in Papyrology. New Haven, Toronto, Las Palmas, Missoula, Chico, Decatur, Atlanta, Oakville 1966—. (American Society of Papyrologists).
+ = _American Studies in Papyrology_. Durham, New Haven, Toronto, Las Palmas, Missoula, Chico, Decatur, Atlanta, Oakville 1966—. (American Society of Papyrologists).
+
  * I, Essays in Honor of C. Bradford Welles, ed. A.E. Samuel. 1966. [Oxbow]
  * II, see P.Yale I.
  * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. (Pap.Flor. XXVIII).
@@ -2577,6 +2579,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### MPER
  = _Mittheilungen aus der Sammlung der Papyrus Erzherzog Rainer_, ed. J. Karabacek. Vienna. A publication of various articles, some concerned with Greek papyri. [MF 2.40—44]
+
  * I, 1887.
  * II—III, 1887.
  * IV, 1888.
@@ -2585,6 +2588,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### MPER N.S.
  = _Mitteilungen aus der Papyrussammlung der österreichischen Nationalbibliothek in Wien, Neue Serie_. Vienna 1932—.
+
  * I, Griechische literarische Papyri I, ed. H. Gerstinger, H. Oellacher and K. Vogel. 1932. [MF 2.82]
  * II, Koptische Pergamente theologischen Inhalts, ed. W.C. Till. 1934. [MF 2.83]
  * III, Griechische literarische Papyri II, ed. H. Oellacher, with an index to Pts. I and II by H. Gerstinger and P. Sanz. 1939. [MF 2.84]
@@ -2785,7 +2789,7 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * XI, Das Johannesevangelium saïdisch, ed. H. Quecke. 1984.
  * XII, Gli Animali da trasporto nell’Egitto greco, romano e bizantino, by A. Leone. 1988.
 
-### Pap.Classics. Important papyrological works reprinted under the auspices of the American Society of Papyrologists and issued by Oxbow Press.
+### Pap.Classics.
 
  * I, Life in Egypt under Roman Rule, by N. Lewis (reprint of the Oxford University Press edition of 1983). 1999.
  * II, Greeks in Ptolemaic Egypt, by N. Lewis (reprint of the Oxford University Press edition of 1986). 2001.
@@ -3115,9 +3119,9 @@ O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
  * II, Greek texts in "Die jüngsten Volkszählungen und die ältesten Indictionen in Ägypten," ed. C. Wessely, nos. 1—3 and four others unnumbered (pp. 26—35, no. 2 reprinted in vol. XXII 7). 1902. [MF 2.114 (with vols. I and IV); rp. AMH]
  * III, Griechische Papyrusurkunden kleineren Formats (P.Kl. Form. I), ed. C. Wessely. Nos. 1—701. 1904. [MF 2.115 (with VIII); rp. AMH]
  * III2, = Griechische Papyrusurkunden kleineren Formats Neuedition.
- * Pt. 1, Quittungen, Lieferungskäufe, und Darlehen, ed. S. Tost. Vienna 2007. (Pap.Vind. 2). Nos. 1-118.   [ÖAW]
- * Pt. 2, Schuldscheine und Quittungen, ed. F. Mitthof. Vienna 2007. (Pap.Vind. 3). Nos. 119-238. [ÖAW]
- * Pt. 5, Quittungen für die Getreidesteuer, ed. C. Kreuzsaler. Vienna 2007. (Pap.Vind. 6). Nos. 449-582. [ÖAW]
+     * Pt. 1, Quittungen, Lieferungskäufe, und Darlehen, ed. S. Tost. Vienna 2007. (Pap.Vind. 2). Nos. 1-118.   [ÖAW]
+     * Pt. 2, Schuldscheine und Quittungen, ed. F. Mitthof. Vienna 2007. (Pap.Vind. 3). Nos. 119-238. [ÖAW]
+     * Pt. 5, Quittungen für die Getreidesteuer, ed. C. Kreuzsaler. Vienna 2007. (Pap.Vind. 6). Nos. 449-582. [ÖAW]
  * IV, Greek texts in: "Papyrus ptolémaïques," ed. S. de Ricci, nos. 1—3 (pp. 53—57; no. 3 republished as UPZII 158b); "Arsinoitische Verwal-tungsurkunden vom Jahre 72/3 nach Chr.," ed. C. Wessely, reedition ofP.Lond. II 260 and 261 adding Rainer fragment, with indexes (pp. 58—83); "Die Papyri der öffentlichen Sammlungen in Graz," ed. C. Wessely, full edition of descripta P.Oxy. II 368, III 603, 636, 647 and P.Fay. 153, 229, 260, 264, 322, 341 (pp. 114—121); Indexes to vols. I, II and IV. 1905. [MF 2.114 (with vols. I and II); rp. AMH]
  * V, Corpus Papyrorum Hermopolitanorum I (C.P.Herm.), ed. C. Wessely. Nos. 1—127. 1905. [MF 2.116; rp. AMH]
  * VI, Kolotes und Menedemos: Texte und Untersuchungen zur Philosophen- und Literaturgeschichte, ed. W. Cronert. 1906. [Rp. AMH]
