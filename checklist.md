@@ -28,7 +28,7 @@ This is a work in progress and will eventually supersede <http://library.duke.ed
  * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM]
  * XVII, Griechische Papyrusurkunden spätrömischer und byzantinischer Zeit aus Hermopolis Magna, ed. G. Poethke. Munich-Leipzig 2001. (Archiv Beih. 7) Nos. 2675-2730. [KGS]
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731-2759. [BAM]
- * XIX, Urkunden aus Hermupolis, ed . H Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760-2839, mostly in Greek (2760 in Latin). [K.G. Saur]
+ * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760-2839, mostly in Greek (2760 in Latin). [K.G. Saur]
  
  
 ### BKT
