@@ -739,7 +739,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * VI (= Pap.Heid. N.F. VII), Ptolemäische Urkunden aus der Heidelberger Papyrussammlung, ed. R. Duttenhöfer. Heidelberg 1994. Nos. 362—386. [CWV]
  * VII (= Pap.Heid. N.F. VIII), Fünfundzwanzig griechische Papyri aus den Sammlungen von Heidelberg, Wien und Kairo, ed. A. Papathomas. Heidelberg 1996. Nos. 387—411. [CWV]
  * VIII (= Pap.Heid. N.F. X), Dokumentarische Papyri des 2. Jh. v. Chr. aus dem Herakleopolites, ed. D. Kaltsas. Heidelberg 2001. Nos. 412-421. [CWV]
- * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. C. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV]
+ * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. Ch. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV]
 
 ### P.Hels.
 = _Papyri Helsingienses I, Ptolemäische Urkunden_, ed. J. Frösén, P. Hohti, J. and M. Kaimio, H. Zilliacus. Helsinki 1986. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 80). Nos. 1—47.
@@ -1874,7 +1874,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
 
 ### O.Heid.
-= _Die griechischen Ostraka der Heidelberger Papyrus-Sammlung_, ed. C. Armoni, J. M. S. Cowey and D. Hagedorn with notes by W. Habermann. Heidelberg 2005. (Veröffentlichungen aus der Heidelberger Papyrus-Sammlung N.F. 11) Nos. 1-525; nos. 454-525 are descripta. There is Demotic in nos. 2, 30 and 35. The ostraca published in P.Heid. III are all reedited in this volume. There is a concordance on pages 513-514.[CWV]
+= _Die griechischen Ostraka der Heidelberger Papyrus-Sammlung_, ed. Ch. Armoni, J. M. S. Cowey and D. Hagedorn with notes by W. Habermann. Heidelberg 2005. (Veröffentlichungen aus der Heidelberger Papyrus-Sammlung N.F. 11) Nos. 1-525; nos. 454-525 are descripta. There is Demotic in nos. 2, 30 and 35. The ostraca published in P.Heid. III are all reedited in this volume. There is a concordance on pages 513-514.[CWV]
 
 ### O.Hor
 = _The Archive of Hor_, ed. J.D. Ray. London 1976. (Egypt Exploration Society, Texts from Excavations, 2). Nos. 1—65; no. 1 is Greek, the rest Demotic. [EES]
@@ -2833,7 +2833,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXIII, Der koptische Kölner Papyruskodex 3221. Teil I, Das Testament des Iob, ed. G. Schenke. Paderborn, 2009.
  * XXXIV, Architectural orientation in the papyri, by R.W. Daniel. 2010.
  * XXXV, see P.Herakl.Bank
- * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by C.A. Armoni, 2012.
+ * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni, 2012.
 
 ### Pap.Flor.
  = _Papyrologica Florentina_. Florence. 1976— .
