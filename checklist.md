@@ -2837,6 +2837,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXIV, Architectural orientation in the papyri, by R.W. Daniel. 2010.
  * XXXV, see P.Herakl.Bank
  * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni, 2012.
+ * XXXVII, see P.Tarich.
 
 ### Pap.Flor.
  = _Papyrologica Florentina_. Florence. 1976— .
