@@ -1557,6 +1557,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 ### P.Stras.Dem.
 = _Die demotischen Papyrus der Strassburger Bibliothek_, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
 
+### P.Tarich.
+= _Das Archiv der Taricheuten Amenneus und Onnophris aus Tanis_, ed. C. Armoni. Paderborn 2013. (Pap.Colon. XXXVII). Nos. 1-15.
+
 ### P.Tebt.
 = _The Tebtunis Papyri_. London.
 
