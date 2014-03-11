@@ -2964,7 +2964,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### Pap.Paris.
  = _Papyrologica Parisina_. Paris 2011— .
  
- * I, see P.Sorb. III
+ * I, see P.Sorb. III.
  * II, see P.Louvre Hag.
  
 ### Pap.Texte Abh.
