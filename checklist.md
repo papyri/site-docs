@@ -980,6 +980,9 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * I, Griechische Papyri aus Soknopaiu Nesos, ed. A. Jördens mit Beiträgen von K.-Th. Zauzich. Bonn 1998. (Pap.Texte Abh. XLIII). Nos. 1—92; 69—92 are descripta. No. 9 is bilingual, Greek and Demotic; no. 11 contains a Demotic subscription. [RH]
  * II, Griechische Papyri der Cahiers P. 1 und P. 2 aus der Sammlung des Louvre, ed. A. Jördens and P. Schubert. Bonn 2005. (Pap.Texte Abh. 44). Nos. 93-170 (nos. 129-170 are descripta). [RH]
 
+### P.Louvre Hag.
+= _Codex hagiographiques du louvre sur papyrus_, ed. L. Capron. Paris 2013. Nos. 1-6. (Pap.Paris. II). 
+
 ### P.Lund
 = _Aus der Papyrussammlung der Universitätsbibliothek in Lund_, published in K. Humanistiska Vetenskapssamfundet i Lund; Årsberättelse. Years and page nos. are indicated for each part. [I—VI, MF 1.45]
 
