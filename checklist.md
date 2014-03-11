@@ -981,7 +981,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * II, Griechische Papyri der Cahiers P. 1 und P. 2 aus der Sammlung des Louvre, ed. A. Jördens and P. Schubert. Bonn 2005. (Pap.Texte Abh. 44). Nos. 93-170 (nos. 129-170 are descripta). [RH]
 
 ### P.Louvre Hag.
-= _Codex hagiographiques du louvre sur papyrus_, ed. L. Capron. Paris 2013. Nos. 1-6. (Pap.Paris. II). 
+= _Codex hagiographiques du Louvre sur papyrus_, ed. L. Capron. Paris 2013. (Pap.Paris. II). Nos. 1-6.
 
 ### P.Lund
 = _Aus der Papyrussammlung der Universitätsbibliothek in Lund_, published in K. Humanistiska Vetenskapssamfundet i Lund; Årsberättelse. Years and page nos. are indicated for each part. [I—VI, MF 1.45]
@@ -1539,7 +1539,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF]
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow]
- * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Papyrologica Parisina 1). Nos. 70–144.
+ * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144.
 
 ### P.Soter.
 = _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
@@ -2961,7 +2961,13 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XII, Da Ercolano all'Egitto. IV. Ricerche varie di Papirologia, ed. M.Capasso. 2003.
  * XIII, Papiri e ostraka greci, ed. M. Capasso. 2004.
 
-### Pap.Texte Abh.
+### Pap.Paris.
+ = _Papyrologica Parisina_. Paris 2011— .
+ 
+ * I, see P.Sorb. III
+ * II, see P.Louvre Hag.
+ 
+ ### Pap.Texte Abh.
  = _Papyrologische Texte und Abhandlungen_, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
 
  * I, Didymos der Blinde, Kommentar zu Hiob (Tura-Papyrus), Teil I, ed. A. Henrichs. 1968. [RH]
