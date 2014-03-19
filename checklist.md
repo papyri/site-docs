@@ -859,9 +859,9 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * VI, ed. M. Gronewald, B. Kramer, K. Maresch, M. Parca and C. Römer. Opladen 1987. (Pap.Colon. VII/6). Nos. 241—281. [FS]
  * VII, ed. M. Gronewald and K. Maresch. Opladen 1991. (Pap.Colon. VII/7). Nos. 282—326. [FS]
  * VIII, ed. M. Gronewald, K. Maresch and C. Römer. Opladen 1997. (Pap.Colon. VII/ 8). Nos. 327—355. No. 353 (wooden tablet), 354, and 355 are Coptic. [FS]
- * IX, ed. M. Gronewald and others. Opladen 200l. (Pap.Colon. VII/9). Nos. 356—397. Nos. 383—392 are Coptic. Nos. 393—397 are drawings. Nos. 375—382, 387—392 are ostraca; no. 374 is a wooden tablet with Demotic on back; no. 384 is parchment. [FS]
- * X, ed. M. Gronewald and others. Paderborn 2003. (Pap.Colon. VII/10). Nos. 398—428. No. 423 is Hieratic; nos. 424 and 426—428 are Coptic; no. 425 is Greek and Coptic. [FS]
- * XI, ed. Ch. Armoni and others. Paderborn 2007. (Pap.Colon. VII/11). Nos. 429—466. No. 463 is Hieratic; nos. 464—466 are Coptic. [FS]
+ * IX, ed. M. Gronewald and others. Opladen 2001. (Pap.Colon. VII/9). Nos. 356—397. Nos. 383—392 are Coptic. Nos. 393—397 are drawings. Nos. 375—382, 387—392 are ostraca; no. 374 is a wooden tablet with Demotic on back; no. 384 is parchment. [FS]
+ * X, ed. M. Gronewald and others. Paderborn et al. 2003. (Pap.Colon. VII/10). Nos. 398—428. No. 423 is Hieratic; nos. 424 and 426—428 are Coptic; no. 425 is Greek and Coptic. [FS]
+ * XI, ed. Ch. Armoni and others. Paderborn et al. 2007. (Pap.Colon. VII/11). Nos. 429—466. No. 463 is Hieratic; nos. 464—466 are Coptic. [FS]
  * XII, ed. Ch. Armoni, M. Gronewald, J. Lundon, K. Maresch, F. Reiter and G. Schenke. Paderborn et al. 2010. (Pap.Colon. VII, 12). Nos. 467–495. 
  * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII, 13). Nos. 496-550. 
 
