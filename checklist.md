@@ -863,6 +863,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * X, ed. M. Gronewald and others. Paderborn 2003. (Pap.Colon. VII/10). Nos. 398—428. No. 423 is Hieratic; nos. 424 and 426—428 are Coptic; no. 425 is Greek and Coptic. [FS]
  * XI, ed. Ch. Armoni and others. Paderborn 2007. (Pap.Colon. VII/11). Nos. 429—466. No. 463 is Hieratic; nos. 464—466 are Coptic. [FS]
  * XII, ed. Ch. Armoni, M. Gronewald, J. Lundon, K. Maresch, F. Reiter and G. Schenke. Paderborn et al. 2010. (Pap.Colon. VII, 12). Nos. 467–495. 
+ * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII, 13). Nos. 496-550. 
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
