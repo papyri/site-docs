@@ -2885,10 +2885,11 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXV, see PSchøyen I.
  * XXXVI, Il Calamo e il papiro. La scritura greca dall'eta ellenistica ai primi secoli di Bisanzio, by G. Cavallo. 2005. [LGF]
  * XXXVII, Strategi and Royal Scribes of Roman Egypt (Str.R.Scr.2), by J. Whitehorne. 2006.
- * XXXVIII, Poteri centrali e poteri periferici nella tarda antichità. Confronti Conflitti, by L. di Paola and D. Minutoli. 2007 [LGF].
+ * XXXVIII, Poteri centrali e poteri periferici nella tarda antichità. Confronti Conflitti, by L. di Paola and D. Minutoli. 2007. [LGF].
  * XL, see P.Schøyen II
  * XLI, see P.Prag.
  * XLII, see O.Petr.Mus.
+ * XLIII, Antologías de época helenística en papiro, by L. Pordomingo. 2013.
 
 ### Pap.Heid.
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
