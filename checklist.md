@@ -2910,6 +2910,12 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * N.F. XI, see O.Heid.
  * N.F. XII, see P.Heid IX.
 
+### Pap.Leod.
+ = _Papyrologica Leodiensia_. Liège 2013— .
+
+ * I, Papyri Vergilianae: l'apporto della papirologia alla storia della tradizione Virgiliana (I-VI D.C.), by M.C. Scappaticcio. 2013.
+ * I, Bilinguisme et digraphisme dans le monde gréco-romain: l'apport des papyrus latins: actes de la table ronde internationale, Liège, 12-13 mai 2011, ed. M.-H. Marganne, B. Rochette. 2013.
+
 ### Pap.Lugd.Bat.
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
 
