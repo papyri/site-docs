@@ -1909,7 +1909,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Lips. (see P.Lips.)
 
 ### O.Lips.Copt.
-=_Coptica: koptische Ostraka und Papyri, koptische und griechische Grabstelen aus Ägypten und Nubien, spätantike Bauplastik, Textilien und Keramik_, ed. S. Hodak, T. S. Richter, F. Steinmann. Berlin 2013. (Katalog Ägyptischer Sammlungen in Leipzig III). Nos.1—54.
+= _Coptica: koptische Ostraka und Papyri, koptische und griechische Grabstelen aus Ägypten und Nubien, spätantike Bauplastik, Textilien und Keramik_, ed. S. Hodak, T. S. Richter, F. Steinmann. Berlin 2013. (Katalog Ägyptischer Sammlungen in Leipzig III). Nos.1—54.
 
 ### O.Louvre
 = _Ostraca démotiques du Musée du Louvre_.
