@@ -895,7 +895,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * II, ed. R. Pintaudi. 1977. (Pap.Flor. II). Nos. 21—50. [LGF]
  * III, ed. R. Pintaudi. 1979. (Pap.Flor. V). Nos. 51—125; no. 125 is Coptic. [LGF]
  * IV, ed. R. Pintaudi. 1983. (Pap.Flor. XII). Nos. 126—192. [LGF]
- * V, Papiri Laurenziani Copti, ed. G.M. Browne. 1984. (Pap.Flor. XIII). Nos. 1—13. [LGF]
+ * V, Papiri Laurenziani Copti, ed. G.M. Browne. 1984. (Pap.Flor. XIII). Nos. 193—205. [LGF]
 
 ### P.LeedsMus.
 = _A Selective Publication and Description of the Greek Papyri in the Leeds City Museum_, ed. S. Strassi. Leeds 1983. (Proceedings of the Leeds Philosophical and Literary Society, Literary and Historical Section, XIX.4). Nos. 1—30, descripta nos. 31—136. Nos. 1—4 are literary; nos. 5—30 and no. 53 (descripta) are republished in SB XVI 12958—12978. Nos. 10 and 20 are republished outside of this series of numbers as SB XVI 13082 and 12862 respectively.
