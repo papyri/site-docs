@@ -1479,7 +1479,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _Select Papyri_, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279]
 
 ### PSI
-= _Papiri greci e latini_. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502. Volume 16- are published under the title _Papiri della Società Italiana_ in the series Edizioni dell'Istituto papirologico G. Vitelli.
+= _Papiri greci e latini_. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502. Volumes 16- are published under the title _Papiri della Società Italiana_ in the series Edizioni dell'Istituto papirologico G. Vitelli.
 
  * I, 1912. Nos. 1—112. [MF 1.65; rp. Bd'E]
  * II, 1913. Nos. 113—156. [MF 1.66; rp. Bd'E]
