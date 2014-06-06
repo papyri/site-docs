@@ -48,45 +48,45 @@ This is a work in progress and will eventually supersede <http://library.duke.ed
 ### BKU
 = _Aegyptische Urkunden aus den Koeniglichen_ (later Staatlichen) _Museen zu Berlin: Koptische Urkunden_.
 
- * I, Berlin 1895—1905. Nos. 1—192. The following texts have been republished in SB Kopt. I:
+ * I, Berlin 1895—1905. Nos. 1—192. 
  * II.1, Berlin 1904. Nos. 256—318 (only the first fascicle was published). No papyri were ever assigned publication numbers 193-255.
  * III, ed. H. Satzinger. Heft 1, 1967; Heft 2, 1968. Nos. 319—514. Berlin. [Bruno Hessling Verlag]
 
 ### CPR
-= _Corpus Papyrorum Raineri_. Vienna.
+= _Corpus Papyrorum Raineri_. Vienna. {ddb:cpr}
 
- * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG]
- * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67]
- * III, Series Arabica I, ed. A. Grohmann. 1924. Pt. 1, Allgemeine Einführung in die arabischen Papyri; Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln.
- * IV, Die koptischen Rechtsurkunden der Papyrussammlung der Oesterreichischen Nationalbibliothek, ed. W. Till. 1958. Nos. 1—212. No. 34 reedited in P.Rain.Unterricht 112. [ÖNB]
- * V, Griechische Texte II, ed. J.R. Rea and P.J. Sijpesteijn. 1976. Nos. 1—25 plus P.Vindob. G 39847 (No. 26). [ÖNB]
- * VI, 1, Griechische Texte III, Part 1, ed. H. Harrauer and S.M.E. van Lith. Nos. 1—71; separate fascicle of plates. 1978. [ÖNB]
- * VI, 2, Griechische Texte III, Part 2, ed. H. Harrauer. Nos. 72—85; separate fascicle of plates. 1985. [ÖNB]
- * VII, Griechische Texte IV, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio, M. Kaimio. 1979. Nos. 1—60; separate fascicle of plates. [ÖNB]
- * VIII, Griechische Texte V, ed. P.J. Sijpesteijn and K.A. Worp. 1983. Nos. 1—85; separate fascicle of plates. [ÖNB]
- * IX, Griechische Texte VI, ed. J.M. Diethart. 1984. Nos. 1—79; separate fascicle of plates. [ÖNB]
- * X, Griechische Texte VII, ed. H. Harrauer et alii. 1986. Nos. 1—140; nos. 32—34 are ostraca; separate fascicle of plates. [ÖNB]
+ * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG] {ddb:cpr;1}
+ * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67] {ddb:cpr;2}
+ * III, Series Arabica I, ed. A. Grohmann. 1924. Pt. 1, Allgemeine Einführung in die arabischen Papyri; Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln. {ddb:cpr;3}
+ * IV, Die koptischen Rechtsurkunden der Papyrussammlung der Oesterreichischen Nationalbibliothek, ed. W. Till. 1958. Nos. 1—212. No. 34 reedited in P.Rain.Unterricht 112. [ÖNB] {ddb:cpr;4}
+ * V, Griechische Texte II, ed. J.R. Rea and P.J. Sijpesteijn. 1976. Nos. 1—25 plus P.Vindob. G 39847 (No. 26). [ÖNB] {ddb:cpr;5}
+ * VI, 1, Griechische Texte III, Part 1, ed. H. Harrauer and S.M.E. van Lith. Nos. 1—71; separate fascicle of plates. 1978. [ÖNB] {ddb:cpr;6}
+ * VI, 2, Griechische Texte III, Part 2, ed. H. Harrauer. Nos. 72—85; separate fascicle of plates. 1985. [ÖNB] {ddb:cpr;6}
+ * VII, Griechische Texte IV, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio, M. Kaimio. 1979. Nos. 1—60; separate fascicle of plates. [ÖNB] {ddb:cpr;7}
+ * VIII, Griechische Texte V, ed. P.J. Sijpesteijn and K.A. Worp. 1983. Nos. 1—85; separate fascicle of plates. [ÖNB] {ddb:cpr;8}
+ * IX, Griechische Texte VI, ed. J.M. Diethart. 1984. Nos. 1—79; separate fascicle of plates. [ÖNB] {ddb:cpr;9}
+ * X, Griechische Texte VII, ed. H. Harrauer et alii. 1986. Nos. 1—140; nos. 32—34 are ostraca; separate fascicle of plates. [ÖNB] {ddb:cpr;10}
  * XI, Not published.
  * XII, Koptische Texte, ed. M.R.M. Hasitzka. 1987. Nos. 1—38; separate fascicle of plates. No. 4 reedited by Hasitzka in Archiv 41 (1995) 194—204. [ÖNB]
- * XIII, Griechische Texte IX, ed. H. Harrauer. 1987. Nos. 1—31; separate fascicle of plates. [ÖNB]
- * XIV, Griechische Texte X, Greek Papyri of the Byzantine Period, ed. G. Fantoni. 1989. Nos. 1—55; separate fascicle of plates. [ÖNB]
- * XV, Griechische Texte XI, Papiri greci di Socnopaiu Nesos e dell'Arsinoites, ed. G. Messeri Savorelli. 1990. Nos. 1—53; separate fascicle of plates. [ÖNB]
+ * XIII, Griechische Texte IX, ed. H. Harrauer. 1987. Nos. 1—31; separate fascicle of plates. [ÖNB] {ddb:cpr;13}
+ * XIV, Griechische Texte X, Greek Papyri of the Byzantine Period, ed. G. Fantoni. 1989. Nos. 1—55; separate fascicle of plates. [ÖNB] {ddb:cpr;14}
+ * XV, Griechische Texte XI, Papiri greci di Socnopaiu Nesos e dell'Arsinoites, ed. G. Messeri Savorelli. 1990. Nos. 1—53; separate fascicle of plates. [ÖNB] {ddb:cpr;15}
  * XVI, Arabische Briefe aus dem 7.—10. Jahrhundert, ed. W. Diem. 1993. Nos. 1—35; separate fascicle of plates. [ÖNB]
- * XVIIA, Griechische Texte XIIA, Die Archive der Aurelii Adelphios und Asklepiades, ed. K.A. Worp. 1991. Nos. 1—39 and App. a—c; separate fascicle of plates. [ÖNB]
- * XVIIB, Griechische Texte XIIB, Papyri aus Panopolis, ed. P.J. Sijpesteijn. 1991. Nos. 1—47; separate fascicle of plates. [ÖNB]
- * XVIII, Griechische Texte XIII, Das Vertragsregister von Theogenis (P.Vindob. G40618), ed. B. Kramer. 1991. Nos. 1—34; separate fascicle of plates. [ÖNB]
- * XIX, Griechische Texte XVIII, ed. H. Harrauer et alii. 2004. Nos. 1-69; separate fascicle of plates. [ÖNB]
- * XX, Ein neues Archiv koptischer Ostraka, ed. M.R.M. Hasitzka. 1995. [ÖNB]
+ * XVIIA, Griechische Texte XIIA, Die Archive der Aurelii Adelphios und Asklepiades, ed. K.A. Worp. 1991. Nos. 1—39 and App. a—c; separate fascicle of plates. [ÖNB] {ddb:cpr;17A}
+ * XVIIB, Griechische Texte XIIB, Papyri aus Panopolis, ed. P.J. Sijpesteijn. 1991. Nos. 1—47; separate fascicle of plates. [ÖNB] {ddb:cpr;17B}
+ * XVIII, Griechische Texte XIII, Das Vertragsregister von Theogenis (P.Vindob. G40618), ed. B. Kramer. 1991. Nos. 1—34; separate fascicle of plates. [ÖNB] {ddb:cpr;18}
+ * XIX, Griechische Texte XVIII, ed. H. Harrauer et alii. 2004. Nos. 1-69; separate fascicle of plates. [ÖNB] {ddb:cpr;19}
+ * XX, Ein neues Archiv koptischer Ostraka, ed. M.R.M. Hasitzka. 1995. [ÖNB] {ddb:cpr;20}
  * XXI, Arabic Agricultural Leases and Tax Receipts from Egypt, 148-427 A.H./ 765-1035 A.D., ed. G. Frantz-Murphy. 2001. Nos. 1-90. [ÖNB]
- * XXII, Griechische Texte XV, Documenti greci per la fiscalità e la amministrazione dell'Egitto arabo,, ed. F. Morelli. 2001. Nos. 1—60[ÖNB]
- * XXIII, Griechische Texte XVI, Neue Dokumente aus römischen und spätantiken Ägypten zu Verwaltung und Reichsgeschichte, ed. F. Mitthof. 2002. Nos. 1—35. [ÖNB]
- * XXIV, Griechische Texte XVII, Dokumente zu Verwaltung un Militä aus dem spätantiken Ägypten, ed. B. Palme. 2002. Nos. 1—33. [ÖNB;]
- * XXV, Fünfunddreissig griechische Papyrusbriefe aus der Spätantike, ed . A. Papathomas, München - Leipzig 2006. Nos . 1-35. [K. G . Saur]
+ * XXII, Griechische Texte XV, Documenti greci per la fiscalità e la amministrazione dell'Egitto arabo,, ed. F. Morelli. 2001. Nos. 1—60[ÖNB] {ddb:cpr;22}
+ * XXIII, Griechische Texte XVI, Neue Dokumente aus römischen und spätantiken Ägypten zu Verwaltung und Reichsgeschichte, ed. F. Mitthof. 2002. Nos. 1—35. [ÖNB] {ddb:cpr;23}
+ * XXIV, Griechische Texte XVII, Dokumente zu Verwaltung un Militä aus dem spätantiken Ägypten, ed. B. Palme. 2002. Nos. 1—33. [ÖNB;] {ddb:cpr;24}
+ * XXV, Fünfunddreissig griechische Papyrusbriefe aus der Spätantike, ed . A. Papathomas, München - Leipzig 2006. Nos . 1-35. [K. G . Saur] {ddb:cpr;25}
  * XXVI, Arabische juristische Urkunden aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed M. E. Thung. Munich-Leipzig 2006. Nos. 1-45. [K. G. Saur]
  * XXVII, (Gott) Schütze das Fleisch des Pharao: Untersuchungen zum magischen Handbuch pWien 8426, ed. N. Flessa. Edition and study of a Hieratic papyrus. [K. G. Saur]
- * XXVIII, Greek Documentary Papyri from Ptolemaic Egypt, ed. C. A. La'da, Berlin 2008. Nos. 1—14.
- * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 2009.
- * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG]
+ * XXVIII, Greek Documentary Papyri from Ptolemaic Egypt, ed. C. A. La'da, Berlin 2008. Nos. 1—14. {ddb:cpr;28}
+ * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 200
+ * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG] {ddb:cpr;30}
  * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG]
 
 ### P.Aberd.
