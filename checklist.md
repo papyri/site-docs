@@ -8,28 +8,28 @@ This is a work in progress and will eventually supersede <http://library.duke.ed
  = _Actenstücke aus der Königlichen Bank zu Theben in den Museen zu Berlin_, London, Paris, ed. U. Wilcken. Berlin 1887. (AbhBerlin 1886, Anhang, Abh.1; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde I [Leipzig 1970] 39—104). Nos. 1—12. Republished in UPZ II 205—207, 214—215, 217—221, 226—228. [MF 1.10; rp. DZA]
 
 ### BGU
- = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin.
+ = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin. {ddb:bgu}
  
  * I, 1895. Nos. 1—361. [MF 1.1; rp. CG] {ddb:bgu;1}
- * II, 1898. Nos. 362—696. [MF 1.2; rp. CG]
- * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG]
- * IV, 1912. Nos. 1013—1209. [MF 1.4; rp. CG]
- * V, Der Gnomon des Idios Logos. Erster Teil: Der Text, ed. W. Schubart. 1919. Zweiter Teil: Der Kommentar, by W. Graf von Uxkull-Gyllenband. 1934. No. 1210. [MF 1.5; rp. CG]
- * VI, Papyri und Ostraka der Ptolemäerzeit, ed. W. Schubart and E. Kühn. 1922. Nos. 1211—1303 are papyri; nos. 1304—1499 ostraca. [MF 1.6; rp. CG]
- * VII, Papyri, Ostraka und Wachstafeln aus Philadelphia im Fayûm, ed. P. Viereck and F. Zucker. 1926. Nos. 1563—1689 are papyri; nos. 1500—1562, 1697—1729 ostraca; nos. 1690—1696 wooden tablets. [MF 1.7; rp. CG]
- * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG]
- * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG]
- * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV]
- * XI, Urkunden römischer Zeit, ed. H. Maehler. Pt. I, 1966; Pt. II, 1968. Nos. 2012—2131. [BAM]
- * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM]
- * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM]
- * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM]
- * XV, Financial and Administrative Documents from Roman Egypt, ed. C.A. Nelson. 1983. Nos. 2458—2557. [BAM]
- * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM]
- * XVII, Griechische Papyrusurkunden spätrömischer und byzantinischer Zeit aus Hermopolis Magna, ed. G. Poethke. Munich-Leipzig 2001. (Archiv Beih. 7) Nos. 2675—2730. [KGS]
- * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM]
- * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur]
- * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876. 
+ * II, 1898. Nos. 362—696. [MF 1.2; rp. CG] {ddb:bgu;2}
+ * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG] {ddb:bgu;3}
+ * IV, 1912. Nos. 1013—1209. [MF 1.4; rp. CG] {ddb:bgu;4}
+ * V, Der Gnomon des Idios Logos. Erster Teil: Der Text, ed. W. Schubart. 1919. Zweiter Teil: Der Kommentar, by W. Graf von Uxkull-Gyllenband. 1934. No. 1210. [MF 1.5; rp. CG] {ddb:bgu;5}
+ * VI, Papyri und Ostraka der Ptolemäerzeit, ed. W. Schubart and E. Kühn. 1922. Nos. 1211—1303 are papyri; nos. 1304—1499 ostraca. [MF 1.6; rp. CG] {ddb:bgu;6}
+ * VII, Papyri, Ostraka und Wachstafeln aus Philadelphia im Fayûm, ed. P. Viereck and F. Zucker. 1926. Nos. 1563—1689 are papyri; nos. 1500—1562, 1697—1729 ostraca; nos. 1690—1696 wooden tablets. [MF 1.7; rp. CG] {ddb:bgu;7}
+ * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] {ddb:bgu;8}
+ * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] {ddb:bgu;9}
+ * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] {ddb:bgu;10}
+ * XI, Urkunden römischer Zeit, ed. H. Maehler. Pt. I, 1966; Pt. II, 1968. Nos. 2012—2131. [BAM] {ddb:bgu;11}
+ * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] {ddb:bgu;12}
+ * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM] {ddb:bgu;13}
+ * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM] {ddb:bgu;14}
+ * XV, Financial and Administrative Documents from Roman Egypt, ed. C.A. Nelson. 1983. Nos. 2458—2557. [BAM] {ddb:bgu;15}
+ * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM] {ddb:bgu;16}
+ * XVII, Griechische Papyrusurkunden spätrömischer und byzantinischer Zeit aus Hermopolis Magna, ed. G. Poethke. Munich-Leipzig 2001. (Archiv Beih. 7) Nos. 2675—2730. [KGS] {ddb:bgu;17}
+ * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM] {ddb:bgu;18}
+ * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur] {ddb:bgu;18}
+ * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876.  {ddb:bgu;20}
  
 ### BKT
 = _Berliner Klassikertexte_. Berlin.
