@@ -1255,7 +1255,8 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary.
  * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97).
  * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98).
- * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W. B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99). 
+ * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W. B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99).  
+ * LXXIX, Nos. 5183–5218, ed. W. B. Henry, P. J. Parsons with contributions by 18 others and an appendix Games, Competitors and Performers in Roman Egypt by S. Remijsen. 2014. (100). 
 
 ### P.Oxy.Astr.
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
