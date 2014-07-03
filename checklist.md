@@ -1,7 +1,7 @@
 # Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets
 ##### Founding Editors: John F. Oates and William H. Willis
 
-This is a work in progress and will eventually supersede <http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html>
+This is a work in progress and will eventually supersede <http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html>. Previous print and online editions of the Checklist were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest instance is updated after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Roger S. Bagnall (NYU), James Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Bruxelles), Robert Maxwell (BYU), volume editors, and others, sometimes including the wider papyrological community (via papylist).
 
 ## Papyri
 ### Actenstücke
