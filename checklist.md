@@ -2918,8 +2918,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * N.F. IX, The Magical Book of Mary and the Angels (P.Heid.Inv.Kopt. 685): Text, Translation and Commentary, by M.W. Meyer. 1996.
  * N.F. X, see P.Heid. VIII.
  * N.F. XI, see O.Heid.
- * N.F. XII, see P.Heid IX.
- * N.F. XIV, see P.Heid X.
+ * N.F. XII, see P.Heid. IX.
+ * N.F. XIV, see P.Heid. X.
 
 ### Pap.Leod.
  = _Papyrologica Leodiensia_. Liège 2013— .
