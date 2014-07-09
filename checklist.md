@@ -1,7 +1,7 @@
 # Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets
 ##### Founding Editors: John F. Oates and William H. Willis
 
-This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brusells), Robert Maxwell (BYU), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published.
+This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brussels), Robert Maxwell (BYU), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published.
 
 ## Papyri
 ### Actenstücke
@@ -1889,7 +1889,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
 
 ### O.Frangé
-= _Les ostraca coptes de la TT 29. Autour du moine Frangé_, ed. A. Boud'hors and Ch. Heurtel. Brusells 2010. (Études d'archéologie thébaine 3). Nos. 1-805.
+= _Les ostraca coptes de la TT 29. Autour du moine Frangé_, ed. A. Boud'hors and Ch. Heurtel. Brussels 2010. (Études d'archéologie thébaine 3). Nos. 1-805.
 
 ### O.Heid.
 = _Die griechischen Ostraka der Heidelberger Papyrus-Sammlung_, ed. Ch. Armoni, J.M.S. Cowey and D. Hagedorn with notes by W. Habermann. Heidelberg 2005. (Veröffentlichungen aus der Heidelberger Papyrus-Sammlung N.F. 11) Nos. 1-525; nos. 454-525 are descripta. There is Demotic in nos. 2, 30 and 35. The ostraca published in P.Heid. III are all reedited in this volume. There is a concordance on pages 513-514.[CWV]
