@@ -1747,8 +1747,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Koptisches Sammelbuch_
 
  * I, ed. M.R.M. Hasitzka. Vienna 1993. (MPER N.S. XXIII). Nos. 1—800. [ÖNB]
- * \*II, ed. M. R. M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
- * \*III, ed. M. R. M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1290 . (MPER, N.S. 23.3). [K.G. Saur]
+ * II, ed. M. R. M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
+ * III, ed. M. R. M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1690 . (MPER, N.S. XXIII.3). [K.G. Saur]
+ * IV ed. M. R. M. Hasitzka. Berlin 2012. Nos. 1691-2163 (MPER N.S. XXIII.4)
 
 ### UPZ
 = _Urkunden der Ptolemäerzeit (ältere Funde)_, ed. U. Wilcken. (Re-publication of texts published in the nineteenth century, up to but not including the Petrie papyri. There is a concordance at BL IV, pp. 118—123.)
@@ -1886,6 +1887,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### O.Florida
 = _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
+
+### O.Frangé
+= _Les ostraca coptes de la TT 29. Autour du moine Frangé_, ed. A. Boud'hors and Ch. Heurtel. Brusells 2010. (Études d'archéologie thébaine 3). Nos. 1-805.
 
 ### O.Heid.
 = _Die griechischen Ostraka der Heidelberger Papyrus-Sammlung_, ed. Ch. Armoni, J.M.S. Cowey and D. Hagedorn with notes by W. Habermann. Heidelberg 2005. (Veröffentlichungen aus der Heidelberger Papyrus-Sammlung N.F. 11) Nos. 1-525; nos. 454-525 are descripta. There is Demotic in nos. 2, 30 and 35. The ostraca published in P.Heid. III are all reedited in this volume. There is a concordance on pages 513-514.[CWV]
