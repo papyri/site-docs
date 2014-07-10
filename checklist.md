@@ -620,7 +620,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Les Papyrus Fouad I_, ed. A. Bataille, O. Guéraud, P. Jouguet, N. Lewis, H. Marrou, J. Scherer and W.G. Waddell. Cairo 1939. (Publ.Soc. Fouad III). Nos. 1—89; no. 45 is Latin. [MF 2.91]
 
 ### P.Fouad Astr.
-= _Conformément aux observations d'Hipparque : le Papyrus Fouad inv. 267A. _, ed. J.-L. Fournet, A. Tihon. Louvain-la-Neuve 2014 (Publications de l'Institut orientaliste de Louvain 67)
+= _Conformément aux observations d'Hipparque : le Papyrus Fouad inv. 267A_, ed. J.-L. Fournet, A. Tihon. Louvain-la-Neuve 2014 (Publications de l'Institut orientaliste de Louvain 67)
 
 ### P.Frankf.
 = _Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt_, ed. H. Lewald. Heidelberg 1920. (SBHeidelberg 1920, Abh. 14). Nos. 1—7. An additional text at SB XIV 12093. [MF 1.25]
