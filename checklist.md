@@ -994,6 +994,9 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 ### P.Louvre Hag.
 = _Codex hagiographiques du Louvre sur papyrus_, ed. L. Capron. Paris 2013. (Pap.Paris. II). Nos. 1-6.
 
+### P.Louvre Bawit
+= _Papyrus grecs et coptes de Baouît conservés au Musée du Louvre_, ed. †S. J. Clackson and A. Delattre. Cairo 2014 (Bibliothèque d'Études coptes 22). Nos. 1—83.
+
 ### P.Lund
 = _Aus der Papyrussammlung der Universitätsbibliothek in Lund_, published in K. Humanistiska Vetenskapssamfundet i Lund; Årsberättelse. Years and page nos. are indicated for each part. [I—VI, MF 1.45]
 
