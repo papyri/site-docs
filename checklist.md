@@ -2940,7 +2940,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * I, Papyri Vergilianae: l'apporto della papirologia alla storia della tradizione Virgiliana (I-VI D.C.), by M.C. Scappaticcio. 2013.
  * II, Bilinguisme et digraphisme dans le monde gréco-romain: l'apport des papyrus latins: actes de la table ronde internationale, Liège, 12-13 mai 2011, ed. M.-H. Marganne, B. Rochette. 2013.
-* IV, L'Anonyme de Londres (P.Lit.Lond. 165, Brit.Libr. inv. 137): édition et traduction d'un papyrus médical grec du Ier siècle, by A. Ricciardetto. 2014
+ * IV, L'Anonyme de Londres (P.Lit.Lond. 165, Brit.Libr. inv. 137): édition et traduction d'un papyrus médical grec du Ier siècle, by A. Ricciardetto. 2014
 
 ### Pap.Lugd.Bat.
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
