@@ -1573,6 +1573,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * VII, ed. J. Schwartz et ses élèves. 1976—1979. Issued in fascicles 1/2, 3, 4 and 5. (Publications V). Nos. 601—700. Index to nos. 501—800 by B. Kramer in Publications X. [BNU]
  * VIII, ed. J. Schwartz et ses élèves. 1980-1985. Issued in fascicles 1, 2, 3, 4, and 5. (Publications VI). Nos. 701—800. Index to nos. 501—800 by B. Kramer in Publications X (1986). [BNU]
  * IX, ed. J. Schwartz et ses élèves. 1985-1989. Issued in fascicles 1, 2, 3, 4, and 5. (Publications IX). Nos. 801—900. [BNU]
+ * X, _Un dossier fiscal hermopolitain d'époque romaine conservé à la Bibliothèque nationale et universitaire de Strasbourg : P. Strasb. inv. gr. 897-898, 903-905, 939-968, 982-1000, 1010-1013, 1918-1929_, ed. R.-L. Chang. Paris 2014. (IFAO Bibliothèque générale 46) Nos. 901-903.
 
 ### P.Stras.Dem.
 = _Die demotischen Papyrus der Strassburger Bibliothek_, ed. W. Spiegelberg. Strassburg 1902. 31 Demotic texts and 1 Greek text (p. 46) not numbered serially. No index but there is a table of contents on p. 51. Separate portfolio of plates.
