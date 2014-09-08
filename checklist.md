@@ -1633,6 +1633,9 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
  * I, Textes
  * II, Paléographie et Planches
 
+### P.Turku
+= _Papyri Turkuenses_, ed. H. Koskenniemi, E. Koskenniemi, J. Koskenniemi. Helsinki 2014. (Commentationes humanarum litterarum 131). Nos. 1—99. 
+
 ### P.Turner
 = _Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday_, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
 
