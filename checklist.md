@@ -87,7 +87,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXVIII, Greek Documentary Papyri from Ptolemaic Egypt, ed. C. A. La'da, Berlin 2008. Nos. 1—14. {ddb:cpr;28}
  * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 200
  * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG] {ddb:cpr;30}
- * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG]
+ * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG] {ddb:cpr;31}
 
 ### P.Aberd.
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104]
@@ -1042,27 +1042,27 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 ### P.Mich.
 = _Michigan Papyri_. Each volume has a subtitle of its own. The numerical sequence of volumes as a single series was not established until vol. II. Vol. I is often referred to as P.Mich. Zen.
 
- * I, Zenon Papyri, ed. C.C. Edgar. Ann Arbor 1931. (Univ. of Mich. Studies, Humanistic Series 24). Nos. 1—120. [MF 1.19]
- * II, Papyri from Tebtunis, Part I, ed. A.E.R. Boak. Ann Arbor 1933. (Univ. of Mich. Studies, Humanistic Series 28). Nos. 121—128. (Nos. 129—130, A Papyrus Codex of the Shepherd of Hermas, ed. C. Bonner. Ann Arbor 1934. [Univ. of Mich. Studies, Humanistic Series 22]). [MF 1.20]
- * III, Miscellaneous Papyri, ed. J.G. Winter and others. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 40). Nos. 131—221. (No. 222, A Third Century Codex of the Epistles of Paul, ed. H.A. Sanders, Ann Arbor 1935. [Univ. of Mich. Studies, Humanistic Series 38]. For Nos. 167 and 168 see Vol. VII. [MF 1.21]
- * IV, pt. I, Tax Rolls from Karanis, ed. H.C. Youtie. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 42). Nos. 223—225. [MF 1.22]
- * IV, pt. II, Texts nos. 357—363 and Indexes, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1939. (Univ. of Mich. Studies, Humanistic Series 43). Nos. 357—363. [MF 1.23] (See also P.Cair.Mich. for addenda to no. 359).
- * V, Papyri from Tebtunis, Part II, ed. E.M. Husselman, A.E.R. Boak and W.F. Edgerton. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 29). Nos. 226—356. Nos. 249, 250, 253, 308, 342, 347 are Demotic. [MF 1.24]
- * VI, Papyri and Ostraca from Karanis, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 47). Nos. 364—428; ostraca nos. 700—971. (For nos. 1—699 see O.Mich.). [MF 1.26]
- * VII, Latin Papyri, ed. H.A. Sanders with contributions by J.E. Dunlap. Ann Arbor 1947. (Univ. of Mich. Studies, Humanistic Series 48). Nos. 167—168, 429—463. [MF 2.17]
- * VIII, Papyri and Ostraca from Karanis, Second Series, ed. H.C. Youtie and J.G. Winter. Ann Arbor 1951. (Univ. of Mich. Studies, Humanistic Series 50). Nos. 464—521; ostraca nos. 972—1111. (see O.Mich.) [MF 2.18]
- * IX, Papyri from Karanis, Third Series, ed. E.M. Husselman. Cleveland 1971. (American Philological Association, Philological Monograph 29). Nos. 522—576. [Oxbow]
- * X, Documentary Papyri from the Michigan Collection, ed. G.M. Browne. Toronto 1970. (Am.Stud.Pap. VI). Nos. 577—602. [Oxbow]
- * XI, Papyri from the Michigan Collection, ed. J.C. Shelton. Toronto 1971. (Am.Stud.Pap. IX). Nos. 603—625. [Oxbow]
- * XII, Michigan Papyri XII, ed. G.M. Browne. Toronto 1975. (Am.Stud.Pap. XIV). Nos. 626—658. [Oxbow]
- * XIII, The Aphrodite Papyri in the University of Michigan Papyrus Collection, ed. P.J. Sijpesteijn. Zutphen 1977. (Stud.Amst. X). Nos. 659—674. [TPC]
- * XIV, Michigan Papyri XIV, ed. V.P. McCarren. Chico 1980. (Am.Stud.Pap. XXII). Nos. 675—684. [Oxbow]
- * XV, Michigan Papyri XV, ed. P.J. Sijpesteijn. Zutphen 1982. (Stud.Amst. XIX). Nos. 685—756. [TPC]
+ * I, Zenon Papyri, ed. C.C. Edgar. Ann Arbor 1931. (Univ. of Mich. Studies, Humanistic Series 24). Nos. 1—120. [MF 1.19] {ddb:p.mich;1}
+ * II, Papyri from Tebtunis, Part I, ed. A.E.R. Boak. Ann Arbor 1933. (Univ. of Mich. Studies, Humanistic Series 28). Nos. 121—128. (Nos. 129—130, A Papyrus Codex of the Shepherd of Hermas, ed. C. Bonner. Ann Arbor 1934. [Univ. of Mich. Studies, Humanistic Series 22]). [MF 1.20] {ddb:p.mich;2}
+ * III, Miscellaneous Papyri, ed. J.G. Winter and others. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 40). Nos. 131—221. (No. 222, A Third Century Codex of the Epistles of Paul, ed. H.A. Sanders, Ann Arbor 1935. [Univ. of Mich. Studies, Humanistic Series 38]. For Nos. 167 and 168 see Vol. VII. [MF 1.21] {ddb:p.mich;3}
+ * IV, pt. I, Tax Rolls from Karanis, ed. H.C. Youtie. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 42). Nos. 223—225. [MF 1.22] {ddb:p.mich;4.1}
+ * IV, pt. II, Texts nos. 357—363 and Indexes, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1939. (Univ. of Mich. Studies, Humanistic Series 43). Nos. 357—363. [MF 1.23] (See also P.Cair.Mich. for addenda to no. 359). {ddb:p.mich.4.2}
+ * V, Papyri from Tebtunis, Part II, ed. E.M. Husselman, A.E.R. Boak and W.F. Edgerton. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 29). Nos. 226—356. Nos. 249, 250, 253, 308, 342, 347 are Demotic. [MF 1.24] {ddb:p.mich;5}
+ * VI, Papyri and Ostraca from Karanis, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 47). Nos. 364—428; ostraca nos. 700—971. (For nos. 1—699 see O.Mich.). [MF 1.26] {ddb:p.mich;6}
+ * VII, Latin Papyri, ed. H.A. Sanders with contributions by J.E. Dunlap. Ann Arbor 1947. (Univ. of Mich. Studies, Humanistic Series 48). Nos. 167—168, 429—463. [MF 2.17] {ddb:p.mich;7}
+ * VIII, Papyri and Ostraca from Karanis, Second Series, ed. H.C. Youtie and J.G. Winter. Ann Arbor 1951. (Univ. of Mich. Studies, Humanistic Series 50). Nos. 464—521; ostraca nos. 972—1111. (see O.Mich.) [MF 2.18] {ddb:p.mich;8}
+ * IX, Papyri from Karanis, Third Series, ed. E.M. Husselman. Cleveland 1971. (American Philological Association, Philological Monograph 29). Nos. 522—576. [Oxbow] {ddb:p.mich;9}
+ * X, Documentary Papyri from the Michigan Collection, ed. G.M. Browne. Toronto 1970. (Am.Stud.Pap. VI). Nos. 577—602. [Oxbow] {ddb:p.mich;10}
+ * XI, Papyri from the Michigan Collection, ed. J.C. Shelton. Toronto 1971. (Am.Stud.Pap. IX). Nos. 603—625. [Oxbow] {ddb:p.mich;11}
+ * XII, Michigan Papyri XII, ed. G.M. Browne. Toronto 1975. (Am.Stud.Pap. XIV). Nos. 626—658. [Oxbow] {ddb:p.mich;12}
+ * XIII, The Aphrodite Papyri in the University of Michigan Papyrus Collection, ed. P.J. Sijpesteijn. Zutphen 1977. (Stud.Amst. X). Nos. 659—674. [TPC] {ddb:p.mich;13}
+ * XIV, Michigan Papyri XIV, ed. V.P. McCarren. Chico 1980. (Am.Stud.Pap. XXII). Nos. 675—684. [Oxbow] {ddb:p.mich;14}
+ * XV, Michigan Papyri XV, ed. P.J. Sijpesteijn. Zutphen 1982. (Stud.Amst. XIX). Nos. 685—756. [TPC] {ddb:p.mich;15}
  * XVI, Michigan Papyri XVI, A Greek Love Charm from Egypt (P.Mich. 757), ed. D.G. Martinez. Atlanta 1991. (Am.Stud.Pap. XXX). [Oxbow]
  * XVII, P.Michigan XVII: The Michigan Medical Codex (P.Mich. 758 = P.Mich.inv. 21), ed. L.C. Youtie. Atlanta 1996. (Am.Stud.Pap. XXXV). [Oxbow]
- * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG]
+ * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG] {ddb:p.mich;18}
  * XIX, P.Michigan XIX. Baptized for Our Sakes: A Leather Trisagion from Egypt (P.Mich. 799), ed. D.G. Martinez. Stuttgart and Leipzig 1999. (Beiträge zur Altertumskunde 120). No.799. [KGS]
- * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P. J. Sijpesteijn and K. A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826.
+ * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P. J. Sijpesteijn and K. A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826. {ddb:p.mich;20}
 
 ### P.Mich.Aphrod.
 = _Settling a Dispute: Toward a Legal Anthropology of Late Antique Egypt_, by T. Gagos and P. van Minnen. Ann Arbor 1994. (New Texts from Ancient Cultures I). Contains a reedition of P.Vat.Aphrod. 10, to which is joined P.Mich.inv. 6922. [Univ. of Michigan Press]
