@@ -855,7 +855,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * IV, The Kellis Agricultural Account Book, ed. R.S. Bagnall, with contributions by C.A. Hope, R.G. Jenkins, A.J. Mills, J.L. Sharpe, U. Thanheiser and G. Wagner. 1997. (Dakhleh Oasis Project: Monograph No. 7). No. 96. A codex of wooden tablets. [Oxbow]
  * V, Coptic Documentary Texts from Kellis I, ed. I. Gardner, A. Alcock and W.-P. Funk with a contribution by C.A. Hope and G.E. Bowen. 1999. (Dakhleh Oasis Project: Monograph No. 9). Texts are P.KellisCopt. 10—52; O.KellisCopt. 1—2. [Oxbow]
  * VI, The Kellis Literary Texts, vol. 2, ed. I. Gardner with contributions by M. Choat, M. Franzmann, and K.A. Worp. 2007. (Dakhleh Oasis Project: Monograph No. 15). Texts are P.KellisCopt. 53—56; P.KellisGr. 97—98; P.KellisSyr. 2. [Oxbow]
- * VII, Coptic Documentary Texts from Kellis I, ed. I. Gardner, A. Alcock and W.-P. Funk. 2014. (Dakhleh Oasis Project: Monograph No. 16). P.KellisCopt. 57-131.
+ * VII, Coptic Documentary Texts from Kellis I, ed. I. Gardner, A. Alcock and W.-P. Funk. 2014. (Dakhleh Oasis Project: Monograph No. 16). Texts are P.KellisCopt. 57-131.
 
 ### P.Köln
 = _Kölner Papyri_.
