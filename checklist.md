@@ -1517,7 +1517,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 = _(Dai) Papiri della Società Italiana_. (CommunicazioniVitelli)
 
  * I, Papiri della Società Italiana alla Scuola Normale Superiore di Pisa. Seminario 2003/2004, ed. G. Bastianini, M. S. Funghi and G. Messeri. Firenze 2005. (ComunicazioniVitelli 6 [2005] pages 1–164, tav. I–XIX). Nos. 1–20.
- * II, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 6 [2011] pages 1–55, tav. I–VIII). Nos. 1–12.
+ * II, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 9 [2011] pages 1–55, tav. I–VIII). Nos. 1–12.
 
 ### PSI Congr.XI
 = _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
