@@ -1518,6 +1518,7 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, Papiri della Società Italiana alla Scuola Normale Superiore di Pisa. Seminario 2003/2004, ed. G. Bastianini, M. S. Funghi and G. Messeri. Firenze 2005. (ComunicazioniVitelli 6 [2005] pages 1–164, tav. I–XIX). Nos. 1–20.
  * II, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 9 [2011] pages 1–55, tav. I–VIII). Nos. 1–12.
+ * III, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2013. (ComunicazioniVitelli 11 [2013] pages 1–86, tav. I–XV). Nos. 1–16.
 
 ### PSI Congr.XI
 = _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
@@ -2103,7 +2104,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * I, ed. A.K. Bowman and J.D. Thomas. London 1983. (Britannia Monograph Series 4). Nos. 1—48, descripta 49—106, waxed tablets 107—117.
  * II, ed. A.K. Bowman and J.D. Thomas, with contributions by J.N. Adams. London 1994. Nos. 118—573. [BMP]
- * III, ed. A. K. Bowman and J. D. Thomas with contributions by J. Pearce. London 2003. Nos. 574—853. [BMP]
+ * III, ed. A. K. Bowman and J.D. Thomas with contributions by J. Pearce. London 2003. Nos. 574—853. [BMP]
+ * IV, ed. A.K. Bowman, J.D. Thomas and R.S.O. Tomlin. Pt. 1: Britannia 41 (2010) 187–224. Nos. 854–869. Pt. 2: Britannia 42 (2011) 113–144. Nos. 870–889.
 
 ### T.Vindon.
 = _Die römischen Schreibtafeln von Vindonissa_, ed. M.A. Speidel. 1996. (Veröffentlichungen der Gesellschaft Pro Vindonissa 12). Nos. 1—65, descripta nos. 66—90.
