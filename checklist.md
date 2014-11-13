@@ -389,7 +389,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.Cair.Preis.
 = _Griechische Urkunden des Aegyptischen Museums zu Kairo_, ed. F. Preisigke. Strassburg 1911. (Schriften der Wissenschaftlichen Gesellschaft zu Strassburg 8). Nos. 1—48. [MF 2.68]
 
- * 2nd ed., ed. R. P. Salomons (Papyrologica Bruxellensia, 35). Nos. 1-48.
+ * 2nd ed., ed. R. P. Salomons. Bruxelles 2014. (Pap.Brux. 35). Nos. 1-48.
 
 ### P.Cair.Salem
 = _Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian Museum_, ed. N. A. Salem. Cairo 2006.
@@ -2813,6 +2813,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXII, see P.Hombert.
  * XXXIII, see O.Berenike II.
  * XXXIV, "Et maintenant ce ne sont plus que des villages..." Thèbes et sa région aux époques hellénistique, romaine et byzantine. Actes du colloque tenu à Bruxelles les 2 et 3 décembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
+ * XXXV, see P.Cair.Preis. (2nd ed.)
 
 ### Pap.Castr.
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
