@@ -1126,6 +1126,8 @@ VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10
 
  * I, To the Origins of Greek Stenography, ed. S. Torallas Tovar and K. A. Worp. Barcelona 2006. (= Orientalia Montserratensia, 1). Edition of an unpublished part of the Codex Miscellaneus, containing a Greek word list. No. 1 [PAMSA]
  * II, Biblica Coptica Montserratensia, ed. S. Torallas Tovar. Barcelona 2007. (= Orientalia Montserratensia, 2). Nos. 2—31. [PAMSA]
+ * III, Hadrianus, ed. J. Gil and S. Torallas Tovar. Barcelona 2010. (= Orientalia Montserratensia, 5). No. 32. [PAMSA]
+ * IV, Greek Papyri from Montserrat, ed. S. Torallas Tovar, K. A. Worp, A. Nodar and M. Victoria Spottorno. Barcelona 2014. (= Scripta Orientalia, 1). Nos. 33—96.
 
 ### P.MorganLib.
 = _Catalogue of Coptic Manuscripts in the Pierpont Morgan Library_, ed L. Depuydt. Leuven 1993. (Corpus of Illuminated Manuscripts, 4—5. Oriental series 1). This is not an edition but a catalogue, listing in volume 1 the 421 Coptic items in the Morgan Library. Of these nos. 306—351 are documentary. Volume 2 is an Album of Photographic Plates. In vol. 1, two texts, nos. 328 and 329, are transcribed and translated.
