@@ -389,6 +389,8 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.Cair.Preis.
 = _Griechische Urkunden des Aegyptischen Museums zu Kairo_, ed. F. Preisigke. Strassburg 1911. (Schriften der Wissenschaftlichen Gesellschaft zu Strassburg 8). Nos. 1—48. [MF 2.68]
 
+ * 2nd ed., ed. R. P. Salomons (Papyrologica Bruxellensia, 35). Nos. 1-48.
+
 ### P.Cair.Salem
 = _Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian Museum_, ed. N. A. Salem. Cairo 2006.
 
