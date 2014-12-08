@@ -3231,6 +3231,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 3, Ostrakismos und Prominenz in Athen: Attische Bürger des 5. Jh. v. Chr. auf den Ostraka, by S. Brenne. 2000.
  * 4, Foederati. Von der völkerrechtlichen Kategorie zur byzantinischen Truppengattung, by R. Scharf. 2001.
  * 6, see _O.Cret.Chers._
+ * 7, Juristische Begriffe im ersten Korintherbrief des Paulus, by A. Papathomas. 2009.
 
 ## Congresses
 
