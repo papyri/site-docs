@@ -1012,7 +1012,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 VI, Vermischte Texte, ed. E.J. Knudtzon. 1951—1952, pp. 119—137. Nos. 1—10. Texts reprinted as SB VI 9351—9359.
 
 ### P.Macq.
-= _The Macquarie Papyri_. Sydney.
+= _The Macquarie Papyri_. Turnhout.
 
  * I, A Coptic handbook of ritual power (P. Macq. I 1), ed. M. Choat and I. Gardner. Turnhout, 2013. 
 
