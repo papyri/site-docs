@@ -2765,7 +2765,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 94, Studien zu Ciceros Rede für P.Quinctius, by J. .Platschek. 2005
  * 95, Id quod actum est. Zur Ermittlung des Parteiwillens im klassischen römischen Zivilprozess, by U. Babusiaux. 2006
  * 96, Authentizität und Geltung spätantiker Kaisergesetze. Studien zu den Sacra privilegia concilii Vizaceni, by W. Kaiser. 2007.
- * 97, Zwischen König und Karikatur. Das Bild Ptolemaios VIII. im Spannungsfeld der Überlieferung, by P.Nadig. 2007
+ * 97, Zwischen König und Karikatur. Das Bild Ptolemaios VIII. im Spannungsfeld der Überlieferung, by P.Nadig. 2007.
+ * 98, Herrscher- und Dynastiekulte im Ptolemäerreich : Systematik und Einordnung der Kultformen, by Stefan Pfeiffer. 2008.
 
 ### Mus.Tor.
  = _Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi_. Turin 1967—.
