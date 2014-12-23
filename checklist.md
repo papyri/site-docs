@@ -2766,7 +2766,18 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 95, Id quod actum est. Zur Ermittlung des Parteiwillens im klassischen römischen Zivilprozess, by U. Babusiaux. 2006
  * 96, Authentizität und Geltung spätantiker Kaisergesetze. Studien zu den Sacra privilegia concilii Vizaceni, by W. Kaiser. 2007.
  * 97, Zwischen König und Karikatur. Das Bild Ptolemaios VIII. im Spannungsfeld der Überlieferung, by P.Nadig. 2007.
- * 98, Herrscher- und Dynastiekulte im Ptolemäerreich : Systematik und Einordnung der Kultformen, by Stefan Pfeiffer. 2008.
+ * 98, Herrscher- und Dynastiekulte im Ptolemäerreich: Systematik und Einordnung der Kultformen, by S. Pfeiffer. 2008.
+ * 99, Risikomanagement beim Weinkauf: Periculum und Praxis im Imperium Romanum, by E. Jakab. 2009.
+ * 100, Die römischen Solidarobligationen: eine Neubesichtigung unter aktionenrechtlichen Aspekten, by A. Steiner. 2009. 2008.
+ * 101, Appello ad principem: Urteilsstil und Urteilstechnik in kaiserlichen Berufungsentscheidungen (Augustus bis Caracalla), by V. Wankerl. 2009.
+ * 102, Entscheidungskorrekturen mit unbestimmter Wertung durch die klassische römische Jurisprudenz, by T. Kleiter. 2010.
+ * 103, Papinians Quaestiones Zur rhetorischen Methode eines spätklassischen Juristen, by U. Babusiaux. 2011.
+ * 104, Die Verwaltung des ptolemaiischen Reichs, by W. Huss. 2011.
+ * 105, Die Wirtschaft Ägyptens in hellenistischer Zeit, by W. Huss. 2012.
+ * 106, Das Edikt De pecunia constituta: die römische Erfüllungszusage und ihre Einbettung in den hellenistischen Kreditverkehr, by J. Platschek. 2013.
+ * 107, Fortschritt auf Umwegen: Umgehung und Fiktion in Rechtsurkunden des Altertums, by G. Pfeifer. 2013.
+ * 108, Gewalt und Kriminalität in der Spätantike, by J.-U. Krause. 2014.
+ * 109, Römische Testamentsurkunden aus Ägypten vor und nach der Constitutio Antoniniana, by B. Strobel 2014.
 
 ### Mus.Tor.
  = _Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi_. Turin 1967—.
