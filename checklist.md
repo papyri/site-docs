@@ -680,7 +680,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * IV, Literarische Stücke, ed. H. Eberhart. 1935. (Schriften 1935, 2). Nos. 34—45. [MF 2.23; rp. CG]
  * V, Alexandrinische Geronten vor Kaiser Gaius: Ein neues Bruchstuck der sogenannten Alexandrinischen Martyrer-Akten, ed. A. von Premerstein. 1939. (Schriften der Ludwigs-Universität zu Giessen, Jg. 1936). No. 46. [MF 2.24; rp. CG]
  * VI, Griechische Verwaltungsurkunden von Tebtynis aus dem Anfang des dritten Jahrhunderts n. Chr., ed. G. Rosenberger. 1939. Nos. 47—53. [MF 2.25; rp. CG]
- * Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ. Giss.), by K.A. Worp. 1975. (KurzberichteGiessen 35). [MF 2.26]
+ * Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ. Giss.), by K.A. Worp. 1975. (Kurzberichte Giessen 35). [MF 2.26]
 
 ### P.Got.
 = _Papyrus grecs de la Bibliothèque municipale de Gothembourg_, ed. H. Frisk. Gothenburg 1929. (Göteborgs Högskolas Årsskrift 35 [1929] pt. 1). Nos. 1—21; nos. 22—114 descripta. [Rp. CG]
