@@ -413,6 +413,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * V, On the Primaeval Ocean, ed. M. J. Smith. Copenhagen 2002. (Carsten Niebuhr Institute Publications 26). [MTP]
  * VI, The Petese Stories II, ed. K. Ryholt. Copenhagen 2006. (Carsten Niebuhr Institute Publications 29). [MTP]
  * VII, Hieratic Texts from the Collection, ed. K. Ryholt. Copenhagen 2006. (Carsten Niebuhr Publications 30). [MTP]
+ * VIII, Grundriss des Laufes der Sterne: das sogenannte Nutbuch, ed. A. von Lieven. Copenhagen 2007. (Carsten Niebuhr Publications 31). [MTP]
 
 ### P.CattleDocs.
 = _Saite and Persian Demotic Cattle Documents_, ed. E. Cruz-Uribe. Chico 1985. (Am.Stud.Pap. XXVI). Nos. 1—18.
