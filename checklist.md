@@ -3309,3 +3309,124 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ## Editions of Greek and Coptic Documentary Papyri by Year of Publication
 
 ### Greek
+ * 1891: P.Petr. I
+ * 1892: –––
+ * 1893: P.Lond. I; P.Petr. II
+ * 1894: –––
+ * 1895: BGU I; CPR I
+ * 1896: P.Grenf. I; P.Rev. 1st ed.
+ * 1897: P.Grenf. II
+ * 1898: BGU II; P.Lond. II; P.Oxy. I
+ * 1899: P.Oxy. II; O.Wilck.
+ * 1900: P.Fay.
+ * 1901: P.Amh. II; (Stud.Pal. I)
+ * 1902: P.Cair.Goodsp.; P.Kar.Goodsp.; P.Tebt. I; (Stud.Pal. II)
+ * 1903: BGU III; P.Oxy. III
+ * 1904: P.Oxy. IV; (Stud.Pal. III)
+ * 1905: P.Petr. III; P.Rein. I; Stud.Pal. (I+II+)IV, V
+ * 1906: P.Flor. I; P.Gen. I; P.Hib. I; P.Lips.; Pap.Heid. III
+ * 1907: P.Eleph.; P.Lond. III; P.Tebt. II
+ * 1908: P.Flor. II (fasc. 1); P.Oxy. VI; Stud.Pal. VII, (III+)VIII
+ * 1909: –––
+ * 1910: P.Flor. II (fasc. 1+)2; (P.Giss. I.1, I.2); P.Lond. IV; P.Oxy. VII; Stud.Pal. X
+ * 1911: P.Cair.Masp. I; P.Cair.Preis.; (P.Hamb. I.1); P.Oxy. VIII; P.Thead.
+ * 1912: BGU IV; (P.Giss. I.1–2+) I.3; P.Lille II; P.Oxy. IX; PSI I; P.Stras. I; Chrest.Mitt.; Chrest.Wilck.
+ * 1913: P.Cair.Masp. II; P.Hal.; (P.Hamb. I.2); (P.Iand. II, III); Stud.Pal. XIII; O.Erem.; O.Theb.
+ * 1914: P.Freib. I; (P.Grad.); (P.Iand. IV); P.Monac.; P.Oxy. X; PSI III; (Stud.Pal. XIV); O.Joach.
+ * 1915: P.Flor. III; P.Ryl. II; (SB I)
+ * 1916: P.Cair.Masp. III; (P.Freib. II); P.Meyer; P.Oxy. XII; O.Deiss.
+ * 1917: P.Bas.; P.Lond. V; PSI IV; PSI V; Stud.Pal. XVII
+ * 1918: –––
+ * 1919: BGU V.1
+ * 1920: P.Frankf.; P.Oxy. XIV; PSI VI; P.Stras. II
+ * 1921: P.Gur.; Stud.Pal. XX
+ * 1922: BGU VI; Stud.Pal. XXII; SB (I+)II; O.Brüss.Berl.; O.Sarga
+ * 1923: P.Bad. II; O.Stras.
+ * 1924: P.Bad. IV; P.Berl.Thun.; (P.Giss.Univ. I); P.Hamb. I; P.Lond. VI; P.Oxy. XVI
+ * 1925: P.Cair.Zen. I; PSI VII
+ * 1926: BGU VII; P.Bour.; P.Cair.Zen. II; P.Corn.; (P.Jena)
+ * 1927: P.Freib. III; P.Oxy. XVII; P.Ross.Georg. IV; PSI VIII; (UPZ I); SB III
+ * 1928: P.Cair.Zen. III; P.Lille I; (P.Mil. I.1)
+ * 1929: P.Berl.Möller; P.Col. I; P.Got.; P.Ross.Georg. II; PSI IX
+ * 1930: P.Achm.; P.Ross.Georg. III; (O.Bodl. I, O.Ashm., O.Camb., O.Minor, O.Petr.)
+ * 1931: P.Berl.Frisk; P.Cair.Zen. IV; P.Enteux. (first fasc.); (P.Giss.Univ. III); P.Marm.; P.Mich. I; P.Oslo II; P.Princ. I; SB IV
+ * 1932: P.Berl.Leihg. I; P.Col. II; P.Enteux. (second fasc.); PSI X
+ * 1933: BGU VIII; P.Gron.; P.Mich. II; (P.Princ.Roll); (P.Tebt. III.1); O.Oslo
+ * 1934: P.Col. III; (P.Iand. VI, P.Iand. VII); P.Würzb.; O.Buch.
+ * 1935: P.Ross.Georg. V; P.Vars.; O.Mich. I; O.Wilb.
+ * 1936: P.Brem.; P.Harr. I; P.Mich. III; (P.Mich. IV.1); P.Oslo III; P.Princ. II
+ * 1937: BGU IX; P.Edfou I; P.Mil.Vogl. I; (P.Lund II); O.Edfou I
+ * 1938: P.Bad. VI; P.Edfou II; (P.Iand. VIII); (P.Lund III); P.Tebt. (III.1+)III.2; O.Edfou II
+ * 1939: P.Aberd.; P.Adl.; P.Athen.; P.Fouad; (P.Giss.Univ. VI); P.Mich. (IV.1+)IV.2
+ * 1940: P.Cair.Zen. V; P.Col. IV; P.Rein. II
+ * 1941: P.Berl.Zill.; P.Oxy. XVIII; P.Warr.
+ * 1942: P.Erl.; P.Haun. I; P.Oxf.; P.Princ. III; P.Vind.Bosw.
+ * 1943: –––
+ * 1944: P.Mich. V, VI; O.Mich. II
+ * 1945: –––
+ * 1946: (P.Lund IV); (P.Prag.Varcl I)
+ * 1947: P.Bacch.; P.Lund (II+III+IV+)V; P.Mich. VII; P.Phil.; (P.Prag.Varcl II)
+ * 1948: P.Mert. I; P.Oxy. XIX; (P.Stras. III)
+ * 1949: P.FuadUniv.
+ * 1950: P.Ant. I; P.Edfou III; P.Fam.Tebt.; O.Edfou III
+ * 1951: P.Mich. VIII; PSI XII; O.Mich. III
+ * 1952: (P.Lund VI); P.Oxy. XX; P.Ryl. IV; SB Bh. 1; T.Alb.
+ * 1953: P.Apoll.; P.Bon. I; PSI XIII
+ * 1954: P.Bal.; P.Col. VI; P.Hamb. II; P.Oxy. XXII; Ch.L.A. I
+ * 1955: P.Col. VI 2nd ed.; P.Hib. II; P.Ital. I; P.Michael.; SB V; (O.Bodl. II)
+ * 1956: P.Col. V; Ch.L.A. II
+ * 1957: P.Kroll; P.Oxy. XXIV; (P.Prag.Varcl NS 1–3); PSI XIV; UPZ (I+)II; (C.Pap.Jud. I)
+ * 1958: P.Heid. II; P.Ness. III; (P.Prag.Varcl NS 4–10)
+ * 1959: P.Dura; P.Mert. II; (P.Prag.Varcl NS 11–21)
+ * 1960: P.Ant. II; P.Cair.Isid.; (P.Prag.Varcl NS 22–39); (C.Pap.Jud. II)
+ * 1961: (P.Edfou IX); P.Mil.Vogl. II; P.Murabba'ât; (P.Prag.Varcl NS 40–53); P.Sarap.; SB Bh. 2
+ * 1962: P.Abinn.; P.Iand.inv. 653; P.Oxy. XXVII
+ * 1963: P.Heid. III; P.Leit.; P.Stras. (III+)IV; P.Vind.Sijp.; (SB VI); Ch.L.A. III
+ * 1964: P.Alex.; P.Herm.; P.Panop.Beatty; SB (VI+)VII; O.Bodl. (I+II+)III; (C.Ord.Ptol.); C.Pap.Jud. (I+II+)III
+ * 1965: P.Mil.Vogl. III; P.Select.; PSI Congr.XI
+ * 1966: P.Mich.Mchl.; P.Mil. (I.1+)II; P.Oxy. XXXI; PSI XV estr.; P.Sorb. I
+ * 1967: P.Ant. III; P.Mert. III; (P.Mil. I.1 2nd ed.); P.Mil.Vogl. IV; P.NYU I; P.Wisc. I; P.Yale I; (SB VIII); Ch.L.A. IV
+ * 1968: BGU XI; P.David; P.Oxy. XXXIII; P.Oxy. XXXIV
+ * 1969: P.Alex.Giss.; P.Petaus; SB (VIII+)IX
+ * 1970: BGU X; P.Mich. X; P.Oxy. XXXVI
+ * 1971: (P.IFAO I, P.IFAO II); P.Kron.; P.Mich. IX; P.Mich. XI; P.Oxy. XXXVIII; (P.Panop. I+II); (SB X); O.Ont.Mus. I
+ * 1972: P.Oxy. XL; P.Oxy. XLI; P.Vind.Worp
+ * 1973: P.Ashm. I; P.Berl.Brash.; P.Freer; P.Panop. (I+II+)III; P.Stras. V; SB (X+)XI
+ * 1974: BGU XII; P.Brux. I; P.Genova I; P.Lond. VII; P.Mil.Congr.XIV; P.Oxy. XLII
+ * 1975: P.Berl.Bork.; (P.Cair.Mich. pt.I); P.Giss.Univ. (I+III+VI) Indexes; (P.IFAO III); P.Mich. XII; P.Oxy. XLIII; (P.Stras. VI); O.Mich. IV; Ch.L.A. V, VI, VII
+ * 1976: BGU XIII; CPR V; P.Coll.Youtie I+II; P.Köln I; P.Laur. I; P.Oxy. XLIV; P.Tebt. IV; P.Theon.; P.Vind.Sal.; P.Vind.Tand.;O.Amst.; O.Florida; O.Medin.Madi; O.Ont.Mus. II; C.Étiq.Mom.; Ch.L.A. VIII
+ * 1977: P.Berl.Leihg. II; P.Cair.Mich. (I+)II; P.Laur. II; P.Mich. XIII; P.Mil.Vogl. VI; P.Oxy. XLV; P.Recueil; PSI Corr. I; P.Tebt.Tait;P.Wisc. II; (SB XII); O.Brux. 2nd ed.; Ch.L.A. IX
+ * 1978: (CPR VI,1); P.Batav.; P.Herm.Landl.; P.Hombert I; P.Köln II; P.Oxy. XLVI; P.Sakaon; Ch.L.A. XII
+ * 1979: CPR VII; P.Col. VII; P.Congr.XV; P.Laur. III; P.Oxy.Hels.; P.Soter.; (P.Stras. VII); SB (XII+)XIII; O.Lund; O.Tebt.Pad.; Ch.L.A. X, XI
+ * 1980: P.Amst. I; BGU XIV; P.Charite; P.Genova II; P.Köln III; P.Mich. XIV; P.Oxy. XLVII; P.Panop. (repr.); (P.Stras. VIII 701–720);P.Vat.Aphrod.; P.Wash.Univ. I; P.Zen.Pestm.; O.Leid.
+ * 1981: P.Haun. II; P.Mil.Vogl. VII; P.NagHamm.; P.Oxy. XLVIII; (P.Stras. VIII 721–740); P.Tor.Amen.; P.Turner; P.Ups.Frid; (SBXIV.1); Ch.L.A. XIII
+ * 1982: P.Dion.; P.Ital. II; P.Köln IV; P.Mich. XV; P.Oxy. XLIX; (P.Stras. VIII 741–760); Ch.L.A. XIV, XX
+ * 1983: BGU XV; CPR VIII; P.Laur. IV; P.LeedsMus.; P.Mil.Congr. XVII; P.Oxy. L; P.Rain.Cent.; PSI Congr.XVII; (P.Stras. VIII 761–780); P.Tebt.Wall; (SB XIV.2–3); T.Vindol. I; Ch.L.A. XXI, XXII
+ * 1984: CPR IX; P.Hamb. III; P.Oxy. LI, LII; P.Princ.Roll 2nd ed.; (P.Stras. VIII 781–800); Ch.L.A. XVII; C.Pap.Gr. I
+ * 1985: (CPR VI.1+)VI.2; P.Harr. II; P.Haun. III; P.Köln V; P.Thmouis I; (P.Stras. IX 801–820); (SB XVI.1–2); Ch.L.A. XVIIII;C.Pap.Gr. II.1
+ * 1986: CPR X; P.Anag.; P.Erasm. I; P.Freib. IV; P.Gen. II; P.Heid. IV; P.Hels. I; P.Münch. I, III.1; P.Mil.Congr.XVIII; P.Quseir; (P.Stras. IX 821–840); P.Stras. (VI–VIII) Indexes; O.Cair.; O.Douch I; Ch.L.A. XXV; Pap.Agon.
+ * 1987: CPR XIII; P.Customs; P.Köln VI; P.Neph.; P.Oxy. LIV; (P.Stras. IX 841–860); O.Oasis; Ch.L.A. XIX
+ * 1988: P.Oxy. LV; P.Prag. I; (P.Stras. IX 861–880); (SB XVI.3); O.Ashm.Shelt.; O.Douch II; Ch.L.A. XXVIII
+ * 1989: CPR XIV; P.Yadin I = P.Babatha; P.Bub. I; P.Masada; P.Mil.Congr.XIX; P.Oxy. LVI; (P.Stras. IX 881–900); O.Elkab; O.Masada; T.Varie
+ * 1990: CPR XV; P.Col. VIII; P.Diog.; P.Heid. V; P.Matr.; P.Oxy. LVII; P.Wash.Univ. II
+ * 1991: CPR XVIIA, XVIIB, XVIII; P.Erasm. II; P.Genova III; P.Köln VII; P.Leid.Inst.; P.Oxy. LVIII; P.Petr.2 I
+ * 1992: P.Brookl.; P.Oxy. LIX; PSI XX Congr.; P.Tor.Choach.; O.Claud. I; O.Douch III
+ * 1993: P.Athen.Xyla; P.Pher.; O.Narm. I; O.WadiHamm.; O.Waqfa; (SB XVIII); Ch.L.A. XXIX
+ * 1994: P.Heid. VI; P.Mich.Aphrod.; P.Oxy. LX; P.Oxy.Descr.; P.Sorb. II;(SB XIV 1, 2+) XV; (SB XIX.1); O.Vleem.; Ch.L.A. XLI, XLII;T.Vindol. II
+ * 1995: BGU XVI; P.Berl.Sarisch.; P.Dubl.; (P.Euphrates) Part I; P.Graux II; P.Kellis I; P.Naqlun I; P.Oxy. LXI, LXII; P.PalauRib.;P.Prag. II; PSI Congr.XXI; (SB XVI, 1—3+) XVII; Ch.L.A. XLIII, XLVI
+ * 1996: P.Bodl. I; P.Col. X; P.Gen. III; P.Heid. VII; P.Mich. XVIII; P.Oxy. LXIII; P.Pommersf.
+ * 1997: P.Ammon I; P.Chic.Haw.; (P.Euphrates) Part II; P.Graux III; P.Hever; P.Kellis IV; P.Köln VIII; P.Oxy. LXIV; P.Oxy.Census; (SBXX); O.Claud. II
+ * 1998: P.Bub.II; P.Col IX, XI;P.Eirene I; P.Eleph.Wagner; P.Hamb. IV; P.Louvre I; P.Oxy. LXV; (SB XXI.1); O.Eleph.Wagner
+ * 1999: P.Giss.Apoll.; P.Oxy. LXVI; O.Douch IV
+ * 2000: BGU XVIII.1; P.Benaki; P.Bingen; (P. Euphrates) Part III; P.Lond. 1177 (reed.); P.Mon.Apollo; O.Berenike; O.Claud. III
+ * 2001: BGU XVII; P.Dion.Herm.; P.Harrauer; P.Heid. VIII; P.Köln IX;P.Oxy. LXVII; P.Polit.Jud.; P.Thomas; P.Yale III; (SB XVIII+) XIX; (SB XXII); O.Douch V.
+ * 2002: P.Berl.Salmen.; P.Erl.Diosp.; P.Dryton; P.Gen. I (2nd ed.); P.Lips. II; P.Petra I; P.Yadin II, (SB XX+XXI, 1+) XXI,2; (SB XXII+) XXIII;
+ * 2003: P.Diosk.; P.Hombert II; P.Köln X; P.Oxy. LXVIII; (SB XXIV).
+ * 2004: P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis.
+ * 2005: BGU XIX; P.Louvre II; PSI Com.; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
+ * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P.Heid. IX; P.Oxy. LXX; SB XXVI
+ * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
+ * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina
+ * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
+ * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
+ * 2011:  
