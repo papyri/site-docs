@@ -3305,3 +3305,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * VII, Acts of the Seventh International Conference of Demotic Studies, Copenhagen, 23—27 August 1999, ed. K. Ryholt.  (Museum Tusculanum Press, C.N.I. Publications 27). Copenhagen 2002.
  * VIII, Akten der 8. Internationalen Konferenz für demotische Studien, Würzburg, 28.—31. August 2002, ed. K. Zauzich and M. Stadler. Not yet published.
  * IX, Actes du IXe congrès international des études démotiques, Paris, 31 août—3 septembre 2005, ed. G. Widmer and D. Devauchelle. (IFAO, Bibliothèque d'études 147). Cairo 2009.
+
+## Editions of Greek and Coptic Documentary Papyri by Year of Publication
+
+### Greek
