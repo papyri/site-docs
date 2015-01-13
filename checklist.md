@@ -3430,3 +3430,60 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
  * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
  * 2011:  
+
+### Coptic
+ * 1876: P.RevilloutCopt.
+ * 1893: P.Fay.Copt.
+ * 1895: (BKU I.1); CPR II
+ * 1899: P.Amh.Eg.
+ * 1900: P.Pisentius (part 1)
+ * 1901: P.Amh. II
+ * 1902: (BKU I.2-3); P.Pisentius (part 2); O.Crum
+ * 1903: (BKU I.4)
+ * 1904: (BKU I.5-6); BKU II.1
+ * 1905: BKU I.(1-6+)7; P.Lond.Copt. I; O.Brit.Mus.Copt. I
+ * 1909: P.Ryl.Copt.
+ * 1910: P.Lond. IV
+ * 1912: P.KRU
+ * 1913: O.Theb.
+ * 1914: P.Pisentius (part 3)
+ * 1917: P.Bas.; P.Lond. V
+ * 1921: O.CrumST
+ * 1922: P.Sarga
+ * 1924: P.Lond. VI
+ * 1926: P.Mon.Epiph.
+ * 1930: O.Camb.; O.Petr.
+ * 1932: P.CLT
+ * 1934: O.Buch.
+ * 1939: O.CrumVC
+ * 1942: P.(&O.)Mich.Copt.; O.Mich.Copt.Etmoulon
+ * 1952: O.Medin.HabuCopt.
+ * 1953: P.Apoll.
+ * 1954: P.Bal.
+ * 1958: CPR IV
+ * 1959: P.HermitageCopt.; P.MoscowCopt.
+ * 1960: O.Vind.Copt.
+ * 1965: O.Mon.Phoib.
+ * 1967: (BKU III.1); P.Mil.Vogl. IV
+ * 1968: BKU III.(1+)2
+ * 1973: P.Freer
+ * 1976: O.Amst.
+ * 1979: P.Congr.XV; P.Laur. III
+ * 1980: P.KölnÄgypt.
+ * 1981: P.NagHamm.; P.Turner
+ * 1984: P.Laur. V
+ * 1986: P.YaleCopt.; O.Deir el-Bahari; O.Douch I
+ * 1987: CPR XII; P.Lond.Copt. II; P.Neph.
+ * 1988: O.Douch II
+ * 1993: P.Athen.Xyla; P.MorganLib.; SB XVIII; SB Kopt. I
+ * 1995: CPR XX
+ * 1997: P.Köln VIII
+ * 1999: P.Giss.Apoll.; P.Kell. V; O.Bawit; O.Douch IV
+ * 2000: P.Bingen; P.Mon.Apollo; O.Ashm.Copt.; O.Brit.Mus.Copt. II.
+ * 2004: P.Horak; P.Paramone; O.BawitIFAO; SB Kopt. II
+ * 2006: SB Kopt. III
+ * 2007: P.Kellis VI
+ * 2008: P.BawitClackson
+ * 2009: P.Clackson; O.EdfouIFAO
+ * 2010:  
+ * 2011: CPR XXXI
