@@ -1774,9 +1774,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Koptisches Sammelbuch_
 
  * I, ed. M.R.M. Hasitzka. Vienna 1993. (MPER N.S. XXIII). Nos. 1—800. [ÖNB]
- * II, ed. M. R. M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
- * III, ed. M. R. M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1690 . (MPER, N.S. XXIII.3). [K.G. Saur]
- * IV ed. M. R. M. Hasitzka. Berlin 2012. Nos. 1691-2163 (MPER N.S. XXIII.4)
+ * II, ed. M.R.M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
+ * III, ed. M.R.M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1690 . (MPER, N.S. XXIII.3). [K.G. Saur]
+ * IV ed. M.R.M. Hasitzka. Berlin 2012. Nos. 1691-2163 (MPER N.S. XXIII.4)
 
 ### UPZ
 = _Urkunden der Ptolemäerzeit (ältere Funde)_, ed. U. Wilcken. (Re-publication of texts published in the nineteenth century, up to but not including the Petrie papyri. There is a concordance at BL IV, pp. 118—123.)
