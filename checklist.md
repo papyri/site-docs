@@ -3489,8 +3489,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2007: P.Kellis VI
  * 2008: P.BawitClackson
  * 2009: P.Clackson; O.EdfouIFAO
- * 2010:  
+ * 2010: –––
  * 2011: CPR XXXI
- * 2012:
+ * 2012: –––
  * 2013: P.Macq.; O.Lips.Copt.
  * 2014: P.Kellis VII; P.Louvre Bawit
