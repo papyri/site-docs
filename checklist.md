@@ -3429,7 +3429,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
- * 2010: CPR ΧΧΧ; P.Dime; P.Eirene; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen
+ * 2010: CPR ΧΧΧ; P.Dime; P.Eirene; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.; SB XXVIII
