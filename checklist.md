@@ -3431,8 +3431,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: BKT X; P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
- * 2013: P.Bagnall; P.Köln XIII; PSI Comm. III
- * 2014: P.Louvre Bawit; P.Oxy. LXIX
+ * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.
+ * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXIX; P.Stras. X; P.Turku
 
 ### Coptic
  * 1876: P.RevilloutCopt.
@@ -3491,5 +3491,5 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2010:  
  * 2011: CPR XXXI
  * 2012:
- * 2013:
- * 2014: P.Louvre Bawit
+ * 2013: P.Macq.; O.Lips.Copt.
+ * 2014: P.Kellis VII; P.Louvre Bawit
