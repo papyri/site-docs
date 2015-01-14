@@ -3422,16 +3422,16 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2000: BGU XVIII.1; P.Benaki; P.Bingen; (P. Euphrates) Part III; P.Lond. 1177 (reed.); P.Mon.Apollo; O.Berenike; O.Claud. III
  * 2001: BGU XVII; P.Dion.Herm.; P.Harrauer; P.Heid. VIII; P.Köln IX;P.Oxy. LXVII; P.Polit.Jud.; P.Thomas; P.Yale III; (SB XVIII+) XIX; (SB XXII); O.Douch V.
  * 2002: P.Berl.Salmen.; P.Erl.Diosp.; P.Dryton; P.Gen. I (2nd ed.); P.Lips. II; P.Petra I; P.Yadin II, (SB XX+XXI, 1+) XXI,2; (SB XXII+) XXIII;
- * 2003: P.Diosk.; P.Hombert II; P.Köln X; P.Oxy. LXVIII; (SB XXIV).
- * 2004: P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis.
+ * 2003: P.Diosk.; P.Hombert II; P.Köln X; P.Oxy. LXVIII; (SB XXIV); T.Vindol. III
+ * 2004: P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis
  * 2005: BGU XIX; P.Louvre II; PSI Com.; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P.Heid. IX; P.Oxy. LXX; SB XXVI
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
- * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
+ * 2010: CPR ΧΧΧ; P.Dime; P.Eirene; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
- * 2012: BKT X; P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
+ * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXIX; P.Stras. X; P.Turku
 
@@ -3489,7 +3489,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2007: P.Kellis VI
  * 2008: P.BawitClackson
  * 2009: P.Clackson; O.EdfouIFAO
- * 2010: –––
+ * 2010: O.Frangé
  * 2011: CPR XXXI
  * 2012: –––
  * 2013: P.Macq.; O.Lips.Copt.
