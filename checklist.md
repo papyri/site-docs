@@ -3429,7 +3429,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
  * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
- * 2011:  
+ * 2011: P.Oxy. LXXVI, LXXVII;
+ * 2012: BKT X; P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi;
+ * 2013:
+ * 2014: P.Oxy. LXIX
 
 ### Coptic
  * 1876: P.RevilloutCopt.
