@@ -1766,6 +1766,7 @@ A number of these texts had been published in translation in PSI IX 1001—1010A
  * XXV, Index to XXIV. Pt. 1, Abschn. 1—8, Wiesbaden 2007. Pt. 2, Abschn. 9, Wiesbaden 2008. [OH]
  * XXVI, ed. H.A. Rupprecht. Wiesbaden 2006. Nos. 16341- 16831. [OH]
  * XXVII, Index to XXVI. Pt. 1, Abschn. 1–8, Wiesbaden 2007. Pt. 2, Abschn. 9, Wiesbaden 2012.
+ * XXVIII, ed. A. Jördens. Wiesbaden 2013. Nos. 16832-17270. [OH]
  * Beihefte, see P.Rev. (Bh. 1), P.Kar.Goodsp. and P.Mil.Vogl. I (Bh. 2).
 Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800—12801 = SB Kopt. I 224—225
 
@@ -3431,7 +3432,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2010: CPR ΧΧΧ; P.Gen. IV; P.Jena II; P.NYU II; P.Oxy. LXXV
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: BKT X; P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
- * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.
+ * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXIX; P.Stras. X; P.Turku
 
 ### Coptic
