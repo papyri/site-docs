@@ -1879,7 +1879,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Deiss. (see P.Meyer).
 
 ### O.Did.
-= _Didymoi. Une garnison romaine dans le désert Oriental d’Égypte, vol. 2: Les Textes_, ed. H. Cuvigny, with contributions by F. Briquel-Chatonnet and T. Gagos. Cairo 2012. (Praesidia du désert de Bérénice 4). Nos. 22–465 are ostraca; nos. 466–479 are figured ostraca.
+= _Didymoi. Une garnison romaine dans le désert Oriental d’Égypte, vol. 2: Les Textes_, H. Cuvigny (ed.), A. Bülow-Jacobsen, H. Eristov, with contributions by F. Briquel-Chatonnet and T. Gagos. (Praesidia du désert de Bérénice 4). Nos. 22–465 are ostraca; nos. 466–479 are figured ostraca.
 
 ### O.Dime
 = _Demotische Dokumente aus Dime I: Ostraka_, ed. S. L. Lippert and M. Schentuleit. Wiesbaden 2006.
