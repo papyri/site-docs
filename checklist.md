@@ -2413,13 +2413,13 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### CommunicazioniVitelli
  = Communicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
- * 1. 1995
- * 2. 1997
- * 3. 1999
- * 4. 2001
- * 5. 2003
- * 6. 2005, see PSI Com.
- * 7. 2007
+ * 1, 1995
+ * 2, 1997
+ * 3, 1999
+ * 4, 2001
+ * 5, 2003
+ * 6, 2005, see PSI Com.
+ * 7, 2007
 
 ### CRIPEL
  = _Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille_. 1973— .
