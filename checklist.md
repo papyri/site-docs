@@ -1165,17 +1165,17 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
 ### P.Narm.
 
- * I, Narmouthis 2006: Documents et objects découverts à Médinet Madi en 2006, ed. E. Bresciani, A. Delattre, P. Heilporn, A. Martin, A. Menchetti, G. Nachtergael, R. Pintaudi and F. Silvano. Pisa 2010. (Monografie di “Egitto e Vicino Oriente” II). Nos. 1–13 are Greek papyri; no. 14 is a Greek tablet; nos. 15–19 are Demotic and bilingual ostraca; nos. 20–147 Greek ostraca; nos. 148–149 Greek inscriptions.
+ * I, Narmouthis 2006: Documents et objects découverts à Médinet Madi en 2006, ed. E. Bresciani, A. Delattre, P. Heilporn, A. Martin, A. Menchetti, G. Nachtergael, R. Pintaudi and F. Silvano. Pisa 2010. (Monografie di “Egitto e Vicino Oriente” II). Nos. 1–13 are Greek papyri; no. 14 is a Greek tablet; nos. 15–19 are Demotic and bilingual ostraca; nos. 20–147 Greek ostraca; nos. 148–149 Greek inscriptions. {ddb:p.narm.2006}
 
 ### P.Neph.
-= _Das Archiv des Nepheros und verwandte Texte_, ed. B. Kramer, J.C. Shelton and G.M. Browne. Mainz 1987. (Aegypt.Trev. IV). Part I, Das Archiv des Nepheros, nos. 1—14, 17—42 Greek, nos. 15—16 Coptic. Part II, Verwandte Texte aus der Heidelberger Papyrussammlung, nos. 43—49 Greek. [PvZ]
+= _Das Archiv des Nepheros und verwandte Texte_, ed. B. Kramer, J.C. Shelton and G.M. Browne. Mainz 1987. (Aegypt.Trev. IV). Part I, Das Archiv des Nepheros, nos. 1—14, 17—42 Greek, nos. 15—16 Coptic. Part II, Verwandte Texte aus der Heidelberger Papyrussammlung, nos. 43—49 Greek. [PvZ] {ddb:p.neph}
 
 ### P.Ness.
 = _Excavations at Nessana_.
 
  * I, Introductory volume, ed. H.D. Colt. Pp. 259—262 contain a summary by P. Mayerson of Nessana papyri relating to agriculture. London 1962.
  * II, Literary Papyri, ed. L. Casson and E.L. Hettich. Princeton 1950. Nos. 1—13. [PUP]
- * III, Non-Literary Papyri, ed. C.J. Kraemer, Jr. Princeton 1958. Nos. 14—195. [PUP]
+ * III, Non-Literary Papyri, ed. C.J. Kraemer, Jr. Princeton 1958. Nos. 14—195. [PUP] {ddb:p.ness;3}
 
 ### P.NYU
 = _Greek Papyri in the Collection of New York University_.
@@ -1187,11 +1187,11 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri Osloenses_. Oslo.
 
  * I, Magical Papyri, ed. S. Eitrem. 1925. Nos. 1—6. [o.p.]
- * II, ed. S. Eitrem and L. Amundsen. 1931. Nos. 7—64. [o.p.]
- * III, ed. S. Eitrem and L. Amundsen. 1936. Nos. 65—200. [UF]
+ * II, ed. S. Eitrem and L. Amundsen. 1931. Nos. 7—64. [o.p.] {ddb:p.oslo;2}
+ * III, ed. S. Eitrem and L. Amundsen. 1936. Nos. 65—200. [UF] {ddb:p.oslo;3}
 
 ### P.Oxf.
-= _Some Oxford Papyri_, ed. E.P. Wegener. Leiden 1942 (text), 1948 (plates). (Pap.Lugd.Bat. IIIA and IIIB). Nos. 1—19. [MF 2.57]
+= _Some Oxford Papyri_, ed. E.P. Wegener. Leiden 1942 (text), 1948 (plates). (Pap.Lugd.Bat. IIIA and IIIB). Nos. 1—19. [MF 2.57]  {ddb:p.oxf}
 
 ### P.Oxf.Griffith
 = _L'Archivio demotico del tempio di Soknopaiu Nesos nel Griffith Institute di Oxford_, ed. E. Bresciani. Milan 1975. (Testi e documenti per lo studio dell'antichità 49). Nos. 13—75 are documents.
