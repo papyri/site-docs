@@ -1155,13 +1155,13 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Les grottes de Murabba'ât_, ed. P. Benoit, J.T. Milik and R. de Vaux. Oxford 1961. (Discoveries in the Judaean Desert of Jordan 2). Nos. 89—157 are Greek, 158—159 Latin. Texts nos. 89—91, 94, 114—117 reprinted as SB X 10300—10307. Separate volume of plates. [OUP] {ddb:p.mur}
 
 ### P.NagHamm.
-= _Nag Hammadi Codices. Greek and Coptic Papyri from the Cartonnage of the Covers_, ed. J.W.B. Barns, G.M. Browne and J.C. Shelton. Leiden 1981. (Nag Hammadi Studies XVI). Nos. 1—153 (Greek), C1—C19 (Coptic). [EJB]
+= _Nag Hammadi Codices. Greek and Coptic Papyri from the Cartonnage of the Covers_, ed. J.W.B. Barns, G.M. Browne and J.C. Shelton. Leiden 1981. (Nag Hammadi Studies XVI). Nos. 1—153 (Greek), C1—C19 (Coptic). [EJB] {ddb:p.nag.hamm}
 
 ### P.Naqlun
 = _Deir El-Naqlun: The Greek Papyri_.
 
- * I, ed. T. Derda. Warsaw 1995. Nos. 1—12 papyri, nos. 13—14 inscriptions on amphorae. Plates in separate vol. [Wydawnictwa Uniwersytetu Warszawskiego]
- * II, ed. T. Derda, with J. Urbanik and J. van der Vliet. Warsaw 2008. (JJurPap supplement 9) Nos. 15—34; nos. 15—20 literary; nos. 21—34 documentary.
+ * I, ed. T. Derda. Warsaw 1995. Nos. 1—12 papyri, nos. 13—14 inscriptions on amphorae. Plates in separate vol. [Wydawnictwa Uniwersytetu Warszawskiego] {ddb:p.naqlun;1}
+ * II, ed. T. Derda, with J. Urbanik and J. van der Vliet. Warsaw 2008. (JJurPap supplement 9) Nos. 15—34; nos. 15—20 literary; nos. 21—34 documentary. {ddb:p.naqlun;2}
 
 ### P.Narm.
 
