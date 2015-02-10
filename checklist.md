@@ -1207,11 +1207,11 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * VI, Nos. 845—1006, ed. B.P. Grenfell and A.S. Hunt. 1908. (9) No. 984 reedited as P.Oxy.Census.
  * VII, Nos. 1007—1072, ed. A.S. Hunt. 1910. (10) {ddb:p.oxy;7}
  * VIII, Nos. 1073—1165, ed. A.S. Hunt. 1911. (11) {ddb:p.oxy;8}
- * IX, Nos. 1166—1223, ed. A.S. Hunt. 1912. (12)
- * X, Nos. 1224—1350, ed. B.P. Grenfell and A.S. Hunt. 1914. (13)'
- * XI, Nos. 1351—1404, ed. B.P. Grenfell and A.S. Hunt. 1915. (14)
- * XII, Nos. 1405—1593, ed. B.P. Grenfell and A.S. Hunt. 1916. (15)
- * XIII, Nos. 1594—1625, ed. B.P. Grenfell and A.S. Hunt. 1919. (16)
+ * IX, Nos. 1166—1223, ed. A.S. Hunt. 1912. (12) {ddb:p.oxy;9}
+ * X, Nos. 1224—1350, ed. B.P. Grenfell and A.S. Hunt. 1914. (13) {ddb:p.oxy;10}
+ * XI, Nos. 1351—1404, ed. B.P. Grenfell and A.S. Hunt. 1915. (14) {ddb:p.oxy;11}
+ * XII, Nos. 1405—1593, ed. B.P. Grenfell and A.S. Hunt. 1916. (15) {ddb:p.oxy;12}
+ * XIII, Nos. 1594—1625, ed. B.P. Grenfell and A.S. Hunt. 1919. (16) {ddb:p.oxy;13}
  * XIV, Nos. 1626—1777, ed. B.P. Grenfell and A.S. Hunt. 1920. (17)
  * XV, Nos. 1778—1828, ed. B.P. Grenfell and A.S. Hunt. 1922. (18)
  * XVI, Nos. 1829—2063, ed. B.P. Grenfell, A.S. Hunt, and H.I. Bell. 1924. (19)
