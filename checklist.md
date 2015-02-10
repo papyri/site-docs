@@ -1203,10 +1203,10 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, Nos. 208—400, ed. B.P. Grenfell and A.S. Hunt. 1899. (2) {ddb:p.oxy;2}
  * III, Nos. 401—653, ed. B.P. Grenfell and A.S. Hunt. 1903. (5) {ddb:p.oxy;3}
  * IV, Nos. 654—839, ed. B.P. Grenfell and A.S. Hunt. 1904. (6) {ddb:p.oxy;4}
- * V, Nos. 840—844, ed. B.P. Grenfell and A.S. Hunt. 1908. (8)
+ * V, Nos. 840—844, ed. B.P. Grenfell and A.S. Hunt. 1908. (8) {ddb:p.oxy;5}
  * VI, Nos. 845—1006, ed. B.P. Grenfell and A.S. Hunt. 1908. (9) No. 984 reedited as P.Oxy.Census.
- * VII, Nos. 1007—1072, ed. A.S. Hunt. 1910. (10)
- * VIII, Nos. 1073—1165, ed. A.S. Hunt. 1911. (11)
+ * VII, Nos. 1007—1072, ed. A.S. Hunt. 1910. (10) {ddb:p.oxy;7}
+ * VIII, Nos. 1073—1165, ed. A.S. Hunt. 1911. (11) {ddb:p.oxy;8}
  * IX, Nos. 1166—1223, ed. A.S. Hunt. 1912. (12)
  * X, Nos. 1224—1350, ed. B.P. Grenfell and A.S. Hunt. 1914. (13)'
  * XI, Nos. 1351—1404, ed. B.P. Grenfell and A.S. Hunt. 1915. (14)
