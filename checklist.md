@@ -3427,7 +3427,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2005: BGU XIX; P.Louvre II; PSI Com.; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P.Heid. IX; P.Oxy. LXX; SB XXVI
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
- * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina
+ * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina; O.Cret.Chers.
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
  * 2010: CPR ΧΧΧ; P.Dime; P.Eirene; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
@@ -3487,7 +3487,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2004: P.Horak; P.Paramone; O.BawitIFAO; SB Kopt. II
  * 2006: SB Kopt. III
  * 2007: P.Kellis VI
- * 2008: P.BawitClackson; O.Cret.Chers.
+ * 2008: P.BawitClackson
  * 2009: P.Clackson; O.EdfouIFAO
  * 2010: O.Frangé
  * 2011: CPR XXXI
