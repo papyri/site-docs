@@ -1862,7 +1862,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * IV, ed. A. Bülow-Jacobsen. Cairo 2009. (Institut Français d’Archéologie Orientale, Documents de Fouilles 47). Nos. 632—896.
 
 ### O.Cret.Chers.
-= _Greek Ostraka from Chersonesos. Ostraca Cretica Chersonesi_, ed. N. Litinas. Vienna 2009. (Tyche supplement 6). Nos. 1—90.
+= _Greek Ostraka from Chersonesos. Ostraca Cretica Chersonesi_, ed. N. Litinas. Vienna 2008. (Tyche supplement 6). Nos. 1—90.
 
 ### O.Crum
 = _Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others_, ed. W.E. Crum. London 1902. Nos. 1—525, Add. 1-62. Translations and commentary on the texts arranged by type precede the Coptic texts themselves.
@@ -3487,7 +3487,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2004: P.Horak; P.Paramone; O.BawitIFAO; SB Kopt. II
  * 2006: SB Kopt. III
  * 2007: P.Kellis VI
- * 2008: P.BawitClackson
+ * 2008: P.BawitClackson; O.Cret.Chers.
  * 2009: P.Clackson; O.EdfouIFAO
  * 2010: O.Frangé
  * 2011: CPR XXXI
