@@ -1219,7 +1219,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XVII, Nos. 2065—2156, ed. A.S. Hunt. 1927. (20) {ddb:p.oxy;17}
  * XVIII, Nos. 2157—2207, ed. E. Lobel, C.H. Roberts and E.P. Wegener. 1941. (26) {ddb:p.oxy;18}
  * XIX, Nos. 2208—2244, ed. E. Lobel, E.P. Wegener, C.H. Roberts and H.I. Bell. 1948. (27) {ddb:p.oxy;19}
- * XX, Nos. 2245—2287, ed. E. Lobel, E.P. Wegener, C.H. Roberts. 1952. (29)
+ * XX, Nos. 2245—2287, ed. E. Lobel, E.P. Wegener, C.H. Roberts. 1952. (29) {ddb:p.oxy;20}
  * XXI, Nos. 2288—2308, ed. E. Lobel. 1951. (30)
  * XXII, Nos. 2309—2353, ed. E. Lobel and C.H. Roberts. 1954. (31)
  * XXIII, Nos. 2354—2382, ed. E. Lobel. 1956. (34)
