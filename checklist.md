@@ -1228,8 +1228,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XXVI, Nos. 2438—2451, ed. E. Lobel. 1961. (38) {ddb:p.oxy;26}
  * XXVII, Nos. 2452—2480, ed. E.G. Turner, J.R. Rea, L. Koenen, and J.M.F. Pomar. 1962. (39) {ddb:p.oxy;27}
  * XXVIII, Nos. 2481—2505, ed. E. Lobel. 1962. (40) {ddb:p.oxy;28}
- * XXIX, No. 2506, ed. D. Page. 1963. (41)
- * XXX, Nos. 2507—2530, ed. E. Lobel. 1964. (44)
+ * XXIX, No. 2506, ed. D. Page. 1963. (41) {ddb:p.oxy;29}
+ * XXX, Nos. 2507—2530, ed. E. Lobel. 1964. (44) {ddb:p.oxy;30}
  * XXXI, Nos. 2531—2616, ed. J.W.B. Barns, P.J. Parsons, J.R. Rea and E.G. Turner. 1966. (45)
  * XXXII, Nos. 2617—2653, ed. E. Lobel. 1967. (46)
  * XXXIII, Nos. 2654—2682, ed. P.J. Parsons, J.R. Rea and E.G. Turner. 1968. (48)
