@@ -93,7 +93,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}
  
 ### P.Abinn.
-= _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also SB X 10755 {ddb:sb;10;10755}, XIV 11380 and XX 14954. {ddb:p.abinn}
+= _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also [SB X 10755]({ddb:sb;10;10755}), XIV 11380 and XX 14954. {ddb:p.abinn}
 
 ### P.Achm.
 = _Les Papyrus grecs d'Achmîm à la Bibliothèque Nationale de Paris_, ed. P. Collart. Cairo 1930. (BIFAO 31 [1930] 33—111). Nos. 1—9. [MF 1.73] {ddb:p.abinn}
