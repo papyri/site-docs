@@ -2251,7 +2251,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Oroscopi greci. Documentazione papirologica_, by D. Baccani. Messina 1992. (Ric.Pap. I). Nos. 1—18.
 
 ### Pap.Agon.
-= _Zehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = [BGU IV 1074](http://papyri.info/ddbdp/bgu;4;1074); 2 = [BGU IV 1073](http://papyri.info/ddbdp/bgu;4;1073); 3 = P.Oxy. XXVII 2476; 4 = P.Oxy.Hels. 25; 5 = P.Oxy. XXXI 2610; 6 = P.Lond. III 1178; 7 = Stud.Pal. V 121; 8 = P.Oslo III 85; 9 = P.Coll.Youtie II 69; 10 = P.Oxy. XLIII 3116. [FS]
+= _Zehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = [BGU IV 1074](http://papyri.info/ddbdp/bgu;4;1074); 2 = [BGU IV 1073](http://papyri.info/ddbdp/bgu;4;1073); 3 = [P.Oxy. XXVII 2476](http://papyri.info/ddbdp/p.oxy;27;2476); 4 = P.Oxy.Hels. 25; 5 = [P.Oxy. XXXI 2610](http://papyri.info/ddbdp/p.oxy;31;2610); 6 = P.Lond. III 1178; 7 = Stud.Pal. V 121; 8 = P.Oslo III 85; 9 = P.Coll.Youtie II 69; 10 = [P.Oxy. XLIII 3116](http://papyri.info/ddbdp/p.oxy;43;3116). [FS]
 
 ### Pap.Arbeit.
 = "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = CPR IV 156; 9 = CPR IV 157; 20 = CPR IV 162; and 25 = CPR IV 163).
