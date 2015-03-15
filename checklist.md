@@ -2254,7 +2254,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Zehn agonistische Papyri_, ed. P. Frisch. Opladen 1986. (Pap.Colon. XIII). Reeditions of ten papyri: 1 = [BGU IV 1074](http://papyri.info/ddbdp/bgu;4;1074); 2 = [BGU IV 1073](http://papyri.info/ddbdp/bgu;4;1073); 3 = [P.Oxy. XXVII 2476](http://papyri.info/ddbdp/p.oxy;27;2476); 4 = [P.Oxy.Hels. 25](http://papyri.info/ddbdp/p.oxy.hels;;25); 5 = [P.Oxy. XXXI 2610](http://papyri.info/ddbdp/p.oxy;31;2610); 6 = [P.Lond. III 1178](http://papyri.info/ddbdp/p.lond;3;1178pg214-9) 7 = [Stud.Pal. V 121](http://papyri.info/ddbdp/stud.pal;5;121); 8 = [P.Oslo III 85](http://papyri.info/ddbdp/p.oslo;3;85); 9 = [P.Coll.Youtie II 69](http://papyri.info/ddbdp/p.coll.youtie;2;69); 10 = [P.Oxy. XLIII 3116](http://papyri.info/ddbdp/p.oxy;43;3116). [FS]
 
 ### Pap.Arbeit.
-= "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = CPR IV 156; 9 = CPR IV 157; 20 = CPR IV 162; and 25 = CPR IV 163).
+= "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = [CPR IV 156](http://papyri.info/ddbdp/cpr;4;156); 9 = [CPR IV 157](http://papyri.info/ddbdp/cpr;4;157); 20 = [CPR IV 162](http://papyri.info/hgv/82291); and 25 = [CPR IV 163](http://papyri.info/hgv/82292)).
 
 ### Pap.Bürgsch.Copt.
 = "Die koptischen Bürgschaftsurkunden," by W.C. Till. Bull.Soc.Arch.Copt. 14 (1958) 165—226. Translations of 90 guarantees and sureties (nos. 3 and 58 = CPR IV 102 and 84 resp.).
