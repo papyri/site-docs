@@ -1236,7 +1236,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XXXIV, Nos. 2683—2732, ed. L. Ingrams, P. Kingston, P.J. Parsons and J.R. Rea. 1968. (49) {ddb:p.oxy;34}
  * XXXV, Nos. 2733—2744, ed. E. Lobel. 1968. (50) {ddb:p.oxy;35}
  * XXXVI, Nos. 2745—2800, ed. R.A. Coles, D. Foraboschi, A.H. Soliman el-Mosallamy, J.R. Rea, U. Schlag and others. 1970. (51) {ddb:p.oxy;36}
- * XXXVII, Nos. 2801—2823, ed. E. Lobel. 1971. (53)
+ * XXXVII, Nos. 2801—2823, ed. E. Lobel. 1971. (53) {ddb:p.oxy;37}
  * XXXVIII, Nos. 2824—2877, ed. G.M. Browne, J.D. Thomas, E.G. Turner, M.E. Weinstein and others. 1971. (54)
  * XXXIX, Nos. 2878—2891, ed. E. Lobel. 1972. (55)
  * XL, Nos. 2892—2942, ed. J.R. Rea. 1972. (56)
