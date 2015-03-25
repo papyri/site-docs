@@ -1243,7 +1243,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XLI, Nos. 2943—2998, ed. G.M. Browne, R.A. Coles, J.R. Rea, J.C. Shelton, E.G. Turner and others. 1972. (57) {ddb:p.oxy;41}
  * XLII, Nos. 2999—3087, ed. P.J. Parsons. 1974. (58) {ddb:p.oxy;42}
  * XLIII, Nos. 3088—3150, ed. J.R. Rea and others. 1975. (60) {ddb:p.oxy;43}
- * XLIV, Nos. 3151—3208, ed. A.K. Bowman, M.W. Haslam, J.C. Shelton and J.D. Thomas. 1976. (62)
+ * XLIV, Nos. 3151—3208, ed. A.K. Bowman, M.W. Haslam, J.C. Shelton and J.D. Thomas. 1976. (62) {ddb:p.oxy;44}
  * XLV, Nos. 3209—3266, ed. A.K. Bowman, M.W. Haslam, S.A. Stephens, M.L. West and others. 1977. (63)
  * XLVI, Nos. 3267—3315, ed. J.R. Rea. 1978. (65)
  * XLVII, Nos. 3316—3367, ed. R.A. Coles and M.W. Haslam, with contributions from 8 others. 1980. (66)
