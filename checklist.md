@@ -387,7 +387,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.Cair.Monuments (see O.Cair.Monuments).
 
 ### P.Cair.Preis.
-= _Griechische Urkunden des Aegyptischen Museums zu Kairo_, ed. F. Preisigke. Strassburg 1911. (Schriften der Wissenschaftlichen Gesellschaft zu Strassburg 8). Nos. 1—48. [MF 2.68] {ddb:p.cair.preis}
+= [_Griechische Urkunden des Aegyptischen Museums zu Kairo_](https://archive.org/details/griechischeurkun00preiuoft), ed. F. Preisigke. Strassburg 1911. (Schriften der Wissenschaftlichen Gesellschaft zu Strassburg 8). Nos. 1—48. [MF 2.68] {ddb:p.cair.preis}
 
  * 2nd ed., ed. R. P. Salomons. Bruxelles 2014. (Pap.Brux. 35). Nos. 1-48.
 
