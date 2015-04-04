@@ -1248,7 +1248,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XLVI, Nos. 3267—3315, ed. J.R. Rea. 1978. (65) {ddb:p.oxy;46}
  * XLVII, Nos. 3316—3367, ed. R.A. Coles and M.W. Haslam, with contributions from 8 others. 1980. (66) {ddb:p.oxy;47}
  * XLVIII, Nos. 3368—3430, ed. M. Chambers, W.E.H. Cockle, J.C. Shelton and E.G. Turner. 1981. (67) {ddb:p.oxy;48}
- * XLIX, Nos. 3431—3521, ed. A. Bülow-Jacobsen and J.E.G. Whitehorne. 1982. (69)
+ * XLIX, Nos. 3431—3521, ed. A. Bülow-Jacobsen and J.E.G. Whitehorne. 1982. (69) {ddb:p.oxy;49}
  * L, Nos. 3522—3600, ed. various editors. 1983. (70)
  * LI, Nos. 3601—3646, ed. J.R. Rea. 1984. (71)
  * LII, Nos. 3647—3694, ed. H.M. Cockle. 1984. (72)
