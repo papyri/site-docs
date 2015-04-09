@@ -1252,7 +1252,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * L, Nos. 3522—3600, ed. various editors. 1983. (70) {ddb:p.oxy;50}
  * LI, Nos. 3601—3646, ed. J.R. Rea. 1984. (71) {ddb:p.oxy;51}
  * LII, Nos. 3647—3694, ed. H.M. Cockle. 1984. (72) {ddb:p.oxy;52}
- * LIII, Nos. 3695—3721, ed. M.W. Haslam. 1986. (73)
+ * LIII, Nos. 3695—3721, ed. M.W. Haslam. 1986. (73) {ddb:p.oxy;53}
  * LIV, Nos. 3722—3776, ed. R.A. Coles, H. Maehler, P.J. Parsons, with contributions from J.M. Bremer and R.J.D. Carden. 1987. (74)
  * LV, Nos. 3777—3821, ed. J.R. Rea. 1988. (75)
  * LVI, Nos. 3822—3875, ed. M.G. Sirivianou, with contributions by H.-C. Gunther, P.J. Parsons, P. Schubert and others. 1989. (76)
