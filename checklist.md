@@ -3420,10 +3420,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 1998: P.Bub.II; P.Col IX, XI;P.Eirene I; P.Eleph.Wagner; P.Hamb. IV; P.Louvre I; P.Oxy. LXV; (SB XXI.1); O.Eleph.Wagner
  * 1999: P.Giss.Apoll.; P.Oxy. LXVI; O.Douch IV
  * 2000: BGU XVIII.1; P.Benaki; P.Bingen; (P. Euphrates) Part III; P.Lond. 1177 (reed.); P.Mon.Apollo; O.Berenike; O.Claud. III
- * 2001: BGU XVII; P.Dion.Herm.; P.Harrauer; P.Heid. VIII; P.Köln IX;P.Oxy. LXVII; P.Polit.Jud.; P.Thomas; P.Yale III; (SB XVIII+) XIX; (SB XXII); O.Douch V.
- * 2002: P.Berl.Salmen.; P.Erl.Diosp.; P.Dryton; P.Gen. I (2nd ed.); P.Lips. II; P.Petra I; P.Yadin II, (SB XX+XXI, 1+) XXI,2; (SB XXII+) XXIII;
+ * 2001: BGU XVII; CPR XXII; P.Dion.Herm.; P.Harrauer; P.Heid. VIII; P.Köln IX;P.Oxy. LXVII; P.Polit.Jud.; P.Thomas; P.Yale III; (SB XVIII+) XIX; (SB XXII); O.Douch V.
+ * 2002: CPR XXIII, XXIV; P.Berl.Salmen.; P.Erl.Diosp.; P.Dryton; P.Gen. I (2nd ed.); P.Lips. II; P.Petra I; P.Yadin II, (SB XX+XXI, 1+) XXI,2; (SB XXII+) XXIII;
  * 2003: P.Diosk.; P.Hombert II; P.Köln X; P.Oxy. LXVIII; (SB XXIV); T.Vindol. III
- * 2004: P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis
+ * 2004: CPR XIX; P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis
  * 2005: BGU XIX; P.Louvre II; PSI Com.; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P.Heid. IX; P.Oxy. LXX; SB XXVI
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
