@@ -1,3 +1,6 @@
+#<span style="font-family:sans-serif;font-size:36px;margin:.5em">Notice</span>
+The Google-based login method used for the Papyrological Editor will change this week. Instead of a blue "Google" button on the signin page, you will see a red "G+" button. If you log in using Google, we will do our best to match your account to the new login method, but this may sometimes fail. If it does, you will have the opportunity to send us your new login info so that we can manually link your account to the new method. We apologize for any inconvenience. \[ [more info](/docs/login_change) ]
+
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The **Papyrological Navigator** (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the **Papyrological Editor** (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
