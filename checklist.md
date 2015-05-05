@@ -382,7 +382,8 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * III, 1916. (Cat. 73). Nos. 67279—67359. [MF 1.40; rp. OZ/CG] {ddb:p.cair.masp;3}
 
 ### P.Cair.Mich.
-= _A Tax List from Karanis (P.Cair.Mich. 359). Part 1, The Text_, ed. H. Riad and J.C. Shelton; Part 2, Commentary and Indexes, ed. J. C. Shelton. Bonn 1976—1977. (Pap.Texte Abh. XVII—XVIII). [RH] {ddb:p.cair.mich}
+ * I, _A Tax List from Karanis (P.Cair.Mich. 359). Part 1, The Text_, ed. H. Riad and J.C. Shelton; Part 2, Commentary and Indexes, ed. J. C. Shelton. Bonn 1976—1977. (Pap.Texte Abh. XVII—XVIII). [RH] {ddb:p.cair.mich}
+ * II, _Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)_, ed. M.G. El-Maghrabi and C. Römer. Berlin 2015. (ArchBeih. 35). Nos. 1-24.
 
 ### P.Cair.Monuments (see O.Cair.Monuments).
 
