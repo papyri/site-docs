@@ -3395,9 +3395,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 1972: P.Oxy. XL; P.Oxy. XLI; P.Vind.Worp
  * 1973: P.Ashm. I; P.Berl.Brash.; P.Freer; P.Panop. (I+II+)III; P.Stras. V; SB (X+)XI
  * 1974: BGU XII; P.Brux. I; P.Genova I; P.Lond. VII; P.Mil.Congr.XIV; P.Oxy. XLII
- * 1975: P.Berl.Bork.; (P.Cair.Mich. pt.I); P.Giss.Univ. (I+III+VI) Indexes; (P.IFAO III); P.Mich. XII; P.Oxy. XLIII; (P.Stras. VI); O.Mich. IV; Ch.L.A. V, VI, VII
+ * 1975: P.Berl.Bork.; (P.Cair.Mich. I pt.I); P.Giss.Univ. (I+III+VI) Indexes; (P.IFAO III); P.Mich. XII; P.Oxy. XLIII; (P.Stras. VI); O.Mich. IV; Ch.L.A. V, VI, VII
  * 1976: BGU XIII; CPR V; P.Coll.Youtie I+II; P.Köln I; P.Laur. I; P.Oxy. XLIV; P.Tebt. IV; P.Theon.; P.Vind.Sal.; P.Vind.Tand.;O.Amst.; O.Florida; O.Medin.Madi; O.Ont.Mus. II; C.Étiq.Mom.; Ch.L.A. VIII
- * 1977: P.Berl.Leihg. II; P.Cair.Mich. (I+)II; P.Laur. II; P.Mich. XIII; P.Mil.Vogl. VI; P.Oxy. XLV; P.Recueil; PSI Corr. I; P.Tebt.Tait;P.Wisc. II; (SB XII); O.Brux. 2nd ed.; Ch.L.A. IX
+ * 1977: P.Berl.Leihg. II; P.Cair.Mich. I pt.(I+)II; P.Laur. II; P.Mich. XIII; P.Mil.Vogl. VI; P.Oxy. XLV; P.Recueil; PSI Corr. I; P.Tebt.Tait;P.Wisc. II; (SB XII); O.Brux. 2nd ed.; Ch.L.A. IX
  * 1978: (CPR VI,1); P.Batav.; P.Herm.Landl.; P.Hombert I; P.Köln II; P.Oxy. XLVI; P.Sakaon; Ch.L.A. XII
  * 1979: CPR VII; P.Col. VII; P.Congr.XV; P.Laur. III; P.Oxy.Hels.; P.Soter.; (P.Stras. VII); SB (XII+)XIII; O.Lund; O.Tebt.Pad.; Ch.L.A. X, XI
  * 1980: P.Amst. I; BGU XIV; P.Charite; P.Genova II; P.Köln III; P.Mich. XIV; P.Oxy. XLVII; P.Panop. (repr.); (P.Stras. VIII 701–720);P.Vat.Aphrod.; P.Wash.Univ. I; P.Zen.Pestm.; O.Leid.
@@ -3434,7 +3434,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2011: P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Comm. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Comm. III; P.Tarich.; SB XXVIII
- * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXIX; P.Stras. X; P.Turku
+ * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Stras. X; P.Turku
+ * 2015: P.Cair.Mich. II
+
 
 ### Coptic
  * 1876: P.RevilloutCopt.
