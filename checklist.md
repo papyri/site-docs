@@ -1262,7 +1262,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LIX, Nos. 3963—4008, ed. E.W. Handley, H.G. Ioannidou, P.J. Parsons and J.E.G. Whitehorne. 1992. (79) {ddb:p.oxy;59}
  * LX, Nos. 4009—4092, ed. R.A. Coles, M.W. Haslam, P.J. Parsons and others. 1994. (80) {ddb:p.oxy;60}
  * LXI, Nos. 4093—4132, ed. T. Gagos, M.W. Haslam and N. Lewis. 1995. (81). There is a list of astronomical texts, nos. 4133—4300, now published in P.Oxy.Astr. {ddb:p.oxy;61}
- * LXII, Nos. 4301—4351, ed. J.C. Shelton and J.E.G. Whitehorne. 1995. (82)
+ * LXII, Nos. 4301—4351, ed. J.C. Shelton and J.E.G. Whitehorne. 1995. (82) {ddb:p.oxy;62}
  * LXIII, Nos. 4352—4400, ed. J. Rea. 1996. (83)
  * LXIV, Nos. 4401—4441, ed. E.W. Handley and U. Wartenberg. 1997. (84)
  * LXV, Nos. 4442—4493, ed. M.W. Haslam, A. Jones, F. Maltomini, M.L. West, W.E.H. Cockle, R.A. Coles, D. Montserrat and J.D. Thomas with contributions by 11 others. 1998. (85)
