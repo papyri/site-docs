@@ -85,9 +85,11 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXVI, Arabische juristische Urkunden aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed M. E. Thung. Munich-Leipzig 2006. Nos. 1-45. [K. G. Saur]
  * XXVII, (Gott) Schütze das Fleisch des Pharao: Untersuchungen zum magischen Handbuch pWien 8426, ed. N. Flessa. Edition and study of a Hieratic papyrus. [K. G. Saur]
  * XXVIII, Greek Documentary Papyri from Ptolemaic Egypt, ed. C. A. La'da, Berlin 2008. Nos. 1—14. {ddb:cpr;28}
- * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 200
+ * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 2009. 
  * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG] {ddb:cpr;30}
  * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG] {ddb:cpr;31}
+ * XXXII, Arabische Briefe aus dem 10.-16. Jahrhundert, ed. W. Diem. Berlin, 2011. {ddb:cpr;32}
+ * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015. {ddb:cpr;32}
 
 ### P.Aberd.
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}
