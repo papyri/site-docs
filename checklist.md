@@ -2282,9 +2282,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * III, Literary Papyri: Poetry, ed. D.L. Page. 1942. Nos. 1—147.
 
 ### Short Texts
-= _Demotic and Greek Mummy Labels and other short texts gathered from many publications_, ed. S.P. Vleeming. (Stud. Demotica 9). 
+= _Demotic and Greek Mummy Labels and other short texts gathered from many publications_, ed. S.P. Vleeming. (Stud.Demotica 9). 
 
- * II. Leuven - Paris - Walpole, Ma. 2011. Nos. 278—1200.
+ * II. Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.
 
 ### Shorthand Manuals
 = _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
@@ -3191,6 +3191,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * V, Some Coins of Artaxerxes and other Short Texts in the Demotic Script Found on Various Objects and Gathered from Many Publications, ed. S.P. Vleeming. 2001.
  * VI, see P.Zauzich.
  * VIII, see O.Taxes.
+ * IX, see Short Texts II
 
 ### Stud.Heid.
  = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
