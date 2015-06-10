@@ -1650,7 +1650,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, Paléographie et Planches
 
 ### P.Turku
-= _Papyri Turkuenses: die Papyri im Besitz der Universitätsbibliothek Turku_, ed. H. Koskenniemi, E. Koskenniemi, J. Koskenniemi. Helsinki 2014. (Commentationes humanarum litterarum 131). Nos. 1—99. 
+= _Papyri Turkuenses: die Papyri im Besitz der Universitätsbibliothek Turku_, ed. H. Koskenniemi, E. Koskenniemi, J. Koskenniemi. Helsinki 2014. (Commentationes humanarum litterarum 131). Nos. 1—99. 
 
 ### P.Turner
 = _Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday_, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
