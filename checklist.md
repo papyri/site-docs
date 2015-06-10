@@ -2284,7 +2284,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### Short Texts
 = _Demotic and Greek Mummy Labels and other short texts gathered from many publications_, ed. S.P. Vleeming. (Stud.Demotica 9). 
 
- * II. Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.
+ * II, Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.
 
 ### Shorthand Manuals
 = _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
