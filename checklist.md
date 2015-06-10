@@ -2281,6 +2281,11 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * II, Official Documents, ed. A.S. Hunt and C.C. Edgar. 1934. Nos. 201—434.
  * III, Literary Papyri: Poetry, ed. D.L. Page. 1942. Nos. 1—147.
 
+### Short Texts
+= _Demotic and Greek Mummy Labels and other short texts gathered from many publications_, ed. S.P. Vleeming. (Stud. Demotica 9). 
+
+ * II. Leuven - Paris - Walpole, Ma. 2011. Nos. 278—1200.
+
 ### Shorthand Manuals
 = _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
 
