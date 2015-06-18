@@ -2096,6 +2096,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### T.Alb.
 = _Tablettes Albertini, Actes privés de l’époque Vandale_, ed. C. Courtois, L. Leschi, C. Perrat and C. Saumagne. Paris 1952. Texts I—XXXIV; separate portfolio of plates.
 
+### T.BM Arlt
+= _Deine Seele möge leben für immer und ewig. Die demotischen Mumienschilder im British Museum_, ed. C. Arlt. Leuven 2011. (Stud.Demotica 10).
+
 ### T.Dacia
 = _Tablitele Cerate Dacice_, ed. I. I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
 
@@ -3191,7 +3194,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * V, Some Coins of Artaxerxes and other Short Texts in the Demotic Script Found on Various Objects and Gathered from Many Publications, ed. S.P. Vleeming. 2001.
  * VI, see P.Zauzich.
  * VIII, see O.Taxes.
- * IX, see Short Texts II
+ * IX, see Short Texts II.
+ * X, see T.BM Arlt.
 
 ### Stud.Heid.
  = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
