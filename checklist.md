@@ -1272,7 +1272,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXVII, Nos. 4545—4629, ed. R. A. Coles, N. Gonis, A. Nodar, D. Obbink, R. Stewart with contributions by 45 others. 2001. (87) There is a list of Homeric papyri, nos. 4630—4638, now published as Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. Florence 2002. (Studi e Testi di Papirologia, N. S. 1). {ddb:p.oxy;67}
  * LXVIII, Nos. 4639—4704, ed. N. Gonis, D. Obbink and P. J. Parsons with contributions by 15 others. 2003. (88) {ddb:p.oxy;68}
  * LXIX, Nos. 4705-4758, ed. N. Gonis, D. Obbink, and others. 2005. (89) {ddb:p.oxy;69}
- * LXX, Nos. 4759-4802, ed. N. Gonis, J. D. Thomas, and R. Hatzilambrou. 2006. (90)
+ * LXX, Nos. 4759-4802, ed. N. Gonis, J. D. Thomas, and R. Hatzilambrou. 2006. (90) {ddb:p.oxy;70}
  * LXXI, Nos. 4803-4843, ed. R. Hatzilambrou, P.J. Parsons, J. Chapa, and others. 2007. (91)
  * LXXII, Nos. 4844-4930, ed. N. Gonis, D. Colomo, and others. 2008. (92)
  * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94)
