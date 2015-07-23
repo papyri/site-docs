@@ -15,6 +15,7 @@
  * [Medieval Nubia](http://www.medievalnubia.info): Site dedicated to collaborative publication of resources for the study of Medieval Nubia.
  * [Trismegistos](http://www.trismegistos.org): An interdisciplinary portal of papyrological and epigraphical resources associated with Egypt and the Nile valley between ca 800 BC and AD 800. 
  * [Papy-L](http://adam.igl.ku.dk/~bulow/papy-l.html): Email discussion list dedicated to the exchange of information of interest to papyrologists and scholars of Greco-Roman Egypt.
+ * [TYCHE](http://tyche-journal.at/tyche/index.php/tyche): A peer-reviewed journal based in the Department of Ancient History, Papyrology and Epigraphy at the University of Vienna. Special emphasis on the edition and interpretation of epigraphic and papyrological sources.
  * [WörterListen](http://www.iaw.uni-heidelberg.de/hps/pap/WL/WL.html) (WL): Index (PDF) of Greek and Latin terms from documents published since 1996.
 
 **Organizations**
