@@ -1,6 +1,3 @@
-#<span style="font-family:sans-serif;font-size:36px;margin:.5em">Downtime Notice</span>
-The Papyrological Editor will be offline for some time today (Thursday July 30th) for maintenance and upgrades. Thanks for your patience.
-
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The **Papyrological Navigator** (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the **Papyrological Editor** (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
