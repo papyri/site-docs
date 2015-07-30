@@ -91,8 +91,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXXII, Arabische Briefe aus dem 10.-16. Jahrhundert, ed. W. Diem. Berlin, 2011.
  * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015.
 
-### [P.Aberd.](http://papyri.info/biblio/3909)
-= _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}
+### P.Aberd.
+= _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [biblio record](http://papyri.info/biblio/3909)
  
 ### P.Abinn.
 = _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also [SB X 10755](http://papyri.info/ddbdp/sb;10;10755), [SB XIV 11380](http://papyri.info/ddbdp/sb;14;11380) and [SB XX 14954](http://papyri.info/ddbdp/sb;20;14954). {ddb:p.abinn}
