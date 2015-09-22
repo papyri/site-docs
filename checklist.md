@@ -664,7 +664,8 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * I, ed. M. Amelotti and L. Zingale Migliardi. Milan 1974. (Univ. di Genova, Fondazione Nobile Agostino Poggi 10). Nos. 1—50. [AG] {ddb:p.genova;1}
  * II, ed. L. Migliardi Zingale. Florence 1980. (Pap.Flor. VI). Nos. 51—85 papyri; nos. 86—90 ostraca. [LGF] {ddb:p.genova;2}
  * III, ed. L. Migliardi Zingale. Florence 1991. (Pap.Flor. XX). Nos. 91—130. [LGF] {ddb:p.genova;3}
-
+ * V, ed. S. Perrone. Rome 2015. Nos. 186-225.
+ 
 ### P.Giss.
 = _Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen_, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910); Pt. II, nos. 36—57 (1910); Pt. III, nos. 58—126 (1912). [Rp. CG] {ddb:p.giss}
 
