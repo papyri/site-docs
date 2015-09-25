@@ -200,7 +200,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Textes grecs, démotiques et bilingues_, ed. E. Boswinkel and P.W. Pestman. Leiden 1978. (Pap.Lugd.Bat. XIX). Nos. 1—2, 26—28, 42—48 Demotic; 3, 5, 25, 29—32, 40—41 bilingual (Greek and Demotic); 4, 6—24, 33—39 Greek. Nos. 1—24 are papyri, 25—28 ostraca, 29—39 linen, 40—48 mummy labels. [EJB] {ddb:p.batav}
 
 ### P.Bawit Clackson
-= _It is Our Father Who Writes: Orders from the Monastery of Apollo at Bawit_, ed. S. J. Clackson. Cincinnatti 2008 (Am.Stud.Pap. XLIII). Nos. 1—91.
+= _It is Our Father Who Writes: Orders from the Monastery of Apollo at Bawit_, ed. S. J. Clackson. Cincinnatti 2008 (Am.Stud.Pap. XLIII). Nos. 1—91. [online](http://hdl.handle.net/2333.1/gf1vhmd4)
 
 ### P.Beatty
 = _Chester Beatty Biblical Papyri_, ed. F.G. Kenyon. London. [I—VIII, MF 1.84]
@@ -421,7 +421,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
 ### P.CattleDocs.
 = _Saite and Persian Demotic Cattle Documents_, ed. E. Cruz-Uribe. Chico 1985. (Am.Stud.Pap. XXVI). Nos. 1—18.
-Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublished.
+Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublished. [online](http://hdl.handle.net/2333.1/hdr7stn3)
 
 ### P.Charite
 = _Das Aurelia Charite Archiv_, ed. K.A. Worp. Zutphen 1981. (Stud.Amst. XII). Nos. 1—41. [TPC] {ddb:p.charite}
@@ -469,10 +469,10 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * V, Tax Documents from Theadelphia, ed. J. Day and C.W. Keyes. New York 1956. No. 1 verso. [WHA; rp. CG] {ddb:p.col;5}
  * VI, Apokrimata: Decisions of Septimius Severus on Legal Matters, ed. W.L. Westermann and A.A. Schiller. New York 1954. No. 123. Not actually part of Columbia Papyri, Greek Series, but later treated as Vol. VI. Improved text ed. H.C. Youtie and A.A. Schiller in Cd'E 30 (1955) 327—345, reprinted as SB VI 9526. [Rp. CG] {ddb:p.col;6}
  * VII, Fourth Century Documents from Karanis, ed. R.S. Bagnall and N. Lewis. Missoula 1979. (Am.Stud.Pap. XX). Nos. 124—191. [Oxbow] {ddb:p.col;7}
- * VIII, Columbia Papyri VIII, ed. R.S. Bagnall, T.T. Renner and K.A. Worp. Atlanta 1990. (Am.Stud.Pap. XXVIII). Nos. 192—246. [Oxbow] {ddb:p.col;8}
- * IX, Columbia Papyri IX, The Vestis Militaris Codex, ed. J. Sheridan. Atlanta 1998. (Am.Stud.Pap. XXXIX). Nos. 247—248. [Oxbow] {ddb:p.col;9}
+ * VIII, Columbia Papyri VIII, ed. R.S. Bagnall, T.T. Renner and K.A. Worp. Atlanta 1990. (Am.Stud.Pap. XXVIII). Nos. 192—246. [Oxbow] {ddb:p.col;8} [online](http://hdl.handle.net/2333.1/7wm37smm)
+ * IX, Columbia Papyri IX, The Vestis Militaris Codex, ed. J. Sheridan. Atlanta 1998. (Am.Stud.Pap. XXXIX). Nos. 247—248. [Oxbow] {ddb:p.col;9} [online](http://hdl.handle.net/2333.1/m63xsmx8)
  * X, Columbia Papyri X, ed. R.S. Bagnall and D.D. Obbink. Atlanta 1996. (Am.Stud.Pap. XXXIV). Nos. 249—292. [Oxbow] {ddb:p.col;10}
- * XI, Columbia Papyri XI, ed. T.M. Teeter. Atlanta 1998. (Am.Stud.Pap. XXXVIII). Nos. 293—303. [Oxbow] {ddb:p.col;11}
+ * XI, Columbia Papyri XI, ed. T.M. Teeter. Atlanta 1998. (Am.Stud.Pap. XXXVIII). Nos. 293—303. [Oxbow] {ddb:p.col;11} [online](http://hdl.handle.net/2333.1/qz612ndk)
 
 ### P.Coll.Youtie
 = _Collectanea Papyrologica: Texts Published in Honor of H.C. Youtie_, ed. by numerous contributors under the direction of A.E. Hanson. Bonn 1976. (Pap.Texte Abh. XIX—XX). I, 1—65; II, 66—121; no. 96 is a wooden tablet, nos. 97—120 mummy labels, nos. 121—126 ostraca. [RH] {ddb:p.coll.youtie}
@@ -1067,13 +1067,13 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * VIII, Papyri and Ostraca from Karanis, Second Series, ed. H.C. Youtie and J.G. Winter. Ann Arbor 1951. (Univ. of Mich. Studies, Humanistic Series 50). Nos. 464—521; ostraca nos. 972—1111. (see O.Mich.) [MF 2.18] {ddb:p.mich;8}
  * IX, Papyri from Karanis, Third Series, ed. E.M. Husselman. Cleveland 1971. (American Philological Association, Philological Monograph 29). Nos. 522—576. [Oxbow] {ddb:p.mich;9}
  * X, Documentary Papyri from the Michigan Collection, ed. G.M. Browne. Toronto 1970. (Am.Stud.Pap. VI). Nos. 577—602. [Oxbow] {ddb:p.mich;10}
- * XI, Papyri from the Michigan Collection, ed. J.C. Shelton. Toronto 1971. (Am.Stud.Pap. IX). Nos. 603—625. [Oxbow] {ddb:p.mich;11}
+ * XI, Papyri from the Michigan Collection, ed. J.C. Shelton. Toronto 1971. (Am.Stud.Pap. IX). Nos. 603—625. [Oxbow] {ddb:p.mich;11} [online](http://hdl.handle.net/2333.1/1c59zzsq)
  * XII, Michigan Papyri XII, ed. G.M. Browne. Toronto 1975. (Am.Stud.Pap. XIV). Nos. 626—658. [Oxbow] {ddb:p.mich;12}
  * XIII, The Aphrodite Papyri in the University of Michigan Papyrus Collection, ed. P.J. Sijpesteijn. Zutphen 1977. (Stud.Amst. X). Nos. 659—674. [TPC] {ddb:p.mich;13}
  * XIV, Michigan Papyri XIV, ed. V.P. McCarren. Chico 1980. (Am.Stud.Pap. XXII). Nos. 675—684. [Oxbow] {ddb:p.mich;14}
  * XV, Michigan Papyri XV, ed. P.J. Sijpesteijn. Zutphen 1982. (Stud.Amst. XIX). Nos. 685—756. [TPC] {ddb:p.mich;15}
  * XVI, Michigan Papyri XVI, A Greek Love Charm from Egypt (P.Mich. 757), ed. D.G. Martinez. Atlanta 1991. (Am.Stud.Pap. XXX). [Oxbow]
- * XVII, P.Michigan XVII: The Michigan Medical Codex (P.Mich. 758 = P.Mich.inv. 21), ed. L.C. Youtie. Atlanta 1996. (Am.Stud.Pap. XXXV). [Oxbow]
+ * XVII, P.Michigan XVII: The Michigan Medical Codex (P.Mich. 758 = P.Mich.inv. 21), ed. L.C. Youtie. Atlanta 1996. (Am.Stud.Pap. XXXV). [Oxbow] [online](http://hdl.handle.net/2333.1/vmcvdr70)
  * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG] {ddb:p.mich;18}
  * XIX, P.Michigan XIX. Baptized for Our Sakes: A Leather Trisagion from Egypt (P.Mich. 799), ed. D.G. Martinez. Stuttgart and Leipzig 1999. (Beiträge zur Altertumskunde 120). No.799. [KGS]
  * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P. J. Sijpesteijn and K. A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826. {ddb:p.mich;20}
@@ -1572,7 +1572,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyrus de la Sorbonne_
 
  * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF]
- * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow]
+ * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. (Am.Stud.Pap. XXXII). No. 69. [Oxbow] [online](http://hdl.handle.net/2333.1/0cfxprkx)
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144.
 
 ### P.Soter.
@@ -2322,7 +2322,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * I, Essays in Honor of C. Bradford Welles, ed. A.E. Samuel. 1966. [Oxbow]
  * II, see P.Yale I.
- * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. (Pap.Flor. XXVIII).
+ * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. (Pap.Flor. XXVIII). [online](http://hdl.handle.net/2333.1/547d809c)
  * IV, The Taxes in Grain in Ptolemaic Egypt: Granary Receipts from Diospolis Magna, 164—88 B.C., by Z.M. Packman. 1968. [Oxbow]
  * V, Euripides Papyri I, Texts from Oxyrhynchus, by B.E. Donovan. 1969. [Oxbow]
  * VI, see P.Mich. X.
@@ -2331,26 +2331,26 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * IX, see P.Mich. XI.
  * X, see O.Ont.Mus. I.
  * XI, The Town Councils of Roman Egypt, by A.K. Bowman. 1971. [o.p.]
- * XII, The Four Greek Hymns of Isidorus and the Cult of Isis, by V.F. Vanderlip. 1972. [Oxbow]
+ * XII, The Four Greek Hymns of Isidorus and the Cult of Isis, by V.F. Vanderlip. 1972. [Oxbow] [online](http://hdl.handle.net/2333.1/wm37pzfs)
  * XIII, Greek Terms for Roman Institutions: A Lexicon and Analysis, by H.J. Mason. 1974. [Oxbow]
  * XIV, see P.Mich. XII.
  * XV, see O.Ont.Mus. II.
  * XVI, Chester Beatty Biblical Papyri IV and V, by A. Pietersma. 1977. [Oxbow]
  * XVII, see P.Wash.Univ. I.
  * XVIII, Imperial Estates in Egypt, by G.M. Parássoglou. 1978. [AMH]
- * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. [AMH]
+ * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. [AMH] [online](http://hdl.handle.net/2333.1/rv15dxzp)
  * XX, see P.Col. VII.
  * XXI, Le Nome Hermopolite: toponymes et sites, by M. Drew-Bear. 1979. [Oxbow]
  * XXII, see P.Mich. XIV.
  * XXIII, see Pap.Congr. XVI (IX Proceedings).
  * XXIV, see P.Yale II.
- * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. [Oxbow]
- * XXVI, see P.CattleDocs.
- * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. [Oxbow]
+ * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. [Oxbow] [online](http://hdl.handle.net/2333.1/n5tb2v4b)
+ * XXVI, see P.CattleDocs. 
+ * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. [Oxbow] [online](http://hdl.handle.net/2333.1/hdr7stn3)
  * XXVIII, see P.Col. VIII.
  * XXIX, Grundlagen des koptischen Satzbaus, zweite Hälfte, by H.J. Polotsky. 1990. [Oxbow]
  * XXX, see P.Mich. XVI.
- * XXXI, Ptocheia or Odysseus in Disguise at Troy (P.Köln 245), by M.G. Parca. 1991. [Oxbow]
+ * XXXI, Ptocheia or Odysseus in Disguise at Troy (P.Köln 245), by M.G. Parca. 1991. [Oxbow] [online](http://hdl.handle.net/2333.1/44j0zs3c)
  * XXXII, see P.Sorb. II.
  * XXXIII, On Government and Law in Roman Egypt. Collected Papers of Naphtali Lewis. 1995. [Oxbow]
  * XXXIV, see P.Col. X.
@@ -2365,7 +2365,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XLIV, see P.Berl.Cohen
  * XLV, Annotations in Greek and Latin Texts from Egypt, by K.McNamee. 2007 [Oxbow]
  * XLVI, see P.Clackson
- * XLVII, In pursuit of invisibility: ritual texts from late Roman Egypt, by Richard L. Phillips. 2009.
+ * XLVII, In pursuit of invisibility: ritual texts from late Roman Egypt, by Richard L. Phillips. 2009. [online](http://hdl.handle.net/2333.1/bnzs7kwq)
  * XLVIII, To mega biblion: book-ends, end-titles, and coronides in papyri with hexametric poetry, by F. Schironi. 2010.
  * XLIX, see P.Mich. XX
  * L, A prosopography of Byzantine Aphrodito, by G.R. Ruffini. 2011. 
