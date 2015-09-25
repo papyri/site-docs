@@ -2346,7 +2346,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXIV, see P.Yale II.
  * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. [Oxbow] [online](http://hdl.handle.net/2333.1/n5tb2v4b)
  * XXVI, see P.CattleDocs. 
- * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. [Oxbow] [online](http://hdl.handle.net/2333.1/hdr7stn3)
+ * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. [Oxbow] [online](http://hdl.handle.net/2333.1/cnp5ht4z)
  * XXVIII, see P.Col. VIII.
  * XXIX, Grundlagen des koptischen Satzbaus, zweite Hälfte, by H.J. Polotsky. 1990. [Oxbow]
  * XXX, see P.Mich. XVI.
