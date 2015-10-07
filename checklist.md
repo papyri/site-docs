@@ -1288,7 +1288,10 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
 
 ### P.Oxy.Census
-= _The Census Register P.Oxy. 984: The Reverse of Pindar's Paeans_, ed. R.S. Bagnall, B.W. Frier and I.C. Rutherford. Brussels 1997. (Pap.Brux. XXIX). [FERE]
+= _An Ancient Christian Hymn with Musical Notation_, ed. Ch. Cosgrove. Tübingen 2011. Reedition of P.Oxy. XV 1786.
+
+### P.Oxy.Cosgrove
+= _The Census Register P.Oxy. 984: The Reverse of Pindar's Paeans_, ed. R.S. Bagnall, B.W. Frier and I.C. Rutherford. Brussels 1997. (Pap.Brux. XXIX).
 
 ### P.Oxy.Descr.
 = "Varia Descripta Oxyrhynchita," ed. D. Montserrat, G. Fantoni, P. Robinson. BASP 31 (1994) 11—80 and plates 1—18. Nos. 1—20, reeditions of papyri published as descripta, P.Oxy. I 159, 164—165, 167, 171, 174, 176—177, 179, 181—182, 186, 192, 201—202, 204—207.
