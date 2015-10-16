@@ -3255,7 +3255,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * 1, Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. 2002.
  * 2, Le calzature nei papiri di eta greco-romana, by S. Russo. 2004.
- * 3, Not published.
+ * 3, Il libro greco dalle origini al Rinascimento, by J. Irigoin, tr. A. Magnani. 2009.
  * 4, Il papiro di Posidippo un anno dopo. Atti del convegno internazionale di studi. Firenze, 13-14 giugno 2002, ed. G. Bastianini and A. Casanova. 2002.
  * 5, Menandro: Cent'anni di papiri. Atti del convegno internazionale di studi. Firenze, 12-13 giugno 2003, ed. G. Bastianini and A. Casanova. 2004.
  * 6, La ceramica da Antinoe, by M.E. Guidotti e L. Pesi. 2004.
