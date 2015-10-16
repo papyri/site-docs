@@ -3262,6 +3262,11 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 7, Euripide e i papiri. Atti del convegno internazionale di studi. Firenze 10-11 giugno 2004, ed. G. Bastianini and A. Casanova. 2005.
  * 8, Callimaco: cent’anni di papiri. Atti del convegno internazionale di studi. Firenze 9-10 giugno 2005, ed. G. Bastianini and A. Casanova. 2006.
  * 9, I papiri di Saffo e di Alceo. Atti del convegno internazionale di studi. Firenze 8-9 giugno 2006, ed. G. Bastianini and A. Casanova. 2007.
+ * 10, Esiodo : cent'anni di papiri. Atti del convegno internazionale di studi, Firenze, 7-8 giugno 2007, ed. G. Bastianini. 2008.
+ * 11, 100 anni di istituzioni Fiorentine per la papirologia : 1908 Societa Italiana per la ricerca dei Papiri 1928 Istituto Papirologico. Atti del convegno internazionale di studi, Firenze, 12-13 giugno 2008. Ed. G. Bastianini and A. Casanova. 2009.
+ * 12, I papiri del romanzo antico. Atti del Convegno internazionale di studi, Firenze, 11-12 giugno 2009. Ed. G. Bastianini and A. Casanova. 2010.
+ * 13, I papiri letterari cristiani Atti del Convegno internazionale di studi in memoria di Mario Naldini, Firenze, 10-11 giugno 2010. Ed. G. Bastianini and A. Casanova. 2011.
+ * 14, I papiri omerici : atti del convegno internazionale di studi, Firenze 9-10 giugno 2011. Ed. G. Bastianini, A. Casanova. 2012.
 
 ### TycheSuppl.
  = _Tyche_, Supplementbände. Vienna 1992—. [AHN]
