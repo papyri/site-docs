@@ -10777,14 +10777,14 @@ To get this PN preview:
 Use this Leiden+:
 </div>
 <div class="leiden">
-*chirho,☧*
+*chirho*
 </div>
 <hr>
 <div class="sep">
 To create this XML:
 </div>
 <div class="xml">
-&lt;g type="chirho"&gt;☧&lt;/g&gt;
+&lt;g type="chirho"/g&gt;
 </div>
 <hr>
 <div class="sep">
