@@ -1277,7 +1277,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXI, Nos. 4803-4843, ed. R. Hatzilambrou, P.J. Parsons, J. Chapa, and others. 2007. (91) {ddb:p.oxy;71}
  * LXXII, Nos. 4844-4930, ed. N. Gonis, D. Colomo, and others. 2008. (92) {ddb:p.oxy;72}
  * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94) {ddb:p.oxy;73}
- * LXXIV, Nos. 4968—5019, ed. D. Leith and others.. (95)
+ * LXXIV, Nos. 4968—5019, ed. D. Leith and others. (95) {ddb:p.oxy;73}
  * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary.
  * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97).
  * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98).
