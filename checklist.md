@@ -2596,6 +2596,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 96, see P.Oxy. LXXV.
  * 97, see P.Oxy. LXXVI.
  * 98, see P.Oxy. LXXVII.
+ * 99, see P.Oxy. LXXVIII.
+ * 100, see P.Oxy. LXXIX.
+ * 101, see P.Oxy. LXXX.
 
 ### KurzberichteGiessen
  = _Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen_
@@ -3459,7 +3462,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. III; P.Tarich.; SB XXVIII
- * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Stras. X; P.Turku
+ * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II
 
 
