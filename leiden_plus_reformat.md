@@ -40,7 +40,7 @@ Where the papyrus reads, e.g. [ - - - ] ̣αμεν ̣ν̣ and the editor posits 
 
 ### Alternate reading (uncertain) <a id="alternate-reading-uncertain"></a>
 
-_To get this PN preview: Text:_ Ὀχυρυγχίτου(?)…App: or Ὀξυρυγχίτου νομοῦ(?)
+_To get this PN preview:_ Text: Ὀχυρυγχίτου(?)…App: or Ὀξυρυγχίτου νομοῦ(?)
 
 _Use this Leiden+:_ `<:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>`
 
