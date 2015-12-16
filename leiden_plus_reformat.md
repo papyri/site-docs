@@ -20,7 +20,7 @@ _To create this XML:_ `<app type="alternative"><lem>Ὀχυρυγχίτου</lem
 
 _Example PN Link:_ [BGU.6.1265](http://papyri.info/hgv/4548)
 
-Alternate readings posited by the editor. Preferred reading (<lem>) will appear in the text, the alternative (<rdg>) in the apparatus.
+Alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternative (`<rdg>`) in the apparatus.
 
 ### Alternate reading, multiple <a id="alternate-reading-multiple"></a>
 
@@ -32,7 +32,7 @@ _To create this XML:_ `<app type="alternative"><lem><gap reason="lost" extent="u
 
 _Example PN Link:_
 
-Multiple alternate readings posited by the editor. Preferred reading (<lem>) will appear in the text, the alternatives (<rdg>) in the apparatus. 
+Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternatives (`<rdg>`) in the apparatus. 
 
 Where the papyrus reads, e.g. [ - - - ] ̣αμεν ̣ν̣ and the editor posits perhaps [ἀπογρα]ψ̣αμένη̣ν̣ or [θρε]ψ̣αμένη̣ν̣, encode: 
 
