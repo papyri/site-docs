@@ -161,3 +161,19 @@ In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that 
 
 1. For φρόνδει[σ]ο̣ν --> φρόντισον encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
 2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
+
+## Apparatus, orthographic regularization, for language
+
+_To get this PN preview:_ `Text: ⲁⲣⲁⲕ….App: i.e. Greek ἄρακος`
+
+_Use this Leiden+:_ `<:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>`
+
+_To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁⲣⲁⲕ</orig></choice>`
+
+_Example PN Link:_
+
+Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
+
+    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
+
+The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
