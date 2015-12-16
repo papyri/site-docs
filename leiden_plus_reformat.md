@@ -177,3 +177,17 @@ Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. 
     <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
+
+## Apparatus, orthographic regularization, multiple
+
+_To get this PN preview:_ `Text: ἀ̣νύεται….App: l. ἀνοίεται (?), i.e. ἀνοίγεται (?)`
+
+_Use this Leiden+:_ `<:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>`
+
+_To create this XML:_ `<choice><reg cert="low">ἀνοίγεται </reg><reg cert="low">ἀνοίεται </reg><orig><unclear>ἀ</unclear>νύεται</orig></choice>`
+
+_Example PN Link:_
+
+Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται. 
+
+    <:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:> 
