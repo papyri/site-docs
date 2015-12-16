@@ -134,3 +134,15 @@ Used for two situations: to indicate a correction proposed in a publication (not
 (2) or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
 
 ### Editorial correction (uncertain)
+
+_To get this PN preview:_ `Text: κγ(?)…App: bgu 1 p.357: κϛ Original ed.`
+
+_Use this Leiden+:_ `<:<#κγ=23#>(?)=bgu 1 p.357|ed|<#κϛ=26#>:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="bgu 1 p.357"><num value="23">κγ</num><certainty match=".." locus="value"/></lem><rdg><num value="26">κϛ</num></rdg></app>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+Where an editorial correction is only tentative, uncertain, enter as follows: 
+
+`<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
