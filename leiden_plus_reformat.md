@@ -4,7 +4,7 @@
     - [Alternate reading](#alternate-reading)
     - [Alternate reading, multiple](#alternate-reading-multiple)
     - [Alternate reading (uncertain)](#alternate-reading-uncertain)
-- [Apparatus, Berichtigungliste corrections](#apparatus-berichtigungliste-corrections)
+- [Apparatus, Berichtigungliste corrections](#apparatu(s-berichtigungliste-corrections)
     - [BL correction](#bl-correction)
     - [BL correction (uncertain)](#bl-correction-uncertain)
 
@@ -96,13 +96,11 @@ Leiden+ is capable of handling even extremely complicated series of corrections.
     <:Συρ[ίων](?)|reg|<:<:Σο̣υ̣ρ[ίων]||alt||Συ̣υ̣ρ[ίων]|Σω̣υ̣ρ[ίων]:>|subst|Σ.2ρ[ίων]:>:>=Original Edition:> 
 
 This means: 
-(1) at line 275 the DDbDP prints `στρ[ατηγὸς]`, which the scribe himself corrected from either `"σ . . [ca.?]"` or `"γ . . . [ca.?]"`, and which is recorded in BL vol.19 p.2 
 
-(2) previously, Cowey had argued (in ZPE 150) for correcting the text to either στρ[ατηλάτης], which is a modern regularization of `ξ̣τ̣ρ[ατηλάτης]`, or to `". γρ[ca.?]" `
-
-(3) before Cowey, Ast had suggested (in CdÉ 100) that the papyrus reads στυ̣ρ[ατ- ca.?], which should be regularized either to στρ[ατιώτης] or to στρ[ατηγία]; this was subsequently picked up by BL 14.5 
-
-(4) The original editors of the papyrus thought that the scribe had originally written "Σ . . ρ[ίων]", and then corrected it to either `Σο̣υ̣ρ[ίων] or Συ̣υ̣ρ[ίων] or Σω̣υ̣ρ[ίων]`, any one of which should perhaps be regularized to `Συρ[ίων] `
+1. at line 275 the DDbDP prints `στρ[ατηγὸς]`, which the scribe himself corrected from either `"σ . . [ca.?]"` or `"γ . . . [ca.?]"`, and which is recorded in BL vol.19 p.2 
+2. previously, Cowey had argued (in ZPE 150) for correcting the text to either στρ[ατηλάτης], which is a modern regularization of `ξ̣τ̣ρ[ατηλάτης]`, or to `". γρ[ca.?]" `
+3. before Cowey, Ast had suggested (in CdÉ 100) that the papyrus reads στυ̣ρ[ατ- ca.?], which should be regularized either to στρ[ατιώτης] or to στρ[ατηγία]; this was subsequently picked up by BL 14.5 
+4. The original editors of the papyrus thought that the scribe had originally written "Σ . . ρ[ίων]", and then corrected it to either `Σο̣υ̣ρ[ίων] or Συ̣υ̣ρ[ίων] or Σω̣υ̣ρ[ίων]`, any one of which should perhaps be regularized to `Συρ[ίων] `
 
 Under this model, simple corrections may be concatenated: 
 
@@ -127,9 +125,8 @@ _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
 Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either 
 
-(1) correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
-
-(2) or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
+1. correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
+2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
 
 ### Editorial correction (uncertain)
 
