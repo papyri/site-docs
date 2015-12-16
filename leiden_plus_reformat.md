@@ -4,7 +4,7 @@
     - [Alternate reading](#alternate-reading)
     - [Alternate reading, multiple](#alternate-reading-multiple)
     - [Alternate reading (uncertain)](#alternate-reading-uncertain)
-- [Apparatus, Berichtigungliste corrections](#apparatu(s-berichtigungliste-corrections)
+- [Apparatus, Berichtigungliste corrections](#apparatus-berichtigungliste-corrections)
     - [BL correction](#bl-correction)
     - [BL correction (uncertain)](#bl-correction-uncertain)
 
