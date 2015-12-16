@@ -833,6 +833,10 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, ed. G. Wagner. 1971. (Bibl. 55). Nos. 1—50. [SEVPO] {ddb:p.ifao;2}
  * III, ed. J. Schwartz and G. Wagner. 1975. (Bibl. 56). Nos. 1—54. [SEVPO] {ddb:p.ifao;3}
 
+### papyri.info
+
+ * 2015
+
 ### P.Ital.
 = _Die nichtliterarischen lateinischen Papyri Italiens aus der Zeit 445—700_, ed J.-O. Tjäder. (Acta Instituti Romani Regni Sueciae, Series in quarto, XIX.1,2,3). {ddb:p.ital}
 
