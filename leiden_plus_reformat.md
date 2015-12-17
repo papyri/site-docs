@@ -227,6 +227,24 @@ Note that no matter how nested the divisions are, the pair of tags directly adja
 #### Supplied
 ## Other Editorial Conventions
 ### Handshift
+
+_To get this PN preview:_ `(hand 4)`
+_Use this Leiden+:_ `$m4`
+_To create this XML:_ `<handShift new="m4"/>`
+_Example PN Link:_ [P.Berl.Leihg.2.35](http://papyri.info/hgv/10223)
+
+Handshift. Note: where there are multiple hands, you do not need to indicate the first.
+
+#### Handshift (uncertain)
+
+_To get this PN preview:_ `(hand 3?)`
+_Use this Leiden+:_ `$m3(?)`
+_To create this XML:_ `<handShift new="m3" cert="low"/>`
+
+_Example PN Link: [P.Polit.Iud.19](http://papyri.info/hgv/44635)
+
+Uncertain handshift.
+
 ### Editorial Note
 
 _To get this PN preview:_ `(BGU 1,108,r reprinted in WChr 227 )`
