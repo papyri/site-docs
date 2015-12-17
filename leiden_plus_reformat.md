@@ -130,7 +130,7 @@ _To create this XML:_ `υ<hi rend="diaeresis">ἱ</hi>οῦ`
 
 _Example PN Link:_ [P.Berl.Leihg.2.35](http://papyri.info/hgv/10223)
 
-Diaeresis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed. Example: υ ἱ(¨)οῦ
+Diaeresis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed. Example: `υ ἱ(¨)οῦ`
 
 #### Asper
 
@@ -240,7 +240,7 @@ _Example PN Link:_
 
 Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternatives (`<rdg>`) in the apparatus. 
 
-Where the papyrus reads, e.g. [ - - - ] ̣αμεν ̣ν̣ and the editor posits perhaps [ἀπογρα]ψ̣αμένη̣ν̣ or [θρε]ψ̣αμένη̣ν̣, encode: 
+Where the papyrus reads, e.g. `[ - - - ] ̣αμεν ̣ν̣` and the editor posits perhaps `[ἀπογρα]ψ̣αμένη̣ν̣` or `[θρε]ψ̣αμένη̣ν̣`, encode: 
 
     <:[.?].1αμεν.1ν̣||alt||[ἀπογρα]ψ̣αμένη̣ν̣|[θρε]ψ̣αμένη̣ν̣:>
 
