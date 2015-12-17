@@ -69,6 +69,55 @@
 ### Quotation
 ## Apparatus
 ### Orthographic Regularization
+
+_To get this PN preview:_ `Text: φρόντι[σ]ον….App: φρόνδει[σ]ο̣ν pap.`
+
+_Use this Leiden+:_ `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>`
+
+_To create this XML:_ `<choice><reg>φρόντι<supplied reason="lost">σ</supplied>ον</reg><orig>φρόνδει<supplied reason="lost">σ</supplied><unclear>ο</unclear>ν</orig></choice>`
+
+_Example PN Link:_
+
+To be used for two classes of 'correction': 
+
+1. Regularization/'correction' of non-standard orthographic form, e.g. αἰνακούεις for ἐνακούεις; in such cases the form is 'correct' but is not spelled in the canonical fashion. 
+2. Correction of syntax not morphology, e.g. τῷ for τοῦ; in such cases the form is a valid one, but is not strictly correct in the context. 
+
+In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that DDbDP now presents the reading of the papyrus in the text and the regularized reading in the apparatus (per modern convention). To support that change, we now enter orthographic 'corrections' differently. 
+
+1. For φρόνδει[σ]ο̣ν --> φρόντισον encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
+2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
+
+#### Apparatus, orthographic regularization, multiple
+
+_To get this PN preview:_ `Text: ἀ̣νύεται….App: l. ἀνοίεται (?), i.e. ἀνοίγεται (?)`
+
+_Use this Leiden+:_ `<:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>`
+
+_To create this XML:_ `<choice><reg cert="low">ἀνοίγεται </reg><reg cert="low">ἀνοίεται </reg><orig><unclear>ἀ</unclear>νύεται</orig></choice>`
+
+_Example PN Link:_
+
+Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται. 
+
+    <:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>
+
+#### Apparatus, orthographic regularization, for language
+
+_To get this PN preview:_ `Text: ⲁⲣⲁⲕ….App: i.e. Greek ἄρακος`
+
+_Use this Leiden+:_ `<:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>`
+
+_To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁⲣⲁⲕ</orig></choice>`
+
+_Example PN Link:_
+
+Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
+
+    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
+
+The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
+
 ### Diacriticals
 ### Alternate Reading <a id="alternate-reading"></a>
 
@@ -128,6 +177,21 @@ By definition, all alternate readings are uncertain, but to indicate especial un
 ### Language
 ### Omitted
 ### Orthographic Regularization, for Language
+
+_To get this PN preview:_ `Text: ⲁⲣⲁⲕ….App: i.e. Greek ἄρακος`
+
+_Use this Leiden+:_ `<:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>`
+
+_To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁⲣⲁⲕ</orig></choice>`
+
+_Example PN Link:_
+
+Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
+
+    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
+
+The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
+
 
 # Old reformatting
 
@@ -232,52 +296,4 @@ Where an editorial correction is only tentative, uncertain, enter as follows:
 
 `<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
 
-## Apparatus, orthographic regularization
-
-_To get this PN preview:_ `Text: φρόντι[σ]ον….App: φρόνδει[σ]ο̣ν pap.`
-
-_Use this Leiden+:_ `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>`
-
-_To create this XML:_ `<choice><reg>φρόντι<supplied reason="lost">σ</supplied>ον</reg><orig>φρόνδει<supplied reason="lost">σ</supplied><unclear>ο</unclear>ν</orig></choice>`
-
-_Example PN Link:_
-
-To be used for two classes of 'correction': 
-
-1. Regularization/'correction' of non-standard orthographic form, e.g. αἰνακούεις for ἐνακούεις; in such cases the form is 'correct' but is not spelled in the canonical fashion. 
-2. Correction of syntax not morphology, e.g. τῷ for τοῦ; in such cases the form is a valid one, but is not strictly correct in the context. 
-
-In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that DDbDP now presents the reading of the papyrus in the text and the regularized reading in the apparatus (per modern convention). To support that change, we now enter orthographic 'corrections' differently. 
-
-1. For φρόνδει[σ]ο̣ν --> φρόντισον encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
-2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
-
-## Apparatus, orthographic regularization, for language
-
-_To get this PN preview:_ `Text: ⲁⲣⲁⲕ….App: i.e. Greek ἄρακος`
-
-_Use this Leiden+:_ `<:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>`
-
-_To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁⲣⲁⲕ</orig></choice>`
-
-_Example PN Link:_
-
-Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
-
-    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
-
-The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
-
-## Apparatus, orthographic regularization, multiple
-
-_To get this PN preview:_ `Text: ἀ̣νύεται….App: l. ἀνοίεται (?), i.e. ἀνοίγεται (?)`
-
-_Use this Leiden+:_ `<:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>`
-
-_To create this XML:_ `<choice><reg cert="low">ἀνοίγεται </reg><reg cert="low">ἀνοίεται </reg><orig><unclear>ἀ</unclear>νύεται</orig></choice>`
-
-_Example PN Link:_
-
-Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται. 
-
-    <:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:> 
+ 
