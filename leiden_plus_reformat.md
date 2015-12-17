@@ -1,5 +1,11 @@
 # Text Leiden+ Documentation
 
+Where do we put these sections from the original documentation?
+
+- Inserted / added text
+
+* * *
+
 - Formatting - Word and Document
     - Document Division
     - Line Number
