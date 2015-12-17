@@ -165,6 +165,30 @@ By definition, all alternate readings are uncertain, but to indicate especial un
 ### Spelling Correction
 ## Corrections to Published Texts
 ### Berichtigungliste Corrections
+
+_To get this PN preview:_ `Text: αἱ τοῦ…App: BL 9.17: Θίτου Original ed.`
+
+_Use this Leiden+:_ `<:αἱ τοῦ=BL 9.17|ed|Θίτου:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="BL 9.17">αἱ τοῦ</lem><rdg>Θίτου</rdg></app>`
+
+_Example PN Link:_ [BGU.1.141](http://papyri.info/hgv/8916)
+
+To indicate corrections that have been flagged in the Berichtigungsliste, e.g. <:αἱ τοῦ=BL 9.17|ed|Θίτου:>, where αἱ τοῦ is the correction recorded by BL and Θίτου is the deprecated reading.
+
+#### Berichtigungsliste correction (uncertain) <a id="bl-correction-uncertain"></a>
+
+_To get this PN preview:_ `Text: αἱ τοῦ(?)…App: BL 9.17: Θίτου Original ed.`
+
+_Use this Leiden+:_ `<:αἱ τοῦ(?)=BL 9.17|ed|Θίτου:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="BL 9.17">αἱ τοῦ<certainty match=".." locus="value"/></lem><rdg>Θίτου</rdg></app>`
+
+_Example PN Link:_ [bgu;1;141](http://papyri.info/hgv/8916)
+
+To indicate uncertain corrections that have been flagged in the Berichtigungsliste
+
+
 ### Editorial Correction
 
 _To get this PN preview:_ `Text: κγ…App: bgu 1 p.357: κϛ Original ed.`
@@ -251,44 +275,4 @@ Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. 
     <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
-
-
-# Old reformatting
-
-- [Apparatus, alternate reading](#apparatus-alternate-reading)
-    - [Alternate reading](#alternate-reading)
-    - [Alternate reading, multiple](#alternate-reading-multiple)
-    - [Alternate reading (uncertain)](#alternate-reading-uncertain)
-- [Apparatus, Berichtigungliste corrections](#apparatus-berichtigungliste-corrections)
-    - [BL correction](#bl-correction)
-    - [BL correction (uncertain)](#bl-correction-uncertain)
-
-## Apparatus, alternate reading <a id="apparatus-alternate-reading"></a>
-
-
-## Apparatus, Berichtigungliste corrections <a id="apparatus-berichtigungliste-corrections"></a>
-
-### BL correction <a id="bl-correction"></a>
-
-_To get this PN preview:_ `Text: αἱ τοῦ…App: BL 9.17: Θίτου Original ed.`
-
-_Use this Leiden+:_ `<:αἱ τοῦ=BL 9.17|ed|Θίτου:>`
-
-_To create this XML:_ `<app type="editorial"><lem resp="BL 9.17">αἱ τοῦ</lem><rdg>Θίτου</rdg></app>`
-
-_Example PN Link:_ [BGU.1.141](http://papyri.info/hgv/8916)
-
-To indicate corrections that have been flagged in the Berichtigungsliste, e.g. <:αἱ τοῦ=BL 9.17|ed|Θίτου:>, where αἱ τοῦ is the correction recorded by BL and Θίτου is the deprecated reading.
-
-### BL correction (uncertain) <a id="bl-correction-uncertain"></a>
-
-_To get this PN preview:_ `Text: αἱ τοῦ(?)…App: BL 9.17: Θίτου Original ed.`
-
-_Use this Leiden+:_ `<:αἱ τοῦ(?)=BL 9.17|ed|Θίτου:>`
-
-_To create this XML:_ `<app type="editorial"><lem resp="BL 9.17">αἱ τοῦ<certainty match=".." locus="value"/></lem><rdg>Θίτου</rdg></app>`
-
-_Example PN Link:_ [bgu;1;141](http://papyri.info/hgv/8916)
-
-To indicate uncertain corrections that have been flagged in the Berichtigungsliste
 
