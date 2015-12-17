@@ -96,7 +96,7 @@ Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) w
 
 Where the papyrus reads, e.g. [ - - - ] ̣αμεν ̣ν̣ and the editor posits perhaps [ἀπογρα]ψ̣αμένη̣ν̣ or [θρε]ψ̣αμένη̣ν̣, encode: 
 
-<:[.?].1αμεν.1ν̣||alt||[ἀπογρα]ψ̣αμένη̣ν̣|[θρε]ψ̣αμένη̣ν̣:>
+    <:[.?].1αμεν.1ν̣||alt||[ἀπογρα]ψ̣αμένη̣ν̣|[θρε]ψ̣αμένη̣ν̣:>
 
 #### Alternate reading (uncertain) <a id="alternate-reading-uncertain"></a>
 
@@ -110,7 +110,7 @@ _Example PN Link:_ [bgu;6;1265](http://papyri.info/ddbdp/bgu;6;1265)
 
 By definition, all alternate readings are uncertain, but to indicate especial uncertainty as to one or both possibilities, enter as follows: 
 
-<:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>
+    <:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>
 
 ### Scribal Correction
 ### Spelling Correction
