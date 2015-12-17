@@ -1,6 +1,6 @@
 # Text Leiden+ Documentation
 
-- Formatting - word and document
+- Formatting - Word and Document
     - Document Division
     - Line Number
     - Vacat
@@ -43,6 +43,50 @@
     - Language
     - Omitted
     - Orthographic Regularization, for Language
+
+## Formatting - Word and Document
+### Document Division
+### Line Number
+### Vacat
+### Marginalia vel sim.
+### Special Formatting
+## Preservation
+### Letters Lost
+### Lines Lost
+### Illegible
+### Vestiges
+## Leiden Conventions
+### Leiden Angle Brackets `< >`
+### Leiden Braces `{ }`
+### Leiden Double Square Brackets `〚 〛`
+### Leiden Parentheses `( )`
+### Leiden Square Brackets `[ ]`
+### Leiden Underline `___`
+#### Supplied
+## Other Editorial Conventions
+### Handshift
+### Editorial Note
+### Quotation
+## Apparatus
+### Orthographic Regularization
+### Diacriticals
+### Alternate Reading
+### Scribal Correction
+### Spelling Correction
+## Corrections to Published Texts
+### Berichtigungliste Corrections
+### Editorial Correction
+### PN/PE Correction
+### Complicated Corrections
+## Numbers and Special Characters
+### Number
+### Numbers
+### Diacriticals
+### Special Characters
+## Language
+### Language
+### Omitted
+### Orthographic Regularization, for Language
 
 # Old reformatting
 
