@@ -219,6 +219,25 @@ Where an editorial correction is only tentative, uncertain, enter as follows:
 `<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
 
 ### PN/PE Correction
+
+_To get this PN preview:_ `Text: τοῦ…App: G. Claytor (CPR VI plate 35): Om. Original ed.`
+
+_Use this Leiden+:_ `<:τοῦ=PN G. Claytor (CPR VI plate 35)|ed|:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="PN G. Claytor (CPR VI plate 35)">τοῦ</lem><rdg/></app>`
+
+_Example PN Link:_ [cpr;6;82](http://papyri.info/ddbdp/cpr;6;82)
+
+Indicates a correction proposed directly to DDbDP via PE. 
+
+So, the following emendation observes the omission from an edition of a word clearly visible (from the published plate) on the papyrus: 
+
+    <:τοῦ=PN G. Claytor (CPR VI plate 35)|ed|:> 
+
+The corrected text is το­ῦ and the deprecated text is 'null', since this corrects an omission. Had the emendation sought to correct an existing (rather than omitted) reading, it might have looked like this: 
+
+    <:τοῦ=PN G. Claytor (CPR VI plate 35)|ed|μου:> 
+
 ### Complicated Corrections
 
 _To get this PN preview:_ `275. corr. ex σ ̣ ̣[ -ca.?- ] (or γ ̣ ̣ ̣[ -ca.?- ]), BL 15.2 : ξτρ[ατηλάτης] (l. στρ[ατηλάτης) (or ̣γρ[ -ca.?- ]) J. Cowey, ZPE 150 (2020) 321-323 : στυ̣ρ[ατ -ca.?- ] (l. στρ[ατιώτης (or στρ[ατηγία])) R. Ast, CdE 100 (2018) 13-15 (BL 14.5) : etc.`
