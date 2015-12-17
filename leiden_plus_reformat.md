@@ -119,6 +119,103 @@ Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
 
 ### Diacriticals
+
+#### Diaeresis
+
+_To get this PN preview:_ `Text: υ ἱ(¨)οῦ…App:16. υϊου pap.`
+
+_Use this Leiden+:_ `υ ἱ(¨)οῦ`
+
+_To create this XML:_ `υ<hi rend="diaeresis">ἱ</hi>οῦ`
+
+_Example PN Link:_ [P.Berl.Leihg.2.35](http://papyri.info/hgv/10223)
+
+Diaeresis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed. Example: υ ἱ(¨)οῦ
+
+#### Asper
+
+_To get this PN preview:_ `Text: ὧ ... App: ὡ pap.`
+
+_Use this Leiden+:_ `ὧ( ῾)`
+
+_To create this XML:_ `<hi rend="asper">ὧ</hi>`
+
+_Example PN Link:_ [P.Oxy.14.1765](http://papyri.info/hgv/31807)
+
+Asper written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+#### Acute
+
+_To get this PN preview:_ `Text: ὃ ... App.: ό pap.`
+
+_Use this Leiden+:_ `ὃ(´)`
+
+_To create this XML:_ `<hi rend="acute">ὃ</hi>`
+
+_Example PN Link:_ [P.Oxy.16.1854](http://papyri.info/hgv/37860)
+
+Acute written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+#### Circumflex
+
+_To get this PN preview:_ `Text: ὑ ... App: ῦ pap.`
+
+_Use this Leiden+:_ `ὑ(^)`
+
+_To create this XML:_ `<hi rend="circumflex">ὑ</hi>`
+
+_Example PN Link:_ [P.Oxy.1.125](http://papyri.info/hgv/20769)
+
+Circumflex written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+#### Lenis
+
+_To get this PN preview:_ `Text: ἄ ... App.: ἀ pap.`
+
+_Use this Leiden+:_ `Ἀ( ᾿)`
+
+_To create this XML:_ `<hi rend="lenis">Ἀ</hi>`
+
+_Example PN Link:_ [BGU.3.715](http://papyri.info/hgv/9313)
+
+Lenis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+#### Double diacritical
+
+_To get this PN preview:_ `Text: ἵ ... App.: ἱ pap. ί pap. --> Text: ἵ ... App.: ἵ pap.`
+
+_Use this Leiden+:_ `ἵ( ῾´)`
+
+_To create this XML:_ `<hi rend="asper"><hi rend="acute">ἵ</hi></hi>`
+
+_Example PN Link:_ [P.Ryl.4.624](http://papyri.info/hgv/32762)
+
+Multiple ancient diacriticals. For double diacriticals simply combine the ordinary symbols inside a single pair pf parens.
+
+#### Diacritical over illegible character
+
+_To get this PN preview:_ `Text: ̣ ... App.: ¨ pap.`
+
+_Use this Leiden+:_ `.1(¨)`
+
+_To create this XML:_ `<hi rend="diaeresis"><gap reason="illegible" quantity="1" unit="character"/></hi>`
+
+_Example PN Link:_ [CPR.5.6](http://papyri.info/hgv/16028)
+
+Ancient diacritical written atop illegible character. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+#### Diacritical over lost character
+
+_To get this PN preview:_ `Text: [ ̣] ... App.: ´ pap.`
+
+_Use this Leiden+:_ `[.1](´)`
+
+_To create this XML:_ `<hi rend="acute"><gap reason="lost" quantity="1" unit="character"/></hi>`
+
+_Example PN Link:_ [P.Wisc.2.70](http://papyri.info/hgv/26685)
+
+Ancient diacritical written atop character that is now lost in lacuna. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
 ### Alternate Reading <a id="alternate-reading"></a>
 
 _To get this PN preview:_ `Text: Ὀχυρυγχίτου…App: or Ὀξυρυγχίτου νομοῦ`
