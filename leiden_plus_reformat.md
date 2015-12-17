@@ -162,6 +162,36 @@ By definition, all alternate readings are uncertain, but to indicate especial un
     <:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>
 
 ### Scribal Correction
+
+_To get this PN preview:_ `Text: τοῦ…App: corr. from της`
+
+_Use this Leiden+:_ `<:τοῦ|subst|της:>`
+
+_To create this XML:_ `<subst><add place="inline">τοῦ</add><del rend="corrected">της</del></subst>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+To indicate scribal corrections and alterations. Note that as a general rule, the original reading does not carry diacriticals; also that this apparatus tag is used for entire words and not for the corrected characters alone. 
+
+Indicating that the scribe wrote της and corrected to τοῦ: `<:τοῦ|subst|της:>`
+
+    No: τ<:οῦ|subst|ης:> 
+    Yes: <:τοῦ|subst|της:>
+
+#### Scribal correction (uncertain)
+
+_To get this PN preview:_ `Text: τοῦ…App: corr. from της --> Text: τοῦ(?)…App: corr. from της(?)`
+
+_Use this Leiden+:_ `<:τοῦ(?)|subst|της(?):>`
+
+_To create this XML:_ `<subst><add place="inline">τοῦ<certainty match=".." locus="value"/></add><del rend="corrected">της<certainty match=".." locus="value"/></del></subst>`
+
+_Example PN Link:_ [BGU.1.154](http://papyri.info/ddbdp/bgu;1;154)
+
+To indicate scribal corrections and alterations where one or both readings is uncertain. Follow the conventions for an ordinary scribal correction, but add (?) to the affected reading. 
+
+    <:τοῦ|subst|της:> --> <:τοῦ(?)|subst|της(?):>
+
 ### Spelling Correction
 ## Corrections to Published Texts
 ### Berichtigungliste Corrections
