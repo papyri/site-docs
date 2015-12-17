@@ -228,6 +228,17 @@ Note that no matter how nested the divisions are, the pair of tags directly adja
 ## Other Editorial Conventions
 ### Handshift
 ### Editorial Note
+
+_To get this PN preview:_ `(BGU 1,108,r reprinted in WChr 227 )`
+
+_Use this Leiden+:_ `/*BGU 1,108,r reprinted in WChr 227 */`
+
+_To create this XML:_ `<note xml:lang="en">BGU 1,108,r reprinted in WChr 227 </note>`
+
+_Example PN Link:_ [BGU.1.108](http://papyri.info/ddbdp/bgu;1;108)
+
+To indicate modern editorial comment, for example that the recto of a given text has been republished elsewhere, or that a missing string should be a month name. Use sparingly.
+
 ### Quotation
 ## Apparatus
 ### Orthographic Regularization
