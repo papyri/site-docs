@@ -166,6 +166,34 @@ By definition, all alternate readings are uncertain, but to indicate especial un
 ## Corrections to Published Texts
 ### Berichtigungliste Corrections
 ### Editorial Correction
+
+_To get this PN preview:_ `Text: κγ…App: bgu 1 p.357: κϛ Original ed.`
+
+_Use this Leiden+:_ `<:<#κγ=23#>=BGU 1 p.357|ed|<#κϛ=26#>:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="BGU 1 p.357"><num value="23">κγ</num></lem><rdg><num value="26">κϛ</num></rdg></app>`
+
+_Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
+
+Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either 
+
+1. correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
+2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
+
+#### Editorial correction (uncertain)
+
+_To get this PN preview:_ `Text: κγ(?)…App: bgu 1 p.357: κϛ Original ed.`
+
+_Use this Leiden+:_ `<:<#κγ=23#>(?)=bgu 1 p.357|ed|<#κϛ=26#>:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="bgu 1 p.357"><num value="23">κγ</num><certainty match=".." locus="value"/></lem><rdg><num value="26">κϛ</num></rdg></app>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+Where an editorial correction is only tentative, uncertain, enter as follows: 
+
+`<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
+
 ### PN/PE Correction
 ### Complicated Corrections
 ## Numbers and Special Characters
@@ -265,35 +293,3 @@ Under this model, simple corrections may be concatenated:
 
 or, any class of correction may be 'nested' inside any other (as above).
 
-## Apparatus, editorial correction
-
-### Editorial correction
-
-_To get this PN preview:_ `Text: κγ…App: bgu 1 p.357: κϛ Original ed.`
-
-_Use this Leiden+:_ `<:<#κγ=23#>=BGU 1 p.357|ed|<#κϛ=26#>:>`
-
-_To create this XML:_ `<app type="editorial"><lem resp="BGU 1 p.357"><num value="23">κγ</num></lem><rdg><num value="26">κϛ</num></rdg></app>`
-
-_Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
-
-Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either 
-
-1. correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
-2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
-
-### Editorial correction (uncertain)
-
-_To get this PN preview:_ `Text: κγ(?)…App: bgu 1 p.357: κϛ Original ed.`
-
-_Use this Leiden+:_ `<:<#κγ=23#>(?)=bgu 1 p.357|ed|<#κϛ=26#>:>`
-
-_To create this XML:_ `<app type="editorial"><lem resp="bgu 1 p.357"><num value="23">κγ</num><certainty match=".." locus="value"/></lem><rdg><num value="26">κϛ</num></rdg></app>`
-
-_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
-
-Where an editorial correction is only tentative, uncertain, enter as follows: 
-
-`<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
-
- 
