@@ -216,6 +216,103 @@ Note that no matter how nested the divisions are, the pair of tags directly adja
 ### Letters Lost
 ### Lines Lost
 ### Illegible
+
+#### Gap illegible character
+
+_To get this PN preview:_ ` ̣ ̣ ̣`
+
+_Use this Leiden+:_ `.3`
+
+_To create this XML:_ `<gap reason="illegible" quantity="3" unit="character"/>`
+
+_Example PN Link:_ [O.Berenike.1.6](http://papyri.info/ddbdp/o.berenike;1;6)
+
+To indicate a known number of illegible characters.
+
+#### Gap illegible character (unknown)
+
+_To get this PN preview:_ `- ca. ? -`
+
+_Use this Leiden+:_ `.?`
+
+_To create this XML:_ `<gap reason="illegible" extent="unknown" unit="character"/>`
+
+_Example PN Link:_ [P.Berl.Leihg.1.13](http://papyri.info/hgv/10193)
+
+To indicate an unknown number of illegible characters.
+
+#### Approximate number of illegible characters
+
+_To get this PN preview:_ `- ca.23 -`
+
+_Use this Leiden+:_ `ca.23`
+
+_To create this XML:_ `<gap reason="illegible" quantity="23" unit="character" precision="low"/>`
+
+_Example PN Link:_ [P.Wisc.1.1](http://papyri.info/hgv/26917)
+
+To indicate an estimated number of illegible characters.
+
+#### Known number of illegible characters
+
+_To get this PN preview:_ `- ca.43 -`
+
+_Use this Leiden+:_ `.43`
+
+_To create this XML:_ `<gap reason="illegible" quantity="43" unit="character"/>`
+
+_Example PN Link:_ [SB.20.14241](http://papyri.info/hgv/23699)
+
+To indicate a known number of illegible characters. Note: all strings of illegible characters greater than 8 are rendered as approximations. So, `".43"` will be encoded as a piece of editorial certainty (`<gap reason="illegible" quantity="43" unit="character"/>`), but will nevertheless be displayed as an approximation: `"- ca.43 -"`
+
+#### Range of illegible characters
+
+_To get this PN preview:_ `- ca. 9-10 -`
+
+_Use this Leiden+:_ `.9-10`
+
+_To create this XML:_ `<gap reason="illegible" atLeast="9" atMost="10" unit="character"/>`
+
+_Example PN Link:_ [P.Eleph.Wagner.1.288](http://papyri.info/hgv/74479)
+
+To indicate a known range of illegible characters.
+
+#### Known number of illegible lines
+
+_To get this PN preview:_ `Traces 5 lines`
+
+_Use this Leiden+:_ `.5lin`
+
+_To create this XML:_ `<gap reason="illegible" quantity="5" unit="line"/>`
+
+_Example PN Link:_ [P.Hib.2.253](http://papyri.info/hgv/8291)
+
+To indicate a known number of illegible lines (e.g. vestiges)
+
+#### Approximate number of illegible lines
+
+_To get this PN preview:_ `Traces ca.20 lines`
+
+_Use this Leiden+:_ `ca.20lin`
+
+_To create this XML:_ `<gap reason="illegible" quantity="20" unit="line" precision="low"/>`
+
+_Example PN Link:_ [SB.24.15920](http://papyri.info/hgv/25460)
+
+To indicate an estimated number of illegible lines (e.g. vestiges).
+
+#### Range of illegible lines
+
+_To get this PN preview:_ `Traces 2-3 lines`
+
+_Use this Leiden+:_ `.2-3lin`
+
+_To create this XML:_ `<gap reason="illegible" atLeast="2" atMost="3" unit="line"/>`
+
+_Example PN Link:_ [SB.20.14571](http://papyri.info/hgv/38499)
+
+To indicate a range of illegible lines.
+
 ### Vestiges
 ## Leiden Conventions
 ### Leiden Angle Brackets `< >`
