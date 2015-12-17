@@ -46,6 +46,168 @@
 
 ## Formatting - Word and Document
 ### Document Division
+
+#### Document Div, `ab` (anonymous block)
+
+_To get this PN preview:_ PN does not indicate explicitly
+
+_Use this Leiden+:_ `<= =>`
+
+_To create this XML:_ `<ab> </ab>`
+
+_Example PN Link:_
+
+Every block of text must be enclosed in a `<= ... =>` pair.
+
+#### Document Div, recto/verso
+
+_To get this PN preview:_ `recto/verso`
+
+_Use this Leiden+:_ `<D=.r<= 1. line of text 2. line of text =>=D> <D=.v<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="r" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="v" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Recto and verso are indicated with closed pairs of tags as follows: 
+
+		<D=.r<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.v<= 
+		3. line of text 
+		4. line of text 
+		=>=D> 
+
+Note that the pair of tags inside the recto/verso tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+#### Document Div, fragment
+
+_To get this PN preview:_ `fragment 1/fragment 2`
+
+_Use this Leiden+:_ `<D=.1.fragment<= 1. line of text 2. line of text =>=D> <D=.2.fragment<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="1" subtype="fragment" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="2" subtype="fragment" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Fragments are indicated with closed pairs of tags as follows: 
+
+		<D=.1.fragment<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.2.fragment<= 
+		3. line of text 
+		4. line of text 
+		=>=D> 
+
+Note that the pair of tags inside the fragment tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+#### Document Div, part
+
+_To get this PN preview:_ `part A/part B`
+
+_Use this Leiden+:_ `<D=.A.part<= 1. line of text 2. line of text =>=D> <D=.B.part<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="A" subtype="part" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="B" subtype="part" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Parts of a document are indicated with closed pairs of tags as follows: 
+
+		<D=.A.part<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.B.part<= 
+		3. line of text 
+		4. line of text 
+		=>=D> 
+
+Note that the pair of tags inside the part tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+#### Document Div, column
+
+_To get this PN preview:_ `column i / column ii`
+
+_Use this Leiden+:_ `<D=.i.column<= 1. line of text 2. line of text =>=D> <D=.ii.column<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="i" subtype="column" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="ii" subtype="column" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Columns are indicated with closed pairs of tags as follows: 
+
+		<D=.i.column<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.ii.column<= 
+		3. line of text 
+		4. line of text 
+		=>=D> 
+
+Note that the pair of tags inside the column tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+#### Document Div, folio
+
+_To get this PN preview:_ `folio a / folio b`
+
+_Use this Leiden+:_ `<D=.a.folio<= 1. line of text 2. line of text =>=D> <D=.b.folio<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="a" subtype="folio" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="b" subtype="folio" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Folios are indicated with closed pairs of tags as follows: 
+
+		<D=.a.folio<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.b.folio<= 
+		3. line of text 
+		4. line of text 
+		=>=D> 
+
+Note that the pair of tags inside the folio tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+#### Document Div, nested
+
+_To get this PN preview:_ Divisions indicated variously
+
+_Use this Leiden+:_ `<D=.a.folio<= 1. line of text 2. line of text =>=D> <D=.b.folio<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="a" subtype="folio" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="b" subtype="folio" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_
+
+Document divisions can be nested so long as tag pairs no not overlap: 
+
+		<D=.r 
+		<D=.i.column<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.ii.column 
+		<D=.a.fragment<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		<D=.b.fragment<= 
+		1. line of text 
+		2. line of text 
+		=>=D> 
+		=D> 
+		=D> 
+		<D=.v<= 
+		1. line of text 
+		=>=D> 
+
+Note that no matter how nested the divisions are, the pair of tags directly adjacent to the text is always the `<= =>` pair (see Document Division, ab)
+
 ### Line Number
 ### Vacat
 ### Marginalia vel sim.
