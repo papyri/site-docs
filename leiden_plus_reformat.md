@@ -193,6 +193,24 @@ To indicate scribal corrections and alterations where one or both readings is un
     <:τοῦ|subst|της:> --> <:τοῦ(?)|subst|της(?):>
 
 ### Spelling Correction
+
+_To get this PN preview:_ `Text: τιμὴν….App: τμμὴν pap.`
+
+_Use this Leiden+:_ `<:τιμὴν|corr|τμμὴν:>`
+
+_To create this XML:_ `<choice><corr>τιμὴν</corr><sic>τμμὴν</sic></choice>`
+
+_Example PN Link:_
+
+For correction of outright scribal error, e.g. `στ[ρ]α̣ττεός` for `στρατηγός`. 
+
+1. where possible enter `στρατ{τ}ηγός` rather than `<:στρατηγός|corr|στραττηγός:>` 
+(NOTE: this does not apply to e.g. `ὁμολογῶι`, which is to be encoded as an orthographic regularization: `<:ὁμολογῶ|reg|ὁμολογῶι:>`) 
+2. where possible enter `στρα<τ>ηγός` rather than `<:στρατηγός|corr|στραηγός:>`
+3. in the case of `στ[ρ]α̣ττεός` for `στρατηγός` 
+    1. enter `<:(στ[ρ]ατ{τ}η<γ>(ός))|corr|(στ[ρ]α̣ττε(ός)):>` (Note: all Leiden except for underdots on left side of `'corr'`)
+    2. PN displays: `text: στ[ρ]α̣ττε(ός) / app: l. στρατηγός (corr)`
+
 ## Corrections to Published Texts
 ### Berichtigungliste Corrections
 
