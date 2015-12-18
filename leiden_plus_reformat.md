@@ -1088,18 +1088,6 @@ Note: leave two spaces between the last character and the closing parens.
 
 ### Leiden Square Brackets `[ ]`
 
-#### Lost character gap quantity precision low
-
-_To get this PN preview:_ `[ -ca.5- ]`
-
-_Use this Leiden+:_ `[ca.5]`
-
-_To create this XML:_ `<gap reason="lost" quantity="5" unit="character" precision="low"/>`
-
-_Example PN Link:_ [O.Douch.2.88](http://papyri.info/hgv/34423)
-
-To indicate an approximate number of lost characters inside lacuna, enter `[ca.5]`, where `'5'` is the number of lost characters.
-
 #### Lost character gap quantity
 
 _To get this PN preview:_ `[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ] / [ -ca.43- ]`
@@ -1111,6 +1099,18 @@ _To create this XML:_ `<gap reason="lost" quantity="8" unit="character"/> or <ga
 _Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
 
 Known number of characters lost in lacuna. Note: all strings of lost characters greater than 8 are rendered as approximations. So, `"[.43]"` will be encoded as a piece of editorial certainty, but will nevertheless be displayed as an approximation: `"[ - ca.43 - ]"`
+
+#### Lost character gap quantity precision low
+
+_To get this PN preview:_ `[ -ca.5- ]`
+
+_Use this Leiden+:_ `[ca.5]`
+
+_To create this XML:_ `<gap reason="lost" quantity="5" unit="character" precision="low"/>`
+
+_Example PN Link:_ [O.Douch.2.88](http://papyri.info/hgv/34423)
+
+To indicate an approximate number of lost characters inside lacuna, enter `[ca.5]`, where `'5'` is the number of lost characters.
 
 #### Lost character gap range
 
