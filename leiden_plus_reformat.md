@@ -598,6 +598,8 @@ To indicate text that is both underlined and supralined.
 
 ### Letters Lost
 
+See [Leiden Square Brackets `[ ]`](#leiden-square-brackets--).
+
 ### Lines Lost
 
 #### Known number of lines missing
