@@ -337,6 +337,61 @@ For use in rare cases in which lines are presented so as not to indicate break; 
 ## Preservation
 ### Letters Lost
 ### Lines Lost
+
+#### Known number of lines missing
+
+_To get this PN preview:_ `[7 lines missing]`
+
+_Use this Leiden+:_ `lost.7lin`
+
+_To create this XML:_ `<gap reason="lost" quantity="7" unit="line"/>`
+
+_Example PN Link:_ [P.Oxy.3.617](http://papyri.info/hgv/20672)
+
+To indicate a known number of lost lines.
+
+#### Approximate number of lines lost
+
+_To get this PN preview:_ `[ca 7 lines missing]`
+
+_Use this Leiden+:_ `lost.ca.7lin`
+
+_To create this XML:_ `<gap reason="lost" quantity="7" unit="line" precision="low"/>`
+
+_Example PN Link:_ [O.Kell.13](http://papyri.info/hgv/74537)
+
+To indicate approximate number of lines lost.
+
+#### Approximate range of lines lost
+
+_To get this PN preview:_ `[3-4 lines missing]`
+
+_Use this Leiden+:_ `lost.3-4lin`
+
+_To create this XML:_ `<gap reason="lost" atLeast="3" atMost="4" unit="line"/>`
+
+_Example PN Link:_ [P.Lille.1.29](http://papyri.info/hgv/3231)
+
+To indicate approximate range of lines lost.
+
+#### Unknown number of lines lost
+
+_To get this PN preview:_ `-- -- -- -- -- -- -- -- -- --`
+
+_Use this Leiden+:_ `lost.?lin`
+
+_To create this XML:_ `<gap reason="lost" extent="unknown" unit="line"/>`
+
+_Example PN Link:_
+
+To indicate unknown number of lines lost. This is used to indicate "break" in the papyrus. Enter as follows: 
+
+		1. lost.?lin 
+		1. first line of text 
+		2. second line of text 
+		3. third line of text 
+		3. lost.?lin
+
 ### Illegible
 
 #### Gap illegible character
