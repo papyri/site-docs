@@ -6,18 +6,18 @@ Where do we put these sections from the original documentation?
 
 * * *
 
-- Formatting - Word and Document
-    - Document Division
-    - Line Number
-    - Vacat
-    - Marginalia vel sim.
-    - Special Formatting
-- Preservation
-    - Letters Lost
-    - Lines Lost
-    - Illegible
-    - Vestiges
-- Leiden Conventions
+- [Formatting - Word and Document](#formatting---word-and-document)
+    - [Document Division](#document-division)
+    - [Line Number](#line-number)
+    - [Vacat](#vacat)
+    - [Marginalia](#marginalia)
+    - [Special Formatting](#special-formatting)
+- [Preservation](#preservation)
+    - [Letters Lost](#letters-lost)
+    - [Lines Lost](#lines-lost)
+    - [Illegible](#illegible)
+    - [Vestiges](#vestiges)
+- [Leiden Conventions](#leiden-conventions)
     - Leiden Angle Brackets `< >`
     - Leiden Braces `{ }`
     - Leiden Double Square Brackets `〚 〛`
