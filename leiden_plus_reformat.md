@@ -49,6 +49,7 @@ Where do we put these sections from the original documentation?
     - Orthographic Regularization, for Language
 
 ## Formatting - Word and Document
+
 ### Document Division
 
 #### Document Div, `ab` (anonymous block)
@@ -541,7 +542,9 @@ _Example PN Link:_ [BGU.4.1201](http://papyri.info/hgv/18651)
 To indicate text that is both underlined and supralined.
 
 ## Preservation
+
 ### Letters Lost
+
 ### Lines Lost
 
 #### Known number of lines missing
@@ -697,7 +700,105 @@ _Example PN Link:_ [SB.20.14571](http://papyri.info/hgv/38499)
 To indicate a range of illegible lines.
 
 ### Vestiges
+
+#### Vestiges n lines
+
+_To get this PN preview:_ `Traces 15 lines`
+
+_Use this Leiden+:_ `vestig.15lin`
+
+_To create this XML:_ `<gap reason="illegible" quantity="15" unit="line"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_ [P.Stras.6.559](http://papyri.info/hgv/16792)
+
+Vestiges of known number of lines.
+
+#### Vestiges range of lines
+
+_To get this PN preview:_ `Traces 2-3 lines`
+
+_Use this Leiden+:_ `vestig.2-3lin`
+
+_To create this XML:_ `<gap reason="illegible" atLeast="2" atMost="3" unit="line"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_ [BGU.3.916](http://papyri.info/hgv/9414)
+
+Vestiges of known range of lines.
+
+#### Vestiges ca.n lines
+
+_To get this PN preview:_ `Traces ca.3 lines`
+
+_Use this Leiden+:_ `ex. vestig.ca.3lin`
+
+_To create this XML:_ `ex. <gap reason="illegible" quantity="3" unit="line" precision="low"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_
+
+Vestiges of estimated number of lines.
+
+#### Vestiges ? lines
+
+_To get this PN preview:_ `-ca.?- --> Traces ? lines`
+
+_Use this Leiden+:_ `vestig.?lin`
+
+_To create this XML:_ `<gap reason="illegible" extent="unknown" unit="line"/>`
+
+_Example PN Link:_ [P.Stras.6.559](http://papyri.info/hgv/16792)
+
+Vestiges of unknown number of lines.
+
+#### Vestiges ? characters
+
+_To get this PN preview:_ `-ca.?- --> Traces`
+
+_Use this Leiden+:_ `vestig`
+
+_To create this XML:_ `<gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_ [O.Berenike.1.76](http://papyri.info/hgv/70853)
+
+Vestiges of unknown number of characters. NOTE: You must enter a space after vestig; so, not `"vestig"` but `"vestig "`.
+
+#### Vestiges ca.n characters
+
+_To get this PN preview:_ `ca.traces - --> Traces 8 char. / Traces ca.14 char.`
+
+_Use this Leiden+:_ `vestig.14char`
+
+_To create this XML:_ `<gap reason="illegible" quantity="14" unit="character"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_ [P.Lips.1.21](http://papyri.info/hgv/22338)
+
+Vestiges of known number of characters. Note: all vestige strings greater than 8 characters are rendered as approximations. So, `"vestig.14char"` will be encoded as a piece of editorial certainty, but will nevertheless be displayed as an approximation: `"Traces ca.14 char."`
+
+#### Vestiges ca.n characters
+
+_To get this PN preview:_ ` ̣ ̣ ̣ --> Traces ca.3 char.`
+
+_Use this Leiden+:_ `example only - vestig.ca.3char`
+
+_To create this XML:_ `example only - <gap reason="illegible" quantity="3" unit="character" precision="low"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_
+
+Vestiges of estimated number of characters.
+
+#### Vestiges range of characters
+
+_To get this PN preview:_ `-ca.15-30- --> Traces ca.15-30 characters`
+
+_Use this Leiden+:_ `vestig.15-30char`
+
+_To create this XML:_ `<gap reason="illegible" atLeast="15" atMost="30" unit="character"><desc>vestiges</desc></gap>`
+
+_Example PN Link:_ [P.Oxy.50.3557](http://papyri.info/hgv/15381)
+
+Vestiges of range of characters.
+
 ## Leiden Conventions
+
 ### Leiden Angle Brackets `< >`
 
 #### Supplied omitted
@@ -1055,6 +1156,7 @@ _Example PN Link:_
 Need to create detailed instructions and explanation
 
 ## Other Editorial Conventions
+
 ### Handshift
 
 _To get this PN preview:_ `(hand 4)`
@@ -1104,6 +1206,7 @@ _Example PN Link:_ [P.Gen.2.1.14](http://papyri.info/hgv/34027)
 Modern mark indicating quotation.
 
 ## Apparatus
+
 ### Orthographic Regularization
 
 _To get this PN preview:_ `Text: φρόντι[σ]ον….App: φρόνδει[σ]ο̣ν pap.`
@@ -1345,6 +1448,7 @@ For correction of outright scribal error, e.g. `στ[ρ]α̣ττεός` for `σ�
     2. PN displays: `text: στ[ρ]α̣ττε(ός) / app: l. στρατηγός (corr)`
 
 ## Corrections to Published Texts
+
 ### Berichtigungliste Corrections
 
 _To get this PN preview:_ `Text: αἱ τοῦ…App: BL 9.17: Θίτου Original ed.`
@@ -1453,6 +1557,7 @@ Under this model, simple corrections may be concatenated:
 or, any class of correction may be 'nested' inside any other (as above).
 
 ## Numbers and Special Characters
+
 ### Numbers
 
 #### Number whole
