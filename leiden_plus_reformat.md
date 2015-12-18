@@ -305,7 +305,7 @@ _To get this PN preview:_ `5`
 
 _Use this Leiden+:_ `5.-`
 
-_To create this XML:_ `<lb n="5" type="inWord"/>`
+_To create this XML:_ `<lb n="5" break="no"/>`
 
 _Example PN Link:_ [p.col.;10;259](http://papyri.info/hgv/10559)
 
@@ -325,7 +325,7 @@ _To get this PN preview:_ `ø --> 3. (inverse) with hyphen at end of preceding l
 
 _Use this Leiden+:_ `(3.-, inverse)`
 
-_To create this XML:_ `<lb n="3" rend="inverse" type="inWord"/>`
+_To create this XML:_ `<lb n="3" rend="inverse" break="no"/>`
 
 _Example PN Link:_ [SB.24.16170](http://papyri.info/ddbdp/sb;24;16170)
 
