@@ -40,7 +40,6 @@ Where do we put these sections from the original documentation?
     - PN/PE Correction
     - Complicated Corrections
 - Numbers and Special Characters
-    - Number
     - Numbers
     - Diacriticals
     - Special Characters
@@ -1209,8 +1208,121 @@ Under this model, simple corrections may be concatenated:
 or, any class of correction may be 'nested' inside any other (as above).
 
 ## Numbers and Special Characters
-### Number
 ### Numbers
+
+#### Number whole
+
+_To get this PN preview:_ `ιϛ`
+
+_Use this Leiden+:_ `<#ιϛ=16#>`
+
+_To create this XML:_ `<num value="16">ιϛ</num>`
+
+_Example PN Link:_ [P.Berl.Leihg.1.8](http://papyri.info/hgv/10217)
+
+Numbers should be accompanied by their values.
+
+#### Number fraction
+
+_To get this PN preview:_ `ιϛ`
+
+_Use this Leiden+:_ `<#ιϛ=1/16#>`
+
+_To create this XML:_ `<num value="1/16">ιϛ</num>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+Fractions should be accompanied by their values, just as whole numbers.
+
+#### Number with `'`
+
+_To get this PN preview:_ `λβ´`
+
+_Use this Leiden+:_ `<#λβ '=1/32#>`
+
+_To create this XML:_ `<num value="1/32" rend="tick">λβ</num>`
+
+_Example PN Link:_ [P.Matr.1](http://papyri.info/hgv/18215)
+
+To indicate the presence of a tick on the papyrus. This works for both fractions and whole numbers. In the PN a mouseover pop-up will alert you as to whether a number is whole or fraction. Note: the tick must be the standard ascii (`'`), not a Smart Quote, and not a Greek Unicode apostrophe (just as the system requires `<...>` and does not permit Greek Unicode `⟨...⟩`) 
+
+For example:
+
+		<γ '=3> 
+		<γ '=1/3>
+
+#### Uncertainly read number
+
+_To get this PN preview:_ `σ̣ν̣ϛ̣´`
+
+_Use this Leiden+:_ `<#σ̣ν̣ϛ̣ '=1/256#>`
+
+_To create this XML:_ `<num value="1/256" rend="tick"><unclear>σνϛ</unclear></num>`
+
+_Example PN Link:_ [O.Bodl.2](http://papyri.info/hgv/72534)
+
+Underdot numbers as you would any other uncertainly read character.
+
+#### Illegible numbers
+
+_To get this PN preview:_ `  ̣  ̣`
+
+_Use this Leiden+:_ `<#.2=#>`
+
+_To create this XML:_ `<num><gap reason="illegible" quantity="2" unit="character"/></num>`
+
+_Example PN Link:_ [P.Oxy.64.4435](http://papyri.info/hgv/32161)
+
+To indicate presence of an illegible number
+
+#### Missing numbers
+
+_To get this PN preview:_ `[  ̣  ̣ ]`
+
+_Use this Leiden+:_ `<#[.2]=#>`
+
+_To create this XML:_ `<num><gap reason="lost" quantity="2" unit="character"/></num>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+To indicate a lost number, simply enter a lacuna where you would normally enter the Greek number and leave the value blank.
+
+#### Number, no symbol
+
+_To get this PN preview:_ `nothing`
+
+_Use this Leiden+:_ `<#=4#>`
+
+_To create this XML:_ `<num value="4"/>`
+
+_Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
+
+Numbers that are spelled out in Latin and Greek are followed by 'empty' number tags.
+
+#### Number, fraction, no symbol
+
+_To get this PN preview:_ `nothing`
+
+_Use this Leiden+:_ `<#=1/8#>`
+
+_To create this XML:_ `<num value="1/8"/>`
+
+_Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
+
+Numbers that are spelled out in Latin and Greek are followed by 'empty' number tags.
+
+#### Number with symbol & value with markup
+
+_To get this PN preview:_ `ι[ε(?)] = SoSOL, α[ε][̣]̣ = PN`
+
+_Use this Leiden+:_ `<#ι[ε(?)]=15#>`
+
+_To create this XML:_ `<num value="15">ι<supplied reason="lost" cert="low">ε</supplied></num>`
+
+_Example PN Link:_ [P.Berl.Leihg.1.8](http://papyri.info/hgv/10217)
+
+Need to create detailed instructions and explanation
+
 ### Diacriticals
 ### Special Characters
 ## Language
