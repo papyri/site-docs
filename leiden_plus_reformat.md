@@ -18,12 +18,12 @@ Where do we put these sections from the original documentation?
     - [Illegible](#illegible)
     - [Vestiges](#vestiges)
 - [Leiden Conventions](#leiden-conventions)
-    - Leiden Angle Brackets `< >`
-    - Leiden Braces `{ }`
-    - Leiden Double Square Brackets `〚 〛`
-    - Leiden Parentheses `( )`
-    - Leiden Square Brackets `[ ]`
-    - Leiden Underline `___`
+    - [Leiden Angle Brackets `< >`](#leiden-angle-brackets--)
+    - [Leiden Braces `{ }`](#leiden-braces--)
+    - [Leiden Double Square Brackets `〚 〛`](#leiden-double-square-brackets--)
+    - [Leiden Parentheses `( )`](#leiden-parentheses--)
+    - [Leiden Square Brackets `[ ]`](#leiden-square-brackets--)
+    - [Leiden Underline `___`](#leiden-underline-___)
 - Other Editorial Conventions
     - Handshift
     - Editorial Note
