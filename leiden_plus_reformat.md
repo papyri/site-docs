@@ -1359,6 +1359,163 @@ _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 If the default language of a text is Greek, mark strings of Latin as follows: `~|comes|~la`
 
 ### Omitted
+
+#### Omitted language
+
+_To get this PN preview:_ `Demotic 1 line`
+
+_Use this Leiden+:_ `(Lang: Demotic 1 lines)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap>`
+
+_Example PN Link:_ [P.Hib.1.142](http://papyri.info/hgv/4593)
+
+Lines of Demotic omitted from DDbDP or edition.
+
+#### Omitted language
+
+_To get this PN preview:_ `Coptic ? lines`
+
+_Use this Leiden+:_ `(Lang: Coptic ? lines)`
+
+_To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="line"><desc>Coptic</desc></gap>`
+
+_Example PN Link:_ [Stud.Pal.10.172](http://papyri.info/hgv/15004)
+
+Lines of Coptic omitted from DDbDP or edition.
+
+#### Omitted language
+
+_To get this PN preview:_ `Demotic ? lines`
+
+_Use this Leiden+:_ `(Lang: Demotic ? lines)`
+
+_To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="line"><desc>Demotic</desc></gap>`
+
+_Example PN Link:_ [T.Mom.Louvre.30](http://papyri.info/hgv/54520)
+
+Unknown number of lines of Demotic omitted from DDbDP or edition.
+
+#### Omitted language
+
+_To get this PN preview:_ `Demotic 2 characters`
+
+_Use this Leiden+:_ `(Lang: Demotic 2 char)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="2" unit="character"><desc>Demotic</desc></gap>`
+
+_Example PN Link:_ [O.Wilck.457](http://papyri.info/hgv/50773)
+
+Demotic characters omitted from DDbDP or edition.
+
+#### Omitted language
+
+_To get this PN preview:_ `Demotic ? characters`
+
+_Use this Leiden+:_ `(Lang: Demotic ? char)`
+
+_To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="character"><desc>Demotic</desc></gap>`
+
+_Example PN Link:_ [O.Leid.15](http://papyri.info/hgv/43479)
+
+Unknown number of Demotic characters omitted from DDbDP or edition.
+
+#### Untranscribed
+
+_To get this PN preview:_ `19 lines untranscribed`
+
+_Use this Leiden+:_ `(Lines: 19 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="19" unit="line"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [P.Tebt.2.574](http://papyri.info/hgv/28475)
+
+Known number of lines left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `? lines untranscribed`
+
+_Use this Leiden+:_ `(Lines: ? non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="line"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [Stud.Pal.10.178](http://papyri.info/hgv/38980)
+
+Unknown number of lines left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `1-3 lines untranscribed`
+
+_Use this Leiden+:_ `(Lines: 1-3 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" atLeast="1" atMost="3" unit="line"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [P.Oxy.58.3958](http://papyri.info/hgv/17940)
+
+Range of lines left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `ca.7 lines untranscribed`
+
+_Use this Leiden+:_ `(Lines: ca.7 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="7" unit="line" precision="low"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [P.Oxy.2.396](http://papyri.info/hgv/25686)
+
+Estimated number of lines left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `? characters untranscribed`
+
+_Use this Leiden+:_ `(Chars: ? non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="character"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [SB.20.14952](http://papyri.info/hgv/29504)
+
+Unknown number of characters left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `1 character untranscribed`
+
+_Use this Leiden+:_ `(Chars: 1 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="1" unit="character"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:
+
+Known number of characters left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `1-2 characters untranscribed`
+
+_Use this Leiden+:_ `(Chars: 1-2 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" atLeast="1" atMost="2" unit="character"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ [P.Eleph.Wagner.1.365](http://papyri.info/hgv/34332)
+
+Range of characters left untranscribed by editor.
+
+#### Untranscribed
+
+_To get this PN preview:_ `ca.18 characters untranscribed`
+
+_Use this Leiden+:_ `(Chars: ca.18 non transcribed)`
+
+_To create this XML:_ `<gap reason="ellipsis" quantity="18" unit="character" precision="low"><desc>non transcribed</desc></gap>`
+
+_Example PN Link:_ 
+
+Estimated number of characters left untranscribed by editor.
+
 ### Orthographic Regularization, for Language
 
 _To get this PN preview:_ `Text: ⲁⲣⲁⲕ….App: i.e. Greek ἄρακος`
