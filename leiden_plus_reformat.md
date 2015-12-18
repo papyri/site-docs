@@ -556,6 +556,89 @@ For symbols that are partially expanded enter as follows (for example because th
 Note: leave two spaces between the last character and the closing parens.
 
 ### Leiden Square Brackets `[ ]`
+
+#### Lost character gap quantity precision low
+
+_To get this PN preview:_ `[ -ca.5- ]`
+
+_Use this Leiden+:_ `[ca.5]`
+
+_To create this XML:_ `<gap reason="lost" quantity="5" unit="character" precision="low"/>`
+
+_Example PN Link:_ [O.Douch.2.88](http://papyri.info/hgv/34423)
+
+To indicate an approximate number of lost characters inside lacuna, enter `[ca.5]`, where `'5'` is the number of lost characters.
+
+#### Lost character gap quantity
+
+_To get this PN preview:_ `[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ] / [ -ca.43- ]`
+
+_Use this Leiden+:_ `[.8] or [.43]`
+
+_To create this XML:_ `<gap reason="lost" quantity="8" unit="character"/> or <gap reason="lost" quantity="43" unit="character"/>`
+
+_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
+
+Known number of characters lost in lacuna. Note: all strings of lost characters greater than 8 are rendered as approximations. So, `"[.43]"` will be encoded as a piece of editorial certainty, but will nevertheless be displayed as an approximation: `"[ - ca.43 - ]"`
+
+#### Lost character gap range
+
+_To get this PN preview:_ `[ -ca.11-15- ]`
+
+_Use this Leiden+:_ `[.11-15]`
+
+_To create this XML:_ `<gap reason="lost" atLeast="11" atMost="15" unit="character"/>`
+
+_Example PN Link:_ [P.Oxy.46.3285](http://papyri.info/hgv/63672)
+
+Known range of characters lost in lacuna.
+
+#### Lost character gap unknown quantity
+
+_To get this PN preview:_ `[ - ca. ? - ]`
+
+_Use this Leiden+:_ `[.?]`
+
+_To create this XML:_ `<gap reason="lost" extent="unknown" unit="character"/>`
+
+_Example PN Link:_ [O.Berenike.1.6](http://papyri.info/ddbdp/o.berenike;1;6)
+
+Unknown number of characters lost in lacuna.
+
+#### Supplied lost words
+
+_To get this PN preview:_ `[ὁμο]λογῶ`
+
+_Use this Leiden+:_ `[ὁμο]λογῶ`
+
+_To create this XML:_ `<supplied reason="lost">ὁμο</supplied>λογῶ`
+
+_Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
+
+Letters lost in lacuna, restored by modern editor.
+
+#### Supplied lost cert low
+
+_To get this PN preview:_ `ἡμετέρ[α μήτηρ (?) - ca. ? - ]`
+
+_Use this Leiden+:_ `ἡμετέρ[α μήτηρ (?)] [.?]`
+
+_To create this XML:_ `ἡμετέρ<supplied reason="lost" cert="low">α μήτηρ </supplied> <gap reason="lost" extent="unknown" unit="character"/>`
+
+_Example PN Link:_ [P.Matr.5](http://papyri.info/hgv/18218)
+
+Letters lost in lacuna, restored by modern editor; restoration uncertain 
+
+Example: `ἡμετέρ[α μήτηρ (?) -ca.?- ]`
+
+Note that the restoration of μήτηρ is uncertain, but the lacuna after it is not. Thus, encode as follows: 
+
+    ἡμετέρ[α μήτηρ (?)] [.?] 
+
+In order to indicate that the one restoration is uncertain and the other certain. For even greater precision, we might enter: 
+
+    ἡμετέρ[α] [μήτηρ (?)] [.?] 
+
 ### Leiden Underline `___`
 #### Supplied
 ## Other Editorial Conventions
