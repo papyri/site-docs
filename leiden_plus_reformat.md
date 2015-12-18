@@ -1,11 +1,5 @@
 # Text Leiden+ Documentation
 
-Where do we put these sections from the original documentation?
-
-- Inserted / added text
-
-* * *
-
 - [Formatting - Word and Document](#formatting---word-and-document)
     - [Document Division](#document-division)
     - [Line Number](#line-number)
@@ -428,7 +422,67 @@ _Example PN Link:_
 
 Vacat of estimated number of lines.
 
-### Marginalia vel sim.
+### Marginalia
+
+#### Text inserted / added above line
+
+_To get this PN preview:_ `\ὅλων/`
+
+_Use this Leiden+:_ `\ὅλων/`
+
+_To create this XML:_ `<add place="above">ὅλων</add>`
+
+_Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
+
+To indicate text inserted or added above a line, as 'afterthought' or self-correction (for conventional drop-ins: `\καὶ/`)
+
+#### Text inserted / added below line
+
+_To get this PN preview:_ `/δ\`
+
+_Use this Leiden+:_ `//<#δ=4#>\\`
+
+_To create this XML:_ `<add place="below"><num value="4">δ</num></add>`
+
+_Example PN Link:_
+
+To indicate text inserted or added below a line, as 'afterthought' or self-correction (see print conventional: `/καὶ\`)
+
+#### Text inserted / added to the left margin
+
+_To get this PN preview:_ `(added at left: αβγ)`
+
+_Use this Leiden+:_ `||left:καὶ||`
+
+_To create this XML:_ `<add place="left">καὶ</add>`
+
+_Example PN Link:_ [p.jena;2;10](http://papyri.info/hgv/128690)
+
+To indicate text inserted / added to the left of a line
+
+#### Text inserted / added to the right margin
+
+_To get this PN preview:_ `(added at right: αβγ)`
+
+_Use this Leiden+:_ `||right:καὶ||`
+
+_To create this XML:_ `<add place="right">καὶ</add>`
+
+_Example PN Link:_
+
+To indicate text inserted / added to the right of a line
+
+#### Text added between lines
+
+_To get this PN preview:_ `ὧν (in smaller font)`
+
+_Use this Leiden+:_ `>) ὧ( ῾)ν(<`
+
+_To create this XML:_ `<add place="interlinear"><hi rend="asper">ὧ</hi>ν</add>`
+
+_Example PN Link:_ [P.Panop.14](http://papyri.info/hgv/32564)
+
+To indicate text added between two lines
 
 #### Text sling in margin
 
