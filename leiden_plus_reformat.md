@@ -1279,7 +1279,7 @@ To be used for two classes of 'correction':
 
 In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that DDbDP now presents the reading of the papyrus in the text and the regularized reading in the apparatus (per modern convention). To support that change, we now enter orthographic 'corrections' differently. 
 
-1. For φρόνδει[σ]ο̣ν --> φρόντισον encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
+1. For `φρόνδει[σ]ο̣ν --> φρόντισον` encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
 2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
 
 #### Apparatus, orthographic regularization, multiple
