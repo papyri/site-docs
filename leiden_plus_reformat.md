@@ -1336,6 +1336,19 @@ Need to create detailed instructions and explanation
 
 ### Diacriticals
 ### Special Characters
+
+#### Figure on papyri
+
+_To get this PN preview:_ `seal`
+
+_Use this Leiden+:_ `#seal`
+
+_To create this XML:_ `<figure><figDesc>seal</figDesc></figure>`
+
+_Example PN Link:_ [P.Cair.Zen.1.59003](http://papyri.info/ddbdp/p.cair.zen;1;59003)
+
+Need to create detailed instructions and explanation
+
 ## Language
 
 ### Non-default Language
