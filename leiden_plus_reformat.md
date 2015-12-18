@@ -331,6 +331,103 @@ _Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
 For use in rare cases in which lines are presented so as not to indicate break; not recommended.
  
 ### Vacat
+
+#### Character space extent unknown
+
+_To get this PN preview:_ `vac.`
+
+_Use this Leiden+:_ `vac.?`
+
+_To create this XML:_ `<space extent="unknown" unit="character"/>`
+
+_Example PN Link:_ [P.Berl.Leihg.2.39](http://papyri.info/hgv/10223)
+
+Vacat of unknown number of characters. It is tempting to use `vac.?` to replicate the modern print publication convention of separating, e.g. items from numbers in accounts and the like. Rampant use of `vac.?` for this purpose is discouraged. Use `vac.?` only where there is empty space on the physical text; if such is not verifiable against image or original do not use `vac.?`.
+
+#### Character space quantity
+
+_To get this PN preview:_ `--> vac.3`
+
+_Use this Leiden+:_ `vac.3`
+
+_To create this XML:_ `<space quantity="3" unit="character"/>`
+
+_Example PN Link:_
+
+Vacat of known number of characters.
+
+#### Character space range
+
+_To get this PN preview:_ `--> vac.2-5`
+
+_Use this Leiden+:_ `vac.2-5`
+
+_To create this XML:_ `<space atLeast="2" atMost="5" unit="character"/>`
+
+_Example PN Link:_
+
+Vacat of known range of characters.
+
+#### Character space quantity precision low
+
+_To get this PN preview:_ `--> vac. ca.3`
+
+_Use this Leiden+:_ `vac.ca.3`
+
+_To create this XML:_ `<space quantity="3" unit="character" precision="low"/>`
+
+_Example PN Link:_
+
+Vacat of estimated range of characters.
+
+#### Line space extent unknown
+
+_To get this PN preview:_ `--> vac. ? lines`
+
+_Use this Leiden+:_ `vac.?lin`
+
+_To create this XML:_ `<space extent="unknown" unit="line"/>`
+
+_Example PN Link:_
+
+Vacat of unknown number of lines.
+
+#### Line space quantity
+
+_To get this PN preview:_ `--> vac. 3 lines`
+
+_Use this Leiden+:_ `vac.3lin`
+
+_To create this XML:_ `<space quantity="3" unit="line"/>`
+
+_Example PN Link:_
+
+Vacat of known number of lines.
+
+#### Line space range
+
+_To get this PN preview:_ `--> vac. 2-5 lines`
+
+_Use this Leiden+:_ `vac.2-5lin`
+
+_To create this XML:_ `<space atLeast="2" atMost="5" unit="line"/>`
+
+_Example PN Link:_
+
+Vacat of known range of lines.
+
+#### Line space quantity precision low
+
+_To get this PN preview:_ `--> vac ca.3 lines`
+
+_Use this Leiden+:_ `vac.ca.3lin`
+
+_To create this XML:_ `<space quantity="3" unit="line" precision="low"/>`
+
+_Example PN Link:_
+
+Vacat of estimated number of lines.
+
 ### Marginalia vel sim.
 
 #### Text sling in margin
