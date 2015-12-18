@@ -1088,7 +1088,7 @@ For symbols that are partially expanded enter as follows (for example because th
 
 Note: leave two spaces between the last character and the closing parens.
 
-### Leiden Square Brackets `[ ]`
+### Leiden Square Brackets `[ ]` <a id="leiden-square-brackets--"></a>
 
 #### Lost character gap quantity
 
