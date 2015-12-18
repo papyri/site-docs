@@ -858,6 +858,17 @@ _Example PN Link:_ [BGU.1.108](http://papyri.info/ddbdp/bgu;1;108)
 To indicate modern editorial comment, for example that the recto of a given text has been republished elsewhere, or that a missing string should be a month name. Use sparingly.
 
 ### Quotation
+
+_To get this PN preview:_ `'ὁ γὰ̣ρ̣ ἐ̣λ̣εῶ̣ν̣ [πτωχόν]'`
+
+_Use this Leiden+:_ `" ὁ γὰ̣ρ̣ ἐ̣λ̣εῶ̣ν̣ [πτωχόν] "`
+
+_To create this XML:_ `<q> ὁ γ<unclear>ὰρ</unclear> <unclear>ἐλ</unclear>ε<unclear>ῶν</unclear> <supplied reason="lost">πτωχόν</supplied> </q>`
+
+_Example PN Link:_ [P.Gen.2.1.14](http://papyri.info/hgv/34027)
+
+Modern mark indicating quotation.
+
 ## Apparatus
 ### Orthographic Regularization
 
