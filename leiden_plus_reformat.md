@@ -332,6 +332,43 @@ For use in rare cases in which lines are presented so as not to indicate break; 
  
 ### Vacat
 ### Marginalia vel sim.
+
+#### Text sling in margin
+
+_To get this PN preview:_ `ν`
+
+_Use this Leiden+:_ `<|ν|>`
+
+_To create this XML:_ `<add rend="sling" place="margin">ν</add>`
+
+_Example PN Link:_ [BGU.1.303](http://papyri.info/hgv/41055)
+
+Need to create detailed instructions and explanation
+
+#### Text underline in margin
+
+_To get this PN preview:_ `οὕτως ἔχει`
+
+_Use this Leiden+:_ `<_οὕτως ἔχει_>`
+
+_To create this XML:_ `<add rend="underline" place="margin">οὕτως ἔχει</add>`
+
+_Example PN Link:_ [P.Prag.2.137](http://papyri.info/hgv/12794)
+
+Need to create detailed instructions and explanation
+
+#### Text above line with cert low
+
+_To get this PN preview:_ `Θέ̣ων̣(?) = SoSOL, Θέ̣ων̣(?)/ = PN`
+
+_Use this Leiden+:_ `Θέ̣ων̣?/`
+
+_To create this XML:_ `<add cert="low" place="above">Θ<unclear>έ</unclear>ω<unclear>ν</unclear></add>`
+
+_Example PN Link:_ [PSI.4.281](http://papyri.info/ddbdp/psi;4;281)
+
+Need to create detailed instructions and explanation
+
 ### Special Formatting
 
 #### Text in box
