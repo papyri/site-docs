@@ -362,6 +362,33 @@ Note: for cases like `ἀπ<ε>γραψάμην` the DDbDP has historically ente
 For more on this, see the documentation entry under Orthographic Correction.
 
 ### Leiden Braces `{ }`
+
+#### Surplus text
+
+_To get this PN preview:_ `{ὀνόματος}`
+
+_Use this Leiden+:_ `{ὀνόματος}`
+
+_To create this XML:_ `<surplus>ὀνόματος</surplus>`
+
+_Example PN Link:_ [P.Oxy.50.3583](http://papyri.info/hgv/15402)
+
+Surplus text written by scribe, deleted by modern editor. To indicate such text enclose it in braces: e.g. `{ὀνόματος}`, `ὀνό{μ}ματος`.
+
+#### Surplus text (inline)
+
+_To get this PN preview:_ `ὁμο{μο}λογῶ.`
+
+_Use this Leiden+:_ `ὁμο{μο}λογῶ.`
+
+_To create this XML:_ `ὁμο<surplus>μο</surplus>λογῶ.`
+
+_Example PN Link:_
+
+Surplus text written by scribe, deleted by modern editor. 
+
+For cases like `ὁμολογῶι` enter an orthographic regularization of the entire word, i.e. `<:ὁμολογῶ|reg|ὁμολογῶι:>`. But where the letter(s) is genuinely superfluous, use braces: `ὁμο{μο}λογῶ`.
+
 ### Leiden Double Square Brackets `〚 〛`
 ### Leiden Parentheses `( )`
 ### Leiden Square Brackets `[ ]`
