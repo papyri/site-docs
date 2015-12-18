@@ -215,78 +215,6 @@ Note that no matter how nested the divisions are, the pair of tags directly adja
 
 ### Line Number
 
-#### Line rendered perpendicular to the main body of text
-
-_To get this PN preview:_ `ø --> 2. (perpendicular)`
-
-_Use this Leiden+:_ `(2, perpendicular)`
-
-_To create this XML:_ `<lb n="2" rend="perpendicular"/>`
-
-_Example PN Link:_ [P.Berl.Bibl.12](http://papyri.info/hgv/31065)
-
-Numbered line written perpendicular to main text.
-
-#### Line rendered inverse to the main body of text
-
-_To get this PN preview:_ `ø --> 8. (inverse)`
-
-_Use this Leiden+:_ `(8, inverse)`
-
-_To create this XML:_ `<lb n="8" rend="inverse"/>`
-
-_Example PN Link:_ [P.Oxy.16.1951](http://papyri.info/hgv/35611)
-
-Numbered line written inverse to main text.
-
-#### Line rendered perpendicular to the main body of text in left margin
-
-_To get this PN preview:_ `8,ms --> 8,ms (perpendicular)`
-
-_Use this Leiden+:_ `(8,ms, perpendicular)`
-
-_To create this XML:_ `<lb n="8,ms" rend="perpendicular"/>`
-
-_Example PN Link:_ [P.Harr.1.161](http://papyri.info/hgv/37268)
-
-Numbered line written in left margin and perpendicular to main text.
-
-#### Line rendered inverse to the main body of text in lower margin
-
-_To get this PN preview:_ `16,minf --> 16,minf (inverse) NOTE: getting cut off at left`
-
-_Use this Leiden+:_ `(16,minf, inverse)`
-
-_To create this XML:_ `<lb n="16,minf" rend="inverse"/>`
-
-_Example PN Link:_ [P.Cair.Zen.5.59838](http://papyri.info/hgv/1462)
-
-Numbered line written in lower margin and inverse to main text.
-
-#### Line written in left margin
-
-_To get this PN preview:_ `3,ms`
-
-_Use this Leiden+:_ `3,ms.`
-
-_To create this XML:_ `<lb n="3,ms"/>`
-
-_Example PN Link:_ [P.Hib.1.74](http://papyri.info/hgv/8223)
-
-Numbered line written in left margin.
-
-#### Line 5 to 6
-
-_To get this PN preview:_ `5/6`
-
-_Use this Leiden+:_ `5/6.`
-
-_To create this XML:_ `<lb n="5/6"/>`
-
-_Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
-
-For use in rare cases in which lines are presented so as not to indicate break; not recommended.
-
 #### Line break
 
 _To get this PN preview:_ `1.`
@@ -317,7 +245,31 @@ Words that wrap from the end of one line to the beginning of the next. Note that
 In the PN the hyphen will be displayed in the expected location:
 
 		ἃς καὶ ἀποδώσει ἐν μηνὶ Πα- 
-		ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους 
+		ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους
+
+#### Line rendered perpendicular to the main body of text
+
+_To get this PN preview:_ `ø --> 2. (perpendicular)`
+
+_Use this Leiden+:_ `(2, perpendicular)`
+
+_To create this XML:_ `<lb n="2" rend="perpendicular"/>`
+
+_Example PN Link:_ [P.Berl.Bibl.12](http://papyri.info/hgv/31065)
+
+Numbered line written perpendicular to main text.
+
+#### Line rendered inverse to the main body of text
+
+_To get this PN preview:_ `ø --> 8. (inverse)`
+
+_Use this Leiden+:_ `(8, inverse)`
+
+_To create this XML:_ `<lb n="8" rend="inverse"/>`
+
+_Example PN Link:_ [P.Oxy.16.1951](http://papyri.info/hgv/35611)
+
+Numbered line written inverse to main text.
 
 #### Line with word-wrap written inverse to main text
 
@@ -331,6 +283,54 @@ _Example PN Link:_ [SB.24.16170](http://papyri.info/ddbdp/sb;24;16170)
 
 For lines written inverse / perpendicular to main text and containing a word-wrap, simply add hyphen to the regular convention.
 
+#### Line written in left margin
+
+_To get this PN preview:_ `3,ms`
+
+_Use this Leiden+:_ `3,ms.`
+
+_To create this XML:_ `<lb n="3,ms"/>`
+
+_Example PN Link:_ [P.Hib.1.74](http://papyri.info/hgv/8223)
+
+Numbered line written in left margin.
+
+#### Line rendered perpendicular to the main body of text in left margin
+
+_To get this PN preview:_ `8,ms --> 8,ms (perpendicular)`
+
+_Use this Leiden+:_ `(8,ms, perpendicular)`
+
+_To create this XML:_ `<lb n="8,ms" rend="perpendicular"/>`
+
+_Example PN Link:_ [P.Harr.1.161](http://papyri.info/hgv/37268)
+
+Numbered line written in left margin and perpendicular to main text.
+
+#### Line rendered inverse to the main body of text in lower margin
+
+_To get this PN preview:_ `16,minf --> 16,minf (inverse) NOTE: getting cut off at left`
+
+_Use this Leiden+:_ `(16,minf, inverse)`
+
+_To create this XML:_ `<lb n="16,minf" rend="inverse"/>`
+
+_Example PN Link:_ [P.Cair.Zen.5.59838](http://papyri.info/hgv/1462)
+
+Numbered line written in lower margin and inverse to main text.
+
+#### Line 5 to 6
+
+_To get this PN preview:_ `5/6`
+
+_Use this Leiden+:_ `5/6.`
+
+_To create this XML:_ `<lb n="5/6"/>`
+
+_Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
+
+For use in rare cases in which lines are presented so as not to indicate break; not recommended.
+ 
 ### Vacat
 ### Marginalia vel sim.
 ### Special Formatting
