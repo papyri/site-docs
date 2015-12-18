@@ -428,6 +428,133 @@ _Example PN Link:_ [p.lips;1;98](http://papyri.info/ddbdp/p.lips;1;98)
 Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
 
 ### Leiden Parentheses `( )`
+
+#### Abbreviation, `στρατηγ( )`
+
+_To get this PN preview:_ `ομυο( )`
+
+_Use this Leiden+:_ `(|ομυο|)`
+
+_To create this XML:_ `<abbr>ομυο</abbr>`
+
+_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
+
+Ancient abbreviations. Note: Leiden+ treats resolved and unresolved abbreviations differently: so, enter
+
+    (στρατηγ(ός)) for στρατηγ(ός)
+
+but enter
+
+    (|στρατηγ|) for στρατηγ( )
+
+#### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
+
+_To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
+
+_Use this Leiden+:_ `(|[.8]χυρι̣ο|)`
+
+_To create this XML:_ `<abbr><gap reason="lost" quantity="8" unit="character"/>χυρ<unclear>ι</unclear>ο</abbr>`
+
+_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
+
+For unresolved abbreviations: `(|σ[τρ]α̣τ̣ηγ|) = σ[τρ]α̣τ̣ηγ( )`
+
+#### Abbreviation, `λ( )(?)`
+
+_To get this PN preview:_ `λ( )(?)`
+
+_Use this Leiden+:_ `(|λ(?)|)`
+
+_To create this XML:_ `<abbr>λ<certainty locus="name" match=".."/></abbr>`
+
+_Example PN Link:_ [P.Lips.1.40](http://papyri.info/hgv/33700)
+
+Ancient abbreviations. Where the expansion is unknown and it is not even certain whether the character(s) on the papyrus is meant to be an expansion or not, enter: 
+
+    (|λ(?)|) 
+
+This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
+
+#### Expan on part of word `στρατηγ(ός)`
+
+_To get this PN preview:_ `Καρ(ανίδι)`
+
+_Use this Leiden+:_ `(Καρ(ανίδι))`
+
+_To create this XML:_ `<expan>Καρ<ex>ανίδι</ex></expan>`
+
+_Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
+
+Ancient abbreviations. Note: Leiden+ handles `στρατηγ( )` and `στρατηγ(ός)` differently. Where the abbreviation is expanded -- as in the case of `στρατηγ(ός)` -- enter as follows: `(στρατηγ(ός))`. For the other case, see elsewhere under Leiden Parentheses ( ).
+
+#### Uncertain expansion of part of a word `Καρ(ανίδι(?))`
+
+_To get this PN preview:_ `Καρ(ανίδι(?))`
+
+_Use this Leiden+:_ `(Καρ(ανίδι?))`
+
+_To create this XML:_ `<expan>Καρ<ex cert="low">ανίδι</ex></expan>`
+
+_Example PN Link:_ bgu;1;154
+
+Ancient abbreviations. For uncertain expansions, add `"?"` inside the expanded part of the word `(στρατηγ(ός)) --> (στρατηγ(ός?))`.
+
+#### Partial expansion of part of a word `Καρ(ανίδ )`
+
+_To get this PN preview:_ `Καρ(ανίδ ) --> Καρ(ανίδ-)???`
+
+_Use this Leiden+:_ `(Καρ(ανίδ ))`
+
+_To create this XML:_ `<expan>Καρ<ex>ανίδ </ex></expan>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
+
+Ancient abbreviations. Where a word is only partially expanded (for example because the termination is unknown), enter as follows: 
+
+    Καρ(ανίδ ) 
+
+Note: leave two spaces between the last character and the closing parens.
+
+#### Expansion of whole word `(ἔτους)`
+
+_To get this PN preview:_ `((ἔτους))`
+
+_Use this Leiden+:_ `((ἔτους))`
+
+_To create this XML:_ `<expan><ex>ἔτους</ex></expan>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
+
+For symbols that are fully expanded enter as follows: `((ἔτους))`.
+
+#### Expansion of whole word `(ἔ̣τ̣ο̣υ̣ς̣) / (ἔτους?)`
+
+_To get this PN preview:_ `(ἔτους(?))`
+
+_Use this Leiden+:_ `((ἔτους?))`
+
+_To create this XML:_ `<expan><ex cert="low">ἔτους</ex></expan>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
+
+For symbols that are fully expanded, but uncertainly read enter as follows: `((ἔτους?))`. This is often represented in print by `(ἔ̣τ̣ο̣υ̣ς̣) / (ἔτους?)`.
+
+#### Partial expansion of whole word `(δραχμ )`
+
+_To get this PN preview:_ `(ἔτ ) --> (ἔτ-)???`
+
+_Use this Leiden+:_ `((ἔτ ))`
+
+_To create this XML:_ `<expan><ex>ἔτ </ex></expan>`
+
+_Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
+
+For symbols that are partially expanded enter as follows (for example because the termination is unknown): 
+
+    ((ἔτ )) 
+
+Note: leave two spaces between the last character and the closing parens.
+
 ### Leiden Square Brackets `[ ]`
 ### Leiden Underline `___`
 #### Supplied
