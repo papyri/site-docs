@@ -46,7 +46,7 @@ Where do we put these sections from the original documentation?
     - Diacriticals
     - Special Characters
 - Language
-    - Language
+    - Non-default Language
     - Omitted
     - Orthographic Regularization, for Language
 
@@ -721,7 +721,38 @@ or, any class of correction may be 'nested' inside any other (as above).
 ### Diacriticals
 ### Special Characters
 ## Language
-### Language
+
+### Non-default Language
+
+_To get this PN preview:_ `γενήσεται`
+
+_Use this Leiden+:_ `~|γενήσεται|~grc`
+
+_To create this XML:_ `<foreign xml:lang="grc">γενήσεται</foreign>`
+
+_Example PN Link:_ [SB.20.14688](http://papyri.info/hgv/23792)
+
+Indicate text strings written in a language/script other than the document's default as follows: 
+
+		Greek = ~|γενήσεται|~grc 
+		Latin = ~|comes|~la 
+		Ancient Greek in Latin script = ~|di emu|~grc-Latn 
+		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek 
+
+NOTE: You must enter a space after the language designator; so, not `"~la"`, but `"~la "`.
+
+#### Non-default Language: Latin
+
+_To get this PN preview:_ `comes`
+
+_Use this Leiden+:_ `~|comes|~la`
+
+_To create this XML:_ `<foreign xml:lang="la">comes</foreign>`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+If the default language of a text is Greek, mark strings of Latin as follows: `~|comes|~la`
+
 ### Omitted
 ### Orthographic Regularization, for Language
 
