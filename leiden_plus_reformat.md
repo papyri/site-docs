@@ -322,6 +322,45 @@ To indicate a range of illegible lines.
 ### Vestiges
 ## Leiden Conventions
 ### Leiden Angle Brackets `< >`
+
+#### Supplied omitted
+
+_To get this PN preview:_ `<ἀπεγραψάμην>`
+
+_Use this Leiden+:_ `<ἀπεγραψάμην>`
+
+_To create this XML:_ `<supplied reason="omitted">ἀπεγραψάμην</supplied>`
+
+_Example PN Link:_ [BGU.1.117](http://papyri.info/hgv/8891)
+
+Text omitted by scribe, inserted by modern editor. To indicate such added text, enclose it in angle brackets: e.g. `<ἀπεγραψάμην>`, `ἀπ<ε>γραψάμην`, etc.
+
+#### Supplied omitted (uncertain)
+
+_To get this PN preview:_ `<οὐκ(?)>`
+
+_Use this Leiden+:_ `<οὐκ(?)>`
+
+_To create this XML:_ `<supplied reason="omitted" cert="low">οὐκ</supplied>`
+
+_Example PN Link:_ [P.Oxy.50.3581](http://papyri.info/hgv/32313)
+
+To indicate text omitted by scribe and uncertainly inserted by modern editor.
+
+#### Supplied omitted (inline)
+
+_To get this PN preview:_ `ἀπ<ε>γραψάμην`
+
+_Use this Leiden+:_ `ἀπ<ε>γραψάμην`
+
+_To create this XML:_ `ἀπ<supplied reason="omitted">ε</supplied>γραψάμην`
+
+_Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
+
+Note: for cases like `ἀπ<ε>γραψάμην` the DDbDP has historically entered an orthographic correction of the entire word, i.e. `<:ἀπεγραψάμην|orth|απγραψαμην:>`. Recommended practice now is to enter just the angle brackets wherever possible: `ἀπ<ε>γραψάμην`. 
+
+For more on this, see the documentation entry under Orthographic Correction.
+
 ### Leiden Braces `{ }`
 ### Leiden Double Square Brackets `〚 〛`
 ### Leiden Parentheses `( )`
