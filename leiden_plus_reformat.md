@@ -887,11 +887,38 @@ In order to indicate that the one restoration is uncertain and the other certain
 #### Supplied parallel
 
 _To get this PN preview:_ `Πόσεις`
+
 _Use this Leiden+:_ `|_Πόσεις_|`
+
 _To create this XML:_ `<supplied evidence="parallel" reason="undefined">Πόσεις</supplied>`
+
 _Example PN Link:_ [P.Berl.Leihg.2.39](http://papyri.info/ddbdp/p.berl.leihg;2;39)
 
 Text supplied from parallel text, other copy, or transcription of previously visible text that is now lost or illegible.
+
+#### Supplied parallel, low certainty
+
+_To get this PN preview:_ `ἀρ(τάβας(?)) δωδέκ(ατον) εἰκ(οστοτέταρτον(?)) (ἀρτάβας) ιβ´ κδ´ † Ἀγαθάμμωνapp02 †/ ((tachygraphic-marks))`
+
+_Use this Leiden+:_ `|_(ἀρ(τάβας?)) (δωδέκ(ατον)) (εἰκ(οστοτέταρτον?)) ((ἀρτάβας)) <#ιβ=frac1/12#> <#κδ=frac1/24#> *stauros* <:Ἀγαθάμμων|BL:8.441|(δ(ι)) (|μ|) κάμμονι:> *stauros*/ *tachygraphic-marks*(?)_|
+
+_To create this XML:_ `<supplied evidence="parallel" reason="undefined" cert="low"><expan>ἀρ<ex cert="low">τάβας</ex></expan> <expan>δωδέκ<ex>ατον</ex></expan> <expan>εἰκ<ex cert="low">οστοτέταρτον</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="1/12" rend="fraction">ι`
+
+_Example PN Link:_ [Stud.Pal.3.503](http://papyri.info/hgv/37758)
+
+Need to create detailed instructions and explanation
+
+#### Supplied parallel, lost
+
+_To get this PN preview:_ `???`
+
+_Use this Leiden+:_ `_[abc]_`
+
+_To create this XML:_ example only - `<supplied evidence="parallel" reason="lost">abc</supplied>`
+
+_Example PN Link:_
+
+Need to create detailed instructions and explanation
 
 ## Other Editorial Conventions
 ### Handshift
