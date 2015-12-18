@@ -333,6 +333,79 @@ For use in rare cases in which lines are presented so as not to indicate break; 
 ### Vacat
 ### Marginalia vel sim.
 ### Special Formatting
+
+#### Text in box
+
+_To get this PN preview:_ `Text: milestone01…App: ctr.11. Text in box`
+
+_Use this Leiden+:_ `###`
+
+_To create this XML:_ `<milestone rend="box" unit="undefined"/>`
+
+_Example PN Link:_ [BGU.7.1537](http://papyri.info/hgv/4787)
+
+To indicate text written inside a 'box'.
+
+#### Tall text
+
+_To get this PN preview:_ `ø --> render taller`
+
+_Use this Leiden+:_ `~||x||~tall`
+
+_To create this XML:_ `<hi rend="tall">x</hi>`
+
+_Example PN Link:_ [P.Oslo.2.26](http://papyri.info/hgv/21513)
+
+Oversized / tall text.
+
+#### Superscripted text
+
+_To get this PN preview:_ `superscript`
+
+_Use this Leiden+:_ `|^Ἡρωνείνῳ^|`
+
+_To create this XML:_ `<hi rend="superscript">Ἡρωνείνῳ</hi>`
+
+_Example PN Link:_ [P.Laur.1.3](http://papyri.info/hgv/31500)
+
+Text written in superscript, as distinct from text added above the line, as 'afterthought' or 'self-correction' (for which use `\καὶ/`). In general we do not encode superscript characters that indicate abbreviation.
+
+#### Subscripted text
+
+_To get this PN preview:_ `subscript`
+
+_Use this Leiden+:_ `\|τα|/`
+
+_To create this XML:_ `<hi rend="subscript">τα</hi>`
+
+_Example PN Link:_
+
+To indicate subscripted text, as distinct from text added from below the line (for which use `//καὶ\\`).
+
+#### Supraline
+
+_To get this PN preview:_ `νο ̣--> with supraline`
+
+_Use this Leiden+:_ `¯νο.1¯`
+
+_To create this XML:_ `<hi rend="supraline">νο<gap reason="illegible" quantity="1" unit="character"/></hi>`
+
+_Example PN Link:_ [P.Lips.1.102](http://papyri.info/hgv/33704)
+
+To indicate supralines, most often used in case of numbers (not, as rule, for expansions)
+
+#### Supraline and underline
+
+_To get this PN preview:_ `ø --> underline and supraline`
+
+_Use this Leiden+:_ `=εὐτύχει=`
+
+_To create this XML:_ `<hi rend="supraline-underline">εὐτύχει</hi>`
+
+_Example PN Link:_ [BGU.4.1201](http://papyri.info/hgv/18651)
+
+To indicate text that is both underlined and supralined.
+
 ## Preservation
 ### Letters Lost
 ### Lines Lost
