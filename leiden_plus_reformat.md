@@ -390,6 +390,43 @@ Surplus text written by scribe, deleted by modern editor.
 For cases like `ὁμολογῶι` enter an orthographic regularization of the entire word, i.e. `<:ὁμολογῶ|reg|ὁμολογῶι:>`. But where the letter(s) is genuinely superfluous, use braces: `ὁμο{μο}λογῶ`.
 
 ### Leiden Double Square Brackets `〚 〛`
+
+#### Deletion
+
+_To get this PN preview:_ `〚τοῖς κορασίοις〛`
+
+_Use this Leiden+:_ `〚τοῖς κορασίοις〛`
+
+_To create this XML:_ `<del rend="erasure">τοῖς κορασίοις</del>`
+
+_Example PN Link:_ [BGU.1.34](http://papyri.info/hgv/20193)
+
+Text deleted in antiquity. Note: this convention has been used to cover many modes of deletion (cancellation by slashes, expunction, strike-through, bracket-like marks on the papyrus, etc). Appearance of `〚...〛` does not imply one mode or another.
+
+#### Deletion with slashes
+
+_To get this PN preview:_ `Text: τραπέζης Φρέμει...App: 5. Text canceled with slashes`
+
+_Use this Leiden+:_ `〚/ τραπέζης Φρέμει. 〛`
+
+_To create this XML:_ `<del rend="slashes"> τραπέζης Φρέμει. </del>`
+
+_Example PN Link:_ [cpr;1;15](http://papyri.info/ddbdp/cpr;1;15)
+
+Text deleted with slashes in antiquity: `〚/ τραπέζης Φρέμει.〛`
+
+#### Deletion with cross-strokes
+
+_To get this PN preview:_ `Text: (hand 4) -ca.?-….App: v.1. Text canceled with cross-strokes`
+
+_Use this Leiden+:_ `〚X $m4 lost.?lin 〛`
+
+_To create this XML:_ `<del rend="cross-strokes"> <handShift new="m4"/> <gap reason="lost" extent="unknown" unit="line"/> </del>`
+
+_Example PN Link:_ [p.lips;1;98](http://papyri.info/ddbdp/p.lips;1;98)
+
+Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
+
 ### Leiden Parentheses `( )`
 ### Leiden Square Brackets `[ ]`
 ### Leiden Underline `___`
