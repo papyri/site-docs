@@ -98,7 +98,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also [SB X 10755](http://papyri.info/ddbdp/sb;10;10755), [SB XIV 11380](http://papyri.info/ddbdp/sb;14;11380) and [SB XX 14954](http://papyri.info/ddbdp/sb;20;14954). {ddb:p.abinn}
 
 ### P.Achm.
-= _Les Papyrus grecs d'Achmîm à la Bibliothèque Nationale de Paris_, ed. P. Collart. Cairo 1930. (BIFAO 31 [1930] 33—111). Nos. 1—9. [MF 1.73] {ddb:p.abinn}
+= _Les Papyrus grecs d'Achmîm à la Bibliothèque Nationale de Paris_, ed. P. Collart. Cairo 1930. (BIFAO 31 [1930] 33—111). Nos. 1—9. [MF 1.73] {ddb:p.achm}
 
 ### P.Ackerpacht.
 = _Demotische Ackerpachtverträge der Ptolemäerzeit. Untersuchungen zu Aufbau, Entwicklung und inhaltlichen Aspekten einer Gruppe von demotischen Urkunden_, ed. H. Felber. Wiesbaden 1997. (Ägyptologische Abhandlungen 58). 24 texts and 8 fragments are studied in this volume. Not all the texts are edited or reprinted in full and they are not numbered serially.
