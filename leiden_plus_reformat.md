@@ -1337,6 +1337,150 @@ Need to create detailed instructions and explanation
 ### Diacriticals
 ### Special Characters
 
+#### Paragraphos
+
+_To get this PN preview:_ `——`
+
+_Use this Leiden+:_ `----`
+
+_To create this XML:_ `<milestone rend="paragraphos" unit="undefined"/>`
+
+_Example PN Link:_ [BGU.1.28](http://papyri.info/hgv/9025)
+
+To indicate paragraphos between, say, lines 4 and 5, enter as follows:
+
+
+		3. text 
+
+		4. text 
+
+		---- 
+
+		5. text 
+
+
+Note: paragraphoi should be entered 'between lines', as above, and not on their own lines.
+
+#### Horizontal rule on papyrus
+
+_To get this PN preview:_ `————————`
+
+_Use this Leiden+:_ `--------`
+
+_To create this XML:_ `<milestone rend="horizontal-rule" unit="undefined"/>`
+
+_Example PN Link:_ [BGU.7.1526](http://papyri.info/hgv/4776)
+
+To indicate horizontal rule on papyrus. To indicate paragraphos between, say, lines 4 and 5, enter as follows:
+
+
+		3. text 
+
+		4. text 
+
+		-------- 
+
+		5. text 
+
+
+Note: horizontal rules should be entered 'between lines', as above, and not on their own lines.
+
+#### Non-alphabetical characters or symbols (example: slanting-stroke)
+
+_To get this PN preview:_ `/`
+
+_Use this Leiden+:_ `*slanting-stroke*`
+
+_To create this XML:_ `<g type="slanting-stroke"/>`
+
+_Example PN Link:_ [P.Berl.Leihg.2.38](http://papyri.info/hgv/10227)
+
+To indicate slanting stroke(s) written on papyrus.
+
+#### Uncertain non-alphabetical characters or symbols (example: check)
+
+_To get this PN preview:_ `/̣`
+
+_Use this Leiden+:_ `*check?*`
+
+_To create this XML:_ `<unclear><g type="check"/></unclear>`
+
+_Example PN Link:_ [BGU.1.186](http://papyri.info/hgv/8946)
+
+Unclear ancient 'check' mark on papyrus.
+
+#### Non-alphabetical character with symbol (example: Chi-rho)
+
+_To get this PN preview:_ `☧`
+
+_Use this Leiden+:_ `*chirho*`
+
+_To create this XML:_ `<g type="chirho"/g>`
+
+_Example PN Link:_
+
+To indicate chi-rho symbol; you may indicate preferred Unicode symbol: `*chirho,☧*`
+
+#### Uncertain non-alphabetical character with symbol (example: Chi-rho)
+
+_To get this PN preview:_ `☧̣`
+
+_Use this Leiden+:_ `*chirho?,☧*`
+
+_To create this XML:_ `<unclear><g type="chirho">☧</g></unclear>`
+
+_Example PN Link:_ [p.jena;2;19](http://papyri.info/hgv/128700)
+
+To indicate an uncertain chi-rho symbol; you may indicate preferred Unicode symbol: `*chirho?,☧*`
+
+#### Filler stroke
+
+_To get this PN preview:_ `―`
+
+_Use this Leiden+:_ `*filler(extension)*`
+
+_To create this XML:_ `<g rend="extension" type="filler"/>`
+
+_Example PN Link:_ [P.Berl.Leihg.1.17](http://papyri.info/hgv/10201)
+
+Filler strokes, usually at end of line.
+
+#### Filler stroke (uncertain)
+
+_To get this PN preview:_ `ø --> ―(?)`
+
+_Use this Leiden+:_ `*filler(extension)?*`
+
+_To create this XML:_ `<unclear><g rend="extension" type="filler"/></unclear>`
+
+_Example PN Link:_ [BGU.2.509](http://papyri.info/hgv/28171)
+
+Unclear filler stroke on papyrus.
+
+#### S-type etous
+
+_To get this PN preview:_ `((s-etous))`
+
+_Use this Leiden+:_ `*s-etous*`
+
+_To create this XML:_ `<g type="s-etous"/>`
+
+_Example PN Link:_ [P.Lips.1.109](http://papyri.info/hgv/22431)
+
+S-type etous symbol.
+
+#### 'Parens' on papyrus
+
+_To get this PN preview:_ `((parens-punctuation-opening)) ((parens-punctuation-closing)) --> distinct unicode parens`
+
+_Use this Leiden+:_ `*parens-punctuation-opening* *parens-punctuation-closing*`
+
+_To create this XML:_ `<g type="parens-punctuation-opening"/> <g type="parens-punctuation-closing"/>`
+
+_Example PN Link:_
+
+Text marked in antiquity with opening parens, closing parens, or both. If the ancient parens indicate(s) deletion mark the affected string with `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` and fully enclose in `〚...〛`. If the semantic meaning of the parens is not clearly deletion, then use `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` alone.
+
 #### Figure on papyri
 
 _To get this PN preview:_ `seal`
