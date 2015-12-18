@@ -24,7 +24,6 @@ Where do we put these sections from the original documentation?
     - Leiden Parentheses `( )`
     - Leiden Square Brackets `[ ]`
     - Leiden Underline `___`
-        - Supplied
 - Other Editorial Conventions
     - Handshift
     - Editorial Note
@@ -640,7 +639,16 @@ In order to indicate that the one restoration is uncertain and the other certain
     ἡμετέρ[α] [μήτηρ (?)] [.?] 
 
 ### Leiden Underline `___`
-#### Supplied
+
+#### Supplied parallel
+
+_To get this PN preview:_ `Πόσεις`
+_Use this Leiden+:_ `|_Πόσεις_|`
+_To create this XML:_ `<supplied evidence="parallel" reason="undefined">Πόσεις</supplied>`
+_Example PN Link:_ [P.Berl.Leihg.2.39](http://papyri.info/ddbdp/p.berl.leihg;2;39)
+
+Text supplied from parallel text, other copy, or transcription of previously visible text that is now lost or illegible.
+
 ## Other Editorial Conventions
 ### Handshift
 
