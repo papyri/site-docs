@@ -24,28 +24,28 @@ Where do we put these sections from the original documentation?
     - [Leiden Parentheses `( )`](#leiden-parentheses--)
     - [Leiden Square Brackets `[ ]`](#leiden-square-brackets--)
     - [Leiden Underline `___`](#leiden-underline-___)
-- Other Editorial Conventions
-    - Handshift
-    - Editorial Note
-    - Quotation
-- Apparatus
-    - Orthographic Regularization
-    - Alternate Reading
-    - Scribal Correction
-    - Spelling Correction
-- Corrections to Published Texts
-    - Berichtigungliste Corrections
-    - Editorial Correction
-    - PN/PE Correction
-    - Complicated Corrections
-- Numbers and Special Characters
-    - Numbers
-    - Diacriticals
-    - Special Characters
-- Language
-    - Non-default Language
-    - Omitted
-    - Orthographic Regularization, for Language
+- [Other Editorial Conventions](#other-editorial-conventions)
+    - [Handshift](#handshift)
+    - [Editorial Note](#editorial-note)
+    - [Quotation](#quotation)
+- [Apparatus](#apparatus)
+    - [Orthographic Regularization](#orthographic-regularization)
+    - [Alternate Reading](#alternate-reading)
+    - [Scribal Correction](#scribal-correction)
+    - [Spelling Correction](#spelling-correction)
+- [Corrections to Published Texts](#corrections-to-published-texts)
+    - [Berichtigungliste Corrections](#berichtigungliste-corrections)
+    - [Editorial Correction](#editorial-correction)
+    - [PN/PE Correction](#pnpe-correction)
+    - [Complicated Corrections](#complicated-corrections)
+- [Numbers and Special Characters](#numbers-and-special-characters)
+    - [Numbers](#numbers)
+    - [Diacriticals](#diacriticals)
+    - [Special Characters](#special-characters)
+- [Language](#language)
+    - [Non-default Language](#non-default-language)
+    - [Omitted](#omitted)
+    - [Orthographic Regularization, for Language](#orthographic-regularization-for-language)
 
 ## Formatting - Word and Document
 
