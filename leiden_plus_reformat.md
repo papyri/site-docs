@@ -1477,7 +1477,7 @@ _Use this Leiden+:_ `*parens-punctuation-opening* *parens-punctuation-closing*`
 
 _To create this XML:_ `<g type="parens-punctuation-opening"/> <g type="parens-punctuation-closing"/>`
 
-_Example PN Link:_
+_Example PN Link:_ [bgu.7.1621](http://papyri.info/ddbdp/bgu;7;1621)
 
 Text marked in antiquity with opening parens, closing parens, or both. If the ancient parens indicate(s) deletion mark the affected string with `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` and fully enclose in `〚...〛`. If the semantic meaning of the parens is not clearly deletion, then use `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` alone.
 
