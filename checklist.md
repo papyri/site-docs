@@ -1203,7 +1203,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Oxy.
 = _The Oxyrhynchus Papyri_. Published by the Egypt Exploration Society in Graeco-Roman Memoirs. London. The number in parentheses at the end of each entry is the number in this series. Earlier vols. carry the heading of Egypt Exploration Fund, Graeco-Roman Branch; even after the title change numbers were not assigned to the volumes until the 1950s. The system followed here is that adopted retroactively by the EES. [all vols. EES]
 
- * I, Nos. 1—207, ed. B.P. Grenfell and A.S. Hunt. 1898. (1). Cf. P.Oxy.Descr.
+ * I, Nos. 1—207, ed. B.P. Grenfell and A.S. Hunt. 1898. (1). [archive.org](https://archive.org/details/oxyrhynchuspapyr01gren) Cf. P.Oxy.Descr.
  * II, Nos. 208—400, ed. B.P. Grenfell and A.S. Hunt. 1899. (2) {ddb:p.oxy;2}
  * III, Nos. 401—653, ed. B.P. Grenfell and A.S. Hunt. 1903. (5) {ddb:p.oxy;3}
  * IV, Nos. 654—839, ed. B.P. Grenfell and A.S. Hunt. 1904. (6) {ddb:p.oxy;4}
