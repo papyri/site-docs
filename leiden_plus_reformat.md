@@ -1820,7 +1820,7 @@ _To get this PN preview:_ `☧̣`
 
 _Use this Leiden+:_ `*chirho?,☧*`
 
-_To create this XML:_ `<unclear><g type="chirho">☧</g></unclear>`
+_To create this XML:_ `<unclear><g type="chirho"/></unclear>`
 
 _Example PN Link:_ [p.jena;2;19](http://papyri.info/hgv/128700)
 
