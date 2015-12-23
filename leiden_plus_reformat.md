@@ -206,7 +206,7 @@ Document divisions can be nested so long as tag pairs no not overlap:
 
 Note that no matter how nested the divisions are, the pair of tags directly adjacent to the text is always the `<= =>` pair (see Document Division, ab)
 
-### Line Number <a id="line-number"></a> [Top](#top)
+### Line Number <a id="line-number"></a> [go to top](#top)
 
 #### Line break
 
