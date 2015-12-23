@@ -1,6 +1,6 @@
 # Text Leiden+ Documentation
 
-- [Formatting - Word and Document](#formatting---word-and-document)
+- [Formatting - Word and Document](#formatting---word-and-document) <a id="top"></a>
     - [Document Division](#document-division)
     - [Line Number](#line-number)
     - [Vacat](#vacat)
@@ -206,7 +206,7 @@ Document divisions can be nested so long as tag pairs no not overlap:
 
 Note that no matter how nested the divisions are, the pair of tags directly adjacent to the text is always the `<= =>` pair (see Document Division, ab)
 
-### Line Number <a id="line-number"></a>
+### Line Number <a id="line-number"></a> [Top](#top)
 
 #### Line break
 
