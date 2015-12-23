@@ -1818,7 +1818,7 @@ To indicate chi-rho symbol; you may indicate preferred Unicode symbol: `*chirho,
 
 _To get this PN preview:_ `☧̣`
 
-_Use this Leiden+:_ `*chirho?,☧*`
+_Use this Leiden+:_ `*chirho?*`
 
 _To create this XML:_ `<unclear><g type="chirho"/></unclear>`
 
