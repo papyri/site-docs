@@ -324,7 +324,7 @@ _Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
 
 For use in rare cases in which lines are presented so as not to indicate break; not recommended.
  
-### Vacat <a id="vacat"></a>
+### Vacat <a id="vacat"></a> [go to top](#top)
 
 #### Character space extent unknown
 
@@ -422,7 +422,7 @@ _Example PN Link:_
 
 Vacat of estimated number of lines.
 
-### Marginalia <a id="marginalia"></a>
+### Marginalia <a id="marginalia"></a> [go to top](#top)
 
 #### Text inserted / added above line
 
@@ -520,7 +520,7 @@ _Example PN Link:_ [PSI.4.281](http://papyri.info/ddbdp/psi;4;281)
 
 Need to create detailed instructions and explanation
 
-### Special Formatting <a id="special-formatting"></a>
+### Special Formatting <a id="special-formatting"></a> [go to top](#top)
 
 #### Text in box
 
@@ -594,13 +594,13 @@ _Example PN Link:_ [BGU.4.1201](http://papyri.info/hgv/18651)
 
 To indicate text that is both underlined and supralined.
 
-## Preservation <a id="preservation"></a>
+## Preservation <a id="preservation"></a> [go to top](#top)
 
-### Letters Lost <a id="letters-lost"></a>
+### Letters Lost <a id="letters-lost"></a> [go to top](#top)
 
 See [Leiden Square Brackets `[ ]`](#leiden-square-brackets--).
 
-### Lines Lost <a id="lines-lost"></a>
+### Lines Lost <a id="lines-lost"></a> [go to top](#top)
 
 #### Known number of lines missing
 
