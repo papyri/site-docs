@@ -959,7 +959,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 ### P.Lips. (see also P.Leipz.)
 = _Griechische Urkunden der Papyrussammlung zu Leipzig_, {ddb:p.lips}
 
- * I, ed. L. Mitteis. Leipzig 1906. Nos. 1—123; 67—80 are ostraca. [MF 2.102; rp.CG] {ddb:p.lips;1}
+ * I, ed. L. Mitteis. Leipzig 1906. Nos. 1—123; 67—80 are ostraca. [MF 2.102; rp.CG] {ddb:p.lips;1} [Online: archive.org](https://archive.org/details/ldpd_6873757_000)
  * II, ed. R. Duttenhöfer with a note by R. Scholl. Munich/Leipzig 2002. (Archiv Beih. 10). Nos. 124–152. [KGS] {ddb:p.lips;2}
 
 ### P.Lips.Copt. (see O.Lips.Copt.)
