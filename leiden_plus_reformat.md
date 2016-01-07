@@ -218,6 +218,8 @@ Document divisions can be nested so long as tag pairs no not overlap:
 
 Note that no matter how nested the divisions are, the pair of tags directly adjacent to the text is always the `<= =>` pair (see Document Division, ab)
 
+***
+
 ### Line Number <a id="line-number"></a> ([return to top](#top))
 
 #### Line break
@@ -351,6 +353,8 @@ _To create this XML:_ `<lb n="5/6"/>`
 _Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
 
 For use in rare cases in which lines are presented so as not to indicate break; not recommended.
+
+***
  
 ### Vacat <a id="vacat"></a> ([return to top](#top))
 
@@ -464,9 +468,9 @@ _Example PN Link:_
 
 Vacat of estimated number of lines.
 
-### Marginalia <a id="marginalia"></a> ([return to top](#top))
-
 ***
+
+### Marginalia <a id="marginalia"></a> ([return to top](#top))
 
 #### Text inserted / added above line
 
@@ -578,6 +582,8 @@ _Example PN Link:_ [PSI.4.281](http://papyri.info/ddbdp/psi;4;281)
 
 Need to create detailed instructions and explanation
 
+***
+
 ### Special Formatting <a id="special-formatting"></a> ([return to top](#top))
 
 #### Text in box
@@ -662,11 +668,15 @@ _Example PN Link:_ [BGU.4.1201](http://papyri.info/hgv/18651)
 
 To indicate text that is both underlined and supralined.
 
+***
+
 ## Preservation <a id="preservation"></a>
 
 ### Letters Lost <a id="letters-lost"></a> ([return to top](#top))
 
 See [Leiden Square Brackets `[ ]`](#leiden-square-brackets--).
+
+***
 
 ### Lines Lost <a id="lines-lost"></a> ([return to top](#top))
 
@@ -729,6 +739,8 @@ To indicate unknown number of lines lost. This is used to indicate "break" in th
 		2. second line of text 
 		3. third line of text 
 		3. lost.?lin
+
+***
 
 ### Illegible <a id="illegible"></a> ([return to top](#top))
 
@@ -842,6 +854,8 @@ _Example PN Link:_ [SB.20.14571](http://papyri.info/hgv/38499)
 
 To indicate a range of illegible lines.
 
+***
+
 ### Vestiges <a id="vestiges"></a> ([return to top](#top))
 
 #### Vestiges n lines
@@ -954,6 +968,8 @@ _Example PN Link:_ [P.Oxy.50.3557](http://papyri.info/hgv/15381)
 
 Vestiges of range of characters.
 
+***
+
 ## Leiden Conventions <a id="leiden-conventions"></a>
 
 ### Leiden Angle Brackets `< >` <a id="leiden-angle-brackets--"></a> ([return to top](#top))
@@ -1000,6 +1016,8 @@ Note: for cases like `ἀπ<ε>γραψάμην` the DDbDP has historically ente
 
 For more on this, see the documentation entry under Orthographic Correction.
 
+***
+
 ### Leiden Braces `{ }` <a id="leiden-braces--"></a> ([return to top](#top))
 
 #### Surplus text
@@ -1029,6 +1047,8 @@ _Example PN Link:_
 Surplus text written by scribe, deleted by modern editor. 
 
 For cases like `ὁμολογῶι` enter an orthographic regularization of the entire word, i.e. `<:ὁμολογῶ|reg|ὁμολογῶι:>`. But where the letter(s) is genuinely superfluous, use braces: `ὁμο{μο}λογῶ`.
+
+***
 
 ### Leiden Double Square Brackets `〚 〛` <a id="leiden-double-square-brackets--"></a> ([return to top](#top))
 
@@ -1071,6 +1091,8 @@ _To create this XML:_ `<del rend="cross-strokes"> <handShift new="m4"/> <gap rea
 _Example PN Link:_ [p.lips;1;98](http://papyri.info/ddbdp/p.lips;1;98)
 
 Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
+
+***
 
 ### Leiden Parentheses `( )` <a id="leiden-parentheses--"></a> ([return to top](#top))
 
@@ -1216,6 +1238,8 @@ For symbols that are partially expanded enter as follows (for example because th
 
 Note: leave two spaces between the last character and the closing parens.
 
+***
+
 ### Leiden Square Brackets `[ ]` <a id="leiden-square-brackets--"></a> ([return to top](#top))
 
 #### Lost character gap quantity
@@ -1310,6 +1334,8 @@ In order to indicate that the one restoration is uncertain and the other certain
 
     ἡμετέρ[α] [μήτηρ (?)] [.?] 
 
+***
+
 ### Leiden Underline `___` <a id="leiden-underline-___"></a> ([return to top](#top))
 
 #### Supplied parallel
@@ -1352,6 +1378,8 @@ _Example PN Link:_
 
 Need to create detailed instructions and explanation
 
+***
+
 ## Other Editorial Conventions <a id="other-editorial-conventions"></a>
 
 ### Handshift <a id="handshift"></a> ([return to top](#top))
@@ -1380,6 +1408,8 @@ _Example PN Link: [P.Polit.Iud.19](http://papyri.info/hgv/44635)
 
 Uncertain handshift.
 
+***
+
 ### Editorial Note <a id="editorial-note"></a> ([return to top](#top))
 
 _To get this PN preview:_ `(BGU 1,108,r reprinted in WChr 227 )`
@@ -1392,6 +1422,8 @@ _Example PN Link:_ [BGU.1.108](http://papyri.info/ddbdp/bgu;1;108)
 
 To indicate modern editorial comment, for example that the recto of a given text has been republished elsewhere, or that a missing string should be a month name. Use sparingly.
 
+***
+
 ### Quotation <a id="quotation"></a> ([return to top](#top))
 
 _To get this PN preview:_ `'ὁ γὰ̣ρ̣ ἐ̣λ̣εῶ̣ν̣ [πτωχόν]'`
@@ -1403,6 +1435,8 @@ _To create this XML:_ `<q> ὁ γ<unclear>ὰρ</unclear> <unclear>ἐλ</unclea
 _Example PN Link:_ [P.Gen.2.1.14](http://papyri.info/hgv/34027)
 
 Modern mark indicating quotation.
+
+***
 
 ## Apparatus <a id="apparatus"></a>
 
@@ -1460,6 +1494,8 @@ Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. 
 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
 
+***
+
 ### Alternate Reading <a id="alternate-reading"></a> ([return to top](#top))
 
 _To get this PN preview:_ `Text: Ὀχυρυγχίτου…App: or Ὀξυρυγχίτου νομοῦ`
@@ -1506,6 +1542,8 @@ By definition, all alternate readings are uncertain, but to indicate especial un
 
     <:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>
 
+***
+
 ### Scribal Correction <a id="scribal-correction"></a> ([return to top](#top))
 
 _To get this PN preview:_ `Text: τοῦ…App: corr. from της`
@@ -1539,6 +1577,8 @@ To indicate scribal corrections and alterations where one or both readings is un
 
     <:τοῦ|subst|της:> --> <:τοῦ(?)|subst|της(?):>
 
+***
+
 ### Spelling Correction <a id="spelling-correction"></a> ([return to top](#top))
 
 _To get this PN preview:_ `Text: τιμὴν….App: τμμὴν pap.`
@@ -1557,6 +1597,8 @@ For correction of outright scribal error, e.g. `στ[ρ]α̣ττεός` for `σ�
 3. in the case of `στ[ρ]α̣ττεός` for `στρατηγός` 
     1. enter `<:(στ[ρ]ατ{τ}η<γ>(ός))|corr|(στ[ρ]α̣ττε(ός)):>` (Note: all Leiden except for underdots on left side of `'corr'`)
     2. PN displays: `text: στ[ρ]α̣ττε(ός) / app: l. στρατηγός (corr)`
+
+***
 
 ## Corrections to Published Texts <a id="corrections-to-published-texts"></a>
 
@@ -1586,6 +1628,7 @@ _Example PN Link:_ [bgu;1;141](http://papyri.info/hgv/8916)
 
 To indicate uncertain corrections that have been flagged in the Berichtigungsliste
 
+***
 
 ### Editorial Correction <a id="editorial-correction"></a> ([return to top](#top))
 
@@ -1616,7 +1659,9 @@ _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Where an editorial correction is only tentative, uncertain, enter as follows: 
 
-`<:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>`
+    <:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>
+
+***
 
 ### PN/PE Correction <a id="pnpe-correction"></a> ([return to top](#top))
 
@@ -1637,6 +1682,8 @@ So, the following emendation observes the omission from an edition of a word cle
 The corrected text is το­ῦ and the deprecated text is 'null', since this corrects an omission. Had the emendation sought to correct an existing (rather than omitted) reading, it might have looked like this: 
 
     <:τοῦ=PN G. Claytor (CPR VI plate 35)|ed|μου:> 
+
+***
 
 ### Complicated Corrections <a id="complicated-corrections"></a> ([return to top](#top))
 
@@ -1670,6 +1717,8 @@ Under this model, simple corrections may be concatenated:
     Συρ[ίων]=Original Edition:> 
 
 or, any class of correction may be 'nested' inside any other (as above).
+
+***
 
 ## Numbers and Special Characters <a id="numbers-and-special-characters"></a>
 
@@ -1804,6 +1853,8 @@ _Example PN Link:_ [P.Berl.Leihg.1.8](http://papyri.info/hgv/10217)
 
 Need to create detailed instructions and explanation
 
+***
+
 ### Diacriticals <a id="diacriticals"></a> ([return to top](#top))
 
 #### Diaeresis
@@ -1915,6 +1966,8 @@ _To create this XML:_ `<hi rend="acute"><gap reason="lost" quantity="1" unit="ch
 _Example PN Link:_ [P.Wisc.2.70](http://papyri.info/hgv/26685)
 
 Ancient diacritical written atop character that is now lost in lacuna. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+***
 
 ### Special Characters <a id="special-characters"></a> ([return to top](#top))
 
@@ -2094,6 +2147,8 @@ _Example PN Link:_ [P.Cair.Zen.1.59003](http://papyri.info/ddbdp/p.cair.zen;1;59
 
 Need to create detailed instructions and explanation
 
+***
+
 ## Language <a id="language"></a>
 
 ### Non-default Language <a id="non-default-language"></a> ([return to top](#top))
@@ -2128,6 +2183,8 @@ _To create this XML:_ `<foreign xml:lang="la">comes</foreign>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 If the default language of a text is Greek, mark strings of Latin as follows: `~|comes|~la`
+
+***
 
 ### Omitted <a id="omitted"></a> ([return to top](#top))
 
@@ -2310,6 +2367,8 @@ _To create this XML:_ `<gap reason="ellipsis" quantity="18" unit="character" pre
 _Example PN Link:_ 
 
 Estimated number of characters left untranscribed by editor.
+
+***
 
 ### Orthographic Regularization, for Language <a id="orthographic-regularization-for-language"></a> ([return to top](#top))
 
