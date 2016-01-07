@@ -57,6 +57,8 @@ _Example PN Link:_
 
 Every block of text must be enclosed in a `<= ... =>` pair.
 
+***
+
 #### Document Div, recto/verso
 
 _To get this PN preview:_ `recto/verso`
@@ -79,6 +81,8 @@ Recto and verso are indicated with closed pairs of tags as follows:
 		=>=D> 
 
 Note that the pair of tags inside the recto/verso tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
 
 #### Document Div, fragment
 
@@ -103,6 +107,8 @@ Fragments are indicated with closed pairs of tags as follows:
 
 Note that the pair of tags inside the fragment tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
+***
+
 #### Document Div, part
 
 _To get this PN preview:_ `part A/part B`
@@ -125,6 +131,8 @@ Parts of a document are indicated with closed pairs of tags as follows:
 		=>=D> 
 
 Note that the pair of tags inside the part tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
 
 #### Document Div, column
 
@@ -149,6 +157,8 @@ Columns are indicated with closed pairs of tags as follows:
 
 Note that the pair of tags inside the column tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
+***
+
 #### Document Div, folio
 
 _To get this PN preview:_ `folio a / folio b`
@@ -171,6 +181,8 @@ Folios are indicated with closed pairs of tags as follows:
 		=>=D> 
 
 Note that the pair of tags inside the folio tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
 
 #### Document Div, nested
 
@@ -220,6 +232,8 @@ _Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
 
 To indicate line number. Every line must have a line number.
 
+***
+
 #### Words that wrap across lines
 
 _To get this PN preview:_ `5`
@@ -240,6 +254,8 @@ In the PN the hyphen will be displayed in the expected location:
 		ἃς καὶ ἀποδώσει ἐν μηνὶ Πα- 
 		ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους
 
+***
+
 #### Line rendered perpendicular to the main body of text
 
 _To get this PN preview:_ `ø --> 2. (perpendicular)`
@@ -251,6 +267,8 @@ _To create this XML:_ `<lb n="2" rend="perpendicular"/>`
 _Example PN Link:_ [P.Berl.Bibl.12](http://papyri.info/hgv/31065)
 
 Numbered line written perpendicular to main text.
+
+***
 
 #### Line rendered inverse to the main body of text
 
@@ -264,6 +282,8 @@ _Example PN Link:_ [P.Oxy.16.1951](http://papyri.info/hgv/35611)
 
 Numbered line written inverse to main text.
 
+***
+
 #### Line with word-wrap written inverse to main text
 
 _To get this PN preview:_ `ø --> 3. (inverse) with hyphen at end of preceding line`
@@ -275,6 +295,8 @@ _To create this XML:_ `<lb n="3" rend="inverse" break="no"/>`
 _Example PN Link:_ [SB.24.16170](http://papyri.info/ddbdp/sb;24;16170)
 
 For lines written inverse / perpendicular to main text and containing a word-wrap, simply add hyphen to the regular convention.
+
+***
 
 #### Line written in left margin
 
@@ -288,6 +310,8 @@ _Example PN Link:_ [P.Hib.1.74](http://papyri.info/hgv/8223)
 
 Numbered line written in left margin.
 
+***
+
 #### Line rendered perpendicular to the main body of text in left margin
 
 _To get this PN preview:_ `8,ms --> 8,ms (perpendicular)`
@@ -300,6 +324,8 @@ _Example PN Link:_ [P.Harr.1.161](http://papyri.info/hgv/37268)
 
 Numbered line written in left margin and perpendicular to main text.
 
+***
+
 #### Line rendered inverse to the main body of text in lower margin
 
 _To get this PN preview:_ `16,minf --> 16,minf (inverse) NOTE: getting cut off at left`
@@ -311,6 +337,8 @@ _To create this XML:_ `<lb n="16,minf" rend="inverse"/>`
 _Example PN Link:_ [P.Cair.Zen.5.59838](http://papyri.info/hgv/1462)
 
 Numbered line written in lower margin and inverse to main text.
+
+***
 
 #### Line 5 to 6
 
@@ -338,6 +366,8 @@ _Example PN Link:_ [P.Berl.Leihg.2.39](http://papyri.info/hgv/10223)
 
 Vacat of unknown number of characters. It is tempting to use `vac.?` to replicate the modern print publication convention of separating, e.g. items from numbers in accounts and the like. Rampant use of `vac.?` for this purpose is discouraged. Use `vac.?` only where there is empty space on the physical text; if such is not verifiable against image or original do not use `vac.?`.
 
+***
+
 #### Character space quantity
 
 _To get this PN preview:_ `--> vac.3`
@@ -349,6 +379,8 @@ _To create this XML:_ `<space quantity="3" unit="character"/>`
 _Example PN Link:_
 
 Vacat of known number of characters.
+
+***
 
 #### Character space range
 
@@ -362,6 +394,8 @@ _Example PN Link:_
 
 Vacat of known range of characters.
 
+***
+
 #### Character space quantity precision low
 
 _To get this PN preview:_ `--> vac. ca.3`
@@ -373,6 +407,8 @@ _To create this XML:_ `<space quantity="3" unit="character" precision="low"/>`
 _Example PN Link:_
 
 Vacat of estimated range of characters.
+
+***
 
 #### Line space extent unknown
 
@@ -386,6 +422,8 @@ _Example PN Link:_
 
 Vacat of unknown number of lines.
 
+***
+
 #### Line space quantity
 
 _To get this PN preview:_ `--> vac. 3 lines`
@@ -398,6 +436,8 @@ _Example PN Link:_
 
 Vacat of known number of lines.
 
+***
+
 #### Line space range
 
 _To get this PN preview:_ `--> vac. 2-5 lines`
@@ -409,6 +449,8 @@ _To create this XML:_ `<space atLeast="2" atMost="5" unit="line"/>`
 _Example PN Link:_
 
 Vacat of known range of lines.
+
+***
 
 #### Line space quantity precision low
 
@@ -424,6 +466,8 @@ Vacat of estimated number of lines.
 
 ### Marginalia <a id="marginalia"></a> ([return to top](#top))
 
+***
+
 #### Text inserted / added above line
 
 _To get this PN preview:_ `\ὅλων/`
@@ -435,6 +479,8 @@ _To create this XML:_ `<add place="above">ὅλων</add>`
 _Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
 
 To indicate text inserted or added above a line, as 'afterthought' or self-correction (for conventional drop-ins: `\καὶ/`)
+
+***
 
 #### Text inserted / added below line
 
@@ -448,6 +494,8 @@ _Example PN Link:_
 
 To indicate text inserted or added below a line, as 'afterthought' or self-correction (see print conventional: `/καὶ\`)
 
+***
+
 #### Text inserted / added to the left margin
 
 _To get this PN preview:_ `(added at left: αβγ)`
@@ -459,6 +507,8 @@ _To create this XML:_ `<add place="left">καὶ</add>`
 _Example PN Link:_ [p.jena;2;10](http://papyri.info/hgv/128690)
 
 To indicate text inserted / added to the left of a line
+
+***
 
 #### Text inserted / added to the right margin
 
@@ -472,6 +522,8 @@ _Example PN Link:_
 
 To indicate text inserted / added to the right of a line
 
+***
+
 #### Text added between lines
 
 _To get this PN preview:_ `ὧν (in smaller font)`
@@ -483,6 +535,8 @@ _To create this XML:_ `<add place="interlinear"><hi rend="asper">ὧ</hi>ν</add
 _Example PN Link:_ [P.Panop.14](http://papyri.info/hgv/32564)
 
 To indicate text added between two lines
+
+***
 
 #### Text sling in margin
 
@@ -496,6 +550,8 @@ _Example PN Link:_ [BGU.1.303](http://papyri.info/hgv/41055)
 
 Need to create detailed instructions and explanation
 
+***
+
 #### Text underline in margin
 
 _To get this PN preview:_ `οὕτως ἔχει`
@@ -507,6 +563,8 @@ _To create this XML:_ `<add rend="underline" place="margin">οὕτως ἔχε�
 _Example PN Link:_ [P.Prag.2.137](http://papyri.info/hgv/12794)
 
 Need to create detailed instructions and explanation
+
+***
 
 #### Text above line with cert low
 
@@ -534,6 +592,8 @@ _Example PN Link:_ [BGU.7.1537](http://papyri.info/hgv/4787)
 
 To indicate text written inside a 'box'.
 
+***
+
 #### Tall text
 
 _To get this PN preview:_ `ø --> render taller`
@@ -545,6 +605,8 @@ _To create this XML:_ `<hi rend="tall">x</hi>`
 _Example PN Link:_ [P.Oslo.2.26](http://papyri.info/hgv/21513)
 
 Oversized / tall text.
+
+***
 
 #### Superscripted text
 
@@ -558,6 +620,8 @@ _Example PN Link:_ [P.Laur.1.3](http://papyri.info/hgv/31500)
 
 Text written in superscript, as distinct from text added above the line, as 'afterthought' or 'self-correction' (for which use `\καὶ/`). In general we do not encode superscript characters that indicate abbreviation.
 
+***
+
 #### Subscripted text
 
 _To get this PN preview:_ `subscript`
@@ -570,6 +634,8 @@ _Example PN Link:_
 
 To indicate subscripted text, as distinct from text added from below the line (for which use `//καὶ\\`).
 
+***
+
 #### Supraline
 
 _To get this PN preview:_ `νο ̣--> with supraline`
@@ -581,6 +647,8 @@ _To create this XML:_ `<hi rend="supraline">νο<gap reason="illegible" quantity
 _Example PN Link:_ [P.Lips.1.102](http://papyri.info/hgv/33704)
 
 To indicate supralines, most often used in case of numbers (not, as rule, for expansions)
+
+***
 
 #### Supraline and underline
 
@@ -614,6 +682,8 @@ _Example PN Link:_ [P.Oxy.3.617](http://papyri.info/hgv/20672)
 
 To indicate a known number of lost lines.
 
+***
+
 #### Approximate number of lines lost
 
 _To get this PN preview:_ `[ca 7 lines missing]`
@@ -626,6 +696,8 @@ _Example PN Link:_ [O.Kell.13](http://papyri.info/hgv/74537)
 
 To indicate approximate number of lines lost.
 
+***
+
 #### Approximate range of lines lost
 
 _To get this PN preview:_ `[3-4 lines missing]`
@@ -637,6 +709,8 @@ _To create this XML:_ `<gap reason="lost" atLeast="3" atMost="4" unit="line"/>`
 _Example PN Link:_ [P.Lille.1.29](http://papyri.info/hgv/3231)
 
 To indicate approximate range of lines lost.
+
+***
 
 #### Unknown number of lines lost
 
@@ -670,6 +744,8 @@ _Example PN Link:_ [O.Berenike.1.6](http://papyri.info/ddbdp/o.berenike;1;6)
 
 To indicate a known number of illegible characters.
 
+***
+
 #### Gap illegible character (unknown)
 
 _To get this PN preview:_ `- ca. ? -`
@@ -681,6 +757,8 @@ _To create this XML:_ `<gap reason="illegible" extent="unknown" unit="character"
 _Example PN Link:_ [P.Berl.Leihg.1.13](http://papyri.info/hgv/10193)
 
 To indicate an unknown number of illegible characters.
+
+***
 
 #### Approximate number of illegible characters
 
@@ -694,6 +772,8 @@ _Example PN Link:_ [P.Wisc.1.1](http://papyri.info/hgv/26917)
 
 To indicate an estimated number of illegible characters.
 
+***
+
 #### Known number of illegible characters
 
 _To get this PN preview:_ `- ca.43 -`
@@ -705,6 +785,8 @@ _To create this XML:_ `<gap reason="illegible" quantity="43" unit="character"/>`
 _Example PN Link:_ [SB.20.14241](http://papyri.info/hgv/23699)
 
 To indicate a known number of illegible characters. Note: all strings of illegible characters greater than 8 are rendered as approximations. So, `".43"` will be encoded as a piece of editorial certainty (`<gap reason="illegible" quantity="43" unit="character"/>`), but will nevertheless be displayed as an approximation: `"- ca.43 -"`
+
+***
 
 #### Range of illegible characters
 
@@ -718,6 +800,8 @@ _Example PN Link:_ [P.Eleph.Wagner.1.288](http://papyri.info/hgv/74479)
 
 To indicate a known range of illegible characters.
 
+***
+
 #### Known number of illegible lines
 
 _To get this PN preview:_ `Traces 5 lines`
@@ -730,6 +814,8 @@ _Example PN Link:_ [P.Hib.2.253](http://papyri.info/hgv/8291)
 
 To indicate a known number of illegible lines (e.g. vestiges)
 
+***
+
 #### Approximate number of illegible lines
 
 _To get this PN preview:_ `Traces ca.20 lines`
@@ -741,6 +827,8 @@ _To create this XML:_ `<gap reason="illegible" quantity="20" unit="line" precisi
 _Example PN Link:_ [SB.24.15920](http://papyri.info/hgv/25460)
 
 To indicate an estimated number of illegible lines (e.g. vestiges).
+
+***
 
 #### Range of illegible lines
 
@@ -768,6 +856,8 @@ _Example PN Link:_ [P.Stras.6.559](http://papyri.info/hgv/16792)
 
 Vestiges of known number of lines.
 
+***
+
 #### Vestiges range of lines
 
 _To get this PN preview:_ `Traces 2-3 lines`
@@ -779,6 +869,8 @@ _To create this XML:_ `<gap reason="illegible" atLeast="2" atMost="3" unit="line
 _Example PN Link:_ [BGU.3.916](http://papyri.info/hgv/9414)
 
 Vestiges of known range of lines.
+
+***
 
 #### Vestiges ca.n lines
 
@@ -792,6 +884,8 @@ _Example PN Link:_
 
 Vestiges of estimated number of lines.
 
+***
+
 #### Vestiges ? lines
 
 _To get this PN preview:_ `-ca.?- --> Traces ? lines`
@@ -803,6 +897,8 @@ _To create this XML:_ `<gap reason="illegible" extent="unknown" unit="line"/>`
 _Example PN Link:_ [P.Stras.6.559](http://papyri.info/hgv/16792)
 
 Vestiges of unknown number of lines.
+
+***
 
 #### Vestiges ? characters
 
@@ -816,6 +912,8 @@ _Example PN Link:_ [O.Berenike.1.76](http://papyri.info/hgv/70853)
 
 Vestiges of unknown number of characters. NOTE: You must enter a space after vestig; so, not `"vestig"` but `"vestig "`.
 
+***
+
 #### Vestiges ca.n characters
 
 _To get this PN preview:_ `ca.traces - --> Traces 8 char. / Traces ca.14 char.`
@@ -828,6 +926,8 @@ _Example PN Link:_ [P.Lips.1.21](http://papyri.info/hgv/22338)
 
 Vestiges of known number of characters. Note: all vestige strings greater than 8 characters are rendered as approximations. So, `"vestig.14char"` will be encoded as a piece of editorial certainty, but will nevertheless be displayed as an approximation: `"Traces ca.14 char."`
 
+***
+
 #### Vestiges ca.n characters
 
 _To get this PN preview:_ ` ̣ ̣ ̣ --> Traces ca.3 char.`
@@ -839,6 +939,8 @@ _To create this XML:_ `example only - <gap reason="illegible" quantity="3" unit=
 _Example PN Link:_
 
 Vestiges of estimated number of characters.
+
+***
 
 #### Vestiges range of characters
 
@@ -868,6 +970,8 @@ _Example PN Link:_ [BGU.1.117](http://papyri.info/hgv/8891)
 
 Text omitted by scribe, inserted by modern editor. To indicate such added text, enclose it in angle brackets: e.g. `<ἀπεγραψάμην>`, `ἀπ<ε>γραψάμην`, etc.
 
+***
+
 #### Supplied omitted (uncertain)
 
 _To get this PN preview:_ `<οὐκ(?)>`
@@ -879,6 +983,8 @@ _To create this XML:_ `<supplied reason="omitted" cert="low">οὐκ</supplied>`
 _Example PN Link:_ [P.Oxy.50.3581](http://papyri.info/hgv/32313)
 
 To indicate text omitted by scribe and uncertainly inserted by modern editor.
+
+***
 
 #### Supplied omitted (inline)
 
@@ -908,6 +1014,8 @@ _Example PN Link:_ [P.Oxy.50.3583](http://papyri.info/hgv/15402)
 
 Surplus text written by scribe, deleted by modern editor. To indicate such text enclose it in braces: e.g. `{ὀνόματος}`, `ὀνό{μ}ματος`.
 
+***
+
 #### Surplus text (inline)
 
 _To get this PN preview:_ `ὁμο{μο}λογῶ.`
@@ -936,6 +1044,8 @@ _Example PN Link:_ [BGU.1.34](http://papyri.info/hgv/20193)
 
 Text deleted in antiquity. Note: this convention has been used to cover many modes of deletion (cancellation by slashes, expunction, strike-through, bracket-like marks on the papyrus, etc). Appearance of `〚...〛` does not imply one mode or another.
 
+***
+
 #### Deletion with slashes
 
 _To get this PN preview:_ `Text: τραπέζης Φρέμει...App: 5. Text canceled with slashes`
@@ -947,6 +1057,8 @@ _To create this XML:_ `<del rend="slashes"> τραπέζης Φρέμει. </del
 _Example PN Link:_ [cpr;1;15](http://papyri.info/ddbdp/cpr;1;15)
 
 Text deleted with slashes in antiquity: `〚/ τραπέζης Φρέμει.〛`
+
+***
 
 #### Deletion with cross-strokes
 
@@ -980,6 +1092,8 @@ but enter
 
     (|στρατηγ|) for στρατηγ( )
 
+***
+
 #### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
 
 _To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
@@ -991,6 +1105,8 @@ _To create this XML:_ `<abbr><gap reason="lost" quantity="8" unit="character"/>�
 _Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
 
 For unresolved abbreviations: `(|σ[τρ]α̣τ̣ηγ|) = σ[τρ]α̣τ̣ηγ( )`
+
+***
 
 #### Abbreviation, `λ( )(?)`
 
@@ -1008,6 +1124,8 @@ Ancient abbreviations. Where the expansion is unknown and it is not even certain
 
 This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
 
+***
+
 #### Expan on part of word `στρατηγ(ός)`
 
 _To get this PN preview:_ `Καρ(ανίδι)`
@@ -1020,6 +1138,8 @@ _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
 Ancient abbreviations. Note: Leiden+ handles `στρατηγ( )` and `στρατηγ(ός)` differently. Where the abbreviation is expanded -- as in the case of `στρατηγ(ός)` -- enter as follows: `(στρατηγ(ός))`. For the other case, see elsewhere under Leiden Parentheses ( ).
 
+***
+
 #### Uncertain expansion of part of a word `Καρ(ανίδι(?))`
 
 _To get this PN preview:_ `Καρ(ανίδι(?))`
@@ -1031,6 +1151,8 @@ _To create this XML:_ `<expan>Καρ<ex cert="low">ανίδι</ex></expan>`
 _Example PN Link:_ bgu;1;154
 
 Ancient abbreviations. For uncertain expansions, add `"?"` inside the expanded part of the word `(στρατηγ(ός)) --> (στρατηγ(ός?))`.
+
+***
 
 #### Partial expansion of part of a word `Καρ(ανίδ )`
 
@@ -1048,6 +1170,8 @@ Ancient abbreviations. Where a word is only partially expanded (for example beca
 
 Note: leave two spaces between the last character and the closing parens.
 
+***
+
 #### Expansion of whole word `(ἔτους)`
 
 _To get this PN preview:_ `((ἔτους))`
@@ -1060,6 +1184,8 @@ _Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
 
 For symbols that are fully expanded enter as follows: `((ἔτους))`.
 
+***
+
 #### Expansion of whole word `(ἔ̣τ̣ο̣υ̣ς̣) / (ἔτους?)`
 
 _To get this PN preview:_ `(ἔτους(?))`
@@ -1071,6 +1197,8 @@ _To create this XML:_ `<expan><ex cert="low">ἔτους</ex></expan>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
 
 For symbols that are fully expanded, but uncertainly read enter as follows: `((ἔτους?))`. This is often represented in print by `(ἔ̣τ̣ο̣υ̣ς̣) / (ἔτους?)`.
+
+***
 
 #### Partial expansion of whole word `(δραχμ )`
 
@@ -1102,6 +1230,8 @@ _Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
 
 Known number of characters lost in lacuna. Note: all strings of lost characters greater than 8 are rendered as approximations. So, `"[.43]"` will be encoded as a piece of editorial certainty, but will nevertheless be displayed as an approximation: `"[ - ca.43 - ]"`
 
+***
+
 #### Lost character gap quantity precision low
 
 _To get this PN preview:_ `[ -ca.5- ]`
@@ -1113,6 +1243,8 @@ _To create this XML:_ `<gap reason="lost" quantity="5" unit="character" precisio
 _Example PN Link:_ [O.Douch.2.88](http://papyri.info/hgv/34423)
 
 To indicate an approximate number of lost characters inside lacuna, enter `[ca.5]`, where `'5'` is the number of lost characters.
+
+***
 
 #### Lost character gap range
 
@@ -1126,6 +1258,8 @@ _Example PN Link:_ [P.Oxy.46.3285](http://papyri.info/hgv/63672)
 
 Known range of characters lost in lacuna.
 
+***
+
 #### Lost character gap unknown quantity
 
 _To get this PN preview:_ `[ - ca. ? - ]`
@@ -1138,6 +1272,8 @@ _Example PN Link:_ [O.Berenike.1.6](http://papyri.info/ddbdp/o.berenike;1;6)
 
 Unknown number of characters lost in lacuna.
 
+***
+
 #### Supplied lost words
 
 _To get this PN preview:_ `[ὁμο]λογῶ`
@@ -1149,6 +1285,8 @@ _To create this XML:_ `<supplied reason="lost">ὁμο</supplied>λογῶ`
 _Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
 
 Letters lost in lacuna, restored by modern editor.
+
+***
 
 #### Supplied lost cert low
 
@@ -1186,6 +1324,8 @@ _Example PN Link:_ [P.Berl.Leihg.2.39](http://papyri.info/ddbdp/p.berl.leihg;2;3
 
 Text supplied from parallel text, other copy, or transcription of previously visible text that is now lost or illegible.
 
+***
+
 #### Supplied parallel, low certainty
 
 _To get this PN preview:_ `ἀρ(τάβας(?)) δωδέκ(ατον) εἰκ(οστοτέταρτον(?)) (ἀρτάβας) ιβ´ κδ´ † Ἀγαθάμμωνapp02 †/ ((tachygraphic-marks))`
@@ -1197,6 +1337,8 @@ _To create this XML:_ `<supplied evidence="parallel" reason="undefined" cert="lo
 _Example PN Link:_ [Stud.Pal.3.503](http://papyri.info/hgv/37758)
 
 Need to create detailed instructions and explanation
+
+***
 
 #### Supplied parallel, lost
 
@@ -1223,6 +1365,8 @@ _To create this XML:_ `<handShift new="m4"/>`
 _Example PN Link:_ [P.Berl.Leihg.2.35](http://papyri.info/hgv/10223)
 
 Handshift. Note: where there are multiple hands, you do not need to indicate the first.
+
+***
 
 #### Handshift (uncertain)
 
@@ -1282,6 +1426,8 @@ In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that 
 1. For `φρόνδει[σ]ο̣ν --> φρόντισον` encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
 2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
 
+***
+
 #### Apparatus, orthographic regularization, multiple
 
 _To get this PN preview:_ `Text: ἀ̣νύεται….App: l. ἀνοίεται (?), i.e. ἀνοίγεται (?)`
@@ -1295,6 +1441,8 @@ _Example PN Link:_
 Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται. 
 
     <:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>
+
+***
 
 #### Apparatus, orthographic regularization, for language
 
@@ -1324,6 +1472,8 @@ _Example PN Link:_ [BGU.6.1265](http://papyri.info/hgv/4548)
 
 Alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternative (`<rdg>`) in the apparatus.
 
+***
+
 #### Alternate reading, multiple <a id="alternate-reading-multiple"></a>
 
 _To get this PN preview:_ `Text: [ - ca.? - ] ̣αμεν ̣ν̣…App: or [ἀπογρα]ψ̣αμένη̣ν̣, or [θρε]ψ̣αμένη̣ν̣`
@@ -1339,6 +1489,8 @@ Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) w
 Where the papyrus reads, e.g. `[ - - - ] ̣αμεν ̣ν̣` and the editor posits perhaps `[ἀπογρα]ψ̣αμένη̣ν̣` or `[θρε]ψ̣αμένη̣ν̣`, encode: 
 
     <:[.?].1αμεν.1ν̣||alt||[ἀπογρα]ψ̣αμένη̣ν̣|[θρε]ψ̣αμένη̣ν̣:>
+
+***
 
 #### Alternate reading (uncertain) <a id="alternate-reading-uncertain"></a>
 
@@ -1370,6 +1522,8 @@ Indicating that the scribe wrote της and corrected to τοῦ: `<:τοῦ|sub
 
     No: τ<:οῦ|subst|ης:> 
     Yes: <:τοῦ|subst|της:>
+
+***
 
 #### Scribal correction (uncertain)
 
@@ -1418,6 +1572,8 @@ _Example PN Link:_ [BGU.1.141](http://papyri.info/hgv/8916)
 
 To indicate corrections that have been flagged in the Berichtigungsliste, e.g. <:αἱ τοῦ=BL 9.17|ed|Θίτου:>, where αἱ τοῦ is the correction recorded by BL and Θίτου is the deprecated reading.
 
+***
+
 #### Berichtigungsliste correction (uncertain) <a id="bl-correction-uncertain"></a>
 
 _To get this PN preview:_ `Text: αἱ τοῦ(?)…App: BL 9.17: Θίτου Original ed.`
@@ -1445,6 +1601,8 @@ Used for two situations: to indicate a correction proposed in a publication (not
 
 1. correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
 2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
+
+***
 
 #### Editorial correction (uncertain)
 
@@ -1529,6 +1687,8 @@ _Example PN Link:_ [P.Berl.Leihg.1.8](http://papyri.info/hgv/10217)
 
 Numbers should be accompanied by their values.
 
+***
+
 #### Number fraction
 
 _To get this PN preview:_ `ιϛ`
@@ -1540,6 +1700,8 @@ _To create this XML:_ `<num value="1/16">ιϛ</num>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Fractions should be accompanied by their values, just as whole numbers.
+
+***
 
 #### Number with `'`
 
@@ -1558,6 +1720,8 @@ For example:
 		<γ '=3> 
 		<γ '=1/3>
 
+***
+
 #### Uncertainly read number
 
 _To get this PN preview:_ `σ̣ν̣ϛ̣´`
@@ -1569,6 +1733,8 @@ _To create this XML:_ `<num value="1/256" rend="tick"><unclear>σνϛ</unclear><
 _Example PN Link:_ [O.Bodl.2](http://papyri.info/hgv/72534)
 
 Underdot numbers as you would any other uncertainly read character.
+
+***
 
 #### Illegible numbers
 
@@ -1582,6 +1748,8 @@ _Example PN Link:_ [P.Oxy.64.4435](http://papyri.info/hgv/32161)
 
 To indicate presence of an illegible number
 
+***
+
 #### Missing numbers
 
 _To get this PN preview:_ `[  ̣  ̣ ]`
@@ -1593,6 +1761,8 @@ _To create this XML:_ `<num><gap reason="lost" quantity="2" unit="character"/></
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 To indicate a lost number, simply enter a lacuna where you would normally enter the Greek number and leave the value blank.
+
+***
 
 #### Number, no symbol
 
@@ -1606,6 +1776,8 @@ _Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
 
 Numbers that are spelled out in Latin and Greek are followed by 'empty' number tags.
 
+***
+
 #### Number, fraction, no symbol
 
 _To get this PN preview:_ `nothing`
@@ -1617,6 +1789,8 @@ _To create this XML:_ `<num value="1/8"/>`
 _Example PN Link:_ [P.Matr.2](http://papyri.info/hgv/18216)
 
 Numbers that are spelled out in Latin and Greek are followed by 'empty' number tags.
+
+***
 
 #### Number with symbol & value with markup
 
@@ -1644,6 +1818,8 @@ _Example PN Link:_ [P.Berl.Leihg.2.35](http://papyri.info/hgv/10223)
 
 Diaeresis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed. Example: `υ ἱ(¨)οῦ`
 
+***
+
 #### Asper
 
 _To get this PN preview:_ `Text: ὧ ... App: ὡ pap.`
@@ -1655,6 +1831,8 @@ _To create this XML:_ `<hi rend="asper">ὧ</hi>`
 _Example PN Link:_ [P.Oxy.14.1765](http://papyri.info/hgv/31807)
 
 Asper written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+***
 
 #### Acute
 
@@ -1668,6 +1846,8 @@ _Example PN Link:_ [P.Oxy.16.1854](http://papyri.info/hgv/37860)
 
 Acute written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
 
+***
+
 #### Circumflex
 
 _To get this PN preview:_ `Text: ὑ ... App: ῦ pap.`
@@ -1679,6 +1859,8 @@ _To create this XML:_ `<hi rend="circumflex">ὑ</hi>`
 _Example PN Link:_ [P.Oxy.1.125](http://papyri.info/hgv/20769)
 
 Circumflex written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+***
 
 #### Lenis
 
@@ -1692,6 +1874,8 @@ _Example PN Link:_ [BGU.3.715](http://papyri.info/hgv/9313)
 
 Lenis written by scribe. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
 
+***
+
 #### Double diacritical
 
 _To get this PN preview:_ `Text: ἵ ... App.: ἱ pap. ί pap. --> Text: ἵ ... App.: ἵ pap.`
@@ -1704,6 +1888,8 @@ _Example PN Link:_ [P.Ryl.4.624](http://papyri.info/hgv/32762)
 
 Multiple ancient diacriticals. For double diacriticals simply combine the ordinary symbols inside a single pair pf parens.
 
+***
+
 #### Diacritical over illegible character
 
 _To get this PN preview:_ `Text: ̣ ... App.: ¨ pap.`
@@ -1715,6 +1901,8 @@ _To create this XML:_ `<hi rend="diaeresis"><gap reason="illegible" quantity="1"
 _Example PN Link:_ [CPR.5.6](http://papyri.info/hgv/16028)
 
 Ancient diacritical written atop illegible character. Note: the letter containing the ancient diacritical must be preceded at left by an extra space, even if the letter is midword; this space will not be displayed.
+
+***
 
 #### Diacritical over lost character
 
@@ -1754,6 +1942,8 @@ To indicate paragraphos between, say, lines 4 and 5, enter as follows:
 
 Note: paragraphoi should be entered 'between lines', as above, and not on their own lines.
 
+***
+
 #### Horizontal rule on papyrus
 
 _To get this PN preview:_ `————————`
@@ -1778,6 +1968,8 @@ To indicate horizontal rule on papyrus. To indicate paragraphos between, say, li
 
 Note: horizontal rules should be entered 'between lines', as above, and not on their own lines.
 
+***
+
 #### Non-alphabetical characters or symbols (example: slanting-stroke)
 
 _To get this PN preview:_ `/`
@@ -1789,6 +1981,8 @@ _To create this XML:_ `<g type="slanting-stroke"/>`
 _Example PN Link:_ [P.Berl.Leihg.2.38](http://papyri.info/hgv/10227)
 
 To indicate slanting stroke(s) written on papyrus.
+
+***
 
 #### Uncertain non-alphabetical characters or symbols (example: check)
 
@@ -1802,6 +1996,8 @@ _Example PN Link:_ [BGU.1.186](http://papyri.info/hgv/8946)
 
 Unclear ancient 'check' mark on papyrus.
 
+***
+
 #### Non-alphabetical character with symbol (example: Chi-rho)
 
 _To get this PN preview:_ `☧`
@@ -1813,6 +2009,8 @@ _To create this XML:_ `<g type="chirho"/g>`
 _Example PN Link:_
 
 To indicate chi-rho symbol; you may indicate preferred Unicode symbol: `*chirho,☧*`
+
+***
 
 #### Uncertain non-alphabetical character with symbol (example: Chi-rho)
 
@@ -1826,6 +2024,8 @@ _Example PN Link:_ [p.jena;2;19](http://papyri.info/hgv/128700)
 
 To indicate an uncertain chi-rho symbol; you may indicate preferred Unicode symbol: `*chirho?,☧*`
 
+***
+
 #### Filler stroke
 
 _To get this PN preview:_ `―`
@@ -1837,6 +2037,8 @@ _To create this XML:_ `<g rend="extension" type="filler"/>`
 _Example PN Link:_ [P.Berl.Leihg.1.17](http://papyri.info/hgv/10201)
 
 Filler strokes, usually at end of line.
+
+***
 
 #### Filler stroke (uncertain)
 
@@ -1850,6 +2052,8 @@ _Example PN Link:_ [BGU.2.509](http://papyri.info/hgv/28171)
 
 Unclear filler stroke on papyrus.
 
+***
+
 #### S-type etous
 
 _To get this PN preview:_ `((s-etous))`
@@ -1862,6 +2066,8 @@ _Example PN Link:_ [P.Lips.1.109](http://papyri.info/hgv/22431)
 
 S-type etous symbol.
 
+***
+
 #### 'Parens' on papyrus
 
 _To get this PN preview:_ `((parens-punctuation-opening)) ((parens-punctuation-closing)) --> distinct unicode parens`
@@ -1873,6 +2079,8 @@ _To create this XML:_ `<g type="parens-punctuation-opening"/> <g type="parens-pu
 _Example PN Link:_ [bgu.7.1621](http://papyri.info/ddbdp/bgu;7;1621)
 
 Text marked in antiquity with opening parens, closing parens, or both. If the ancient parens indicate(s) deletion mark the affected string with `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` and fully enclose in `〚...〛`. If the semantic meaning of the parens is not clearly deletion, then use `((parens-punctuation-opening))` and/or `((parens-punctuation-closing))` alone.
+
+***
 
 #### Figure on papyri
 
@@ -1907,6 +2115,8 @@ Indicate text strings written in a language/script other than the document's def
 
 NOTE: You must enter a space after the language designator; so, not `"~la"`, but `"~la "`.
 
+***
+
 #### Non-default Language: Latin
 
 _To get this PN preview:_ `comes`
@@ -1933,6 +2143,8 @@ _Example PN Link:_ [P.Hib.1.142](http://papyri.info/hgv/4593)
 
 Lines of Demotic omitted from DDbDP or edition.
 
+***
+
 #### Omitted language
 
 _To get this PN preview:_ `Coptic ? lines`
@@ -1944,6 +2156,8 @@ _To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="line"><desc
 _Example PN Link:_ [Stud.Pal.10.172](http://papyri.info/hgv/15004)
 
 Lines of Coptic omitted from DDbDP or edition.
+
+***
 
 #### Omitted language
 
@@ -1957,6 +2171,8 @@ _Example PN Link:_ [T.Mom.Louvre.30](http://papyri.info/hgv/54520)
 
 Unknown number of lines of Demotic omitted from DDbDP or edition.
 
+***
+
 #### Omitted language
 
 _To get this PN preview:_ `Demotic 2 characters`
@@ -1968,6 +2184,8 @@ _To create this XML:_ `<gap reason="ellipsis" quantity="2" unit="character"><des
 _Example PN Link:_ [O.Wilck.457](http://papyri.info/hgv/50773)
 
 Demotic characters omitted from DDbDP or edition.
+
+***
 
 #### Omitted language
 
@@ -1981,6 +2199,8 @@ _Example PN Link:_ [O.Leid.15](http://papyri.info/hgv/43479)
 
 Unknown number of Demotic characters omitted from DDbDP or edition.
 
+***
+
 #### Untranscribed
 
 _To get this PN preview:_ `19 lines untranscribed`
@@ -1992,6 +2212,8 @@ _To create this XML:_ `<gap reason="ellipsis" quantity="19" unit="line"><desc>no
 _Example PN Link:_ [P.Tebt.2.574](http://papyri.info/hgv/28475)
 
 Known number of lines left untranscribed by editor.
+
+***
 
 #### Untranscribed
 
@@ -2005,6 +2227,8 @@ _Example PN Link:_ [Stud.Pal.10.178](http://papyri.info/hgv/38980)
 
 Unknown number of lines left untranscribed by editor.
 
+***
+
 #### Untranscribed
 
 _To get this PN preview:_ `1-3 lines untranscribed`
@@ -2016,6 +2240,8 @@ _To create this XML:_ `<gap reason="ellipsis" atLeast="1" atMost="3" unit="line"
 _Example PN Link:_ [P.Oxy.58.3958](http://papyri.info/hgv/17940)
 
 Range of lines left untranscribed by editor.
+
+***
 
 #### Untranscribed
 
@@ -2029,6 +2255,8 @@ _Example PN Link:_ [P.Oxy.2.396](http://papyri.info/hgv/25686)
 
 Estimated number of lines left untranscribed by editor.
 
+***
+
 #### Untranscribed
 
 _To get this PN preview:_ `? characters untranscribed`
@@ -2040,6 +2268,8 @@ _To create this XML:_ `<gap reason="ellipsis" extent="unknown" unit="character">
 _Example PN Link:_ [SB.20.14952](http://papyri.info/hgv/29504)
 
 Unknown number of characters left untranscribed by editor.
+
+***
 
 #### Untranscribed
 
@@ -2053,6 +2283,8 @@ _Example PN Link:
 
 Known number of characters left untranscribed by editor.
 
+***
+
 #### Untranscribed
 
 _To get this PN preview:_ `1-2 characters untranscribed`
@@ -2064,6 +2296,8 @@ _To create this XML:_ `<gap reason="ellipsis" atLeast="1" atMost="2" unit="chara
 _Example PN Link:_ [P.Eleph.Wagner.1.365](http://papyri.info/hgv/34332)
 
 Range of characters left untranscribed by editor.
+
+***
 
 #### Untranscribed
 
