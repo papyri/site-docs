@@ -532,7 +532,7 @@ To indicate text inserted / added to the right of a line
 
 _To get this PN preview:_ `ὧν (in smaller font)`
 
-_Use this Leiden+:_ `>) ὧ( ῾)ν(<`
+_Use this Leiden+:_ `||interlin: ὧ( ῾)ν||`
 
 _To create this XML:_ `<add place="interlinear"><hi rend="asper">ὧ</hi>ν</add>`
 
