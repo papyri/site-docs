@@ -1281,7 +1281,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary. {ddb:p.oxy;75}
  * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97). {ddb:p.oxy;76}
  * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98). {ddb:p.oxy;77}
- * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W.B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99).  
+ * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W.B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99).  {ddb:p.oxy;78}
  * LXXIX, Nos. 5183–5218, ed. W.B. Henry, P.J. Parsons with contributions by 18 others and an appendix Games, Competitors and Performers in Roman Egypt by S. Remijsen. 2014. (100). 
  * LXXX, Nos. 5219–5257, ed. M. Hirt, D. Leith and W.B. Henry. 2014 (101).
 
