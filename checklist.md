@@ -1295,10 +1295,10 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _An Ancient Christian Hymn with Musical Notation_, ed. Ch. Cosgrove. Tübingen 2011. Reedition of P.Oxy. XV 1786.
 
 ### P.Oxy.Descr.
-= "Varia Descripta Oxyrhynchita," ed. D. Montserrat, G. Fantoni, P. Robinson. BASP 31 (1994) 11—80 and plates 1—18. Nos. 1—20, reeditions of papyri published as descripta, P.Oxy. I 159, 164—165, 167, 171, 174, 176—177, 179, 181—182, 186, 192, 201—202, 204—207.
+= "Varia Descripta Oxyrhynchita," ed. D. Montserrat, G. Fantoni, P. Robinson. BASP 31 (1994) 11—80 and plates 1—18. Nos. 1—20, reeditions of papyri published as descripta, P.Oxy. I 159, 164—165, 167, 171, 174, 176—177, 179, 181—182, 186, 192, 201—202, 204—207. {ddb:p.oxy.descr}
 
 ### P.Oxy.Hels.
-= _Fifty Oxyrhynchus Papyri_, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio and M. Kaimio. Helsinki 1979. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 63). Nos. 1—50. [AB]
+= _Fifty Oxyrhynchus Papyri_, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio and M. Kaimio. Helsinki 1979. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 63). Nos. 1—50. [AB] {ddb:p.oxy.hels}
 
 ### P.PalauRib.
 = _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.]
