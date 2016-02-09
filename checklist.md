@@ -1310,7 +1310,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Der Totenpapyrus des Pa-Month (P. Bibl. nat. 149)_, ed. M. A. Stadler. Wiesbaden 2003. (Studien zum Altägyptischen Totenbuch 6).
 
 ### P.Panop.
-= _Urkunden aus Panopolis_, ed. L.C. Youtie, D. Hagedorn, H.C. Youtie. Bonn 1980. Nos. 1—31. Reprint without plates of original publication in three articles in ZPE 7 (1971) 1—40; 8 (1971) 207—234; and 10 (1973) 101—170, from which texts reprinted as SB XII 10968—10981, 10992—10996, 11213—11224. [RH]
+= _Urkunden aus Panopolis_, ed. L.C. Youtie, D. Hagedorn, H.C. Youtie. Bonn 1980. Nos. 1—31. Reprint without plates of original publication in three articles in ZPE 7 (1971) 1—40; 8 (1971) 207—234; and 10 (1973) 101—170, from which texts reprinted as SB XII 10968—10981, 10992—10996, 11213—11224. [RH] {ddb:p.panop}
 
 ### P.Panop.Beatty
 = _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF]
