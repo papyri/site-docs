@@ -1536,6 +1536,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _(Dai) Papiri della Società Italiana_. (ComunicazioniVitelli)
 
  * I, Papiri della Società Italiana alla Scuola Normale Superiore di Pisa. Seminario 2003/2004, ed. G. Bastianini, M. S. Funghi and G. Messeri. Firenze 2005. (ComunicazioniVitelli 6 [2005] pages 1–164, tav. I–XIX). Nos. 1–20.
+ * Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 8 [2009] pages 1–86, tav. I–VIII). Nos. 1–15.
  * II, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 9 [2011] pages 1–55, tav. I–VIII). Nos. 1–12.
  * III, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2013. (ComunicazioniVitelli 11 [2013] pages 1–86, tav. I–XV). Nos. 1–16.
 
