@@ -2430,8 +2430,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * III, not yet published.
  * IV, see P.Dryton.
 
-### CommunicazioniVitelli
- = Communicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
+### ComunicazioniVitelli
+ = Comunicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
  
  * 1, 1995
  * 2, 1997
