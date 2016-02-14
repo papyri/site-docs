@@ -1617,7 +1617,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * V, Regaling Officials in Ptolemaic Egypt, ed. A. Verhoogt. Leiden and Boston 2005. (Pap.Lugd.Bat. XXXII). Nos 1—5 are P.Tebt. V 1151—1155. [EJB]
 
 ### P.Tebt.Pad.
- * I, Papiri Greci da Tebtynis della Università di Padova, ed. A. Soldati. 2015. (Philippika. Altertumswissenschaftliche Abhandlungen. Contributions to the Study of Ancient World Cultures 85,1). Nos. 1-25.
+= _Papiri Greci da Tebtynis della Università di Padova_.
+ * I, ed. A. Soldati. 2015. (Philippika. Altertumswissenschaftliche Abhandlungen. Contributions to the Study of Ancient World Cultures 85,1). Nos. 1-25.
 
 ### P.Tebt.Tait
 = _Papyri from Tebtunis in Egyptian and Greek_, ed. W.J. Tait. London 1977. (Egypt Exploration Society, Texts from Excavations III). Nos. 1—23 Demotic; 24—34 Hieratic; 35—37 Hieroglyphic; 38—53 Greek. Only nos. 47—53 are documentary in nature. [EES]
