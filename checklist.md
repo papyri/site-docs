@@ -1618,6 +1618,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
 ### P.Tebt.Pad.
 = _Papiri Greci da Tebtynis della Università di Padova_.
+
  * I, ed. A. Soldati. 2015. (Philippika. Altertumswissenschaftliche Abhandlungen. Contributions to the Study of Ancient World Cultures 85,1). Nos. 1-25.
 
 ### P.Tebt.Tait
