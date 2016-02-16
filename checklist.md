@@ -692,14 +692,14 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### P.Grad.
 = _Griechische Papyri der Sammlung Gradenwitz_, ed. G. Plaumann. Heidelberg 1914. (SBHeidelberg 1914, Abh. 15). Nos. 1—19; 17 and 18 are descripta. Texts 1—3, 5—16 and 19 reprinted as SB III 6275—6290; no 4 is SB I 5680. Further on the collection see ZPE 128 (1999) 153—160 and 134 (2001) 163-178, where D. Hagedorn and K.A. Worp provide information on the widely dispersed Gradenwitz collection, with a concordance for inventory numbers and published pieces. [MF 2.19; rp. CG] {ddb:p.grad}
 
-### P.Graux {ddb:p.graux}
+### P.Graux
 
 * I, Nos. 1 and 2, ed. H. Henne in BIFAO 21 (1923) 189ff; nos. 3—8, ed. H. Henne in BIFAO 27 (1927) 1ff.; all reprinted as SB IV 7461—7468.
 * II, Papyrus Graux II, ed. H. Cuvigny. Geneva 1995. (Hautes Études du Monde Gréco-Romain 19). Nos. 9—29. [Droz] {ddb:p.graux;2}
 * III, Papyrus Graux III (P.Graux 30), ed. S. Kambitsis. Geneva 1997. (Hautes Études du Monde Gréco-Romain 23). No. 30. [Droz] {ddb:p.graux;3}
 * IV, Papyrus Graux IV (P.Graux 31), ed. S. Kambitsis. Geneva 2004. (Hautes Études du Monde Gréco–Romain 34). No. 31. [Droz] {ddb:p.graux;4}
 
-### P.Grenf. {ddb:p.grenf}
+### P.Grenf.
 
  * I, An Alexandrian Erotic Fragment and other Greek Papyri chiefly Ptolemaic, ed. B.P. Grenfell. Oxford 1896. Nos. 1—70. [MF 2.105; rp. CG] {ddb:p.grenf;1}
  * II, New Classical Fragments and Other Greek and Latin Papyri, ed. B.P. Grenfell and A.S. Hunt. Oxford 1897. Nos. 1—113. [MF 2.110; rp. CG] {ddb:p.grenf;2}
