@@ -1322,7 +1322,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Notices et textes des papyrus du Musée du Louvre et de la Bibliothèque Impériale_, ed. J.A. Letronne, W. Brunet de Presle and E. Egger. Paris 1865. (Notices et extraits des manuscrits de la Bibliothèque Impériale et autres bibliothèques 18.2). Separate volume of plates. Papyri nos. 1—71, mostly republished in UPZ; ostraca nos. 1—13, mostly republished in WO II; 8 mummy labels. [MF 2.66 (text only); rp. CG (text only)]
 
 ### P.Petaus
-= _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS]
+= _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS] {ddb:p.petaus}
 
 ### P.Petersb.
 = _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in P.Ross.Georg.; cf. SB II p. 61.
