@@ -1328,7 +1328,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in P.Ross.Georg.; cf. SB II p. 61.
 
 ### P.Petr.
-= _The Flinders Petrie Papyri_. Dublin. (Royal Irish Academy, Cunningham Memoirs).
+= _The Flinders Petrie Papyri_. Dublin. (Royal Irish Academy, Cunningham Memoirs).  {ddb:p.petr}
 
  * I, ed. J.P. Mahaffy. 1891. (Memoirs VIII), and pt. II, plates. Nos. 1—30. [MF 1.29; rp. CG]
  * II, ed. J.P. Mahaffy. 1893. (Memoirs IX), and plates. Nos. 1—50. [MF 1.30; rp. CG]
