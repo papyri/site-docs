@@ -1338,7 +1338,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31.
 
 ### P.Petra
-= _The Petra Papyri_
+= _The Petra Papyri_  {ddb:p.petra}
 
  * I, ed. J. Frösén, A. Arjava and M. Lehtinen with contributions by Z.T. Fiema, C.A. Kuehn, T. Purola, T. Rankinen, M. Vesterinen and M. Vierros. Amman 2002. (American Center of Oriental Research Publications 4). Nos. 1—16.
  * II, ed. L. Koenen, J. Kaimio, M. Kaimio and R.W. Daniel, with contributions by thirteen others. Amman 2013. (American Center of Oriental Research Publications 7). No. 17.
