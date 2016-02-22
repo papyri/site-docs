@@ -1316,7 +1316,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF]
 
 ### P.Paramone
-= _Editionen und Aufsätze von Mitgleidern des heidelberger Instituts für Papyrologie zwischen 1982 und 2004_, ed. J. M. S. Cowey and B. Kramer. (Archiv Beih. 16) 19 texts are published; nos. 1–18 are Greek and 19 is Coptic. Munich and Leipzig 2004. [KGS] {ddb:p.paramone}
+= _Editionen und Aufsätze von Mitgleidern des heidelberger Instituts für Papyrologie zwischen 1982 und 2004_, ed. J.M.S. Cowey and B. Kramer. (Archiv Beih. 16) 19 texts are published; nos. 1–18 are Greek and 19 is Coptic. Munich and Leipzig 2004. [KGS] {ddb:p.paramone}
 
 ### P.Paris
 = _Notices et textes des papyrus du Musée du Louvre et de la Bibliothèque Impériale_, ed. J.A. Letronne, W. Brunet de Presle and E. Egger. Paris 1865. (Notices et extraits des manuscrits de la Bibliothèque Impériale et autres bibliothèques 18.2). Separate volume of plates. Papyri nos. 1—71, mostly republished in UPZ; ostraca nos. 1—13, mostly republished in WO II; 8 mummy labels. [MF 2.66 (text only); rp. CG (text only)]
