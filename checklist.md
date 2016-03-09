@@ -2977,7 +2977,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XLI, see P.Prag.
  * XLII, see O.Petr.Mus.
  * XLIII, Antologías de época helenística en papiro, by L. Pordomingo. 2013.
-
+ * XLIV, Nel segno del testo: edizioni, materiali e studi per Oronzo Pecere. Ed. L. Del Corso, F. De Vivo, A. Stramaglia. 2015
+ 
 ### Pap.Heid.
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
 
