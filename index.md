@@ -1,7 +1,3 @@
-**Notice**
-
-Papyri.info will be partially unavailable during the day today, Sunday, March 20 due to site maintenance. Affected components will include the Papyrological Editor and searching.
-
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The **Papyrological Navigator** (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the **Papyrological Editor** (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
