@@ -1343,7 +1343,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * I, ed. J. Frösén, A. Arjava and M. Lehtinen with contributions by Z.T. Fiema, C.A. Kuehn, T. Purola, T. Rankinen, M. Vesterinen and M. Vierros. Amman 2002. (American Center of Oriental Research Publications 4). Nos. 1—16.  {ddb:p.petra;1}
  * II, ed. L. Koenen, J. Kaimio, M. Kaimio and R.W. Daniel, with contributions by thirteen others. Amman 2013. (American Center of Oriental Research Publications 7). No. 17. {ddb:p.petra;2}
  * III, ed. A. Arjava, M. Buchholz, and T. Gagos. Amman 2007. (American Center of Oriental Research Publications 5). Nos. 18-36. {ddb:p.petra;3}
- * IV, ed. A. Arjava, M. Buchholz, T. Gagos and M. Kaimio, with contributions by J. Kaimio, C. A. Kuehn and T. Purola. Amman 2011. (American Center of Oriental Research Publications 6). Nos. 37–49.
+ * IV, ed. A. Arjava, M. Buchholz, T. Gagos and M. Kaimio, with contributions by J. Kaimio, C. A. Kuehn and T. Purola. Amman 2011. (American Center of Oriental Research Publications 6). Nos. 37–49. {ddb:p.petra;4}
 
 ### P.Petrettini
 = _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114).
