@@ -1358,7 +1358,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Aktenbuch des Aurelios Philammon: Prozessberichte, Annona militaris und Magie in BGU IV 1024–1027_, ed. G. Poethke, S. Prignitz, V. Vaelske. Berlin and Boston 2012. (ArchivBeih. 34). 
 
 ### P.Pintaudi
-= _Inediti offerti a Rosario Pintaudi per il suo 65° compleanno_, ed. D. Minutoli. Firenze 2012. Nos. 1–70.
+= _Inediti offerti a Rosario Pintaudi per il suo 65° compleanno_, ed. D. Minutoli. Firenze 2012. Nos. 1–70 {ddb:p.pintaudi}
 
 ### P.PisaLit.
 = _Papiri letterari greci_, ed. A. Carlini et al. Pisa 1978. (Biblioteca degli studi classici e orientali). Nos. 1—38. 
