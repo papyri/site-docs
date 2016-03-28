@@ -1335,7 +1335,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * III, ed. J.P. Mahaffy and J.G. Smyly. 1905. (Memoirs XI), and plates. Nos. 1—146. There are notices of Demotic material at no. 59(c) on p. 175; at no. 69(b) on p. 195 and at no. 110 on p. 275. [MF 1.31] {ddb:p.petr;3}
 
 ### P.Petr.2 I
-= _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31.
+= _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31. {ddb:p.petr.2}
 
 ### P.Petra
 = _The Petra Papyri_  {ddb:p.petra}
