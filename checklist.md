@@ -1352,7 +1352,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Eine Steuerliste aus Pheretnuis_, ed. P.J. Sijpesteijn and K.A. Worp. Amsterdam 1993. (Stud.Amst. XXXIII). [JCG]
 
 ### P.Phil.
-= _Papyrus de Philadelphie_, ed. J. Scherer. Cairo 1947. (Publ.Soc.Fouad VII). Nos. 1—35. [MF 2.94]
+= _Papyrus de Philadelphie_, ed. J. Scherer. Cairo 1947. (Publ.Soc.Fouad VII). Nos. 1—35. [MF 2.94] {ddb:p.phil}
 
 ### P.Philammon
 = _Aktenbuch des Aurelios Philammon: Prozessberichte, Annona militaris und Magie in BGU IV 1024–1027_, ed. G. Poethke, S. Prignitz, V. Vaelske. Berlin and Boston 2012. (ArchivBeih. 34). 
