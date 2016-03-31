@@ -1370,7 +1370,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40.
 
 ### P.Polit.Jud.
-= _Urkunden des Politeuma der Juden von Herakleopolis (144/3 ‚ 133/2 v. Chr.)_, ed. K. Maresch and J.M.S. Cowey. Wiesbaden 2001. (Pap.Colon. XXIX). Nos. 1-20. [FS]
+= _Urkunden des Politeuma der Juden von Herakleopolis (144/3 ‚ 133/2 v. Chr.)_, ed. K. Maresch and J.M.S. Cowey. Wiesbaden 2001. (Pap.Colon. XXIX). Nos. 1-20. [FS] {ddb:p.polit.iud}
 
 ### P.Pommersf.
 = _Ein frühbyzantinisches Szenario für die Amtswechslung in der Sitonie: die griechischen Papyri aus Pommersfelden (PPG), mit einem Anhang über die Pommersfeldener Digestenfragmente und die Überlieferungsgeschichte der Digesten_, ed. A.J.B. Sirks, P.J. Sijpesteijn and K.A. Worp. Munich 1996. (Münch.Beitr. 86). [Beck]
