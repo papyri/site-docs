@@ -1380,7 +1380,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
  * I, 1988. (Pap.Flor. XVI). Nos. 1—117. {ddb:p.prag;1}
  * II, 1995. (Pap.Flor. XXVI). Nos. 118—205. {ddb:p.prag;2}
- * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. (Pap.Flor. 41). Nos. 206–249.
+ * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. (Pap.Flor. 41). Nos. 206–249. {ddb:p.prag;3}
 
 ### P.Prag.Satzung.
 = _Die Satzungen einer ägyptischen Kultgenossenschaft aus der Ptolemäerzeit nach einem demotischen Papyrus in Prag_, ed. W. Erichsen. Copenhagen 1959. (Det Kongelige Danske Videnskabernes Selskab. Historisk-filosofiske Skrifter 4.1).
