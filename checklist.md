@@ -1379,7 +1379,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri Graecae Wessely Pragenses_, ed. R. Pintaudi, R. Dostálová and L. Vidman. Firenze. [LGF]. See also P.Prag.Varcl.
 
  * I, 1988. (Pap.Flor. XVI). Nos. 1—117. {ddb:p.prag;1}
- * II, 1995. (Pap.Flor. XXVI). Nos. 118—205.
+ * II, 1995. (Pap.Flor. XXVI). Nos. 118—205. {ddb:p.prag;2}
  * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. (Pap.Flor. 41). Nos. 206–249.
 
 ### P.Prag.Satzung.
