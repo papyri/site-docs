@@ -1819,6 +1819,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Ashm.Shelt.
 = _Greek Ostraca in the Ashmolean Museum from Oxyrhynchus and other sites_, ed. J.C. Shelton. Firenze 1988. (Pap.Flor. XVII). Nos. 1—229. No. 1 contains a Demotic subscription. [LGF]
 
+### O.Bankes
+= _The Bankes Ostraka from a box at Kingston Lacy: the Greek Texts_, ed. K.A. Worp. Messina 2016. Nos. 1—70.
+
 ### O.Bawit
 = _Le Monastère et la nécropole de Baouit_, ed. from the notes of J. Clédat by D. Bénazeth and M.-H. Rutschowscaya, with contributions from A. Boud’hors, R.-G. Coquin and E. Gaillard. Cairo 1999. (MIFAO 111bis). 94 ostraca are published on pp. 245—343; of these 57 (or 58) are in the Louvre, the location of the others being unknown. On pp. 349—358 there are images of 75 Greek and Coptic papyri, all but three of which are unpublished. Those three can be found in A. Boud’hors, "Papyrus de Clédat au Musée du Louvre," Divitiae Aegypti. Koptologische und verwandte Studien zu Ehren von Martin Krause, ed. C. Fluck et al. (Wiesbaden 1995) 29—35. [SEVPO]
 
