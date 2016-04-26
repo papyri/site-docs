@@ -1405,7 +1405,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
  * I, ed. A.C. Johnson and H.B. van Hoesen. Baltimore 1931. (The Johns Hopkins Univ. Studies in Archaeology X). Nos. 1—14. [MF 2.36; rp. CG] {ddb:p.princ;1}
  * II, ed. E.H. Kase, Jr. Princeton 1936. (Princ.Stud.Pap. I). Nos. 15—107. The Coptic verso of no. 84 has been published in ZPE 96 (1993) 227—229 (L.S.B. MacCoull). [MF 2.37; rp. CG] {ddb:p.princ;2}
- * III, ed. A.C. Johnson and S.P. Goodrich. Princeton 1942. (Princ.Stud.Pap. IV). Nos. 108—191. [MF 2.38; rp. CG]
+ * III, ed. A.C. Johnson and S.P. Goodrich. Princeton 1942. (Princ.Stud.Pap. IV). Nos. 108—191. [MF 2.38; rp. CG] {ddb:p.princ;3}
 
 ### P.Princ.Roll
 = _A Papyrus Roll in the Princeton Collection_, ed. E.H. Kase, Jr. Baltimore 1933. [MF 2.71] Text reprinted as SB V 7621. A new edition by R.S. Bagnall and K.A. Worp in Archiv 30 (1984) 53—82.
