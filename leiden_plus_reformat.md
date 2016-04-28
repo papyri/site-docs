@@ -742,6 +742,20 @@ To indicate unknown number of lines lost. This is used to indicate "break" in th
 
 ***
 
+#### Unknown number of lines lost (uncertain)
+
+_To get this PN preview:_ `-- -- -- -- -- -- -- -- -- -- (?)`
+
+_Use this Leiden+:_ `lost.?lin(?)`
+
+_To create this XML:_ `<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>`
+
+_Example PN Link:_ [O.Did.401](http://papyri.info/hgv/144962)
+
+To indicate that we are uncertain as to whether an unknown number of lines are lost.
+
+***
+
 ### Illegible <a id="illegible"></a> ([return to top](#top))
 
 #### Gap illegible character
