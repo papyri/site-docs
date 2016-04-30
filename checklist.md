@@ -473,6 +473,10 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * IX, Columbia Papyri IX, The Vestis Militaris Codex, ed. J. Sheridan. Atlanta 1998. (Am.Stud.Pap. XXXIX). Nos. 247—248. [Oxbow] {ddb:p.col;9} [Online: AWDL](http://hdl.handle.net/2333.1/m63xsmx8)
  * X, Columbia Papyri X, ed. R.S. Bagnall and D.D. Obbink. Atlanta 1996. (Am.Stud.Pap. XXXIV). Nos. 249—292. [Oxbow] {ddb:p.col;10}
  * XI, Columbia Papyri XI, ed. T.M. Teeter. Atlanta 1998. (Am.Stud.Pap. XXXVIII). Nos. 293—303. [Oxbow] {ddb:p.col;11} [Online: AWDL](http://hdl.handle.net/2333.1/qz612ndk)
+ * 
+ 
+### P.Coles
+= _Charisterion per Revel A. Coles_ (ed. G. Bastianini, N. Gonis and S. Russo) Firenze 2015. (Edizioni dell' Istituto Papyrologico <<G. Vitelli>> 4)
 
 ### P.Coll.Youtie
 = _Collectanea Papyrologica: Texts Published in Honor of H.C. Youtie_, ed. by numerous contributors under the direction of A.E. Hanson. Bonn 1976. (Pap.Texte Abh. XIX—XX). I, 1—65; II, 66—121; no. 96 is a wooden tablet, nos. 97—120 mummy labels, nos. 121—126 ostraca. [RH] {ddb:p.coll.youtie}
