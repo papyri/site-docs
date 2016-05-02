@@ -1426,7 +1426,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = "Papyri and Ostraka from Quseir al-Qadim," ed. R.S. Bagnall, in BASP 23 (1986) 1—60 and plates 1—27. Nos. 1—23 are papyri (3 Latin), 24—48 ostraca (3 Latin), 49—74 dipinti, 75 mummy labels, 76 inscriptions on mica. Texts reprinted as SB XX 14248—14277.
 
 ### P.Rain.Cent.
-= _Festschrift zum 100-jährigen Bestehen der Papyrussammlung der Österreichischen Nationalbibliothek, Papyrus Erzherzog Rainer_. Vienna 1983. Nos. 1—166. Nos. 1—2 are hieroglyphic; 3—5 Demotic; 6—12 Coptic; 13 Pehlevi; 14—19 Hebrew; 20—162 Greek; nos. 163—166 Latin. All these texts are on papyrus. Separate volume of plates. [ÖNB]
+= _Festschrift zum 100-jährigen Bestehen der Papyrussammlung der Österreichischen Nationalbibliothek, Papyrus Erzherzog Rainer_. Vienna 1983. Nos. 1—166. Nos. 1—2 are hieroglyphic; 3—5 Demotic; 6—12 Coptic; 13 Pehlevi; 14—19 Hebrew; 20—162 Greek; nos. 163—166 Latin. All these texts are on papyrus. Separate volume of plates. [ÖNB] {ddb:p.rain.cent}
 
 ### P.Rain.Unterricht
 = _Neue Texte aus dem antiken Unterricht_, ed. H. Harrauer and P.J. Sijpesteijn. Vienna 1985. (MPER XV). Nos. 1—184. [ÖNB]
