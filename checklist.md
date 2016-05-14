@@ -507,6 +507,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### P.Customs
 = _Customs Duties in Graeco-Roman Egypt_, by P.J. Sijpesteijn. Zutphen 1987. (Stud.Amst. XVII). Within a monographic study of customs, 109 new texts and 19 republished texts are catalogued in List I (pp.102—143) among a chronological list of 919 customs transactions; the numbers denote not individual papyri but separate transactions attested, as many as 152 assigned to a single papyrus text (e.g. 733—884). The new and republished texts are edited in "Notes to List I" (pp. 144—189) and fully indexed (pp. 217—229). Republished are P.Stras. II 123, SB XII 10789, Stud.Pal. XXII 63.2—7, 9—12, 14 and 64. 3—4, 6—8, 10. Five additional texts (formerly P.Lond. descripta) are edited in "Addenda et Corrigenda" pp. 1—6, to be renumbered as 428a—d and 596a. Plates of new texts in pocket. [TPC] {ddb:p.customs}
 
+### P.Daris
+= _Silloge di papiri greci documentari_, ed. S. Daris. Trieste 2015.
+
 ### P.David
 = _Antidoron Martino David oblatum, Miscellanea Papyrologica_, ed. E. Boswinkel, B.A. van Groningen, P.W. Pestman. Leiden 1968. (Pap.Lugd.Bat. XVII). Nos. 12 and 15 are Demotic; 1, 3, 4, 7, 10, 14, 16 and 17 Greek papyrus documents, 5 and 18 literary; 6 two ostraca. Greek documents, nos. 1, 3, 4, 6.1, 10, 16, and 17, are reprinted as SB X 10281—10287; no. 7 is reprinted as SB XX 14229. [EJB] {ddb:p.david}
 
@@ -3483,7 +3486,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. III; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
- * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles
+ * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris
  * 2016: O.Bankes
 
 ### Coptic
