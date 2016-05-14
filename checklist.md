@@ -1372,7 +1372,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = "Textes coptes. Extraits de la correspondence de St. Pésunthius, évêque de Coptos, et de plusieurs documents analogues (juridiques et économiques)," ed. E. Revillout in three issues of the RevÉgypt 9 (1900) 133—177; 10 (1902) 34—47; and 14 (1914) 22—32. Republication of some texts: 64 = BKU I 78; 65 = P.KRU 115; 67 = BKU I 48; 72 = P.KRU 109; 73 = P.KRU 111; and 83 = P.KRU 40.
 
 ### P.Poethke
-= _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40.
+= _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40. {ddb:p.poethke}
 
 ### P.Polit.Jud.
 = _Urkunden des Politeuma der Juden von Herakleopolis (144/3 ‚ 133/2 v. Chr.)_, ed. K. Maresch and J.M.S. Cowey. Wiesbaden 2001. (Pap.Colon. XXIX). Nos. 1-20. [FS] {ddb:p.polit.iud}
