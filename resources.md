@@ -7,7 +7,7 @@
  * [Catalogue of Paraliterary Papyri](http://cpp.arts.kuleuven.be/index.php) (CPP): Searchable catalog of paraliterary texts, including texts in what was formerly called the Catalogue of Mythographic Papyri.
  * [Checklist of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets](http://papyri.info/docs/checklist): Abbreviations for papyrological publications
  * [Demotic Texts Archive](http://oi.uchicago.edu/OI/DEPT/RA/ABZU/DEMOTIC_WWW.HTML) (Oriental Institute, Chicago): Collection of Demotic language material on the Web.
- * [Heidelberger Gesamtverzeichnis](http://www.rzuser.uni-heidelberg.de/~gv0/gvz.html) (HGV): Searchable database of scholarly metadata pertaining to published Greek and Latin documents. Browse by [Texte im HGV](http://www.rzuser.uni-heidelberg.de/~gv0/Texte/HGV-Texte.html).
+ * [Heidelberger Gesamtverzeichnis](http://aquila.zaw.uni-heidelberg.de/) (HGV): Searchable database of scholarly metadata pertaining to published Greek and Latin documents. Browse by [Texte im HGV](http://aquila.zaw.uni-heidelberg.de/texte/HGV-Texte.html).
  * [Leuven Database of Ancient Books](http://ldab.arts.kuleuven.be) (LDAB): Searchable database with information pertaining to published literary texts.
  * [Leuven Homepage of Papyrus Archives](http://www.trismegistos.org/arch.php) (LHPC): Register of ancient archives from Greco-Roman Egypt.
  * [Leuven Homepage of Papyrus Collections](http://www.trismegistos.org/coll.php) (LHPC): Register of papyrus collections located around the world.
