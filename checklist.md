@@ -1466,7 +1466,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * I, Literary Texts, ed. A.S. Hunt. 1911. Nos. 1—61. [JRL] {ddb:p.ryl;1}
  * II, Documents of the Ptolemaic and Roman Periods, ed. J. de M. Johnson, V. Martin and A.S. Hunt. 1915. Nos. 62—456. [JRL] {ddb:p.ryl;2}
  * III, Theological and Literary Texts, ed. C.H. Roberts. 1938. Nos. 457—551. [JRL]
- * IV, Documents of the Ptolemaic, Roman and Byzantine Periods, ed. C.H. Roberts and E.G. Turner. 1952. Nos. 552—717. [JRL]
+ * IV, Documents of the Ptolemaic, Roman and Byzantine Periods, ed. C.H. Roberts and E.G. Turner. 1952. Nos. 552—717. [JRL] {ddb:p.ryl;4}
 
 ### P.Ryl.Copt.
 = _Catalogue of the Coptic Manuscripts in the Collection of the John Rylands Library_, ed. W.E. Crum. Manchester 1909. Nos. 1—467.
