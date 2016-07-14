@@ -1547,6 +1547,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * 8, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2009. (ComunicazioniVitelli 8 [2009] pages 1–86, tav. I–VIII). Nos. 1–15.
  * 9, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 9 [2011] pages 1–55, tav. I–VIII). [prev. PSI Com. II] Nos. 1–12.
  * 11, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2013. (ComunicazioniVitelli 11 [2013] pages 1–86, tav. I–XV). [prev. PSI Com. III] Nos. 1–16.
+ * 12, Dai Papiri della Società Italiana, ed. G. Bastianini and S. Russo. Firenze 2015. (ComunicazioniVitelli 12 [2015] pages 1–61, tav. I–XII). Nos. 1–14.
 
 ### PSI Congr.XI
 = _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
