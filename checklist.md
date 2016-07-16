@@ -2462,6 +2462,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 9, 2011
  * 10, 2012
  * 11, 2013
+ * 12, 2015
 
 ### CRIPEL
  = _Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille_. 1973— .
@@ -3478,17 +3479,17 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2002: CPR XXIII, XXIV; P.Berl.Salmen.; P.Erl.Diosp.; P.Dryton; P.Gen. I (2nd ed.); P.Lips. II; P.Petra I; P.Yadin II, (SB XX+XXI, 1+) XXI,2; (SB XXII+) XXIII;
  * 2003: P.Diosk.; P.Hombert II; P.Köln X; P.Oxy. LXVIII; (SB XXIV); T.Vindol. III
  * 2004: CPR XIX; P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis
- * 2005: BGU XIX; P.Louvre II; PSI Com. I; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
+ * 2005: BGU XIX; P.Louvre II; PSI Com. 6; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P. Dime II; P.Heid. IX; P.Oxy. LXX; SB XXVI; O.Dime
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina; O.Cret.Chers.
- * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO
+ * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO; PSI Com. 8
  * 2010: CPR ΧΧΧ; P.Dime III; P.Eirene III; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
- * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. II; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
+ * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. 9; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim
- * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. III; P.Tarich.; SB XXVIII
+ * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
- * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris
+ * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: O.Bankes
 
 ### Coptic
