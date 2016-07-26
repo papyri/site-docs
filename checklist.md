@@ -1491,7 +1491,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Eine demotische Schenkungsurkunde aus der Zeit des Darius_, ed. W. Erichsen. Wiesbaden 1963. (Akad.Wiss.Mainz, Abh. geistes- und sozialwissenschaftlichen Klasse 1962, 6).
 
 ### P.Scholl
-= _Von Sklaven, Pächtern und Politikern: Beiträge zum Alltag in Ägypten, Griechenland und Rom. Δουλικὰ ἔργα zu Ehren von Reinhold Scholl_, ed. L. Popko, N. Quenouille and M. Rücker, with contributions by many others. Berlin and Boston 2012. (ArchivBeih. 33). Nos. 1–15.
+= _Von Sklaven, Pächtern und Politikern: Beiträge zum Alltag in Ägypten, Griechenland und Rom. Δουλικὰ ἔργα zu Ehren von Reinhold Scholl_, ed. L. Popko, N. Quenouille and M. Rücker, with contributions by many others. Berlin and Boston 2012. (ArchivBeih. 33). Nos. 1–15. {ddb:p.scholl}
 
 ### P.Schow
 = _Charta papyracea graece scripta Musei Borgiani Velitris qua series incolarum Ptolemaidis Arsinoiticae in aggeribus et fossis operantium exhibetur_, ed. N. Schow. Rome 1788. Text republished as SB I 5124.
