@@ -1656,7 +1656,7 @@ _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
 Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either 
 
-1. correction proposed in series Corrigenda list: `<:<#κγ=23#>|ed:BGU 1 p.357|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
+1. correction proposed in series Corrigenda list: `<:<#κγ=23#>=bgu 1 p.357|ed|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
 2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
 
 ***
