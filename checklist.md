@@ -109,6 +109,9 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### P.Äg.Handschrift.
 = _Ägyptische Handschriften (Teil 2)_, ed. E. Lüddeckens and K.-Th. Zauzich. Wiesbaden 1971. (Verzeichnis der orientalischen Handschriften in Deutschland XIX 2). This volume lists (nos. 1—333) the Demotic papyri in Berlin.
 
+### P.ÄkNo.
+= _Two Hellenistic Medical Papyri of the Ärztekammer Nordrhein (P.ÄkNo 1 and 2)_, ed. I. Andorlini and R.W. Daniel. Paderborn, 2016. (Pap.Colon. XXXVIII). Nos. 1—2.
+
 ### P.Alex.
 = _Papyrus grecs du Musée Gréco-Romain d'Alexandrie_, ed. A. Swiderek and M. Vandoni. Warsaw 1964. (Travaux du Centre d'Archéologie Méditerranéenne de l'Académie Polonaise des Sciences 2). Nos. 1—40 on pp. 47—79; otherwise a catalogue of descriptions and other material relating to the Alexandria papyri. [o.p.] {ddb:p.alex}
 
