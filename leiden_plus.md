@@ -148,7 +148,7 @@ Columns are indicated with closed pairs of tags as follows:
 
 		<D=.i.column<= 
 		1. line of text 
-		2. line of text 
+		2. line of text
 		=>=D> 
 		<D=.ii.column<= 
 		3. line of text 
