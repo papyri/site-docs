@@ -1449,7 +1449,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, Les Papyrus Théodore Reinach, ed. P. Collart. Cairo 1940. (BIFAO 39). Nos. 59—119 papyri; 120—143 ostraca. [MF 2.46] {ddb:p.rein;2}
 
 ### P.Rev.
-= _Revenue Laws of Ptolemy Philadelphus_, ed. B.P. Grenfell. Oxford 1896. Reed. J. Bingen in SB Beiheft 1, 1952. [MF 1.51; Bh. MF 2.75]
+= _Revenue Laws of Ptolemy Philadelphus_, ed. B.P. Grenfell. Oxford 1896. Reed. J. Bingen in SB Beiheft 1, 1952. [MF 1.51; Bh. MF 2.75] {ddb:p.rev;;2nded}
 
 ### P.RevilloutCopt.
 = _Papyrus coptes. Actes et contrats des museés de Boulaq et du Louvre_, ed. E. Revillout. Paris 1876. Nos. 1—14, 11 bis and 12 bis from the Bulaq Museum and nos. 1—10 from the Louvre. No. 1 from the Louvre was republished in P.KRU 40; nos. 3—10 from the Louvre were also published by Revillout in the Comptes Rendus of the First International Congress of Orientalists. Paris 1873, III 55—68.
