@@ -894,7 +894,9 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
 
 ### P.KölnÄgypt.
-= _Kölner ägyptische Papyri_, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
+= _Kölner ägyptische Papyri_
+ * I, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
+ * II, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64. Coptic documents.
 
 ### P.KölnLüddeckens
 = _Demotische und Koptische Texte, Teil 1_, ed. E. Lüddeckens; Teil 2, ed. A. Kropp, A. Hermann and M. Weber. Opladen 1968. (Pap.Colon. II). Teil 1 contains 2 Demotic texts, Teil 2, 3 non-documentary Coptic texts. [FS]
@@ -3555,3 +3557,4 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2012: –––
  * 2013: P.Macq.; O.Lips.Copt.
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
+ * 2016: P.KölnÄgypt. II
