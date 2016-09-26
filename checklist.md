@@ -896,7 +896,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_
  * I, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
- * II, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64. Coptic documents.
+ * II, _Koptische Urkunden der früharabischen Zeit_, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64.
 
 ### P.KölnLüddeckens
 = _Demotische und Koptische Texte, Teil 1_, ed. E. Lüddeckens; Teil 2, ed. A. Kropp, A. Hermann and M. Weber. Opladen 1968. (Pap.Colon. II). Teil 1 contains 2 Demotic texts, Teil 2, 3 non-documentary Coptic texts. [FS]
