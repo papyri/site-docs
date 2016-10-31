@@ -2999,6 +2999,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XLII, see O.Petr.Mus.
  * XLIII, Antologías de época helenística en papiro, by L. Pordomingo. 2013.
  * XLIV, Nel segno del testo: edizioni, materiali e studi per Oronzo Pecere. Ed. L. Del Corso, F. De Vivo, A. Stramaglia. 2015
+ * XLV, E sì d'amici pieno: omaggio di studiosi italiani a Guido Bastianini per il suo settantesimo compleanno. Ed. A. Casanova, G. Messeri, R. Pintaudi. 2 volumes. 2016.
+ * XLVI, see P.Genova IV
  
 ### Pap.Heid.
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
