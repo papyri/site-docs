@@ -3023,6 +3023,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * N.F. XII, see P.Heid. IX.
  * N.F. XIII, Arabische Briefe auf Papier aus der Heidelberger Papyrus-Sammlung, ed. W. Diem. Heidelberg 2013.
  * N.F. XIV, see P.Heid. X.
+ * N.F. XV, Die Phylakterien von Qumran (4Q128.129.135.137) aus der Heidelberger Papyrussammlung, ed. A. Busa. Heidelberg 2015.
 
 ### Pap.Leod.
  = _Papyrologica Leodiensia_. Liège 2013— .
