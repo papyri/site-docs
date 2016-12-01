@@ -5,12 +5,12 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 
 ## Papyri
 ### Actenstücke
- = _Actenstücke aus der Königlichen Bank zu Theben in den Museen zu Berlin_, London, Paris, ed. U. Wilcken. Berlin 1887. (AbhBerlin 1886, Anhang, Abh.1; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde I [Leipzig 1970] 39—104). Nos. 1—12. Republished in UPZ II 205—207, 214—215, 217—221, 226—228. [MF 1.10; rp. DZA]
+ = _Actenstücke aus der Königlichen Bank zu Theben in den Museen zu Berlin_, London, Paris, ed. U. Wilcken. Berlin 1887. (AbhBerlin 1886, Anhang, Abh.1; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde I [Leipzig 1970] 39—104). Nos. 1—12. Republished in UPZ II 205—207, 214—215, 217—221, 226—228. [MF 1.10; rp. DZA] [Full bibliographic record](http://papyri.info/biblio/48130)
 
 ### BGU
  = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin. {ddb:bgu}
  
- * I, 1895. Nos. 1—361. [MF 1.1; rp. CG] {ddb:bgu;1}
+ * I, 1895. Nos. 1—361. [MF 1.1; rp. CG] {ddb:bgu;1} [Full bibliographic record](http://papyri.info/biblio/95040)
  * II, 1898. Nos. 362—696. [MF 1.2; rp. CG] {ddb:bgu;2}
  * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG] {ddb:bgu;3}
  * IV, 1912. Nos. 1013—1209. [MF 1.4; rp. CG] {ddb:bgu;4}
@@ -92,7 +92,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015.
 
 ### P.Aberd.
-= _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [biblio record](http://papyri.info/biblio/3909)
+= _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [Full BP bibliographic record](http://papyri.info/biblio/3909)
  
 ### P.Abinn.
 = _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also [SB X 10755](http://papyri.info/ddbdp/sb;10;10755), [SB XIV 11380](http://papyri.info/ddbdp/sb;14;11380) and [SB XX 14954](http://papyri.info/ddbdp/sb;20;14954). {ddb:p.abinn}
