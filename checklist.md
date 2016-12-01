@@ -359,7 +359,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
  * I, Rolls 1—4, ed. J. Frösén and D. Hagedorn. 1989. (Pap.Colon. XV/1). [FS] {ddb:p.bub;1}
  * II, Roll 5, ed. D. Hagedorn and K. Maresch. 1998. (Pap.Colon. XV/2) [FS] {ddb:p.bub;2}
-
+ * III, Roll 6, ed. K. Maresch. 2016. 2 v. (Pap.Colon. XV/3)
 ### P.Bürgsch.
 = _Demotische Urkunden zum ägyptischen Bürgschaftsrechte vorzüglich der Ptolemäerzeit_, ed. K. Sethe and J. Partsch. Leipzig 1920. (AbhSächs. 32). Nos. 1-24.
 
