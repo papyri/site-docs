@@ -1463,7 +1463,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
  * I, Literarische Texte, ed. G. Zereteli. 1925. Nos. 1—24. [MF 2.1]
  * II, Ptolemäische und frührömische Texte, ed. O. Krüger. 1929. Nos. 1—43. [MF 2.2] {ddb:p.ross.georg;2}
- * III, Spätrömische und byzantinische Texte, ed. G. Zereteli and P. Jernstedt. 1930. Nos. 1—57. [MF 2.3]
+ * III, Spätrömische und byzantinische Texte, ed. G. Zereteli and P. Jernstedt. 1930. Nos. 1—57. [MF 2.3] {ddb:p.ross.georg;3}
  * IV, Die Kome-Aphrodito Papyri der Sammlung Lichačov, ed. P. Jernstedt. 1927. Nos. 1—27. [MF 2.4]
  * V, Varia, ed. G. Zereteli and P. Jernstedt. 1935. Nos. 1—73. [MF 2.5]
 
