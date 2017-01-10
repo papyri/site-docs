@@ -1531,7 +1531,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, 1913. Nos. 113—156. [MF 1.66; rp. Bd'E] {ddb:psi;2}
  * III, 1914. Nos. 157—279. Nos. 254—279 are ostraca. [MF 1.67] {ddb:psi;3}
  * IV, 1917. Nos. 280—445. [MF 1.68]] {ddb:psi;4}
- * V, 1917. Nos. 446—550. No. 460 is an ostracon. [MF 1.69]
+ * V, 1917. Nos. 446—550. No. 460 is an ostracon. [MF 1.69] {ddb:psi;5}
  * VI, 1920. Nos. 551—730. [MF 1.70]
  * VII, 1925. Nos. 731—870. [MF 1.71; rp. Bd'E]
  * VIII, 1927. Nos. 871—1000. Nos. 983—1000 are ostraca. [MF 1.72]
