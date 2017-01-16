@@ -1298,7 +1298,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98). {ddb:p.oxy;77}
  * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W.B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99).  {ddb:p.oxy;78}
  * LXXIX, Nos. 5183–5218, ed. W.B. Henry, P.J. Parsons with contributions by 18 others and an appendix Games, Competitors and Performers in Roman Egypt by S. Remijsen. 2014. (100).  {ddb:p.oxy;79}
- * LXXX, Nos. 5219–5257, ed. M. Hirt, D. Leith and W.B. Henry. 2014 (101).  {ddb:p.oxy;80
+ * LXXX, Nos. 5219–5257, ed. M. Hirt, D. Leith and W.B. Henry. 2014 (101).  {ddb:p.oxy;80}
  * LXXXII, Nos. 5290-5343, ed. N. Gonis, F. Maltomini, W.B. Henry and S. Slattery with contributions by 14 others. 2016. (103).
 
 ### P.Oxy.Astr.
