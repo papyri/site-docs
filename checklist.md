@@ -2635,6 +2635,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 99, see P.Oxy. LXXVIII.
  * 100, see P.Oxy. LXXIX.
  * 101, see P.Oxy. LXXX.
+ * 103, see P.Oxy. LXXXII.
 
 ### KurzberichteGiessen
  = _Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen_
