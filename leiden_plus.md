@@ -1456,7 +1456,7 @@ Modern mark indicating quotation.
 
 ### Orthographic Regularization <a id="orthographic-regularization"></a> ([return to top](#top))
 
-_To get this PN preview:_ `Text: φρόντι[σ]ον….App: φρόνδει[σ]ο̣ν pap.`
+_To get this PN preview:_ `Text: φρόνδει[σ]ο̣ν App: l. φρόντι[σ]ον`
 
 _Use this Leiden+:_ `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>`
 
