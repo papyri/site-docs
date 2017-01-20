@@ -658,7 +658,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Fuad I University Papyri_, ed. D.S. Crawford. Alexandria 1949. (Publ.Soc.Fouad VIII). Nos. 1—43. See under P.Grad. for further information on these papyri. [MF 2.95; rp.CG] {ddb:p.fuad.i.univ}
 
 ### P.Gascou
-=_Mélanges Jean Gascou. Textes et études papyrologiques (P.Gascou)_, ed. J.-L. Fournet, A. Papaconstantinou. Paris 2016 (Travaux et Mémoires 20/1). Nos. 1—88.
+= _Mélanges Jean Gascou. Textes et études papyrologiques (P.Gascou)_, ed. J.-L. Fournet, A. Papaconstantinou. Paris 2016 (Travaux et Mémoires 20/1). Nos. 1—88.
 
 ### P.Gebelen
 = _Die demotischen Gebelen-Urkunden der Heidelberger Papyrus-Sammlung_, ed. U. Kaplony-Heckel. Heidelberg 1963. (Pap.Heid. N.F. IV). Nos. 1—42. No. 8 = P.Ackerpacht. 18; no. 9 = P.Ackerpacht 10. [CWV]
