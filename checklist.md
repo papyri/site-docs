@@ -2950,10 +2950,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXV, Bronze und Silber: Papyrologische Beiträge zur Geschichte der Währung im ptolemäischen und römischen Ägypten bis zum 2. Jahrhundert n. Chr., by K. Maresch. 1996. [FS]
  * XXVI, see P.Ammon.
  * XXVII, Manichaica Latina, Bd. 1. Epistula ad Menoch, ed. M. Stein. 1998. [FS]
- ** Bd. 2. Manichaei epistula fundamenti, herausgegeben von Markus Stein. 2002.
- ** Bd. 3.1. Codex Thevestinus. Text, herausgegeben von Markus Stein. 2004.
- ** Bd. 3.2. Codex Thevestinus. Photographien, herausgegeben von Markus Stein. 2006. [FS]
- * Bd. 4. Manichaei thesaurus, herausgegeben von Markus Stein. 2006.
+ * XXVII, Manichaica Latina, Bd. 2. Manichaei epistula fundamenti, herausgegeben von Markus Stein. 2002.
+ * XXVII, Manichaica Latina, Bd. 3.1. Codex Thevestinus. Text, herausgegeben von Markus Stein. 2004.
+ * XXVII, Manichaica Latina, Bd. 3.2. Codex Thevestinus. Photographien, herausgegeben von Markus Stein. 2006. [FS]
+ * XXVII, Manichaica Latina, Bd. 4. Manichaei thesaurus, herausgegeben von Markus Stein. 2006.
  * XXVIII, Griechische Anaphorenfragmente aus Ägypten und Nubien, by J. Hammerstaedt. 1999. [FS]
  * XXIX, see P.Polit.Jud.
  * XXX, see P.Diosk.
