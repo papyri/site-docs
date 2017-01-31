@@ -1526,7 +1526,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri Selectae_, ed. E. Boswinkel, P.W. Pestman and P.J. Sijpesteijn. Leiden 1965. (Pap.Lugd.Bat. XIII). Nos. 1—24 papyri; no. 25 mummy labels (i—ii) and ostraca (iii—vi). [EJB]
 
 ### P.Sel.Warga
-= _Select Papyri_, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279]
+= _Select Papyri_, ed. R.G. Warga, Jr. Diss. University of Illinois at Urbana-Champaign, 1988. Nos. 1—13. [UMI, order no. 1992-8823279] {ddb:p.sel.warga}
 
 ### PSI
 = _Papiri greci e latini_. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in Pap.Flor. XIX.2, pp. 475—502. Volumes 16- are published under the title _Papiri della Società Italiana_ in the series Edizioni dell'Istituto papirologico G. Vitelli.
