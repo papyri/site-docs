@@ -2269,6 +2269,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### C.Pap.Lat.
 = _Corpus Papyrorum Latinarum_, ed. R. Cavenaile. Wiesbaden 1958. Nos. 1—345 plus Annexe nos. 1—28. [OH]
 
+### C.Palmomanticum
+= _Corpus Palmomanticum Graecum_, ed. S. Costanza. Florence 2009. (Pap.Flor. XXXIX)
+
 ### C.Ptol.Sklav.
 = _Corpus der ptolemäischen Sklaventexte_, ed. R. Scholl. Stuttgart 1990. (Forschungen zur antiken Sklaverei, Beiheft 1). In three parts: I, Nos. 1—114; II, Nos. 115—260; III, Indices.
 
@@ -3008,6 +3011,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXVI, Il Calamo e il papiro. La scritura greca dall'eta ellenistica ai primi secoli di Bisanzio, by G. Cavallo. 2005. [LGF]
  * XXXVII, Strategi and Royal Scribes of Roman Egypt (Str.R.Scr.2), by J. Whitehorne. 2006.
  * XXXVIII, Poteri centrali e poteri periferici nella tarda antichità. Confronti Conflitti, by L. di Paola and D. Minutoli. 2007. [LGF].
+ * XXXIX, see C.Palmomanticum.
  * XL, see P.Schøyen II
  * XLI, see P.Prag.
  * XLII, see O.Petr.Mus.
