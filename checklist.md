@@ -305,7 +305,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * XXVIII, "Papyrus Bodmer XXVIII: A Satyr-Play on the Confrontation of Heracles and Atlas," ed. E.G. Turner, Museum Helveticum 33 (1976) 1—23.
  * XXIX, Vision de Dorothéos, ed. A. Hurst, O. Reverdin, J. Rudhardt, with an appendix by R. Kasser and G. Cavallo describing and dating the "Codex des Visions." 1984. [BB]
  * XXX—XXXVII, Codex des Visions, Poèmes divers, ed. André Hurst and Jean Rudhardt. 1999. [KGS]
- * XXXVIII, Erma: Il Pastore (Ia—IIIa visione), ed. A. Carlini with collaboration of L. Giaconne, and with an appendix by R. Kasser, G. Cavallo and J. van Haelst, "Nouvelle description du Codex des Visions." 1991. [BB]
+ * XXXVIII, Erma: Il Pastore (Ia—IIIa visione), ed. A. Carlini with collaboration of L. Giaccone, and with an appendix by R. Kasser, G. Cavallo and J. van Haelst, "Nouvelle description du Codex des Visions." 1991. [BB]
  * XLV and XLVI, "Susanna e la prima visione di Daniele in due papiri inediti della Bibliotheca Bodmeriana: P.Bodm. XLV et P.Bodm. XLVI," ed. A. Carlini and A. Citi, Museum Helveticum 38 (1981) 81—120.
  * XLVIII, "Papyrus Bodmer 48 (Iliade 1.45—58)," ed. A. Hurst, Museum Helveticum 47 (1990) 30—33.
  * XLIX, "Papyrus Bodmer 49 (Odyssée 9.455—488 et 526—556; 10.188—215)," ed. A. Hurst, Museum Helveticum 43 (1986) 221—230.
