@@ -1,7 +1,7 @@
 # Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets
 ##### Founding Editors: John F. Oates and William H. Willis
 
-This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James M.S. Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brussels), Robert Maxwell (BYU), Paul Heilporn (Strasbourg), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published.
+This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James M.S. Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brussels), Robert Maxwell (BYU), Paul Heilporn (Strasbourg), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published. 
 
 ## Papyri
 ### Actenstücke
@@ -1853,7 +1853,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
  * I, Greek Ostraka from the 1996—1998 Seasons, ed. R.S. Bagnall, C. Helms and A.M.F.W. Verhoogt. Brussels 2000. (Pap.Brux. XXXI). Nos. 1—117.
  * II, Texts from the 1999-2001 Seasons, ed. R. S. Bagnall, C. Helms, and A. M. F. W. Verhoogt. Brussels 2005. (Pap.Brux. 33). Nos. 118-260 (nos. 118-120 are inscriptions, 123-135 papyri, 136-257 ostraka, 258 a wooden tag, 259-260 instrumenta).
-
+ * III, Texts from the 2009-2013 Seasons, ed. R. Ast and R. S. Bagnall. Brussels 2016. (Pap.Brux. 336). Nos. 261-511 (nos. 261-273 are papyri, 274-511 ostraka).
+ 
 ### O.Berl.
 = _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in O.Brux. [MF 2.72]
 
@@ -2901,6 +2902,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXIII, see O.Berenike II.
  * XXXIV, "Et maintenant ce ne sont plus que des villages..." Thèbes et sa région aux époques hellénistique, romaine et byzantine. Actes du colloque tenu à Bruxelles les 2 et 3 décembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
  * XXXV, see P.Cair.Preis. (2nd ed.)
+ * XXXVI, see O.Berenike III
 
 ### Pap.Castr.
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
@@ -3520,7 +3522,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
- * 2016: P.ÄkNo.; O.Bankes; P.Genova IV; P.Oxy. LXXXII; P.Gascou
+ * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III
 
 ### Coptic
  * 1876: P.RevilloutCopt.
