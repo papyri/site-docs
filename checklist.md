@@ -2105,6 +2105,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Trim.
 
  * I, _Amheida I: Ostraka from Trimithis Volume 1: Texts from the 2004–2007 Seasons_, ed. R. S. Bagnall and G. R. Ruffini, with contributions by R. Cribiore and G. Vittmann. 2012. [Online: AWDL](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 1–454.
+ * II, _Amheida III: Ostraka from Trimithis Volume 2: Greek Texts from the 2008–2013 Seasons_, ed. R. Ast and R. S. Bagnall, with contributions by C. Caputo and R. Cribiore. 2012. [Online: AWDL](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 455–846.
 
 ### O.Vind.Copt.
 = Die koptischen Ostraka der Papyrussammlung der Österreichischen Nationalbibliothek, ed. W. C. Till. Vienna 1960. (Denkschrift Wien 78.1). Nos. 1—473.
