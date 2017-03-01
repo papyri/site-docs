@@ -2105,7 +2105,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Trim.
 
  * I, _Amheida I: Ostraka from Trimithis Volume 1: Texts from the 2004–2007 Seasons_, ed. R. S. Bagnall and G. R. Ruffini, with contributions by R. Cribiore and G. Vittmann. 2012. [Online: AWDL](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 1–454.
- * II, _Amheida III: Ostraka from Trimithis Volume 2: Greek Texts from the 2008–2013 Seasons_, ed. R. Ast and R. S. Bagnall, with contributions by C. Caputo and R. Cribiore. 2012. [Online: AWDL](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 455–846.
+ * II, _Amheida III: Ostraka from Trimithis Volume 2: Greek Texts from the 2008–2013 Seasons_, ed. R. Ast and R. S. Bagnall, with contributions by C. Caputo and R. Cribiore. 2012. Nos. 455–846.
 
 ### O.Vind.Copt.
 = Die koptischen Ostraka der Papyrussammlung der Österreichischen Nationalbibliothek, ed. W. C. Till. Vienna 1960. (Denkschrift Wien 78.1). Nos. 1—473.
@@ -3523,7 +3523,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
- * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III
+ * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II
 
 ### Coptic
  * 1876: P.RevilloutCopt.
