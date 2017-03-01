@@ -221,6 +221,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### P.Benaki
 = _Greek Papyri in the Benaki Museum, from the Collections of the Historical Archive_, ed. E. Papapolychroniou. Athens 2000. Nos. 1—7; nos. 1—5 are papyri; nos. 6—7 are the texts on two sides of a wooden tablet. [Benaki Museum]. Reprinted in SB XXVI 16683—16689. {ddb:p.benaki}
 
+### P.Berenike (see O.Berenike).
+
 ### P.Berl.Bibl.
 = _Frammenti di papiri greci asservati nella Reale Biblioteca di Berlino_, ed. G. Parthey. Rome 1865. (Memorie dell'Instituto di Corrispondenza Archeologica 2 [1865] 438—462). Cf. SB II p. 114. {ddb:p.berl.bibl}
 
