@@ -1679,6 +1679,11 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Tor.Choach.
 = _Il Processo di Hermias e altri documenti dell'archivio dei choachiti, papiri greci e demotici conservati a Torino e in altre collezioni d'Italia_, ed. P.W. Pestman. Turin 1992. (Mus.Tor. VI). Nos. 3—5, 8—9 and 11—12 are Greek; 1—2, 6—7, 10 and 13—14 Demotic. There are Greek receipts and dockets to nos. 2 and 10; a Greek docket to no. 13. A few Demotic signs are found on no. 9.
 
+### P.Trier
+= _Papyri der Trierer Papyrussammlung_.
+
+ * I, Neue Quellen zum Prozessrecht der Ptolemäerzeit. Gerichtsakten aus der Trierer Papyrussammlung (P.Trier I). Ed. B. Kramer, C. Sánchez-Moreno Ellart. Berlin and Boston 2017. (ArchivBeih. 36). Nos. 1–15.
+ 
 ### P.Tsenhor
 = _Les Papyrus démotiques de Tsenhor_, ed. P.W. Pestman. Leuven 1994. (Stud. Demotica IV). Nos. 1—17. [Peeters]
 
@@ -3526,6 +3531,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II
+ * 2017: P.Trier I
 
 ### Coptic
  * 1876: P.RevilloutCopt.
