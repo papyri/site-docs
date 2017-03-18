@@ -1543,7 +1543,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * VIII, 1927. Nos. 871—1000. Nos. 983—1000 are ostraca. [MF 1.72] {ddb:psi;8}
  * IX, 1929. Nos. 1001—1096. [MF 1.74; rp. Bd'E] {ddb:psi;9}
  * X, 1932. Nos. 1097—1181. [MF 1.75; rp. Bd'E] {ddb:psi;10}
- * XI, 1935. Nos. 1182—1222. [MF 1.76; rp. Bd'E]
+ * XI, 1935. Nos. 1182—1222. [MF 1.76; rp. Bd'E] {ddb:psi;11}
  * XII, fasc. I, ed. M. Norsa; fasc. II, ed. V. Bartoletti. 1943—1951. Nos. 1223—1295; nos. 1268—1271 are ostraca. [MF 2.88; FL]
  * XIII, ed. M. Norsa and V. Bartoletti. 1949—1953. Nos. 1296—1370. [MF 2.89; fasc. 2 only, FL]
  * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL]
