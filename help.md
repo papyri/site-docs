@@ -6,7 +6,7 @@ There are three largely overlapping collections in papyri.info, the Duke Databan
 
 ***Searching***
 
-The [document search page](http://papyri.dev/search) has detailed information on the types of searches you can do on the right side of the page where search results appear.
+The [document search page](http://papyri.info/search) has detailed information on the types of searches you can do on the right side of the page where search results appear.
 
 ***Page Organization***
 
