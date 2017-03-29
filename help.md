@@ -2,7 +2,7 @@
 
 ***Browsing***
 
-There are three largely overlapping collections in papyri.info, the Duke Databank of Documentary Papyri (DDbDP), the Heidelberger Gesamtverzeichnis (HGV), and the Advanced Papyrological Information System (APIS). You can browse their collections by the print publication in which the relevant edition was published. For example, papyri from the series*The Oxyrhynchus Papyri*are listed under [papyri.info/ddbdp/p.oxy](http://papyri.info/ddbdp/p.oxy).
+There are three largely overlapping collections in papyri.info, the Duke Databank of Documentary Papyri (DDbDP), the Heidelberger Gesamtverzeichnis (HGV), and the Advanced Papyrological Information System (APIS). You can browse their collections by the print publication in which the relevant edition was published. For example, papyri from the series *The Oxyrhynchus Papyri* are listed under [papyri.info/ddbdp/p.oxy](http://papyri.info/ddbdp/p.oxy).
 
 ***Searching***
 
