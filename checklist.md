@@ -3062,6 +3062,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * III, _L'Alceste de Barcelone (P. Monts. Roca inv. 158-161): edition, traduction et analyse contextuelle d'un poeme latin conserve sur papyrus_, by G. Nocchi Macedo. 2014.
  * IV, _L'Anonyme de Londres (P.Lit.Lond. 165, Brit.Libr. inv. 137): édition et traduction d'un papyrus médical grec du Ier siècle_, by A. Ricciardetto. 2014.
  * V, _Écrire la magie dans l'antiquité: actes du colloque international (Liège, 13-15 octobre 2011)_, ed. M. De Haro Sanchez. 2015.
+ * VI, _Signes dans les textes, textes sur les signes : érudition, lecture et écriture dans le monde gréco-romain : actes du colloque international (Liège, 6-7 septembre 2013)_, ed. G. Nocchi Macedo. M. Chiara Scappaticcio. 2017.
 
 ### Pap.Lugd.Bat.
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
