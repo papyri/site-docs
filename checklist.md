@@ -1546,7 +1546,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XI, 1935. Nos. 1182—1222. [MF 1.76; rp. Bd'E] {ddb:psi;11}
  * XII, fasc. I, ed. M. Norsa; fasc. II, ed. V. Bartoletti. 1943—1951. Nos. 1223—1295; nos. 1268—1271 are ostraca. [MF 2.88; FL] {ddb:psi;12}
  * XIII, ed. M. Norsa and V. Bartoletti. 1949—1953. Nos. 1296—1370. [MF 2.89; fasc. 2 only, FL] {ddb:psi;13}
- * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL]
+ * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL] {ddb:psi;14}
  * XV, ed. †V. Bartoletti, G. Bastianini, G. Messeri, F. Montanari, R. Pintaudi. 2008. Nos. 1453—1574. Nos. 1453—1468 previously published by V. Bartoletti and M. Manfredi in PSI XV, fasc. 1, 1979 (all literary); nos. 1478—1479, 1484, 1489, 1508, 1513—1515, 1522, 1526, 1528, 1531, 1532, 1536—1538, 1540, 1543, 1544, 1546, 1556, 1557, 1561—1566 and 1569 previously published in PSI XV Estr or in SB XII.
  * XVI, ed. G. Bastianini, F. Maltomini, G. Messeri. 2013. Nos. 1575—1653.
  
