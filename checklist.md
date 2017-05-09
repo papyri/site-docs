@@ -2008,7 +2008,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
 ### O.Mattha
-= _Demotic Ostrac_a, ed. G. Mattha. Cairo 1945. (Publ.Soc.Fouad VI). Nos. 1—276. [MF 2.93]
+= _Demotic Ostraca_, ed. G. Mattha. Cairo 1945. (Publ.Soc.Fouad VI). Nos. 1—276. [MF 2.93]
 
 ### O.Medin.HabuCopt.
 = _Coptic Ostraca from Medinet Habu_, ed. E. Stefanski and M. Lichtheim. Chicago 1952. (Univ. of Chicago. Oriental Institute Publications 71). Nos. 1—400. There is a concordance of inventory nos. and publication nos. by T. Wilfong, Enchoria 17 (1990) 155—160.
