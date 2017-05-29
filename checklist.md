@@ -1603,7 +1603,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144.
 
 ### P.Soter.
-= _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS]
+= _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS] {ddb:p.soter}
 
 ### P.Stras.
 = _Griechische Papyrus der Kaiserlichen Universitäts- und Landes-bibliothek zu Strassburg_, ed. F. Preisigke. Leipzig.
