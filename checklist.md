@@ -1610,7 +1610,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
  * I, 1912. Nos. 1—80. [MF 2.39, (incl. II)] {ddb:p.stras;1}
  * II, 1920. Nos. 81—125. [See I] {ddb:p.stras;2}
- * III, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. P. Collomp et ses élèves. Paris 1948. (Publications de la Faculté des Lettres de l'Université de Strasbourg 97). Nos. 126—168.
+ * III, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. P. Collomp et ses élèves. Paris 1948. (Publications de la Faculté des Lettres de l'Université de Strasbourg 97). Nos. 126—168. {ddb:p.stras;3}
  * IV, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. J. Schwartz et ses élèves. Strasbourg 1963. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg I). Nos. 169—300 (with index to Nos. 126—300). [BNU]
  * V, ed. J. Schwartz et ses élèves. 1973. (Publications III). Nos. 301—500. [BNU]
  * VI, ed. J. Schwartz et ses élèves. 1971—1975. (Publications IV). Nos. 501—600. Issued in fascicles 1/2, 3, 4 and 5. Nos. 501—520 were first published in the Bulletin de la Faculté des Lettres de Strasbourg 48 (1969—1970) 265—286. These were then re-issued with nos. 521—540 as Publications IV, 1/2, 1971. Index to nos. 501—800 by B. Kramer in Publications X. [BNU]
