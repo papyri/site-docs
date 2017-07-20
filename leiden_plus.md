@@ -1112,13 +1112,13 @@ Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
 
 #### Expan on part of word `στρατηγ(ός)`
 
-_To get this PN preview:_ `Καρ(ανίδι)`
+_To get this PN preview:_ `στρατηγ(ός)`
 
-_Use this Leiden+:_ `(Καρ(ανίδι))`
+_Use this Leiden+:_ `(στρατηγ(ός))`
 
-_To create this XML:_ `<expan>Καρ<ex>ανίδι</ex></expan>`
+_To create this XML:_ `<expan>στρατηγ<ex>ός</ex></expan>`
 
-_Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
+_Example PN Link:_ [P.Col.10.285](http://papyri.info/hgv/41444) line 33.
 
 Ancient abbreviations. Note: Leiden+ handles `στρατηγ( )` and `στρατηγ(ός)` differently. Where the abbreviation is expanded -- as in the case of `στρατηγ(ός)` -- enter as follows: `(στρατηγ(ός))`. For the other case, see below under Abbreviation.
 
