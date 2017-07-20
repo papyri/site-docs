@@ -1120,7 +1120,7 @@ _To create this XML:_ `<expan>Καρ<ex>ανίδι</ex></expan>`
 
 _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
-Ancient abbreviations. Note: Leiden+ handles `στρατηγ( )` and `στρατηγ(ός)` differently. Where the abbreviation is expanded -- as in the case of `στρατηγ(ός)` -- enter as follows: `(στρατηγ(ός))`. For the other case, see elsewhere under Leiden Parentheses ( ).
+Ancient abbreviations. Note: Leiden+ handles `στρατηγ( )` and `στρατηγ(ός)` differently. Where the abbreviation is expanded -- as in the case of `στρατηγ(ός)` -- enter as follows: `(στρατηγ(ός))`. For the other case, see below under Abbreviation.
 
 ***
 
