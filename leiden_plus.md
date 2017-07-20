@@ -1200,7 +1200,9 @@ For symbols that are partially expanded enter as follows (for example because th
 
 Note: leave two spaces between the last character and the closing parens.
 
-***#### Abbreviation, `στρατηγ( )`
+***
+
+#### Abbreviation, `στρατηγ( )`
 
 _To get this PN preview:_ `ομυο( )`
 
@@ -1251,7 +1253,6 @@ Ancient abbreviations. Where the expansion is unknown and it is not even certain
 This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
 
 ***
-
 
 ### Leiden Square Brackets `[ ]` <a id="leiden-square-brackets--"></a> ([return to top](#top))
 
