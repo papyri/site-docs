@@ -1110,7 +1110,7 @@ Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
 
 ### Leiden Parentheses `( )` <a id="leiden-parentheses--"></a> ([return to top](#top))
 
-#### Expan on part of word `στρατηγ(ός)`
+#### Expansion of part of word `στρατηγ(ός)`
 
 _To get this PN preview:_ `στρατηγ(ός)`
 
