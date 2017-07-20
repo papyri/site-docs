@@ -1110,58 +1110,6 @@ Text deleted with cross-strokes in antiquity: `〚X $m4 lost.?lin〛`
 
 ### Leiden Parentheses `( )` <a id="leiden-parentheses--"></a> ([return to top](#top))
 
-#### Abbreviation, `στρατηγ( )`
-
-_To get this PN preview:_ `ομυο( )`
-
-_Use this Leiden+:_ `(|ομυο|)`
-
-_To create this XML:_ `<abbr>ομυο</abbr>`
-
-_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
-
-Ancient abbreviations. Note: Leiden+ treats resolved and unresolved abbreviations differently: so, enter
-
-    (στρατηγ(ός)) for στρατηγ(ός)
-
-but enter
-
-    (|στρατηγ|) for στρατηγ( )
-
-***
-
-#### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
-
-_To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
-
-_Use this Leiden+:_ `(|[.8]χυρι̣ο|)`
-
-_To create this XML:_ `<abbr><gap reason="lost" quantity="8" unit="character"/>χυρ<unclear>ι</unclear>ο</abbr>`
-
-_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
-
-For unresolved abbreviations: `(|σ[τρ]α̣τ̣ηγ|) = σ[τρ]α̣τ̣ηγ( )`
-
-***
-
-#### Abbreviation, `λ( )(?)`
-
-_To get this PN preview:_ `λ( )(?)`
-
-_Use this Leiden+:_ `(|λ(?)|)`
-
-_To create this XML:_ `<abbr>λ<certainty locus="name" match=".."/></abbr>`
-
-_Example PN Link:_ [P.Lips.1.40](http://papyri.info/hgv/33700)
-
-Ancient abbreviations. Where the expansion is unknown and it is not even certain whether the character(s) on the papyrus is meant to be an expansion or not, enter: 
-
-    (|λ(?)|) 
-
-This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
-
-***
-
 #### Expan on part of word `στρατηγ(ός)`
 
 _To get this PN preview:_ `Καρ(ανίδι)`
@@ -1252,7 +1200,58 @@ For symbols that are partially expanded enter as follows (for example because th
 
 Note: leave two spaces between the last character and the closing parens.
 
+***#### Abbreviation, `στρατηγ( )`
+
+_To get this PN preview:_ `ομυο( )`
+
+_Use this Leiden+:_ `(|ομυο|)`
+
+_To create this XML:_ `<abbr>ομυο</abbr>`
+
+_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
+
+Ancient abbreviations. Note: Leiden+ treats resolved and unresolved abbreviations differently: so, enter
+
+    (στρατηγ(ός)) for στρατηγ(ός)
+
+but enter
+
+    (|στρατηγ|) for στρατηγ( )
+
 ***
+
+#### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
+
+_To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
+
+_Use this Leiden+:_ `(|[.8]χυρι̣ο|)`
+
+_To create this XML:_ `<abbr><gap reason="lost" quantity="8" unit="character"/>χυρ<unclear>ι</unclear>ο</abbr>`
+
+_Example PN Link:_ [BGU.1.110](http://papyri.info/hgv/8884)
+
+For unresolved abbreviations: `(|σ[τρ]α̣τ̣ηγ|) = σ[τρ]α̣τ̣ηγ( )`
+
+***
+
+#### Abbreviation, `λ( )(?)`
+
+_To get this PN preview:_ `λ( )(?)`
+
+_Use this Leiden+:_ `(|λ(?)|)`
+
+_To create this XML:_ `<abbr>λ<certainty locus="name" match=".."/></abbr>`
+
+_Example PN Link:_ [P.Lips.1.40](http://papyri.info/hgv/33700)
+
+Ancient abbreviations. Where the expansion is unknown and it is not even certain whether the character(s) on the papyrus is meant to be an expansion or not, enter: 
+
+    (|λ(?)|) 
+
+This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
+
+***
+
 
 ### Leiden Square Brackets `[ ]` <a id="leiden-square-brackets--"></a> ([return to top](#top))
 
