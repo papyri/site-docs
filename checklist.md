@@ -919,7 +919,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 
 ### P.KRU
 = W.E. Crum, _Koptische Rechtsurkunden des achten Jahrhunderts aus Djême (Theben)_. Leipzig 1912. (Reprint in Subsidia Byzantina lucis ope iterata 18, with an introduction by A.A. Schiller. Leipzig 1973). Nos. 1—123.
-A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); no. 69 is now P.MorganLib. 342. Translations of 38 of these texts are in W.C. Till, Erbrechtliche Untersuchungen auf Grund der koptischen Urkunden, SBWien 229.2 (1954) and in W.C. Till, Die koptischen Rechtsurkunden aus Theben, SBWien 244.3 (1964) 86—200. 
+A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); no. 69 is now P.MorganLib. 342. Translations of 38 of these texts are in W.C. Till, Erbrechtliche Untersuchungen auf Grund der koptischen Urkunden, SBWien 229.2 (1954) and in W.C. Till, Die koptischen Rechtsurkunden aus Theben, SBWien 244.3 (1964) 86—200. {ddb:p.kru}
 
 ### P.LandLeases
 = _Saite Demotic Land Leases_, ed. G.R. Hughes. Chicago 1952. (The Oriental Institute of the University of Chicago: Studies in Ancient Oriental Civilization 28). Nos. 1—7; nos. 2—7 of these texts are from the Louvre.
