@@ -9,7 +9,7 @@
  * [Demotic Texts Archive](http://oi.uchicago.edu/OI/DEPT/RA/ABZU/DEMOTIC_WWW.HTML) (Oriental Institute, Chicago): Collection of Demotic language material on the Web.
  * [Heidelberger Gesamtverzeichnis](http://aquila.zaw.uni-heidelberg.de/) (HGV): Searchable database of scholarly metadata pertaining to published Greek and Latin documents. Browse by [Texte im HGV](http://aquila.zaw.uni-heidelberg.de/texte/HGV-Texte.html).
  * [Leuven Database of Ancient Books](http://ldab.arts.kuleuven.be) (LDAB): Searchable database with information pertaining to published literary texts.
- * [Leuven Homepage of Papyrus Archives](http://www.trismegistos.org/arch.php) (LHPC): Register of ancient archives from Greco-Roman Egypt.
+ * [Leuven Homepage of Papyrus Archives](http://www.trismegistos.org/arch.php) (LHPA): Register of ancient archives from Greco-Roman Egypt.
  * [Leuven Homepage of Papyrus Collections](http://www.trismegistos.org/coll.php) (LHPC): Register of papyrus collections located around the world.
  * [Mertens-Pack3](http://www.ulg.ac.be/facphl/services/cedopal/pages/mp3anglais.htm) (M-P3): Searchable catalog of Greek and Latin literary papyri.
  * [Medieval Nubia](http://www.medievalnubia.info): Site dedicated to collaborative publication of resources for the study of Medieval Nubia.
