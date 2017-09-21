@@ -2857,7 +2857,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 109, Römische Testamentsurkunden aus Ägypten vor und nach der Constitutio Antoniniana, by B. Strobel. 2014.
  * 110, Der solutionis causa adiectus im römischen Recht, by C. Schnabel. 2015.
  * 111, Die Einheit der Ordnung: Recht, Philosophie und Gesellschaft in Ciceros Rede Pro Milone, by B. Forschner. 2015.
- * 114, Das Privatrecht der griechischen Urkunden vom Mittleren Euphrat: P.Euphr. 6 - P.Euphr. 15, by T. Johannsen. 2017.
+ * 114, Das Privatrecht der griechischen Urkunden vom Mittleren Euphrat: P.Euphr. 6-P.Euphr. 15, by T. Johannsen. 2017.
 
 ### Mus.Tor.
  = _Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi_. Turin 1967—.
