@@ -1358,6 +1358,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Petr.2 I
 = _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31. {ddb:p.petr.2}
 
+### P.Petr.Kleon
+= _The archive of the architektones Kleon and Theodoros (P.Petrie Kleon)_, ed. B. Van Beek. Brussels 2017. (Coll.Hellen. VII). Nos. 1—31.
+
 ### P.Petra
 = _The Petra Papyri_  {ddb:p.petra}
 
