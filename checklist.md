@@ -577,6 +577,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * I, ed. J. Bazant and R. Pintaudi with many others. Prague 1998. (Eirene 34 [1998]). Nos. 1-37. {ddb:p.eirene;1}
  * II, ed. J. Bazant and R. Pinaudi with many others. Prague 2004. (Eirene 40 [2004] pages 1-193.) Nos. 1-32; no. 11 is a mummy label; nos. 30 and 31 are magical drawings. {ddb:p.eirene;2}
  * III, ed. J. Bazant, H. Harrauer and R. Pinaudi with many others. Prague 2010. (Eirene 46 [2010] pages 1–149). Nos. 1–37. {ddb:p.eirene;3}
+ * IV, ed. H. Harrauer and R. Pinaudi with many others. Prague 2016. (Eirene 52 [2016] pages 1–290). Nos. 1–50. {ddb:p.eirene;4}
 
 ### P.Eleph.
 = _Aegyptische Urkunden aus den Königlichen Museen in Berlin: Griechische Urkunden_, Sonderheft. _Elephantine-Papyri_, ed. O. Rubensohn. Berlin 1907. Nos. 1—32 and 3 fragments. [MF 2.81; rp. CG] {ddb:p.eleph}
