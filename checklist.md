@@ -2456,6 +2456,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 33, see P.Scholl
  * 34, see P.Philammon
  * 35, see P.Cair.Mich. II
+ * 36, see P.Trier I
 
 ### BASP Suppl.
  = _Bulletin of the American Society of Papyrologists_: Supplements. Published irregularly by the Society, 1973— . [Oxbow]
