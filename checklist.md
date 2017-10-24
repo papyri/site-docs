@@ -757,6 +757,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * I, Literarische Texte und ptolemäische Urkunden, ed. T. Larsen. Copenhagen 1942. Nos. 1—12. Documentary texts reprinted as SB VI 9242—9245. [Rp. CG] Five additional texts were published in Cahiers de l'Institut du Moyen-Âge Grec et Latin, Copenhagen 1971, by A. Bülow-Jacobsen and S. Ebbesen. Reprinted as SB XIV 11355—11358 and 11714; inv.317 also = P.Haun. II 19, inv. 318 = P.Haun. III 58. [CUI] {ddb:p.haun;1}
  * II, ed. A. Bülow-Jacobsen. Bonn 1981. (Pap.Texte Abh. XXIX). Nos. 13—44. [RH] {ddb:p.haun;2}
  * III, ed. T. Larsen and A. Bülow-Jacobsen. Bonn 1985. (Pap.Texte Abh. XXXVI). Nos. 45—69. [RH] {ddb:p.haun;3}
+ * IV, ed. T. Christensen, D.J. Thompson and K. Vandorpe, Land and Taxes in Ptolemaic Egypt. An Edition, Translation and Commentary for the Edfu Land Survey (P.Haun. IV 70). Cambridge Classical Studies. Cambridge: Cambridge University Press 2017.
 
 ### P.Hausw.
 = _The Hauswaldt Papyri_, ed. J. Manning. Sommerhausen 1997. (Dem.Stud. XII). Nos. 1—25. There are Greek dockets to nos. 2a and b, 8a and b, and 9a and b. This edition replaces a quasi-edition of the same texts, Die Hauswaldt-Papyri, ed. W. Spiegelberg with "Rechtsgeschichtliche Beiträge" by J. Partsch (Leipzig 1913), with a separate elephant-folio volume of plates. While the Spiegelberg edition does not transcribe or translate many of the texts, the plates volume is essential. Manning provides plates of nos. 10, 16, and 17; nos. 4 and 6 are no longer extant. The numbering of the texts is the same in both volumes. [Gisela Zauzich Verlag]
@@ -3541,7 +3542,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II
- * 2017: P.Trier I; P.Petr.Kleon
+ * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV
 
 ### Coptic
  * 1876: P.RevilloutCopt.
