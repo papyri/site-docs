@@ -2987,6 +2987,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni, 2012.
  * XXXVII, see P.Tarich.
  * XXXVIII, see P.ÄkNo.
+ * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
 
 ### Pap.Flor.
  = _Papyrologica Florentina_. Florence. 1976— .
