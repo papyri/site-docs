@@ -901,6 +901,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XII, ed. Ch. Armoni, M. Gronewald, J. Lundon, K. Maresch, F. Reiter and G. Schenke. Paderborn et al. 2010. (Pap.Colon. VII/12). Nos. 467–495. [FS]  {ddb:p.koeln;12}
  * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII/13). Nos. 496-550. [FS]  {ddb:p.koeln;13}
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
+ * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_
@@ -2989,6 +2990,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXVIII, see P.ÄkNo.
  * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
  * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete, 2017.
+ * XLI, Corpus des papyrus grecs sur les relations administratives entre le clerge égyptien et les autorités romaines, by C. Messerer, vol. 1, 2017.
 
 ### Pap.Flor.
  = _Papyrologica Florentina_. Florence. 1976— .
@@ -3544,7 +3546,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II
- * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV
+ * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV
 
 ### Coptic
  * 1876: P.RevilloutCopt.
