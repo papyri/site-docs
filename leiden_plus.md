@@ -71,6 +71,7 @@ _Example PN Link:_
 
 Recto and verso are indicated with closed pairs of tags as follows: 
 
+		<S=.grc
 		<D=.r<= 
 		1. line of text 
 		2. line of text 
@@ -81,6 +82,7 @@ Recto and verso are indicated with closed pairs of tags as follows:
 		=>=D> 
 
 Note that the pair of tags inside the recto/verso tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+Please note that the sequence "<S=.grc" must always be present at the very top of the page. If it is deleted what follows can only be saved in Broken Leiden+. "grc" indicates the use of Ancient Greek as the language. This can, of course, be changed to the appropriate language, e.g. "la" for Latin. "<S=.language marker" must always be present.
 
 ***
 
