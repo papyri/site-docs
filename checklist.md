@@ -2161,7 +2161,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887.
 
 ### T.Mom.Louvre
-= "Catalogue des étiquettes de momies du Musée du Louvre," ed. F. Baratte and B. Boyaval. Lille 1974—1979. Pt. 1, nos. 1—259 (CRIPEL 2, 1974); pt. 2, nos. 260—688 (CRIPEL 3, 1975); pt. 3, nos. 689—999 (CRIPEL 4, 1976); pt. 4, nos. 1000—1209 and indexes (CRIPEL 5, 1979).
+= "Catalogue des étiquettes de momies du Musée du Louvre," ed. F. Baratte and B. Boyaval. Lille 1974—1981. Pt. 1, nos. 1—259 (CRIPEL 2, 1974); pt. 2, nos. 260—688 (CRIPEL 3, 1975); pt. 3, nos. 689—999 (CRIPEL 4, 1976); pt. 4, nos. 1000—1209 and indexes (CRIPEL 5, 1979); corrigenda (CRIPEL 6, 1981).
 
 ### T.Pizarras
 = _Las Pizarras Visigoda: edición crítica y estudio_, ed. I. Velázquez Soriano. Murcia 1989. (Antigüedad y cristianismo 6). Nos. 1-104.
