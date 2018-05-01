@@ -3077,6 +3077,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * V, _Écrire la magie dans l'antiquité: actes du colloque international (Liège, 13-15 octobre 2011)_, ed. M. De Haro Sanchez. 2015.
  * VI, _Signes dans les textes, textes sur les signes : érudition, lecture et écriture dans le monde gréco-romain : actes du colloque international (Liège, 6-7 septembre 2013)_, ed. G. Nocchi Macedo, M. Chiara Scappaticcio. 2017.
  * VII, _En marge du Serment hippocratique : contrats et serments dans le monde greco-romain : actes de la Journée d'étude internationale (Liège, 20 Octobre 2014)_, ed. M.-H. Marganne, A. Ricciardetto. 2017.
+ * VIII, _L'Hadrianus de Montserrat (P.Monts.Roca III, inv. 162-165)_, ed. T. Berg. 2018.
 
 ### Pap.Lugd.Bat.
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
