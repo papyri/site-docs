@@ -2921,6 +2921,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXIV, "Et maintenant ce ne sont plus que des villages..." Thèbes et sa région aux époques hellénistique, romaine et byzantine. Actes du colloque tenu à Bruxelles les 2 et 3 décembre 2005, ed. by A. Delattre and P. Heilporn. 2008. [AERE]
  * XXXV, see P.Cair.Preis. (2nd ed.)
  * XXXVI, see O.Berenike III
+ * XXXVII, La "Bonne Nouvelle" : la nouvelle de l'avènement d'un empereur et de la mort de son prédécesseur en Égypte, by J.-Y. Strasser. 2017.
 
 ### Pap.Castr.
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
