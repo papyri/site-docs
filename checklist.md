@@ -1194,6 +1194,10 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Narm.
 
  * I, Narmouthis 2006: Documents et objects découverts à Médinet Madi en 2006, ed. E. Bresciani, A. Delattre, P. Heilporn, A. Martin, A. Menchetti, G. Nachtergael, R. Pintaudi and F. Silvano. Pisa 2010. (Monografie di “Egitto e Vicino Oriente” II). Nos. 1–13 are Greek papyri; no. 14 is a Greek tablet; nos. 15–19 are Demotic and bilingual ostraca; nos. 20–147 Greek ostraca; nos. 148–149 Greek inscriptions. {ddb:p.narm.2006}
+ 
+### P.Nekr.
+
+= _The Undertakers of the Great Oasis_, ed. R.S. Bagnall. London, 2017. (Graeco-Roman Memoirs, Supplemental Vol. 1)
 
 ### P.Neph.
 = _Das Archiv des Nepheros und verwandte Texte_, ed. B. Kramer, J.C. Shelton and G.M. Browne. Mainz 1987. (Aegypt.Trev. IV). Part I, Das Archiv des Nepheros, nos. 1—14, 17—42 Greek, nos. 15—16 Coptic. Part II, Verwandte Texte aus der Heidelberger Papyrussammlung, nos. 43—49 Greek. [PvZ] {ddb:p.neph}
@@ -3553,7 +3557,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg
- * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV
+ * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII
 
 ### Coptic
