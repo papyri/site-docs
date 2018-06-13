@@ -2151,11 +2151,14 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### T.Alb.
 = _Tablettes Albertini, Actes privés de l’époque Vandale_, ed. C. Courtois, L. Leschi, C. Perrat and C. Saumagne. Paris 1952. Texts I—XXXIV; separate portfolio of plates.
 
+### T.Bloomberg
+= _Roman London’s First Voices. Writing tablets from the Bloomberg excavations, 2010–14_, ed. R.S.O. Tomlin. London 2016.
+
 ### T.BM Arlt
 = _Deine Seele möge leben für immer und ewig. Die demotischen Mumienschilder im British Museum_, ed. C. Arlt. Leuven 2011. (Stud.Demotica 10).
 
 ### T.Dacia
-= _Tablitele Cerate Dacice_, ed. I. I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
+= _Tablitele Cerate Dacice_, ed. I.I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
 
 ### T.Jucundus
 = _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887.
@@ -3547,7 +3550,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
- * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II
+ * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T. Bloomberg
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV
 
 ### Coptic
