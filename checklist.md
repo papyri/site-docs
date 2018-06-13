@@ -1309,6 +1309,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXIX, Nos. 5183–5218, ed. W.B. Henry, P.J. Parsons with contributions by 18 others and an appendix Games, Competitors and Performers in Roman Egypt by S. Remijsen. 2014. (100).  {ddb:p.oxy;79}
  * LXXX, Nos. 5219–5257, ed. M. Hirt, D. Leith and W.B. Henry. 2014 (101).  {ddb:p.oxy;80}
  * LXXXII, Nos. 5290-5343, ed. N. Gonis, F. Maltomini, W.B. Henry and S. Slattery with contributions by 14 others. 2016. (103).
+ * LXXXIII, Nos. 5344-5403, ed. P.J. Parsons and N. Gonis with contributions by 11 others. 2018 (104).
 
 ### P.Oxy.Astr.
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
@@ -3553,7 +3554,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV
- * 2018: P.Köln XVI
+ * 2018: P.Köln XVI; P.Oxy. LXXXIII
 
 ### Coptic
  * 1876: P.RevilloutCopt.
