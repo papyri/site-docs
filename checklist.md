@@ -902,7 +902,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII/13). Nos. 496-550. [FS]  {ddb:p.koeln;13}
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
  * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
- + XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/15). Nos. 642-682.
+ + XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/15). Nos. 642-652.
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_
@@ -2667,6 +2667,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 100, see P.Oxy. LXXIX.
  * 101, see P.Oxy. LXXX.
  * 103, see P.Oxy. LXXXII.
+ * 104, see P.Oxy. LXXXIII.
 
 ### KurzberichteGiessen
  = _Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen_
