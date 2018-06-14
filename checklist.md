@@ -1100,7 +1100,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XVII, P.Michigan XVII: The Michigan Medical Codex (P.Mich. 758 = P.Mich.inv. 21), ed. L.C. Youtie. Atlanta 1996. (Am.Stud.Pap. XXXV). [Oxbow] [Online: AWDL](http://hdl.handle.net/2333.1/vmcvdr70)
  * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG] {ddb:p.mich;18}
  * XIX, P.Michigan XIX. Baptized for Our Sakes: A Leather Trisagion from Egypt (P.Mich. 799), ed. D.G. Martinez. Stuttgart and Leipzig 1999. (Beiträge zur Altertumskunde 120). No.799. [KGS]
- * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P. J. Sijpesteijn and K. A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826. {ddb:p.mich;20}
+ * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P.J. Sijpesteijn and K.A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826. {ddb:p.mich;20}
+ * XXI, Papyri from Karanis. The Granary C123, ed. W.G. Claytor and A. Verhoogt, with the assistance of P. Heilporn and S. Lash. 2018.
 
 ### P.Mich.Aphrod.
 = _Settling a Dispute: Toward a Legal Anthropology of Late Antique Egypt_, by T. Gagos and P. van Minnen. Ann Arbor 1994. (New Texts from Ancient Cultures I). Contains a reedition of P.Vat.Aphrod. 10, to which is joined P.Mich.inv. 6922. [Univ. of Michigan Press] {ddb:p.mich.aphrod}
@@ -3559,7 +3560,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; Pap.Flor. XL; Pap.Flor. XLI; P.Köln XV; P.Nekr.
- * 2018: P.Köln XVI; P.Oxy. LXXXIII
+ * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI
 
 ### Coptic
  * 1876: P.RevilloutCopt.
