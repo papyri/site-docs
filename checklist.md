@@ -90,6 +90,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG] {ddb:cpr;31}
  * XXXII, Arabische Briefe aus dem 10.-16. Jahrhundert, ed. W. Diem. Berlin, 2011.
  * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015.
+ * XXXIV, Koptische dokumentarische Texte aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed. M.R.M. Hasitzka. Berlin, 2018.
 
 ### P.Aberd.
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [Full BP bibliographic record](http://papyri.info/biblio/3909)
@@ -3622,3 +3623,4 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2013: P.Macq.; O.Lips.Copt.
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
+ * 2018: CPR XXXIV
