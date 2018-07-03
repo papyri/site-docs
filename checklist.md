@@ -3127,7 +3127,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XXXI, Perspctives on Panopolis: An Egyptian Town from Alexander the Great to the Arab Conquest, ed. A. Egberts, B. P. Muhs and J. van der Vliet. 2002. [EJB]
  * XXXII, see P.Tebt. V.
  * XXXIII, see P.Worp.
-
+ * XXXIV, Hieratic, Demotic and Greek studies and text editions : of making many books there is no end : Festschrift in honour of Sven P. Vleeming, ed. K. Donker van Heel, F.A.J. Hoogendijk, C.J. Martin. 2018.
+ 
 ### Pap.Lup.
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce. 
 
