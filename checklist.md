@@ -2427,6 +2427,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XL, see P.Sijp.
  * XLI, see P.Yale III.
  * XLII, see P.Thomas
+ * XVIII, see P.Bawit Clackson 
  * XLIV, see P.Berl.Cohen
  * XLV, Annotations in Greek and Latin Texts from Egypt, by K.McNamee. 2007 [Oxbow]
  * XLVI, see P.Clackson
