@@ -1102,7 +1102,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XVIII, P.Michigan Koenen: Michigan Texts Published in Honor of Ludwig Koenen, ed. C. Römer and T. Gagos. Amsterdam 1996. (Stud.Amst. XXXVI). Nos. 759—798; nos. 796—798 are Coptic literary texts. [JCG] {ddb:p.mich;18}
  * XIX, P.Michigan XIX. Baptized for Our Sakes: A Leather Trisagion from Egypt (P.Mich. 799), ed. D.G. Martinez. Stuttgart and Leipzig 1999. (Beiträge zur Altertumskunde 120). No.799. [KGS]
  * XX, A Transportation Archive from Fourth-Century Oxyrhynchus, ed. P.J. Sijpesteijn and K.A. Worp, with the assistance of T. Gagos and A. Verhoogt. Durham, NC 2011. (Am.Stud.Pap. 49). Nos. 800–826. {ddb:p.mich;20}
- * XXI, Papyri from Karanis. The Granary C123, ed. W.G. Claytor and A. Verhoogt, with the assistance of P. Heilporn and S. Lash. 2018.
+ * XXI, Papyri from Karanis. The Granary C123, ed. W.G. Claytor and A. Verhoogt, with the assistance of P. Heilporn and S. Lash. 2018. Nos. 827-863.
 
 ### P.Mich.Aphrod.
 = _Settling a Dispute: Toward a Legal Anthropology of Late Antique Egypt_, by T. Gagos and P. van Minnen. Ann Arbor 1994. (New Texts from Ancient Cultures I). Contains a reedition of P.Vat.Aphrod. 10, to which is joined P.Mich.inv. 6922. [Univ. of Michigan Press] {ddb:p.mich.aphrod}
