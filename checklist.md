@@ -903,7 +903,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII/13). Nos. 496-550. [FS]  {ddb:p.koeln;13}
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
  * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
- + XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/15). Nos. 642-652.
+ + XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/16). Nos. 642-652.
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_
