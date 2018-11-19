@@ -1215,7 +1215,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Greek Papyri in the Collection of New York University_.
 
  * I, Fourth Century Documents from Karanis, ed. N. Lewis. Leiden 1967. (New York Univ., Department of Classics, Monographs on Mediterranean Antiquity I). Nos. 1—25. [NYU or EJB]
- * II, Papyri from the New York University Collection II, ed. B. Nielson and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53. For the indices see www.papy.uni-hd.de/WL/PNYU\_II\_Indices.pdf]
+ * II, Papyri from the New York University Collection II, ed. B. Nielsen and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53. For the indices see www.papy.uni-hd.de/WL/PNYU\_II\_Indices.pdf]
 
 ### P.Oslo
 = _Papyri Osloenses_. Oslo.
