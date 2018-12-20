@@ -1431,7 +1431,7 @@ Uncertain handshift.
 
 _To get this PN preview:_ `(BGU 1,108,r reprinted in WChr 227 )`
 
-_Use this Leiden+:_ `/*BGU 1,108,r reprinted in WChr 227 */`
+_Use this Leiden+:_ `/*BGU 1,108,r reprinted in WChr 227*/`
 
 _To create this XML:_ `<note xml:lang="en">BGU 1,108,r reprinted in WChr 227 </note>`
 
