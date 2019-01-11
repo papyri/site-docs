@@ -3295,6 +3295,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### Stud.Demotica
  = Studia Demotica. Leuven 1987—. [Peeters]
+ 
  * I, see DemCongr. II (IX Proceedings).
  * II, see P.Choach.Survey.
  * III, see P.Hou.
