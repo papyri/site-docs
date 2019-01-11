@@ -2504,13 +2504,13 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 3, 1999
  * 4, 2001
  * 5, 2003
- * 6, 2005, see PSI Com.
+ * 6, 2005, see PSI Com. 6
  * 7, 2007
- * 8, 2009
- * 9, 2011
+ * 8, 2009, see PSI Com. 8
+ * 9, 2011, see PSI Com. 9
  * 10, 2012
- * 11, 2013
- * 12, 2015
+ * 11, 2013, see PSI Com. 11
+ * 12, 2015, see PSI Com. 12
 
 ### CRIPEL
  = _Cahiers de Recherches de l’Institut de Papyrologie et d’Égyptologie de Lille_. 1973— .
