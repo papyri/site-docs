@@ -2354,9 +2354,11 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * III, Literary Papyri: Poetry, ed. D.L. Page. 1942. Nos. 1—147.
 
 ### Short Texts
-= _Demotic and Greek Mummy Labels and other short texts gathered from many publications_, ed. S.P. Vleeming. (Stud.Demotica 9). 
+= _Demotic and Greek short texts gathered from many publications_, ed. S.P. Vleeming. 
 
- * II, Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.
+ * I, Some Coins of Artaxerxes and other short texts in the Demotic Script found on various objects and gathered from many publications, ed. S.P. Vleeming. 2001. Nos. 1-277. (Stud.Demotica 5)
+ * II, Demotic and Greek Mummy Labels and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.  (Stud.Demotica 9)
+ * III, Demotic Graffiti and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Bristol, CT 2015. Nos. 1201—2350. (Stud.Demotica 12)
 
 ### Shorthand Manuals
 = _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
