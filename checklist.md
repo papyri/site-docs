@@ -1563,6 +1563,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL] {ddb:psi;14}
  * XV, ed. †V. Bartoletti, G. Bastianini, G. Messeri, F. Montanari, R. Pintaudi. 2008. Nos. 1453—1574. Nos. 1453—1468 previously published by V. Bartoletti and M. Manfredi in PSI XV, fasc. 1, 1979 (all literary); nos. 1478—1479, 1484, 1489, 1508, 1513—1515, 1522, 1526, 1528, 1531, 1532, 1536—1538, 1540, 1543, 1544, 1546, 1556, 1557, 1561—1566 and 1569 previously published in PSI XV Estr or in SB XII. {ddb:psi;15}
  * XVI, ed. G. Bastianini, F. Maltomini, G. Messeri. 2013. Nos. 1575—1653.
+ * XVII, ed. F. Maltomini, S. Russo, M. Stroppa. 2018. Nos. 1654-1715.
  
 ### PSI XV Estr.
 = _Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I._, ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
