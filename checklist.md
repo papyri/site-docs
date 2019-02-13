@@ -3562,7 +3562,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO; PSI Com. 8; C.Palmomanticum
  * 2010: CPR ΧΧΧ; P.Dime III; P.Eirene III; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
  * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. 9; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
- * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; SB Kopt. IV; O.Did.; O.Petr.Mus.; O.Trim. I
+ * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; O.Did.; O.Petr.Mus.; O.Trim. I
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
@@ -3626,7 +3626,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * 2009: P.Clackson; O.EdfouIFAO
  * 2010: O.Frangé
  * 2011: CPR XXXI
- * 2012: –––
+ * 2012: SB Kopt. IV
  * 2013: P.Macq.; O.Lips.Copt.
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
