@@ -1,5 +1,6 @@
 # Text Leiden+ Documentation
 
+- For a briefer introduction one can also use: [Guide to SoSOL](https://docs.google.com/document/d/184yKsyRCRtrxW3rK5pfyokr-U9uc0cALrm3k0IQu-gE/edit)
 - [Formatting - Word and Document](#formatting---word-and-document) <a id="top"></a>
     - [Document Division](#document-division)
     - [Line Number](#line-number)
