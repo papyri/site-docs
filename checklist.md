@@ -2390,6 +2390,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * X, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1998. [EJB]
  * XI, , ed. H.-A. Rupprecht and A.M.F.W Verhoogt. Leiden 2002. [EJB]
  * XII, ed. H.-A. Rupprecht and K.A. Worp. Leiden 2009. [EJB]
+ * XIII, ed. F.A.J. Hoogendijk and A. Joerdens. Leiden 2017. [EJB]
  * Vols. I-XI are available on CD-ROM. Leiden, 2009. [EJB]
 
 ### BL Konkordanz
