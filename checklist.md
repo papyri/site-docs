@@ -2517,6 +2517,139 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### WB
  = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling. I, A-K, Berlin 1925; II, L-W, Berlin 1927; III, besondere Wörterliste, Berlin 1931; IV, A-Zin 5 pts. Berlin 1944—. Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH]. Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH]. Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH]
 
+### Grammars
+
+### Bresciani, Nozioni
+ = Nozioni elementari di grammatica demotica, by E. Bresciani. Milan 1969. (Testi e documenti per lo studio dell’antichità 29). [CG]
+ 
+### Brugsch, Gram.
+ = Grammaire Démotique, by H. Brugsch. Berlin 1855.
+ 
+### du Bourguet, Gram.
+ = Grammaire fonctionelle et progressive de l’égyptien démotique, by P. du Bourguet. Louvain 1976. [Peeters]
+ 
+### Gignac, Gram.
+ = A Grammar of the Greek Papyri of the Roman and Byzantine Periods, vol. I, Phonology, vol. II Morphology, by F.T. Gignac. Milan 1976, 1981. (Testi e documenti per lo studio dell’antichità, 55, 1—2). [CG]
+ 
+### Johnson, Gram.
+ = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC 45.html>.
+ 
+### Johnson, Verbal System
+ = The Demotic Verbal System by J.H. Johnson. Chicago 1976. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 38).
+ 
+### Layton, Coptic Grammar
+ = A Coptic Grammar with Chrestomathy and Glossary. Sahidic Dialect, by B. Layton. Wiesbaden 2000. (Porta Linguarum Orientalium NS 20). [OH]
+ 
+### Lexa, Gram.
+ = Grammaire démotique, by F. Lexa, in 7 parts. Prague 1949—1951. Privately printed.
+ 
+### Mandilaras, Verb
+ = The Verb in the Greek Non-literary Papyri, by B.G. Mandilaras. Athens 1973.
+ 
+### Mayser, Gram.
+ = Grammatik der griechischen Papyri aus der Ptolemäerzeit mit Einschluss der gleichzeitigen Ostraka und der in Ägypten verfassten Inschriften, by E. Mayser. Berlin/Leipzig 1906—1970. [WdG]
+ * I, Laut und Wortlehre, 1906, rp. 1923.
+ * I 1, Einleitung und Lautlehre, 2nd ed. by H. Schmoll. Berlin 1970. [WdG]
+ * I 2, Laut- und Wortlehre, pt. II Flexionslehre, 2nd ed. 1938.
+ * I 3, Laut- und Wortlehre, pt. III Stammbildung, 2nd ed. 1936.
+ * II 1—2, Satzlehre, Analytischer Teil. 1933—1934.
+ * II 3, Satzlehre, Synthetischer Teil. 1934.
+ 
+### Palmer, Gram.
+ = A Grammar of the Post-Ptolemaic Papyri, by L.R. Palmer. Vol. I, Accidence and Word-formation, pt. 1, The Suffixes (no further parts published). London 1945. [OUP]
+ 
+### Simpson, Gram.
+ = Demotic Grammar in the Ptolemaic Sacerdotal Decrees, by R.S. Simpson. Oxford 1996. (Griffith Institute Monographs). [Griffith Institute. Ashmolean Museum]
+ 
+### Spiegelberg, Gram.
+ = Demotische Grammatik, by W. Spiegelberg. Heidelberg 1925.
+
+### Palaeography
+
+### Boswinkel-Sijpesteijn, Tabulae
+ = Greek Papyri, Ostraca and Mummy Labels, by E. Boswinkel and P.J. Sijpesteijn. Amsterdam 1968. (Tabulae Palaeo-graphicae I). [AMH]
+ 
+### Cavallo-Maehler, GB
+ = Greek Bookhands of the Early Byzantine Period, A.D. 300—800, by G. Cavallo and H. Maehler. London 1987. (Institute of Classical Studies, Bulletin Supplement 47). [ICS]
+ 
+### Cramer
+ = Koptische Paläographie, by M. Cramer. Wiesbaden 1964. [OH]
+ 
+### El-Aguizy
+ = A Palaeographical Study of Demotic Papyri in the Cairo Museum from the Reign of King Taharka to the End of the Ptolemaic Period (684-30 B.C.), by O. el-Aguizy. Cairo 1998. (MIFAO 113). [SEVPO]
+ 
+### Harauer
+ = Handbuch der griechischen Paläographie, by H. Harrauer. Bd. I Textband, Bd. II Tafelband, with a CD-ROM. Stuttgart 2010. (Bibliothek des Buchwesens 20). [A. Hiersemman]
+ 
+### Hyvernat
+ = Album de paléographie copte pour servir à l’introduction paléo-graphique des Actes des Martyrs de l’Égypte, by H. Hyvernat. Paris 1888. [Reprint OZ 1972]
+ 
+### Roberts, GLH
+ = Greek Literary Hands, 350 B.C.—A.D. 400, by C.H. Roberts. Oxford 1956. [OUP]
+ 
+### Schubart, Pal.
+ = Griechische Palaeographie, by W. Schubart. Munich 1925, rp. 1966. (Handbuch der Altertumswissenschaft I.4.1). [Beck]
+ 
+### Schubart, PGB
+ = Papyrae graecae Berolinenses, by W. Schubart. Bonn 1911. (Tabulae in Usum Scholarum 2).
+ 
+### Seider, Pal.Gr.
+ = Paläographie der griechischen Papyri, by R. Seider. Bd. I Urkunden, Bd. II Literarische Papyri, Bd. III Text, pt. 1 Urkundenschrift. Stuttgart 1967, 1970, 1990. [Hiersemann]
+ 
+### Seider, Pal.Lat.
+ = Paläographie der lateinischen Papyri, by R. Seider. Bd. I Urkunden. Bd. II, 1 Literarische Papyri. Bd. II, 2 Juristische und Christliche Texte. Stuttgart 1972, 1978, 1981. [Hiersemann]
+ 
+### Stegemann
+ = Koptische Paläographie, by V. Stegemann. Heidelberg 1936.
+ 
+### Turner, GMAW
+ = Greek Manuscripts of the Ancient World, by E.G. Turner: 2nd ed. rev. and enl. by P.J. Parsons. London 1987. (Institute of Classical Studies, Bulletin Supplement 46). [ICS] 
+
+### Handbooks
+
+### Copt.Enc.
+ = The Coptic Encyclopedia, ed. A.S. Atiya. 8 volumes. New York 1991.
+ 
+### Depauw, Companion
+ = A Companion to Demotic Studies, by M. Depauw. Brussels 1997. (Pap.Brux. XXVIII). [FERE]
+ 
+### Fikhman, Introduction
+ = Introduction à la papyrologie documentaire (In Russian), by I.F. Fikhman. Moscow 1987.
+ 
+### Grundz.Mitt. (or M.Gr.)
+ = L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, II Bd. Juristischer Teil, I Hälfte Grundzüge, by L. Mitteis. Leipzig/Berlin 1912. [MF 2. 122—123 (with Chrestomathie); rp. GO]
+ 
+### Grundz.Wilck. (or W.Gr.)
+ = L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, I Bd. Historischer Teil, I Hälfte Grundzüge, by U. Wilcken. Leipzig/Berlin 1912. [MF 2. 120—121 (with Chrestomathie); rp. GO]
+ 
+### Hoffmann, Darstellung
+ = Ägypten: Kultur und Lebenswelt in griechisch-römischer Zeit: Eine Darstellung nach den demotischen Quellen, by F. Hoffmann. Berlin 2000. [AV]
+ 
+### Hohlwein, Papyrologie
+ = La Papyrologie Grecque, Bibliographie raisonée, by N. Hohlwein. Louvain 1905. (Musée Belge 6-9 [1902-1906]). 
+ 
+### Montevecchi, Pap.
+ = La Papirologia, by O. Montevecchi. 2nd ed. Milan 1988. [VP]
+ 
+### Peremans, Vergote, Handboek
+ = Papyrologisch Handboek, by W. Peremans and J. Vergote. Leuven 1942.
+ 
+### Pestman, Prim.2
+ = The New Papyrological Primer, 2nd ed., by P.W. Pestman. Leiden 1994. [EJB]
+ 
+### Preisendanz, Papyrusfunde
+ = Papyrusfunde und Papyrusforschung, by K. Preisendanz. Leipzig 1933.
+ 
+### Rupprecht, Einf.
+ = Kleine Einführung in die Papyruskunde, by H.-A. Rupprecht. Darmstadt 1994.
+ 
+### Schubart, Einf.
+ = Einführung in die Papyruskunde, by W. Schubart. Berlin 1918.
+ 
+### Turner, GP
+ = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP] 
+ * Papyrological resources on the World Wide Web not listed here can be found through the Web site of the American Society of Papyrologists, <www. papyrology.org>
+
 ## Series
 
 ### Aegypt.Trev.
