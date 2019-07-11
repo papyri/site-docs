@@ -2371,6 +2371,152 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * I, Opladen 1990. Nos. 1-51. [FS]
  * II, Opladen 1992. Nos. 52-100. [FS]
 
+## Instrumenta
+
+### Bibl.Pap.
+ = Bibliographie Papyrologique: Fichier électronique 1932—2010, under the direction of A. Martin with the assistance of R.S. Bagnall, A. Buchet, A. Deknudt, A. Delattre, P. Heilporn and H. Melaerts. Available on CD-ROM "Subsidia Papyrologica 4.0." Brussels 2010. [AERE]
+
+### BL
+ = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten. 
+ * I, ed. F. Preisigke. Berlin/Leipzig 1922. [WdG]
+ * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
+ * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
+ * IV, ed. idem. Leiden 1964. [EJB]
+ * V, ed. E. Boswinkel, M. David, B.A. van Groningen and E. Kiessling. Leiden 1969. [EJB]
+ * VI, ed. E. Boswinkel, P.W. Pestman and H.-A. Rupprecht. Leiden 1976. [EJB]
+ * VII, ed. E. Boswinkel, W. Clarysse, P.W. Pestman and H.-A. Rupprecht. Leiden 1986. [EJB]
+ * VIII, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1992. [EJB]
+ * IX, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1995. [EJB]
+ * X, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1998. [EJB]
+ * XI, , ed. H.-A. Rupprecht and A.M.F.W Verhoogt. Leiden 2002. [EJB]
+ * XII, ed. H.-A. Rupprecht and K.A. Worp. Leiden 2009. [EJB]
+ * Vols. I-XI are available on CD-ROM. Leiden, 2009. [EJB]
+
+### BL Konkordanz
+ = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz
+ * I, Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz und Supplement zu Band I—VII, ed. W. Clarysse, R.W. Daniel, F.A.J. Hoogendijk and P. van Minnen. Leuven 1989. [Peeters]
+ * II, Berichtigungsliste der Griechischen Papyrusurkunden aus Ägypten: Konkordanz zu Band VIII—XI, ed. M.J. Bakker, A.V. Bakkers, F.A.J. Hoogendijk and N. Kruit. Leiden-Boston 2007. [EJB]
+
+### BL Dem.
+ = A Berichtigungsliste of Demotic Documents, ed. A. A. den Brinker, B. P. Muhs, and S. P. Vleeming. Leuven 2005. (Studia Demotica 7). [Peeters]
+ * A, Papyrus Editions. 
+ * B, Ostrakon Editions and Various Publications.
+ * Note: S. P. Vleeming has issued two supplements to date (privately printed, Brauneberg), covering 2005 (2006) and 2005-2006 (2007).
+
+### Checklist
+ = Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, ed. J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. The current print version is the 5th, BASP Suppl. 9 (2001). [Oxbow]. The URL for the Web version is <http://scriptorium.lib.duke.edu/papyrus/texts/clist.html>, kept current by J.F. Oates and J.D. Sosin. 
+
+### ChecklistArab.
+ = The Checklist of Arabic Papyri, ed. P.M. Sijpesteijn, J.F. Oates and A. Kaplony. Currently available online at http://www.ori.unizh.ch/isap/isapchecklist.html.
+
+### ChecklistDem.
+ = Checklist of Demotic Text Editions and Re-editions, by S.P. Vleeming and A.A. den Brinker. Leiden 1993. (Uitgaven Vanwege de Stichting "Het Leids Papyrologisch Instituut" 14).
+
+### DDBDP
+ = Duke Data Bank of Documentary Papyri. Recorded on Packard Humanities Institute CD-ROM 7 with all material entered to June 1996. Online version at <http://papyrus.info>. The DDBDP is co-directed by James Cowey and Joshua Sosin, who together set policy in close consultation with Rodney Ast, the Editorial Board, and other colleagues. Day-to-day editorial decisions are made democratically by the Editorial Board (Rodney Ast, James Cowey, Alain Delattre, Paul Heilporn, Todd Hickey, Cisca Hoogendijk, Joshua Sosin), often in consultation with other colleagues. Editorial proposals of special difficulty or weight are referred to a board of Senior Editors, who advise the Editorial Board on the virtue of the submissions. Senior Editors are: Isabella Andorlini, Roger Bagnall, Willy Clarysse, Hélène Cuvigny, Nikolaos Gonis, Dieter Hagedorn, Ann Hanson, Andrea Jördens, James Keenan, and Klaas Worp.For more on the DDBDP see the development site. 
+
+### Fachwörter
+ = Fachwörter des öffentlichen Berwaltungsdienstes Ägyptens in der griechischen Papyrusurkunden der ptolemäisch-römischen Zeit, by F. Preisigke. Göttingen 1915.
+
+### HGV
+ = Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden aus Ägypten, directed by D. Hagedorn. Available on the World Wide Web at <http://www.rzuser.uni-heidelberg.de/~gv0>. Also available on the CD-ROM "Subsidia Papyrologica 1.0." Brussels 2000. [FERE]
+
+### Lex.Äg.
+ = Lexikon der Ägyptologie, ed. W. Helck, E. Otto and W. Westendorf. Wiesbaden 1972-1996. 
+
+### Lex.Äg.Pap.Dem.
+ = "Papyrus, demotische," Lex.Äg. 4 (1982) coll. 750—898. An extensive list of published Demotic texts compiled by E. Lüddeckens. There are also lists of monographic editions of papyri in vol. 7 (1996) under section II Abkürzung, part d; in section IX, part b, there is a list of all papyrus texts cited in the Lex.Äg. 
+
+### LHPC
+ = The Leuven Homepage of Papyrus Collections World Wide, directed by W. Clarysse and H. Verreth, with H. Proost, I. Uytterhoeven, K. Vandorpe, P. van Minnen. Online at <http://www.trismegistos.org/coll/index.php>.
+
+### PN
+ = Papyrological Navigator (providing access to DDBDP, HGV and APIS). Online at <http://papyri.info/>.
+
+### Pros.Ptol.
+ = Prosopographia Ptolemaica, ed. W. Peremans and E. Van ’t Dack with additional editors as noted below. Leuven.
+ * I, L’Administration civile et financière. 1950. (Studia Hellenistica 6).
+ * II, L’Armée de terre et la police. 1952. (Studia Hellenistica 8).
+ * III, Le Clergé, le notariat, les tribunaux. 1956, reprint 1977. (Studia Hellenistica 11).
+ * IV, L’Agriculture et l’élevage. 1959. (Studia Hellenistica 12).
+ * V, Le Commerce et l’industrie. Le Transport sur terre et la flotte. La Domesticité. 1963. (Studia Hellenistica 13).
+ * VI, La Cour, les relations internationales et les possessions extérieures, la vie culturale, ed. L. Mooren and W. Swinnen. 1968. (Studia Hellenistica 17).
+ * VII, Index Nominum, ed. L. De Meulemeester-Swinnen and H. Hauben. 1975. (Studia Hellenistica 20).
+ * VIII, Addenda et Corrigenda aux volumes I et II, ed. L. Mooren and W. Swinnen. 1975. (Studia Hellenistica 21).
+ * IX, Addenda et Corrigenda au volume III, ed. W. Clarysse. 1981. (Studia Hellenistica 25).
+ * X, Foreign Ethnics in Hellenistic Egypt, ed. C. A. La'da. 2002. (Studia Hellenistica 38). 
+
+### Till, Prosopographie
+ = Datierung und Prosopographie der koptischen Urkunden aus Theben, ed. W.C. Till. SBWien 240.1 (1954).
+
+### WörterListe
+ = Word lists of recent volumes of papyri and ostraca, compiled under the direction of D. Hagedorn, covering publications not included in the CD-ROM of the DDDBDP. An Adobe Acrobat (.pdf) file, available at <http://www.uni-heidelberg.de/institute/fak8/papy/WL/ WL.html>. 
+
+### Lexica
+
+### Calderini, Diz.geogr.
+ = Dizionario dei nomi geografici e topografici dell’Egitto greco-romano, ed. A. Calderini and S. Daris. I pt. 1, ed. A. Calderini. Cairo 1935. [Rp. CG 1972]; pt. 2, ed. A. Calderini. Madrid 1966; II, ed. S. Daris in 4 pts. Milan 1973—1977; III, ed. idem in 4 parts. Milan 1978—1983; IV, ed. idem in 4 pts. Milan 1983—1986; V, ed. idem. Milan 1987. Supplemento 1 (1935—1986), ed. idem. Milan 1988. Supplemento 2 (1987-1993), ed. idem. Bonn 1996. [CG]
+
+### Chicago Demotic Dictionary
+ = Chicago Demotic Dictionary, an ongoing project. The most recent information can be found on its web site: <www-oi.uchicago.edu/OI/PROJ/DEM/Demotic.html>.
+
+### Crum, Dict.
+ = Coptic Dictionary, ed. W.E. Crum. Oxford 1939. [rp. Sandpiper Books. OUP]
+
+### Crum, Compléments
+ = Compléments au dictionnaire copte de Crum, ed. R. Kasser. Cairo 1964. (Institut Français d’Archéologie Orientale, Bibliothèque d’études coptes 7).
+
+### Dict.inversé
+ = Dictionnaire inversé du Copte, ed. M.-O. Strasbach and B. Barc. Louvain 1984. (Cahiers de la bibliothèque copte 7). 
+
+### Dornseiff-Hansen
+ = Rücklaüfiges Wörterbuch der griechischen Eigennamen, ed. F. Dornseiff and B. Hansen. Berlin 1957. (Sächsischen Akademie der Wissenschaften zu Leipzig, Phil.-hist. Kl., Berichte über die Verhandlungen 102.4). [AV]
+
+### Erichsen, Glossar
+ = Demotisches Glossar, by W. Erichsen. Copenhagen 1954.
+
+### Förster, WB
+ = Wörterbuch der griechischen Wörter in den koptischen documentarischen Texten, ed. H. Förster. Berlin 2002. (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 148). [WdG]
+
+### Heuser
+ = Die Personennamen der Kopten, ed. G. Heuser. Leipzig 1929. (Studien zur Epigraphik und Papyruskunde 1.2). Note W. Brunsch, "Index zu Heusers Personennamen der Kopten," Enchoria 12 (1984) 119—153.
+
+### Kopt.Handwörterbuch
+ = Koptisches Handwörterbuch, ed. W. Westendorf. Heidelberg 1965—1977.
+
+### Kretschmer-Locker
+ = Rücklaüfiges Wörterbuch der griechischen Sprache, ed. P. Kretschmer and E. Locker. 2nd ed. Göttingen 1963. (Supersedes O. Gradenwitz, Heidelberger Konträrindex der griechischen Papyrusurkunden [Berlin 1931]).
+
+### Lex.Lat.Lehnw.
+ = Lexicon der lateinischen Lehnwörter in den griechischsprachigen dokumentarischen Texten Ägyptens mit Berücksichtigung koptischer Quellen, by I.-M. Cervenka-Ehrenstrasser with J. Diethart. Vienna 1996—. (MPER N.S. XXVII). Published to date are Fasc. 1, alpha (1996) and 2, beta—delta (2000). [VBH]
+
+### NB
+ = Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw) Ägyptens sich vorfinden, ed. F. Preisigke. Heidelberg 1922, repr. Amsterdam 1967.
+
+### NB Copt.
+ = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at http://www.onb.ac.at/files/kopt_namen.pdf (< http://www.onb.ac.at/sammlungen/papyrus/papyrus_bestandsrecherche.htm)
+
+### NB Dem.
+ = Demotisches Namenbuch, ed. E. Lüddeckens and H.J. Thissen. Wiesbaden 1980—. To date, vol. 1 in 16 fascicles, covering the entire alphabet. [Dr. Ludwig Reichert Verlag]
+
+### Onomasticon
+ = Onomasticon alterum papyrologicum, Supplemento al Namenbuch di F. Preisigke, ed. D. Foraboschi in 4 pts. Milan 1967—1971. (Testi e documenti per lo studio dell’antichità 16, Serie papyrologica II). [CG]
+
+### Ronchi, Lex.Theon.
+ = Lexicon theonymon rerumque sacrarum et divinarum ad Aegyptum pertinentium quae in papyris ostracis titulis Graecis Latinisque in Aegypto repertis laudantur, ed. G. Ronchi. Milan 1974—1977. (Testi e documenti per lo studio dell’antichià 45). [CG]
+
+### Ruozzi Sala, Lex.Nom.Sem.
+ = Lexicon nominum Semiticorum quae in papyris Graecis in Aegypto repertis ab anno 323 a.Ch.n. usque ad annum 70 p.Ch.n. laudata reperiuntur, ed. S.M. Ruozzi Sala. Milan 1974. (Testi e documenti per lo studi dell’antichità 46). [CG]
+
+### Spoglio
+ = Spoglio lessicale papirologico, ed. S. Daris, in 3 vols. Milan 1968. 
+
+### Timm
+ = Das christlich-koptische Ägypten in arabischer Zeit: Eine Sammlung christlicher Stätten in Ägypten in arabischer Zeit unter Ausschluss von Alexandria, Kairo, des Apa-Mena-Klosters (Der Abu Mina), der Sketis (Wadi n-Natrun) und der Sinai-Region, ed. S. Timm. 6 volumes. Wiesbaden 1984—1992. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 1-6). [Dr. Ludwig Reichert Verlag]. See: Index zu Das christlich-koptische Ägypten in arabischer Zeit (Stefan Timm), ed. K.-H. Brune, Wiesbaden 2007. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 7). [Dr. Ludwig Reichert Verlag]
+
+### WB
+ = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling. I, A-K, Berlin 1925; II, L-W, Berlin 1927; III, besondere Wörterliste, Berlin 1931; IV, A-Zin 5 pts. Berlin 1944—. Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH]. Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH]. Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH]
+
 ## Series
 
 ### Aegypt.Trev.
