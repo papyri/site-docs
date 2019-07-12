@@ -2378,6 +2378,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### BL
  = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten. 
+ 
  * I, ed. F. Preisigke. Berlin/Leipzig 1922. [WdG]
  * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
  * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
@@ -2395,11 +2396,13 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### BL Konkordanz
  = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz
+ 
  * I, Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz und Supplement zu Band I—VII, ed. W. Clarysse, R.W. Daniel, F.A.J. Hoogendijk and P. van Minnen. Leuven 1989. [Peeters]
  * II, Berichtigungsliste der Griechischen Papyrusurkunden aus Ägypten: Konkordanz zu Band VIII—XI, ed. M.J. Bakker, A.V. Bakkers, F.A.J. Hoogendijk and N. Kruit. Leiden-Boston 2007. [EJB]
 
 ### BL Dem.
  = A Berichtigungsliste of Demotic Documents, ed. A. A. den Brinker, B. P. Muhs, and S. P. Vleeming. Leuven 2005. (Studia Demotica 7). [Peeters]
+ 
  * A, Papyrus Editions. 
  * B, Ostrakon Editions and Various Publications.
  * Note: S. P. Vleeming has issued two supplements to date (privately printed, Brauneberg), covering 2005 (2006) and 2005-2006 (2007).
@@ -2436,6 +2439,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### Pros.Ptol.
  = Prosopographia Ptolemaica, ed. W. Peremans and E. Van ’t Dack with additional editors as noted below. Leuven.
+ 
  * I, L’Administration civile et financière. 1950. (Studia Hellenistica 6).
  * II, L’Armée de terre et la police. 1952. (Studia Hellenistica 8).
  * III, Le Clergé, le notariat, les tribunaux. 1956, reprint 1977. (Studia Hellenistica 11).
@@ -2549,6 +2553,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  
 ### Mayser, Gram.
  = Grammatik der griechischen Papyri aus der Ptolemäerzeit mit Einschluss der gleichzeitigen Ostraka und der in Ägypten verfassten Inschriften, by E. Mayser. Berlin/Leipzig 1906—1970. [WdG]
+ 
  * I, Laut und Wortlehre, 1906, rp. 1923.
  * I 1, Einleitung und Lautlehre, 2nd ed. by H. Schmoll. Berlin 1970. [WdG]
  * I 2, Laut- und Wortlehre, pt. II Flexionslehre, 2nd ed. 1938.
