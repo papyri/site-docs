@@ -2411,7 +2411,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, ed. J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. The current print version is the 5th, BASP Suppl. 9 (2001). [Oxbow]. The URL for the Web version is <http://scriptorium.lib.duke.edu/papyrus/texts/clist.html>, kept current by J.F. Oates and J.D. Sosin. 
 
 ### ChecklistArab.
- = The Checklist of Arabic Papyri, ed. P.M. Sijpesteijn, J.F. Oates and A. Kaplony. Currently available online at http://www.ori.unizh.ch/isap/isapchecklist.html.
+ = The Checklist of Arabic Papyri, ed. P.M. Sijpesteijn, J.F. Oates and A. Kaplony. Currently available online at  <https://www.naher-osten.uni-muenchen.de/isap/isap_checklist/index.html>
 
 ### ChecklistDem.
  = Checklist of Demotic Text Editions and Re-editions, by S.P. Vleeming and A.A. den Brinker. Leiden 1993. (Uitgaven Vanwege de Stichting "Het Leids Papyrologisch Instituut" 14).
@@ -2423,7 +2423,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = Fachwörter des öffentlichen Berwaltungsdienstes Ägyptens in der griechischen Papyrusurkunden der ptolemäisch-römischen Zeit, by F. Preisigke. Göttingen 1915.
 
 ### HGV
- = Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden aus Ägypten, directed by D. Hagedorn. Available on the World Wide Web at <http://www.rzuser.uni-heidelberg.de/~gv0>. Also available on the CD-ROM "Subsidia Papyrologica 1.0." Brussels 2000. [FERE]
+ = Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden aus Ägypten, directed by D. Hagedorn. Available on the World Wide Web at <http://aquila.zaw.uni-heidelberg.de/>. Also available on the CD-ROM "Subsidia Papyrologica 1.0." Brussels 2000. [FERE]
 
 ### Lex.Äg.
  = Lexikon der Ägyptologie, ed. W. Helck, E. Otto and W. Westendorf. Wiesbaden 1972-1996. 
