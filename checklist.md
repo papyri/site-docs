@@ -2460,10 +2460,18 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### Lexica
 
 ### Calderini, Diz.geogr.
- = Dizionario dei nomi geografici e topografici dell’Egitto greco-romano, ed. A. Calderini and S. Daris. I pt. 1, ed. A. Calderini. Cairo 1935. [Rp. CG 1972]; pt. 2, ed. A. Calderini. Madrid 1966; II, ed. S. Daris in 4 pts. Milan 1973—1977; III, ed. idem in 4 parts. Milan 1978—1983; IV, ed. idem in 4 pts. Milan 1983—1986; V, ed. idem. Milan 1987. Supplemento 1 (1935—1986), ed. idem. Milan 1988. Supplemento 2 (1987-1993), ed. idem. Bonn 1996. [CG]
+ = Dizionario dei nomi geografici e topografici dell’Egitto greco-romano, ed. A. Calderini and S. Daris. 
+ 
+ * I pt. 1, ed. A. Calderini. Cairo 1935. [Rp. CG 1972]; pt. 2, ed. A. Calderini. Madrid 1966; [Rp. CG 1972]
+ * II, ed. S. Daris in 4 pts. Milan 1973—1977; [CG]
+ * III, ed. idem in 4 parts. Milan 1978—1983; [CG]
+ * IV, ed. idem in 4 pts. Milan 1983—1986; [CG] 
+ * V, ed. idem. Milan 1987. [CG]
+ * Supplemento 1 (1935—1986), ed. idem. Milan 1988. [CG] 
+ * Supplemento 2 (1987-1993), ed. idem. Bonn 1996. [CG]
 
 ### Chicago Demotic Dictionary
- = Chicago Demotic Dictionary, an ongoing project. The most recent information can be found on its web site: <www-oi.uchicago.edu/OI/PROJ/DEM/Demotic.html>.
+ = Chicago Demotic Dictionary, an ongoing project. The most recent information can be found on its web site: <https://oi.uchicago.edu/research/projects/chicago-demotic-dictionary-cdd-0>.
 
 ### Crum, Dict.
  = Coptic Dictionary, ed. W.E. Crum. Oxford 1939. [rp. Sandpiper Books. OUP]
