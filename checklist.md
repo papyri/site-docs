@@ -2455,7 +2455,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = Datierung und Prosopographie der koptischen Urkunden aus Theben, ed. W.C. Till. SBWien 240.1 (1954).
 
 ### WörterListe
- = Word lists of recent volumes of papyri and ostraca, compiled under the direction of D. Hagedorn, covering publications not included in the CD-ROM of the DDDBDP. An Adobe Acrobat (.pdf) file, available at <http://www.uni-heidelberg.de/institute/fak8/papy/WL/ WL.html>. 
+ = Word lists of recent volumes of papyri and ostraca, compiled under the direction of D. Hagedorn, covering publications not included in the CD-ROM of the DDDBDP. An Adobe Acrobat (.pdf) file, available at <https://www.zaw.uni-heidelberg.de/hps/pap/WL/WL.pdf>. Now continued by K. Maresch and D. Hagedorn and available through the services of CCeH at Cologne <https://papyri.uni-koeln.de/papyri-woerterlisten/index.html>. 
 
 ### Lexica
 
