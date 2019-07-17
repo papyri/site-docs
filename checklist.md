@@ -2477,6 +2477,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### Chicago Demotic Dictionary
  = Chicago Demotic Dictionary, an ongoing project. The most recent information can be found on its web site: <https://oi.uchicago.edu/research/projects/chicago-demotic-dictionary-cdd-0>.
 
+### Coptic Dictionary Online
+ = <https://coptic-dictionary.org/>
+ 
 ### Crum, Dict.
  = Coptic Dictionary, ed. W.E. Crum. Oxford 1939. [rp. Sandpiper Books. OUP]
 
@@ -2557,7 +2560,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = A Grammar of the Greek Papyri of the Roman and Byzantine Periods, vol. I, Phonology, vol. II Morphology, by F.T. Gignac. Milan 1976, 1981. (Testi e documenti per lo studio dell’antichità, 55, 1—2). [CG]
  
 ### Johnson, Gram.
- = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC 45.html>.
+ = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC45.html>.
  
 ### Johnson, Verbal System
  = The Demotic Verbal System by J.H. Johnson. Chicago 1976. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 38).
@@ -2674,7 +2677,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  
 ### Turner, GP
  = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP] 
- * Papyrological resources on the World Wide Web not listed here can be found through the Web site of the American Society of Papyrologists, <www. papyrology.org>
+ * Papyrological resources on the World Wide Web not listed here can be found through the Web site of the American Society of Papyrologists, <www.papyrology.org>
 
 ## Series
 
@@ -2705,26 +2708,26 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * IX, see P.Mich. XI.
  * X, see O.Ont.Mus. I.
  * XI, The Town Councils of Roman Egypt, by A.K. Bowman. 1971. [o.p.]
- * XII, The Four Greek Hymns of Isidorus and the Cult of Isis, by V.F. Vanderlip. 1972. [Oxbow] [Online: AWDL](http://hdl.handle.net/2333.1/wm37pzfs)
+ * XII, The Four Greek Hymns of Isidorus and the Cult of Isis, by V.F. Vanderlip. 1972. [Oxbow] [Online: AWDL](<http://hdl.handle.net/2333.1/wm37pzfs>)
  * XIII, Greek Terms for Roman Institutions: A Lexicon and Analysis, by H.J. Mason. 1974. [Oxbow]
  * XIV, see P.Mich. XII.
  * XV, see O.Ont.Mus. II.
  * XVI, Chester Beatty Biblical Papyri IV and V, by A. Pietersma. 1977. [Oxbow]
  * XVII, see P.Wash.Univ. I.
  * XVIII, Imperial Estates in Egypt, by G.M. Parássoglou. 1978. [AMH]
- * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. [AMH] [Online: AWDL](http://hdl.handle.net/2333.1/rv15dxzp)
+ * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. [AMH] [Online: AWDL](<http://hdl.handle.net/2333.1/rv15dxzp>)
  * XX, see P.Col. VII.
  * XXI, Le Nome Hermopolite: toponymes et sites, by M. Drew-Bear. 1979. [Oxbow]
  * XXII, see P.Mich. XIV.
  * XXIII, see Pap.Congr. XVI (IX Proceedings).
  * XXIV, see P.Yale II.
- * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. [Oxbow] [Online: AWDL](http://hdl.handle.net/2333.1/n5tb2v4b)
+ * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. [Oxbow] [Online: AWDL](<http://hdl.handle.net/2333.1/n5tb2v4b>)
  * XXVI, see P.CattleDocs. 
  * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. [Oxbow] [Online: AWDL](http://hdl.handle.net/2333.1/cnp5ht4z)
  * XXVIII, see P.Col. VIII.
  * XXIX, Grundlagen des koptischen Satzbaus, zweite Hälfte, by H.J. Polotsky. 1990. [Oxbow]
  * XXX, see P.Mich. XVI.
- * XXXI, Ptocheia or Odysseus in Disguise at Troy (P.Köln 245), by M.G. Parca. 1991. [Oxbow] [Online: AWDL](http://hdl.handle.net/2333.1/44j0zs3c)
+ * XXXI, Ptocheia or Odysseus in Disguise at Troy (P.Köln 245), by M.G. Parca. 1991. [Oxbow] [Online: AWDL](<http://hdl.handle.net/2333.1/44j0zs3c>)
  * XXXII, see P.Sorb. II.
  * XXXIII, On Government and Law in Roman Egypt. Collected Papers of Naphtali Lewis. 1995. [Oxbow]
  * XXXIV, see P.Col. X.
@@ -2740,7 +2743,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XLIV, see P.Berl.Cohen
  * XLV, Annotations in Greek and Latin Texts from Egypt, by K.McNamee. 2007 [Oxbow]
  * XLVI, see P.Clackson
- * XLVII, In pursuit of invisibility: ritual texts from late Roman Egypt, by Richard L. Phillips. 2009. [Online: AWDL](http://hdl.handle.net/2333.1/bnzs7kwq)
+ * XLVII, In pursuit of invisibility: ritual texts from late Roman Egypt, by Richard L. Phillips. 2009 [Online: AWDL] (<http://hdl.handle.net/2333.1/bnzs7kwq>)
  * XLVIII, To mega biblion: book-ends, end-titles, and coronides in papyri with hexametric poetry, by F. Schironi. 2010.
  * XLIX, see P.Mich. XX
  * L, A prosopography of Byzantine Aphrodito, by G.R. Ruffini. 2011. 
