@@ -2405,11 +2405,11 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  
  * A, Papyrus Editions. 
  * B, Ostrakon Editions and Various Publications.
- * Note: S. P. Vleeming has issued four supplements to date (privately printed, Brauneberg), 
-   * The Berichtigungsliste of Demotic Documents in A. D. MMV (2006) 
-   * The Berichtigungsliste of Demotic Documents in A. D. 2005-2006 (2007)
-   * The Berichtigungsliste of Demotic Documents in A. D. 2007 (2008)
-   * The Berichtigungsliste of Demotic Documents in A. D. 2007-9 (2010)
+ * Note: S. P. Vleeming has issued four supplements to date (privately printed, Brauneberg): 
+ * The Berichtigungsliste of Demotic Documents in A. D. MMV (2006) 
+ * The Berichtigungsliste of Demotic Documents in A. D. 2005-2006 (2007)
+ * The Berichtigungsliste of Demotic Documents in A. D. 2007 (2008)
+ * The Berichtigungsliste of Demotic Documents in A. D. 2007-9 (2010)
 
 ### Checklist
  = Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, ed. J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. The current print version is the 5th, BASP Suppl. 9 (2001). [Oxbow]. The URL for the Web version is <http://scriptorium.lib.duke.edu/papyrus/texts/clist.html>, kept current by J.F. Oates and J.D. Sosin. 
