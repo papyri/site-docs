@@ -2511,7 +2511,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw) Ägyptens sich vorfinden, ed. F. Preisigke. Heidelberg 1922, repr. Amsterdam 1967.
 
 ### NB Copt.
- = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at http://www.onb.ac.at/files/kopt_namen.pdf (< http://www.onb.ac.at/sammlungen/papyrus/papyrus_bestandsrecherche.htm)
+ = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf> (<http://www.onb.ac.at/sammlungen/papyrus/papyrus_bestandsrecherche.htm>)
 
 ### NB Dem.
  = Demotisches Namenbuch, ed. E. Lüddeckens and H.J. Thissen. Wiesbaden 1980—. To date, vol. 1 in 16 fascicles, covering the entire alphabet. [Dr. Ludwig Reichert Verlag]
@@ -2532,7 +2532,15 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  = Das christlich-koptische Ägypten in arabischer Zeit: Eine Sammlung christlicher Stätten in Ägypten in arabischer Zeit unter Ausschluss von Alexandria, Kairo, des Apa-Mena-Klosters (Der Abu Mina), der Sketis (Wadi n-Natrun) und der Sinai-Region, ed. S. Timm. 6 volumes. Wiesbaden 1984—1992. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 1-6). [Dr. Ludwig Reichert Verlag]. See: Index zu Das christlich-koptische Ägypten in arabischer Zeit (Stefan Timm), ed. K.-H. Brune, Wiesbaden 2007. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 7). [Dr. Ludwig Reichert Verlag]
 
 ### WB
- = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling. I, A-K, Berlin 1925; II, L-W, Berlin 1927; III, besondere Wörterliste, Berlin 1931; IV, A-Zin 5 pts. Berlin 1944—. Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH]. Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH]. Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH]
+ = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling. 
+ 
+ * I, A-K, Berlin 1925.
+ * II, Λ-Ω, Berlin 1927.
+ * III, besondere Wörterliste, Berlin 1931. 
+ * IV, A-Z in 5 pts. Berlin 1944—. 
+ * Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH]. 
+ * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH]. 
+ * Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH].
 
 ### Grammars
 
