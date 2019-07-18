@@ -2300,6 +2300,31 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### C.Palmomanticum
 = _Corpus Palmomanticum Graecum_, ed. S. Costanza. Florence 2009. (Pap.Flor. XXXIX)
 
+### CPF
+= _Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina_. Firenze.
+
+ * I: Named authors
+   * 1\. Philosophers (Academici – Zeno)
+     * CPF I.1*: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 1, Autori noti. 1, Firenze, L. S. Olschki, 1989. Academici – Cyrenaici
+     * CPF I.1**: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 1, Autori noti. 2, Firenze, L. S. Olschki, 1992. Demetrius Phalereus – Musonius Rufus
+     * CPF I.1*** [1]: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 1, Autori noti. 3[.1], Firenze, L. S. Olschki, 1999. Nicolaus Damascenus – Platonis fragmenta
+     * CPF I.1*** [2]: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 1, Autori noti. 3[.2], Firenze, L. S. Olschki, 1999. Platonis testimonia – Zeno Tarsensis
+   * 2\. Culture and philosophy (Acusilaus - Xenophon)
+     * CPF I.2 [1]: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2[.1], Cultura e filosofia, Firenze, L. S. Olschki, 2008. Galenus – Isocratis Ad Nicoclem
+ * II: Unattributed fragments; Gnomologia and Sayings
+   * CPF II.2: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2, Frammenti adespoti; Gnomologi e sentenze. 2, Sentenze di autori noti e «chreiai», Firenze, L. S. Olschki, 2015.
+   * CPF II.3: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2, Frammenti adespoti; Gnomologi e sentenze. 3, Gnomica, Firenze, L. S. Olschki, 2017.
+ * III: Commentaries
+   * CPF III: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 3, Commentari, Firenze, L. S. Olschki, 1995.
+ * IV.1: Indexes
+   * CPF IV.1 I.1: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 4, Indici, Firenze, L. S. Olschki, 2002. Autori noti
+ * IV.2: Plates
+   * CPF IV.2 I.1: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 4, Tavole, Firenze, L. S. Olschki, 2000. Autori noti e III Commentari
+   * CPF IV.2 I.2: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 4, Tavole, Firenze, L. S. Olschki, 2008. Galenus – Isocrates
+   * CPF IV.2 II.2-II.3: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 4, Tavole, Firenze, L. S. Olschki, 2018. Autori noti e "chreiai" e  Gnomica
+
+I.2 Galenus – Isocrates
+
 ### C.Ptol.Sklav.
 = _Corpus der ptolemäischen Sklaventexte_, ed. R. Scholl. Stuttgart 1990. (Forschungen zur antiken Sklaverei, Beiheft 1). In three parts: I, Nos. 1—114; II, Nos. 115—260; III, Indices.
 
