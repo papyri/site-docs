@@ -2440,7 +2440,7 @@ I.2 Galenus – Isocrates
  = Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, ed. J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. The current print version is the 5th, BASP Suppl. 9 (2001). [Oxbow]. The URL for the Web version is <http://scriptorium.lib.duke.edu/papyrus/texts/clist.html>, kept current by J.F. Oates and J.D. Sosin. [The scriptorium version is now very much out of date and and replaced by this present online version]
 
 ### ChecklistArab.
- = The Checklist of Arabic Papyri, ed. P.M. Sijpesteijn, J.F. Oates and A. Kaplony. Currently available online at  <https://www.naher-osten.uni-muenchen.de/isap/isap_checklist/index.html>
+ = The Checklist of Arabic Papyri, ed. P.M. Sijpesteijn, J.F. Oates and A. Kaplony. Currently available online at  <http://www.naher-osten.lmu.de/isapchecklist>
 
 ### ChecklistDem.
  = Checklist of Demotic Text Editions and Re-editions, by S.P. Vleeming and A.A. den Brinker. Leiden 1993. (Uitgaven Vanwege de Stichting "Het Leids Papyrologisch Instituut" 14).
