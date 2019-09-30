@@ -367,6 +367,11 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.Bürgsch.
 = _Demotische Urkunden zum ägyptischen Bürgschaftsrechte vorzüglich der Ptolemäerzeit_, ed. K. Sethe and J. Partsch. Leipzig 1920. (AbhSächs. 32). Nos. 1-24.
 
+### P.BYU
+= _The Brigham Young University Papyri_. Turnhout.
+
+ * I, Didymus the Blind's Commentary on Psalms 26:1-10=29:2 and 36:1-3, ed. L.H. Blumell, T.W. Mackay and G. Schwendner. 2019.
+
 ### P.Cair.
 = _Service des Antiquités de l'Égypte, Catalogue Général des Antiquités égyptiennes du Musée du Caire. Die demotischen Denkmäler_.
 
