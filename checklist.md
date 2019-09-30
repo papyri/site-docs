@@ -370,7 +370,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### P.BYU
 = _The Brigham Young University Papyri_. Turnhout.
 
- * I, Didymus the Blind's Commentary on Psalms 26:1-10=29:2 and 36:1-3, ed. L.H. Blumell, T.W. Mackay and G. Schwendner. 2019.
+ * I, Didymus the Blind's Commentary on Psalms 26:1-10-29:2 and 36:1-3, ed. L.H. Blumell, T.W. Mackay and G. Schwendner. 2019.
 
 ### P.Cair.
 = _Service des Antiquités de l'Égypte, Catalogue Général des Antiquités égyptiennes du Musée du Caire. Die demotischen Denkmäler_.
