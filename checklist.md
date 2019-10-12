@@ -3724,7 +3724,7 @@ I.2 Galenus – Isocrates
 
 ## Congresses
 
-### PapCongr
+### PapCongr.
 = Congresses sponsored by the Association Internationale de Papyrologues
 
  * I, "Semaine Égyptologique et Papyrologique du 14 au 20 septembre 1930." Brussels. Published in CdÉ 6 (1931) 189—470.
@@ -3756,7 +3756,7 @@ I.2 Galenus – Isocrates
  * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, 3 vols. ed. T. Derda, A. Łajtar and J. Urbanik, in cooperation with A. Mirończuk and T. Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
  * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online version](http://hdl.handle.net/10230/41902).
 
-### CoptCongr
+### CoptCongr.
 
  * I, The Future of Coptic Studies. First International Congress of Coptology, Cairo, December 1976, ed. R.McL. Wilson. (Coptic Studies 1). Leiden 1978.
  * II, Acts of the Second International Congress of Coptic Studies, Roma, 22—26 September 1980, ed. T. Orlandi and F. Wisse. Rome 1985.
