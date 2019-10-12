@@ -3753,7 +3753,8 @@ I.2 Galenus – Isocrates
  * XXIV, Proceedings of the 24th International Congress of Papyrology, Helsinki, 1—7 August, 2004, 2 vols, ed. J. Frösén, T. Purola and E. Salmenkivi. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 122). Helsinki 2007.
  * XXV, Proceedings of the 25th International Congress of Papyrology. Ann Arbor, July 29—August 4, 2007, ed. T. Gagos and A. Hyatt. (American Studies in Papyrology. Special Edition). Ann Arbor 2010. [Online: Mich.Publ.](http://quod.lib.umich.edu/i/icp).
  * XXVI, Actes du 26e Congrès international de papyrologie. Genève 16-21 août 2010, ed. P. Schubert. Geneva, 2012.
- * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, ed. Tomasz Derda, Adam Łajtar and Jakub Urbanik, in cooperation with Andrzej Mirończuk and Tomasz Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
+ * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, 3 vols. ed. T. Derda, A. Łajtar and J. Urbanik, in cooperation with A. Mirończuk and T. Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
+ * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online version](http://hdl.handle.net/10230/41902).
 
 ### CoptCongr
 
