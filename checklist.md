@@ -2002,8 +2002,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Krok.
 = _Ostraca de Krokodilô_, ed. H. Cuvigny.
 
- * I, La correspondance militaire et sa circulation. Cairo 2005. (Fouilles de l'Ifao 51). Nos. 1-151. [IFAO]
- * II, La correspondance privée et les réseaux personnels de Philoklès, Apollôs et Ischyras. Cairo 2019. (Fouilles de l'Ifao 81). Nos. 152-334.
+ * I, La correspondance militaire et sa circulation, ed. H. Cuvigny. Cairo 2005. (Fouilles de l'Ifao 51). Nos. 1-151. [IFAO]
+ * II, La correspondance privée et les réseaux personnels de Philoklès, Apollôs et Ischyras, ed. A. Bülow-Jacobsen, J.-L. Fournet, B. Redon. Cairo 2019. (Fouilles de l'Ifao 81). Nos. 152-334.
 
 ### O.Leid.
 = _Greek Ostraka: a Catalogue of the Greek Ostraka in the National Museum of Antiquities at Leiden, with a Chapter on the Greek Ostraka in the Papyrological Institute of the University of Leiden_, ed. R.S. Bagnall, P.J. Sijpesteijn and K.A. Worp. Zutphen 1980. (Collections of the National Museum of Antiquities at Leiden IV). Nos. 1—410. Descripta nos. 411—697. [TPC]
