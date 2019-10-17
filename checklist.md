@@ -908,7 +908,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIII, ed. M. Gronewald, J. Lundon, K. Maresch, G. Schenke, P. Schmitz. Paderborn et al. 2013. (Pap.Colon. VII/13). Nos. 496-550. [FS]  {ddb:p.koeln;13}
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
  * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
- + XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/16). Nos. 642-652.
+ * XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/16). Nos. 642-652.
 
 ### P.KölnÄgypt.
 = _Kölner ägyptische Papyri_
@@ -3909,8 +3909,9 @@ I.2 Galenus – Isocrates
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
- * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI
-
+ * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV
+ * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII
+ 
 ### Coptic
  * 1876: P.RevilloutCopt.
  * 1893: P.Fay.Copt.
@@ -3972,4 +3973,4 @@ I.2 Galenus – Isocrates
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV
- * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII
+
