@@ -2000,7 +2000,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Greek Ostraka from Kellis_, ed. K. A. Worp. Oxford 2004. (Dakhleh Oasis Project: Monograph 13). Nos. 1-293. Plates contain illustrations of the texts except for nos. 13, 23, 31, 58, 90, 141, 153, 160, 162—268, 284, 287 and 289. Included also is a CD which contains the same illustrations in PDF format. [Oxbow]
 
 ### O.Krok.
-= _Ostraca de Krokodilô_, ed. H. Cuvigny.
+= _Ostraca de Krokodilô_.
 
  * I, La correspondance militaire et sa circulation, ed. H. Cuvigny. Cairo 2005. (Fouilles de l'Ifao 51). Nos. 1-151. [IFAO]
  * II, La correspondance privée et les réseaux personnels de Philoklès, Apollôs et Ischyras, ed. A. Bülow-Jacobsen, J.-L. Fournet, B. Redon. Cairo 2019. (Fouilles de l'Ifao 81). Nos. 152-334.
