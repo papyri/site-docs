@@ -1999,6 +1999,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Kellis
 = _Greek Ostraka from Kellis_, ed. K. A. Worp. Oxford 2004. (Dakhleh Oasis Project: Monograph 13). Nos. 1-293. Plates contain illustrations of the texts except for nos. 13, 23, 31, 58, 90, 141, 153, 160, 162—268, 284, 287 and 289. Included also is a CD which contains the same illustrations in PDF format. [Oxbow]
 
+### O.Kerameikos
+= _Die Ostraka vom Kerameikos_, ed. S. Brenne. Wiesbaden 2018. 2 vols. Nos. A1-A505, B1-B28, C1-C320, 1-9367).
+
 ### O.Krok.
 = _Ostraca de Krokodilô_.
 
