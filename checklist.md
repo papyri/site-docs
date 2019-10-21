@@ -3226,6 +3226,9 @@ I.2 Galenus – Isocrates
  * 112, Translatio iudicii: der Parteiwechsel im römischen Formularprozess, by F. Erxleben. 2017.
  * 113, Marktbezogene Gesetzgebung im späthellenistischen Athen: der Volksbeschluss über Masse und Gewichte: eine epigraphische und rechtshistorische Untersuchung, by M. Rizzi. 2017.
  * 114, Das Privatrecht der griechischen Urkunden vom Mittleren Euphrat: P.Euphr. 6-P.Euphr. 15, by T. Johannsen. 2017.
+ * 115, Rechtsschutz im hellenistischen Ägypten, by N. Grotkamp. 2018.
+ * 116, Ona'ah und laesio enormis : ǂb Preisgrenzen im talmudischen und römischen Kaufrecht, by D. Forster. 2018.
+ * 117, Das Geld der Ptolemaier, by Werner Huß. 2019.
 
 ### Mus.Tor.
  = _Catalogo del Museo Egizio di Torino. Serie Prima. Monumenti et Testi_. Turin 1967—.
