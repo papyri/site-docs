@@ -1,4 +1,4 @@
-<p style="font-size: 3em; text-align:center"><a href="https://www.supportpapyri.info/">Support the future of papyri.info!</a></p>
+<p style="font-size: 1.5em; text-align:center"><a href="https://www.supportpapyri.info/">Support the future of papyri.info!</a></p>
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The **Papyrological Navigator** (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the **Papyrological Editor** (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
