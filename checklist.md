@@ -3108,6 +3108,8 @@ I.2 Galenus – Isocrates
  * XXVIII, Isis, Das gottliche Kind, ed. M. A. Stadler. 2004. [ÖNB]
  * XXIX-XXX, New Testament Greek papyri and parchments : new editions, edited by Stanley E. Porter and Wendy J. Porter. 2008.
  * XXXI, Zeichnungen und Malereien aus den Papyrussammlungen in Berlin und Wien, ed. H. Froschauer. 2008.
+ * XXXII, Glossar zur arabischen Epistolographie nach ägyptischen Originaldokumenten des 7.-16. Jahrhunderts, ed. W. Diem. 2017.
+ * XXXIII, I prezzi dei materiali e prodotti artigianali nei documenti tardoantichi e del primo periodo arabo (IV ex.-VIII d.C.), by F. Morelli. 2019.
 
 ### Münch.Beitr.
  = _Münchener Beiträge zur Papyrusforschung und antiken Rechtgeschichte_. Munich 1915—. (C.H. Beck). All volumes in print unless noted o.p.
