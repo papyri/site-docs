@@ -3782,7 +3782,7 @@ I.2 Galenus – Isocrates
  * V, Acta Demotica: Acts of the Fifth International Conference for Demotists (Pisa, 4th—8th September 1993), ed. E. Bresciani (EVO 17 [1994]). Pisa 1994.
  * VI, Cairo, 2—8 September 1996. No proceedings published.
  * VII, Acts of the Seventh International Conference of Demotic Studies, Copenhagen, 23—27 August 1999, ed. K. Ryholt.  (Museum Tusculanum Press, C.N.I. Publications 27). Copenhagen 2002.
- * VIII, Akten der 8. Internationalen Konferenz für demotische Studien, Würzburg, 28.—31. August 2002, ed. K. Zauzich and M. Stadler. Not yet published.
+ * VIII, Akten der 8. Internationalen Konferenz für demotische Studien, Würzburg, 27.—30. August 2002, ed. K. Zauzich. Wiesbaden, 2019.
  * IX, Actes du IXe congrès international des études démotiques, Paris, 31 août—3 septembre 2005, ed. G. Widmer and D. Devauchelle. (IFAO, Bibliothèque d'études 147). Cairo 2009.
 
 ## Editions of Greek and Coptic Documentary Papyri by Year of Publication
