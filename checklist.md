@@ -2463,6 +2463,9 @@ I.2 Galenus – Isocrates
 ### HGV
  = Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden aus Ägypten, directed by D. Hagedorn. Available on the World Wide Web at <http://aquila.zaw.uni-heidelberg.de/>. Also available on the CD-ROM "Subsidia Papyrologica 1.0." Brussels 2000. [FERE]
 
+### Leiden system of punctuation
+ = Essai d'unification des méthodes employées dans les éditions de papyrus. (Résolution votée par le XVIIIe Congrès des Orientalistes, à Leyde, le 11 septembre 1931.), ChrEg 7 (1932) Nos 13-14, pp. 285-287. Online at <https://doi.org/10.1484/J.CDE.2.307092>. [Full bibliographic record](http://papyri.info/biblio/34098)
+ 
 ### Lex.Äg.
  = Lexikon der Ägyptologie, ed. W. Helck, E. Otto and W. Westendorf. Wiesbaden 1972-1996. 
 
