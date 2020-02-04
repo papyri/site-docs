@@ -836,7 +836,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### P.Iand.
 = _Papyri Iandanae_, ed. C. Kalbfleisch et al. Leipzig. {ddb:p.iand}
 
- * I, Voluminum codicumque fragmenta Graeca cum amuleto christiano, ed. E. Schaefer. 1912. Nos. 1—7. [MF 2.6] [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
+ * I, Voluminum codicumque fragmenta Graeca cum amuleto christiano, ed. E. Schaefer. 1912. Nos. 1—7.  &#91;MF 2.6&#93; [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * II, Epistulae privatae Graecae, ed. L. Eisner. 1913. Nos. 8—25. [MF 2.7] {ddb:p.iand;2} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * III, Instrumenta Graeca publica et privata, pt. I, ed. L. Spohr. 1913. Nos. 26—51. [MF 2.8] {ddb:p.iand;3} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * IV, Instrumenta Graeca publica et privata, pt. II, ed. G. Spiess. 1914. Nos. 52—68b. Nos. 68, 68a, and 68b are Latin. [MF 2.9] {ddb:p.iand;4} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
