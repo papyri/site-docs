@@ -304,12 +304,13 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * XXIV, Psaumes XVII—CXVIII, ed. R. Kasser and M. Testuz. 1967. [BB]
  * XXV, Ménandre: La Samienne, ed. R. Kasser with the collaboration of C. Austin. 1969. [BB]
  * XXVI, Ménandre: Le Bouclier, ed. R. Kasser with the collaboration of C. Austin. 1969. [with XXV].
- * XXVII, "Il papiro di Tucidide della Bibliotheca Bodmeriana (P.Bodmer XXVII)," ed. A. Carlini, Museum Helveticum 32 (1975) 33—40.
- * XXVIII, "Papyrus Bodmer XXVIII: A Satyr-Play on the Confrontation of Heracles and Atlas," ed. E.G. Turner, Museum Helveticum 33 (1976) 1—23.
+ * XXVII, "Il papiro di Tucidide della Bibliotheca Bodmeriana (P.Bodmer XXVII)," ed. A. Carlini, Museum Helveticum 32 (1975) 33—40. [Online: e-periodica](https://www.e-periodica.ch/digbib/view?pid=mhl-001:1975:32::44#45)
+ * XXVIII, "Papyrus Bodmer XXVIII: A Satyr-Play on the Confrontation of Heracles and Atlas," ed. E.G. Turner, Museum Helveticum 33 (1976) 1—23. [Online: e-periodica](https://www.e-periodica.ch/digbib/view?pid=mhl-001:1976:33::10#11)
  * XXIX, Vision de Dorothéos, ed. A. Hurst, O. Reverdin, J. Rudhardt, with an appendix by R. Kasser and G. Cavallo describing and dating the "Codex des Visions." 1984. [BB]
  * XXX—XXXVII, Codex des Visions, Poèmes divers, ed. André Hurst and Jean Rudhardt. 1999. [KGS]
  * XXXVIII, Erma: Il Pastore (Ia—IIIa visione), ed. A. Carlini with collaboration of L. Giaccone, and with an appendix by R. Kasser, G. Cavallo and J. van Haelst, "Nouvelle description du Codex des Visions." 1991. [BB]
- * XLV and XLVI, "Susanna e la prima visione di Daniele in due papiri inediti della Bibliotheca Bodmeriana: P.Bodm. XLV et P.Bodm. XLVI," ed. A. Carlini and A. Citi, Museum Helveticum 38 (1981) 81—120.
+ * XLV and XLVI, "Susanna e la prima visione di Daniele in due papiri inediti della Bibliotheca Bodmeriana: P.Bodm. XLV et P.Bodm. XLVI," ed. A. Carlini and A. Citi, Museum Helveticum 38 (1981) 81—120. [Online: e-periodica](https://www.e-periodica.ch/digbib/view?pid=mhl-001:1981:38::102#103)
+ * XLVII, "P. Bodmer XLVII : un acrostico alfabetico tra Susanna-Daniele e Tucidide," ed. A. Carlini and M. Bandini, Museum Helveticum 48 (1991) 158-168. [Online: e-periodica](https://www.e-periodica.ch/digbib/view?pid=mhl-001:1991:48::388#170)
  * XLVIII, "Papyrus Bodmer 48 (Iliade 1.45—58)," ed. A. Hurst, Museum Helveticum 47 (1990) 30—33.
  * XLIX, "Papyrus Bodmer 49 (Odyssée 9.455—488 et 526—556; 10.188—215)," ed. A. Hurst, Museum Helveticum 43 (1986) 221—230.
  * L, "Papyrus Bodmer L. "Das neutestamentliche Papyrusfragment p73 = Mt, 25, 43 / 26, 2—3," ed. C.P. Thiede, Museum Helveticum 47 (1990) 35—40.
