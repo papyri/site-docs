@@ -483,7 +483,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * III, Zenon Papyri: Business Papers of the Third Century B.C. dealing with Palestine and Egypt I, ed. W.L. Westermann and E.S. Hasenoehrl. New York 1934. Nos. 2—59. [Rp. CG] {ddb:p.col;3}
  * IV (P.Col.Zen. II), ed. W.L. Westermann, C.W. Keyes, and H. Liebesny. New York 1940. Nos. 60—122. [Rp. CG] {ddb:p.col;4}
  * V, Tax Documents from Theadelphia, ed. J. Day and C.W. Keyes. New York 1956. No. 1 verso. [WHA; rp. CG] {ddb:p.col;5}
- * VI, Apokrimata: Decisions of Septimius Severus on Legal Matters, ed. W.L. Westermann and A.A. Schiller. New York 1954. No. 123. Not actually part of Columbia Papyri, Greek Series, but later treated as Vol. VI. Improved text ed. H.C. Youtie and A.A. Schiller in Cd'E 30 (1955) 327—345, reprinted as SB VI 9526. [Rp. CG] {ddb:p.col;6}
+ * VI, Apokrimata: Decisions of Septimius Severus on Legal Matters, ed. W.L. Westermann and A.A. Schiller. New York 1954. No. 123. Not actually part of Columbia Papyri, Greek Series, but later treated as Vol. VI. Improved text ed. H.C. Youtie and A.A. Schiller in Cd'E 30 (1955) 327—345 ([Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1955/30/60)), reprinted as SB VI 9526. [Rp. CG] {ddb:p.col;6}
  * VII, Fourth Century Documents from Karanis, ed. R.S. Bagnall and N. Lewis. Missoula 1979. (Am.Stud.Pap. XX). Nos. 124—191. [Oxbow] {ddb:p.col;7} [Online: AWDL](http://hdl.handle.net/2333.1/kwh70xjb)
  * VIII, Columbia Papyri VIII, ed. R.S. Bagnall, T.T. Renner and K.A. Worp. Atlanta 1990. (Am.Stud.Pap. XXVIII). Nos. 192—246. [Oxbow] {ddb:p.col;8} [Online: AWDL](http://hdl.handle.net/2333.1/7wm37smm)
  * IX, Columbia Papyri IX, The Vestis Militaris Codex, ed. J. Sheridan. Atlanta 1998. (Am.Stud.Pap. XXXIX). Nos. 247—248. [Oxbow] {ddb:p.col;9} [Online: AWDL](http://hdl.handle.net/2333.1/m63xsmx8)
@@ -794,7 +794,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Papyri Helsingienses I, Ptolemäische Urkunden_, ed. J. Frösén, P. Hohti, J. and M. Kaimio, H. Zilliacus. Helsinki 1986. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 80). Nos. 1—47. {ddb:p.hels}
 
 ### P.HengstenbergCopt.
-= "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327), but are now lost.
+= "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327) ([Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)), but are now lost.
 
 ### P.Herakl.Bank
 = _Ptolemäische Bankpapyri aus dem Herakleopolites (P.Herakl.Bank). Papyri der Sammlungen in Heidelberg, Köln und Wien_, ed. K. Maresch. Paderborn et al. 2012. (Pap.Colon. 35). Nos. 1–6.
@@ -2085,7 +2085,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### O.Narm.
 
  * I, Ostraka greci da Narmuthis (OGN I), ed. R. Pintaudi and P.J. Sijpesteijn. Pisa 1993. (Quaderni di Medinet Madi 2). Nos. 1—131. [Giardini, Pisa]
- * II, Ostraka greci e bilingui da Narmuthis, ed. A. Menchetti and R. Pintaudi. Brussels 2007–2009. (CdÉ 82 [2007] pages 227–280; 84 [2009] pages 201–238). Nos. 1–48.
+ * II, Ostraka greci e bilingui da Narmuthis, ed. A. Menchetti and R. Pintaudi. Brussels 2007–2009. (CdÉ 82 [2007] pages 227–280 [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/2007/82/163-164); 84 [2009] pages 201–238 [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/2009/84/167-168)). Nos. 1–48.
 
 ### O.Narm.Dem.
 
