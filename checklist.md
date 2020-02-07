@@ -48,8 +48,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### BKU
 = _Aegyptische Urkunden aus den Koeniglichen_ (later Staatlichen) _Museen zu Berlin: Koptische Urkunden_.
 
- * I, Berlin 1895—1905. Nos. 1—192. 
- * II.1, Berlin 1904. Nos. 256—318 (only the first fascicle was published). No papyri were ever assigned publication numbers 193-255.
+ * I, Berlin 1895—1905. Nos. 1—192. [Online: archive.org](https://archive.org/details/mdp.39015020865393)
+ * II.1, Berlin 1904. Nos. 256—318 (only the first fascicle was published). No papyri were ever assigned publication numbers 193-255. [Online: archive.org](https://archive.org/details/mdp.39015020865393)
  * III, ed. H. Satzinger. Heft 1, 1967; Heft 2, 1968. Nos. 319—514. Berlin. [Bruno Hessling Verlag]
 
 ### CPR
