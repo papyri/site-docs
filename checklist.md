@@ -56,7 +56,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Corpus Papyrorum Raineri_. Vienna. {ddb:cpr}
 
  * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG] {ddb:cpr;1} [Online: archive.org](https://archive.org/details/corpuspapyrorum00natigoog)
- * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67] {ddb:cpr;2}
+ * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67] {ddb:cpr;2} [Online: archive.org](https://archive.org/details/corpuspapyrorumr02unse)
  * III, Series Arabica I, ed. A. Grohmann. 1924. Pt. 1, Allgemeine Einführung in die arabischen Papyri; Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln. {ddb:cpr;3}
  * IV, Die koptischen Rechtsurkunden der Papyrussammlung der Oesterreichischen Nationalbibliothek, ed. W. Till. 1958. Nos. 1—212. No. 34 reedited in P.Rain.Unterricht 112. [ÖNB] {ddb:cpr;4}
  * V, Griechische Texte II, ed. J.R. Rea and P.J. Sijpesteijn. 1976. Nos. 1—25 plus P.Vindob. G 39847 (No. 26). [ÖNB] {ddb:cpr;5}
