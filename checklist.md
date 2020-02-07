@@ -809,7 +809,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 = _Le procès d'Hermias d'apres les sources démotiques et grecques_, ed. E. Revillout. Part 1, pp. 1—136. Paris 1884. Part 2, pp. 137—210. Paris 1903. There is material in this volume which has not been republished. The details are found in P.Choach.Survey. [Online: archive.org](https://archive.org/details/leprocsdhermias00rvgoog)
 
 ### P.Herm.Landl.
-= _Zwei Landlisten aus dem Hermupolites (P.Giss. 117 und P.Flor. 71)_, ed. P.J. Sijpesteijn and K.A. Worp. Zutphen 1978. (Stud.Amst. VII). There are also 2 additional texts (Stud.Pal. V 120 and P.Flor. I 87) in appendices. [TPC] {ddb:p.herm.landl} [Online: Leiden](https://openaccess.leidenuniv.nl/handle/1887/9291)
+= _Zwei Landlisten aus dem Hermupolites (P.Giss. 117 und P.Flor. 71)_, ed. P.J. Sijpesteijn and K.A. Worp. Zutphen 1978. (Stud.Amst. VII). There are also 2 additional texts (Stud.Pal. V 120 and P.Flor. I 87) in appendices. [TPC] {ddb:p.herm.landl} [Online: Leiden](http://hdl.handle.net/1887/9291)
 
 ### P.HermitageCopt.
 = _Koptskie teksty Gosudarstvennogo Ermitazha_, ed. P.V. Ernshtedt (Jernstedt). Leningrad, Izd-vo Akademii nauk. 1959. Nos. 1—77.
@@ -887,9 +887,9 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### P.Kellis
 = _Papyri from Kellis_. Oxford. {ddb:p.kell}
 
- * I, Greek Papyri from Kellis I, ed. K.A. Worp, with contributions by J.E.G. Whitehorne and R.W. Daniel. 1995. (Dakhleh Oasis Project: Monograph No. 3). Nos. 1—90; nos. 60-62, 82, 84, 88 and 90 are wooden tablets. [Oxbow] {ddb:p.kell;1} [Online: Leiden](https://openaccess.leidenuniv.nl/handle/1887/9309)
- * II, Kellis Literary Texts, ed. I. Gardner, with contributions by S. Clackson, M. Franzmann and K.A. Worp. 1996. (Dakhleh Oasis Project: Monograph No. 4). The texts published in this volume are numbered as follows: T.KellisCopt. 1—7; P.KellisCopt. 1—9; P.KellisSyr.Copt. 1—2; P.KellisSyr. 1; P.KellisSyr.Gr. 1; P.KellisGr. 91—94. (These Greek texts continue the numbering of P.Kellis I.) [Oxbow] [Online: Leiden](https://openaccess.leidenuniv.nl/handle/1887/9317)
- * III, The Kellis Isocrates Codex, ed. K.A. Worp and A. Rijksbaron. 1997. (Dakhleh Oasis Project: Monograph No. 5). No. 95. A codex of wooden tablets. [Oxbow] [Online: Leiden](https://openaccess.leidenuniv.nl/handle/1887/9324)
+ * I, Greek Papyri from Kellis I, ed. K.A. Worp, with contributions by J.E.G. Whitehorne and R.W. Daniel. 1995. (Dakhleh Oasis Project: Monograph No. 3). Nos. 1—90; nos. 60-62, 82, 84, 88 and 90 are wooden tablets. [Oxbow] {ddb:p.kell;1} [Online: Leiden](https://hdl.handle.net/1887/9309)
+ * II, Kellis Literary Texts, ed. I. Gardner, with contributions by S. Clackson, M. Franzmann and K.A. Worp. 1996. (Dakhleh Oasis Project: Monograph No. 4). The texts published in this volume are numbered as follows: T.KellisCopt. 1—7; P.KellisCopt. 1—9; P.KellisSyr.Copt. 1—2; P.KellisSyr. 1; P.KellisSyr.Gr. 1; P.KellisGr. 91—94. (These Greek texts continue the numbering of P.Kellis I.) [Oxbow] [Online: Leiden](https://hdl.handle.net/1887/9317)
+ * III, The Kellis Isocrates Codex, ed. K.A. Worp and A. Rijksbaron. 1997. (Dakhleh Oasis Project: Monograph No. 5). No. 95. A codex of wooden tablets. [Oxbow] [Online: Leiden](https://hdl.handle.net/1887/9324)
  * IV, The Kellis Agricultural Account Book, ed. R.S. Bagnall, with contributions by C.A. Hope, R.G. Jenkins, A.J. Mills, J.L. Sharpe, U. Thanheiser and G. Wagner. 1997. (Dakhleh Oasis Project: Monograph No. 7). No. 96. A codex of wooden tablets. [Oxbow] {ddb:p.kell;4}
  * V, Coptic Documentary Texts from Kellis I, ed. I. Gardner, A. Alcock and W.-P. Funk with a contribution by C.A. Hope and G.E. Bowen. 1999. (Dakhleh Oasis Project: Monograph No. 9). Texts are P.KellisCopt. 10—52; O.KellisCopt. 1—2. [Oxbow]
  * VI, The Kellis Literary Texts, vol. 2, ed. I. Gardner with contributions by M. Choat, M. Franzmann, and K.A. Worp. 2007. (Dakhleh Oasis Project: Monograph No. 15). Texts are P.KellisCopt. 53—56; P.KellisGr. 97—98; P.KellisSyr. 2. [Oxbow]
