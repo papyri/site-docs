@@ -188,7 +188,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Veröffentlichungen aus den badischen Papyrus-Sammlungen_. Heidelberg. Series continues with P.Heid. I. {ddb:p.bad}
 
  * I, Demotische Papyri, ed. W. Spiegelberg. 1923. [MF 2.49]
- * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50] {ddb:p.bad;2} [Online: archive.org](https://www.archive.org/details/inu.30000011417478)
+ * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50] {ddb:p.bad;2} [Online: archive.org](https://archive.org/details/inu.30000011417478)
  * III, Ein koptisches Fragment über die Begründer des Manichäismus, ed. F. Bilabel. 1924. No. 46. &#91;MF 2.51&#93; [Online: archive.org](https://archive.org/details/mdp.39015062319333)
  * IV, Griechische Papyri, ed. F. Bilabel. 1924. Nos. 47-111. Nos. 47—59, 70—97 are papyri, 98—110 ostraca, 60—65 and 111 tablets, 66—69 pots. [MF 2.52] {ddb:p.bad;4}
  * V, Griechische, koptische und arabische Texte zur Religion und religiösen Literatur in Aegyptens Spätzeit, ed. F. Bilabel and A. Grohmann. 1934. Nos. 112—167. Nos. 112-113, 118-121, and 143-166 are Arabic; nos. 114-116, 122, 124-126, 131-142 and 167 Coptic; nos. 117 and 127-130 Greek; no. 123 Coptic-Arabic. [MF 2.53]
@@ -272,7 +272,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Demotische Papyrus aus den Königlichen Museen zu Berlin_, ed. von der Generalverwaltung mit erläuterndem Texte von W. Spiegelberg. Berlin and Leipzig 1902. A catalogue with photographs.
 
 ### P.Berl.Thun.
-= _Sitologen-Papyri aus dem Berliner Museum_, ed. K. Thunell. Uppsala 1924. Texts reprinted as SB III 7193—7196 and as P.Berl.Leihg. I 1—4. [MF 2.106; rp.CG] {ddb:p.berl.thun}
+= _Sitologen-Papyri aus dem Berliner Museum_, ed. K. Thunell. Uppsala 1924. Texts reprinted as SB III 7193—7196 and as P.Berl.Leihg. I 1—4. [MF 2.106; rp.CG] {ddb:p.berl.thun} [Online: archive.org](https://archive.org/details/mdp.39015010580390)
 
 ### P.Berl.Zill.
 = _Vierzehn Berliner griechische Papyri_, ed. H. Zilliacus. Helsingfors 1941. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum XI, 4). Nos. 1—14. [MF 1.32] {ddb:p.berl.zill}
@@ -446,7 +446,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = "Une Famille de chepteliers au IIIe s.p.C.," ed. J. Schwartz. RechPap 3 (1964) 49—64. Nos. 1—20. The article has no index.
 
 ### P.Chic.
-= _Chicago Literary Papyri_, ed. E.J. Goodspeed. Chicago 1908. Nos. 1—7. [MF 2.107] See also P.Kar.Goodsp. [Online: archive.org](https://www.archive.org/details/chicagoliterary00goodgoog)
+= _Chicago Literary Papyri_, ed. E.J. Goodspeed. Chicago 1908. Nos. 1—7. [MF 2.107] See also P.Kar.Goodsp. [Online: archive.org](https://archive.org/details/chicagoliterary00goodgoog)
 
 ### P.Chic.Haw.
 = _Oriental Institute Hawara Papyri: Demotic and Greek Texts from an Egyptian Family Archive in the Fayum (Fourth to Third Century B.C.)_, ed. G.R. Hughes and R. Jasnow with a contribution by J.G. Keenan. Chicago 1997. (Oriental Institute Publications 113). Nos. 1—10 are Demotic; no. 7C is Greek. There are Greek dockets to the Demotic texts, nos. 6 and 9. An appendix gives a reedition of the Rendell papyrus (now in a private collection), with Demotic text and Greek docket. [OI] {ddb:p.chic.haw} [Online: Oriental Institute](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip113.pdf)
