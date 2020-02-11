@@ -777,7 +777,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Demotische Urkunden aus Hawara_, ed. E. Lüddeckens, with R. Wassermann and for the Greek, R.W. Daniel. Stuttgart 1998. (Verzeichnis der orientalischen Handschriften in Deutschland. Supplementband 28). Nos. I—XXIV, some with multiple texts. There are Greek subscriptions at nos. 1—3, X, XII—XV, XVIa, XVIb, XVIIa, XVIIb, XIXa, XXIa/b, XXIII. [Franz Steiner Verlag] There are also Greek texts from Hawara. Some were published on pp. 24—36 in Hawara, Biahmu and Arsinoe, by W.M. Flinders Petrie. London 1889. [MF 2.73] Further publication of some texts by J.G. Milne, Archiv 5 (1913) 378—397. Some of the texts were republished in SB I. There is a concordance at SB II, pp. 126—27. Most of the documentary texts from Archiv are republished in SB XVIII 13219—13245.
 
 ### P.Heid.
-= _Veröffentlichungen aus der Heidelberger Papyrussammlung_. See also Pap.Heid. {ddb:p.heid}
+= _Veröffentlichungen aus der Heidelberger Papyrussammlung_. See also [Pap.Heid.](#Pap.Heid.) {ddb:p.heid}
 
  * I (= Pap.Heid. N.F. II), Literarische griechische Texte der Heidelberger Papyrussammlung, ed. E. Siegmann. Heidelberg 1956. Nos. 181—209 (numbering cont. from P.Bad.). [CWV]
  * II, Nos. 210—224, ed. J. Seyfarth in Archiv 16 (1958) 143—168; texts reprinted as SB VI 9530—9544. {ddb:p.heid;2}
@@ -3429,7 +3429,7 @@ I.2 Galenus – Isocrates
  * XLVI, see P.Genova IV
  * XLVII, Early Christian Gospels: their production and transmission, by S. Charlesworth. 2016.
  
-### Pap.Heid.
+### <a id="Pap.Heid.">Pap.Heid.</a>
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
 
  * I, Die Septuaginta-Papyri, ed. A. Deissmann. Heidelberg 1905. &#91;MF 2.31&#93; [Online: archive.org](https://archive.org/details/bub_gb_0DQPAQAAMAAJ)
