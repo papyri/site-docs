@@ -228,7 +228,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### P.Berenike (see O.Berenike).
 
 ### P.Berl.Bibl.
-= _Frammenti di papiri greci asservati nella Reale Biblioteca di Berlino_, ed. G. Parthey. Rome 1865. (Memorie dell'Instituto di Corrispondenza Archeologica 2 [1865] 438—462). Cf. SB II p. 114. {ddb:p.berl.bibl}
+= _Frammenti di papiri greci asservati nella Reale Biblioteca di Berlino_, ed. G. Parthey. Rome 1865. (Memorie dell'Instituto di Corrispondenza Archeologica 2 [1865] 438—462). Cf. SB II p. 114. {ddb:p.berl.bibl} [Online: archive.org](https://archive.org/details/memorie01instgoog/page/n471/mode/2up)
 
 ### P.Berl.Bork.
 = _Une description topographique des immeubles à Panopolis_, ed. Z. Borkowski. Warsaw 1975. [AP] {ddb:p.berl.bork}
