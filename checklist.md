@@ -188,8 +188,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Veröffentlichungen aus den badischen Papyrus-Sammlungen_. Heidelberg. Series continues with P.Heid. I. {ddb:p.bad}
 
  * I, Demotische Papyri, ed. W. Spiegelberg. 1923. [MF 2.49]
- * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50] {ddb:p.bad;2}
- * III, Ein koptisches Fragment über die Begründer des Manichäismus, ed. F. Bilabel. 1924. No. 46. [MF 2.51]
+ * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50] {ddb:p.bad;2} [Online: archive.org](https://www.archive.org/details/inu.30000011417478)
+ * III, Ein koptisches Fragment über die Begründer des Manichäismus, ed. F. Bilabel. 1924. No. 46. &#91;MF 2.51&#93; [Online: archive.org](https://archive.org/details/mdp.39015062319333)
  * IV, Griechische Papyri, ed. F. Bilabel. 1924. Nos. 47-111. Nos. 47—59, 70—97 are papyri, 98—110 ostraca, 60—65 and 111 tablets, 66—69 pots. [MF 2.52] {ddb:p.bad;4}
  * V, Griechische, koptische und arabische Texte zur Religion und religiösen Literatur in Aegyptens Spätzeit, ed. F. Bilabel and A. Grohmann. 1934. Nos. 112—167. Nos. 112-113, 118-121, and 143-166 are Arabic; nos. 114-116, 122, 124-126, 131-142 and 167 Coptic; nos. 117 and 127-130 Greek; no. 123 Coptic-Arabic. [MF 2.53]
  * VI, Griechische Papyri, ed. G.A. Gerhard. 1938. Nos. 168—180. [MF 2.54]. Numbering continued in P.Heid. I. {ddb:p.bad;6}
