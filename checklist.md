@@ -719,7 +719,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Papyrus grecs de la Bibliothèque municipale de Gothembourg_, ed. H. Frisk. Gothenburg 1929. (Göteborgs Högskolas Årsskrift 35 [1929] pt. 1). Nos. 1—21; nos. 22—114 descripta. [Rp. CG] {ddb:p.got}
 
 ### P.Grad.
-= _Griechische Papyri der Sammlung Gradenwitz_, ed. G. Plaumann. Heidelberg 1914. (SBHeidelberg 1914, Abh. 15). Nos. 1—19; 17 and 18 are descripta. Texts 1—3, 5—16 and 19 reprinted as SB III 6275—6290; no 4 is SB I 5680. Further on the collection see ZPE 128 (1999) 153—160 and 134 (2001) 163-178, where D. Hagedorn and K.A. Worp provide information on the widely dispersed Gradenwitz collection, with a concordance for inventory numbers and published pieces. [MF 2.19; rp. CG] {ddb:p.grad}
+= _Griechische Papyri der Sammlung Gradenwitz_, ed. G. Plaumann. Heidelberg 1914. (SBHeidelberg 1914, Abh. 15). Nos. 1—19; 17 and 18 are descripta. Texts 1—3, 5—16 and 19 reprinted as SB III 6275—6290; no 4 is SB I 5680. Further on the collection see ZPE 128 (1999) 153—160 and 134 (2001) 163-178, where D. Hagedorn and K.A. Worp provide information on the widely dispersed Gradenwitz collection, with a concordance for inventory numbers and published pieces. [MF 2.19; rp. CG] {ddb:p.grad} [Online: archive.org](https://archive.org/details/njp.32101076895653)
 
 ### P.Graux
 
