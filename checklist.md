@@ -696,7 +696,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * V, ed. S. Perrone. Rome 2015. Nos. 186-225.
  
 ### P.Giss.
-= _Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen_, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910); Pt. II, nos. 36—57 (1910); Pt. III, nos. 58—126 (1912). [Rp. CG] {ddb:p.giss}
+= _Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen_, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss}
 
 ### P.Giss.Apoll.
 = _Briefe des Apollonios-Archives aus der Sammlung Papyri Gissenses_, ed. M. Kortus. Giessen 1999. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 49). Nos. 1-43. {ddb:p.giss.apoll}
