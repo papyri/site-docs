@@ -845,7 +845,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, Epistulae privatae Graecae, ed. L. Eisner. 1913. Nos. 8—25. [MF 2.7] {ddb:p.iand;2} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * III, Instrumenta Graeca publica et privata, pt. I, ed. L. Spohr. 1913. Nos. 26—51. [MF 2.8] {ddb:p.iand;3} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * IV, Instrumenta Graeca publica et privata, pt. II, ed. G. Spiess. 1914. Nos. 52—68b. Nos. 68, 68a, and 68b are Latin. [MF 2.9] {ddb:p.iand;4} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
- * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1913. Nos. 69—90. [MF 2.19]
+ * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1931. Nos. 69—90. [MF 2.19]
  * VI, Griechische Privatbriefe, ed. G. Rosenberger. 1934. Nos. 91—133. [MF 2.11] {ddb:p.iand;6}
  * VII, Griechische Verwaltungsurkunden, ed. D. Curschmann. 1934. Nos. 134—145. [MF 2.12] {ddb:p.iand;7}
  * VIII, Griechische Wirtschaftsrechnungen und Verwandtes, ed. J. Hummel. 1938. Nos. 146—155. [MF 2.13] {ddb:p.iand;8}
