@@ -794,7 +794,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Papyri Helsingienses I, Ptolemäische Urkunden_, ed. J. Frösén, P. Hohti, J. and M. Kaimio, H. Zilliacus. Helsinki 1986. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 80). Nos. 1—47. {ddb:p.hels}
 
 ### P.HengstenbergCopt.
-= "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327) ([Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)), but are now lost.
+= "Koptische Papyri," ed. W. Hengstenberg in Beiträge zur Forschung: Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1 (1915), 92-100, 1\*-22\*. Munich 1915. [Online: archive.org](https://archive.org/details/hvd.32044095331146). Nos. 1-5, of which nos. 1-4 are documentary. No. 5 is translated in M. Meyer and R. Smith, Ancient Christian Magic: Coptic Texts of Ritual Power (San Francisco 1994) no. 89. The texts were acquired by the Hof- und Staatsbibliothek (now Staatsbibliothek) in Munich (according to L. Wenger, Cd'É 7 [1932] 327) ([Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)), but are now lost.
 
 ### P.Herakl.Bank
 = _Ptolemäische Bankpapyri aus dem Herakleopolites (P.Herakl.Bank). Papyri der Sammlungen in Heidelberg, Köln und Wien_, ed. K. Maresch. Paderborn et al. 2012. (Pap.Colon. 35). Nos. 1–6.
