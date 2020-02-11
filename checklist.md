@@ -662,7 +662,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### P.Freib.
 = _Mitteilungen aus der Freiburger Papyrussammlung_. {ddb:p.freib}
 
- * I, Literarische Stücke, ed. W. Aly. Ptolemäische Kleruchenurkunde, ed. M. Gelzer. Heidelberg 1914. (SBHeidelberg 1914, Abh. 2). Nos. 1—7; no. 7 reprinted as SB I 5942. [MF 1.80; rp. CG] {ddb:p.freib;1}
+ * I, Literarische Stücke, ed. W. Aly. Ptolemäische Kleruchenurkunde, ed. M. Gelzer. Heidelberg 1914. (SBHeidelberg 1914, Abh. 2). Nos. 1—7; no. 7 reprinted as SB I 5942. [MF 1.80; rp. CG] {ddb:p.freib;1} [Online: archive.org](https://archive.org/details/wu.89102041464)
  * II, Juristische Texte der römischen Zeit, ed. J. Partsch. Heidelberg 1916. (SBHeidelberg 1916, Abh.10). Nos. 8—11. Texts reprinted as SB III 6291—6294. [MF 1.81; rp. CG] {ddb:p.freib;2} [Online: archive.org](https://archive.org/details/juristischetexte00part)
  * III, Juristische Urkunden der Ptolemäerzeit, ed. J. Partsch. Heidelberg 1927. (AbhHeidelberg 1927, Abh. 7). Nos. 12—38. [MF 1.82; rp. CG] {ddb:p.freib;3}
  * IV, Griechische und demotische Papyri der Universitätsbibliothek Freiburg, ed. R.W. Daniel, M. Gronewald, H.-J. Thissen. Bonn 1986. (Pap.Texte Abh. XXXVIII). Nos. 39—44 are listed in P.Freib. IV as follows: 39 = SB V 7600; 40—41 = SB III 6094—6095; 42 = SB IV 7351; 43 = SB VI 9562; 44 = P.Customs 266. Nos. 45—71 Greek; nos. 72—75 Demotic. There are two additional Demotic texts, P.Berlin P.15791 and P.Berlin P.23742, published here. [RH] {ddb:p.freib;4}
