@@ -654,7 +654,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Conformément aux observations d'Hipparque : le Papyrus Fouad inv. 267A_, ed. J.-L. Fournet, A. Tihon. Louvain-la-Neuve 2014 (Publications de l'Institut orientaliste de Louvain 67) [Online: HAL](https://halshs.archives-ouvertes.fr/hal-01597507/document)
 
 ### P.Frankf.
-= _Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt_, ed. H. Lewald. Heidelberg 1920. (SBHeidelberg 1920, Abh. 14). Nos. 1—7. An additional text at SB XIV 12093. [MF 1.25] {ddb:p.frankf}
+= _Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt_, ed. H. Lewald. Heidelberg 1920. (SBHeidelberg 1920, Abh. 14). Nos. 1—7. An additional text at SB XIV 12093. [MF 1.25] {ddb:p.frankf} [Online: archive.org](https://archive.org/details/wu.89102041563)
 
 ### P.Freer
 = _Greek and Coptic Papyri in the Freer Gallery of Art_, ed. L.S.B. MacCoull. Diss. Washington D.C. 1973. Nos. 1—6 Greek, nos. 7—10 Coptic. Nos. 1—2 are reedited by J. Gascou and L.S.B. MacCoull in "Le cadastre d'Aphroditô," Travaux et Memoires 10 (1987) 103—158 with 10 plates, reprinted as SB XX 14669. Nos. 3—4 are reedited by J. Gascou in Hommes et richesses dans l'empire byzantin. Réalités byzantines, I: IVe—VIIe siècle (Paris 1989) 279—313, reprinted as SB XX 14494. [UMI, order no. 73—19,867] {ddb:p.freer}
