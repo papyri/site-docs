@@ -359,7 +359,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Papyrus coptes et grecs du monastère d'apa Apollô de Baouît conservés aux Musées royaux d'Art et d'Histoire de Bruxelles_, ed. A. Delattre. (Académie royale de Belgique. Mémoires de la Classe des Lettres. Collection in-8°. 3e série. Tome XLIII, No. 2045.) {ddb:p.brux.bawit} [Online: Académie Royale](https://www.academieroyale.be/academie/documents/DelattrePapyrus12021.pdf)
 
 ### P.Brux.Dem.
-= _Die demotischen Papyrus der Musées Royaux du Cinquantenaire_, ed. W. Spiegelberg. Brussels 1909. Nos. 1— 7.
+= _Die demotischen Papyrus der Musées Royaux du Cinquantenaire_, ed. W. Spiegelberg. Brussels 1909. Nos. 1— 7. [Online: archive.org](https://archive.org/details/njp.32101073420851)
 
 ### P.Bub.
 = _Die verkohlten Papyri aus Bubastos_. Opladen. {ddb:p.bub}
