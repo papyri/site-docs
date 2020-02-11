@@ -737,7 +737,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Papyri Groninganae; Griechische Papyri der Universitätsbibliothek zu Groningen nebst zwei Papyri der Universitätsbibliothek zu Amsterdam_, ed. A.G. Roos. Amsterdam 1933. (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, Nieuwe Reeks 32, no. 4). Nos. 1—22. The two Amsterdam papyri at the end should be cited as P.Gron.Amst. 1—2; no. 1 is republished at SB XXIV 15970. See also another Amsterdam University Library text at SB XII 11229. [Rp. CG] {ddb:p.gron}
 
 ### P.Gur.
-= _Greek Papyri from Gurob_, ed. J.G. Smyly. Dublin 1921. (Royal Irish Academy, Cunningham Memoirs 12). Nos. 1—29. [MF 1.53]
+= _Greek Papyri from Gurob_, ed. J.G. Smyly. Dublin 1921. (Royal Irish Academy, Cunningham Memoirs 12). Nos. 1—29. &#91;MF 1.53&#93; [Online: archive.org](https://archive.org/details/coo.31924029681321)
 
 ### P.Hal.
 = _Dikaiomata: Auszüge aus alexandrinischen Gesetzen und Verordnungen in einem Papyrus des Philologischen Seminars der Universität Halle (Pap.Hal. 1) mit einem Anhang weiterer Papyri derselben Sammlung_, ed. by the Graeca Halensis. Berlin 1913. Nos. 1—22. [Rp. CG] {ddb:p.hal} [Online: archive.org](http://archive.org/details/dikaiomataausz00mila)
