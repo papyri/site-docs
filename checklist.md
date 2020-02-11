@@ -507,11 +507,11 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Corpus Papyrorum Aegypti_, ed. E. Revillout and A. Eisenlohr. Paris.
 
  * I, Papyrus démotiques du Louvre, transl. E. Revillout.
-    * Fasc. 1, nos. 1—6. 1885.
+    * Fasc. 1, nos. 1—6. 1885. [Online: archive.org](https://archive.org/details/mdp.39015028981820)
     * Fasc. 2, nos. 7—15. 1891. [Online: archive.org](https://archive.org/details/corpuspapyorumae1231revi)
-    * Fasc. 3, nos. 16—23. 1893.
-    * Fasc. 4, nos. 24—30. 1902. (Nos. 27—30 are literary.)
- * II, Papyrus démotiques du British Museum, transl. E. Revillout. Fasc. 1, nos. 1—7. 1888.
+    * Fasc. 3, nos. 16—23. 1893. [Online: archive.org](https://archive.org/details/mdp.39015028981820)
+    * Fasc. 4, nos. 24—30. 1902. (Nos. 27—30 are literary.) [Online: archive.org](https://archive.org/details/mdp.39015028981820)
+ * II, Papyrus démotiques du British Museum, transl. E. Revillout. Fasc. 1, nos. 1—7. 1888. [Online: archive.org](https://archive.org/details/mdp.39015028981820)
 
 ### P.Count
 = _Counting the People in Hellenistic Egypt_, ed. W. Clarysse and D. J. Thompson, I: Population Registers (P.Count). Cambridge 2006. Nos. 1-54. [Cambridge Univ. Press] {ddb:p.count}
