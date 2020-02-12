@@ -3689,7 +3689,7 @@ I.2 Galenus – Isocrates
  = _Studien zur Palaeographie und Papyruskunde_, ed. C. Wessely. Leipzig 1901—1924. An approximately annual publication, issued irregularly, and miscellaneous in character. Vols. I—V, VII, VIII, X, XIII, XIV, XVII, XX and XXII include documentary texts.
 
  * I, Greek texts in: "Die griechischen Papyrusurkunden des Theresianums in Wien," ed. C. Wessely, nos. 1—4 (pp.1—5, no. 4 reprinted as SB III 6086); "Trois papyrus du musée Guimet trouvés à Antinoë," ed. S. de Ricci, nos. 1—3 (pp. 6—8). 1901. &#91;MF 2.114 (with vols. II and IV); rp. AMH&#93; [Online: archive.org](https://archive.org/details/bub_gb_KeNWAAAAMAAJ_2)
- * II, Greek texts in "Die jüngsten Volkszählungen und die ältesten Indictionen in Ägypten," ed. C. Wessely, nos. 1—3 and four others unnumbered (pp. 26—35, no. 2 reprinted in vol. XXII 7). 1902. &#91;MF 2.114 (with vols. I and IV); rp. AMH&#93; [Online: archive.org](https://archive.org/details/bub_gb_KeNWAAAAMAAJ_2)
+ * II, Greek texts in "Die jüngsten Volkszählungen und die ältesten Indictionen in Ägypten," ed. C. Wessely, nos. 1—3 and four others unnumbered (pp. 26—35, no. 2 reprinted in vol. XXII 7). 1902. &#91;MF 2.114 (with vols. I and IV); rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo12wess/page/n89/mode/2up)
  * III, Griechische Papyrusurkunden kleineren Formats (P.Kl. Form. I), ed. C. Wessely. Nos. 1—701. 1904. &#91;MF 2.115 (with VIII); rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo03wess)
  * III2, = Griechische Papyrusurkunden kleineren Formats Neuedition.
      * Pt. 1, Quittungen, Lieferungskäufe, und Darlehen, ed. S. Tost. Vienna 2007. (Pap.Vind. 2). Nos. 1-118.   [ÖAW]
