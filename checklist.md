@@ -1010,7 +1010,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * III, ed. F.G. Kenyon and H.I. Bell. 1907. Nos. 485—1331. Nos. 1201 and 1202 are Demotic; there is a Demotic docket to no. 881. There is a line of Demotic at nos. 889 and 1209. [MF 1.56; rp. CG] A new edition of no. 1177 is given in Zur Wasserversorgung einer Metropole im kaiserzeitlichen Ägypten, ed. W. Habermann. Munich 2000. (Vestigia 53). [Beck] {ddb:p.lond;3} [Online: archive.org](https://archive.org/details/greekpapyriinbri03brit)
  * IV, The Aphrodito Papyri, ed. H.I. Bell, with appendix of Coptic papyri ed. W.E. Crum. 1910. Nos. 1332—1646; nos. 1494—1646 are Coptic. [MF 1.57; rp. CG] {ddb:p.lond;4} [Online: archive.org](https://archive.org/details/greekpapyriinbri04brit)
  * V, ed. H.I. Bell. 1917. Nos. 1647—1911; no. 1709 Coptic, no. 1792 Latin. [MF 1.59; rp. CG] {ddb:p.lond;5} [Online: archive.org](https://archive.org/details/greekpapyriinbri05brit)
- * VI, Jews and Christians in Egypt; The Jewish Troubles in Alexandria and the Athanasian Controversy, ed. H.I. Bell and W.E Crum. 1924. Nos. 1912—1929; nos. 1920—1922 are Coptic. [MF 1.60; rp. CG] {ddb:p.lond;6}
+ * VI, Jews and Christians in Egypt; The Jewish Troubles in Alexandria and the Athanasian Controversy, ed. H.I. Bell and W.E Crum. 1924. Nos. 1912—1929; nos. 1920—1922 are Coptic. [MF 1.60; rp. CG] {ddb:p.lond;6} [Online: archive.org](https://archive.org/details/mdp.39015010705583)
  * VII, The Zenon Archive, ed. T.C. Skeat. 1974. Nos. 1930—2193. [BMP] {ddb:p.lond;7}
 
 ### P.Lond.Copt.
