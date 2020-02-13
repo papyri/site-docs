@@ -1368,7 +1368,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS] {ddb:p.petaus}
 
 ### P.Petersb.
-= _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in P.Ross.Georg.; cf. SB II p. 61.
+= _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in P.Ross.Georg.; cf. SB II p. 61. [Online: archive.org](https://archive.org/details/hvd.32044031543440)
 
 ### P.Petr.
 = _The Flinders Petrie Papyri_. Dublin. (Royal Irish Academy, Cunningham Memoirs). {ddb:p.petr}
