@@ -1061,7 +1061,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Frühdemotische Urkunden aus Hermupolis_, ed. El-H.O.M. Zaghloul. Cairo 1985. (Bull.CPS 2). Nos. 1—6.
 
 ### P.Marini
-= _I papiri diplomatici raccolti ed illustrati_, ed. G. Marini. Rome 1805. Nos. 1—146. No. 146 is Greek, the others Latin; no. 146 republ. by R. Riedinger, AbhMünchen N.F. 85 (1979) 24—26; no. 124 republ. as P.Rain.Cent. 166. Cf. P.Ital. I pp. 69—72.
+= _I papiri diplomatici raccolti ed illustrati_, ed. G. Marini. Rome 1805. Nos. 1—146. No. 146 is Greek, the others Latin; no. 146 republ. by R. Riedinger, AbhMünchen N.F. 85 (1979) 24—26; no. 124 republ. as P.Rain.Cent. 166. Cf. P.Ital. I pp. 69—72. [Online: archive.org](https://archive.org/details/gb_sh6yaMIlN4YC)
 
 ### P.Marm.
 = _Il papiro vaticano greco 11_, ed. M. Norsa and G. Vitelli. Vatican City 1931. No. 1 is literary, no. 2 a document. (Biblioteca Vaticana, Studi e Testi 53). [VAT] {ddb:p.marm}
