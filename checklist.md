@@ -882,7 +882,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 = _Papyri from Karanis_, ed. E.J. Goodspeed. Chicago 1902. (Univ. of Chicago, Studies in Classical Philology 3: 1—66). Texts reprinted in SB Beiheft 2, 1961. 43 texts are reprinted from BGU; 49 were in the possession of Goodspeed. [MF 2.76] Further publications of Goodspeed papyri are P.Cair.Goodsp. 28—30, CP 1 (1906) 167—173 (Nos. 3—12 = SB I 4414—4423); CP 3 (1908) 428—434 (SB I 4425). In CP 5 (1910) 320—322 Goodspeed published three papyri from the collection of Professor John G. Harrison. On the Goodspeed papyri in general, see ZPE 16 (1975) 27—32. {ddb:p.kar.goodsp} [Online: archive.org](https://archive.org/details/studiesinclassi02chicgoog)
 
 ### P.Katoché
-= _Ein bisher unbeachtetes Dokument zur Frage nach dem Wesen der Katoché im Serapeum von Memphis_, ed. K. Sethe. Berlin-Leipzig 1921. (Schr. Heid. 2). Reedition by W. Clarysse in Enchoria 14 (1986) 43—49.
+= _Ein bisher unbeachtetes Dokument zur Frage nach dem Wesen der Katoché im Serapeum von Memphis_, ed. K. Sethe. Berlin-Leipzig 1921. (Schr. Heid. 2). Reedition by W. Clarysse in Enchoria 14 (1986) 43—49. [Online: archive.org](https://archive.org/details/einbisherunbeach00seth)
 
 ### P.Kellis
 = _Papyri from Kellis_. Oxford. {ddb:p.kell}
