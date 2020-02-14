@@ -1075,7 +1075,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Medin.Madi (see O.Medin.Madi).
 
 ### P.Meerman.
-= _Die Aegyptische Sammlung des Museum-Meermanno-Westreenianum im Haag_, ed. W. Spiegelberg. Strassburg 1896. There are two demotic texts. No. 2 was republished in FestLüddeckens, pp. 260—261 (S. Vleeming).
+= _Die Aegyptische Sammlung des Museum-Meermanno-Westreenianum im Haag_, ed. W. Spiegelberg. Strassburg 1896. There are two demotic texts. No. 2 was republished in FestLüddeckens, pp. 260—261 (S. Vleeming). [Online: archive.org](https://archive.org/details/pmeerman)
 
 ### P.Mert.
 = _A Descriptive Catalogue of the Greek Papyri in the Collection of Wilfred Merton_. {ddb:p.mert}
