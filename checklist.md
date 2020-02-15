@@ -3806,6 +3806,7 @@ I.2 Galenus – Isocrates
  * VII, Acts of the Seventh International Conference of Demotic Studies, Copenhagen, 23—27 August 1999, ed. K. Ryholt.  (Museum Tusculanum Press, C.N.I. Publications 27). Copenhagen 2002.
  * VIII, Akten der 8. Internationalen Konferenz für demotische Studien, Würzburg, 27.—30. August 2002, ed. K. Zauzich. Wiesbaden, 2019.
  * IX, Actes du IXe congrès international des études démotiques, Paris, 31 août—3 septembre 2005, ed. G. Widmer and D. Devauchelle. (IFAO, Bibliothèque d'études 147). Cairo 2009.
+ * XIII, New Approaches in Demotic Studies : Acts of the 13th International Conference of Demotic Studies [Leipzig, September 4-8, 2017], ed. F. Naether. Berlin 2019.
 
 ## Editions of Greek and Coptic Documentary Papyri by Year of Publication
 
