@@ -2124,6 +2124,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * I, Griechische und griechisch-demotische Ostraka der Universitäts- und Landesbibliothek zu Strassburg im Elsass, ed. P. Viereck. Berlin 1923. Nos. 1—812; a few are Demotic or bilingual. There is an index to the Demotic material. [MF 1.79]
  * II, Thèbes et ses taxes: Recherches sur la fiscalité en Égypte romaine, ed. P. Heilporn. Paris 2009. Nos. 813—906. There is an index to the Demotic material. [De Boccard]
 
+### O.Taxes
+
+ * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B. P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
+ 
 ### O.Tebt. (Nos. 1—20, see P.Tebt. II)
 
 ### O.Tebt.Pad.
@@ -2131,10 +2135,6 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### O.Tempeleide
 = _Die demotischen Tempeleide_, ed. U. Kaplony-Heckel. Wiesbaden 1963. (Ägyptologische Abhandlungen 6). Nos. 1—224, of which 52 were previously published. There is a catalogue listing of 286 further fragmentary ostraca of which 7 have been published.
-
-### O.Taxes
-
- * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B. P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
 
 ### O.Theb.
 = _Theban Ostraca_. London 1913. (Univ. of Toronto Studies, Philological Series I). Part I, Hieratic Texts, ed. A.H. Gardiner; 31 texts on pp. 1—16 with an additional text in an appendix on pp. 16a—16o. Part II, Demotic Texts, ed. H. Thompson; 44 texts not numbered serially on pp. 23—65. Part III, Greek Texts, ed. J.G. Milne; nos. 1—146 on pp. 71—161 with Demotic in nos. 16, 21—26, 28 and 31. Part IV, Coptic Texts, ed. H. Thompson; nos. 1—48 on pp. 179—212. [Online: archive.org](https://archive.org/details/cu31924026873889)
@@ -2285,7 +2285,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * L, begins a new series devoted to Latin Charters of the 9th century. See the Introduction by editors, G. Cavallo and G. Nicolaj. These volumes are not papyrological in nature and are not listed here.
 
 ### C.Epist.Lat.
-= _Corpus Epistolarum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. (Pap.Flor. XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
+= _Corpus Epistularum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. (Pap.Flor. XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
 
 ### C.Étiq.Mom.
 = _Corpus des étiquettes de momies grecques_, ed. B. Boyaval. Lille 1976. (Publications de l'Université de Lille III). Nos. 1657 and 2077 were previously unedited.
