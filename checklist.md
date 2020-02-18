@@ -1634,8 +1634,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### P.Stras.
 = _Griechische Papyrus der Kaiserlichen Universitäts- und Landes-bibliothek zu Strassburg_, ed. F. Preisigke. Leipzig.
 
- * I, 1912. Nos. 1—80. [MF 2.39, (incl. II)] {ddb:p.stras;1}
- * II, 1920. Nos. 81—125. [See I] {ddb:p.stras;2}
+ * I, 1912. Nos. 1—80. [MF 2.39, (incl. II)] {ddb:p.stras;1} [Online: archive.org](https://archive.org/details/umn.31951002173825l)
+ * II, 1920. Nos. 81—125. [See I] {ddb:p.stras;2} [Online: archive.org](https://archive.org/details/uiug.30112024081785)
  * III, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. P. Collomp et ses élèves. Paris 1948. (Publications de la Faculté des Lettres de l'Université de Strasbourg 97). Nos. 126—168. {ddb:p.stras;3}
  * IV, Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg, ed. J. Schwartz et ses élèves. Strasbourg 1963. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg I). Nos. 169—300 (with index to Nos. 126—300). [BNU] {ddb:p.stras;4}
  * V, ed. J. Schwartz et ses élèves. 1973. (Publications III). Nos. 301—500. [BNU] {ddb:p.stras;5}
