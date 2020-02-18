@@ -1461,7 +1461,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Demotic Papyri and Ostraca from Qasr Ibrim_, ed. J. D. Ray. London 2005. Nos. 1–40. Nos. 1—11 are papyri, nos.12—40 are ostraca. All are Demotic. [EES]
 
 ### P.QuelquesTextes
-= _Quelques textes démotiques archaïques_, trans. E. Revillout with facsimile drawings of 10 texts by E. Boudier. Paris 1895.
+= _Quelques textes démotiques archaïques_, trans. E. Revillout with facsimile drawings of 10 texts by E. Boudier. Paris 1895. [Online: archive.org](https://archive.org/details/hvd.32044097718258)
 
 ### P.Quseir
 = "Papyri and Ostraka from Quseir al-Qadim," ed. R.S. Bagnall, in BASP 23 (1986) 1—60 and plates 1—27. Nos. 1—23 are papyri (3 Latin), 24—48 ostraca (3 Latin), 49—74 dipinti, 75 mummy labels, 76 inscriptions on mica. Texts reprinted as SB XX 14248—14277. [Online: NYU](http://hdl.handle.net/2451/28188)
