@@ -1694,7 +1694,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Essays and Texts in Honor of J.David Thomas_, ed. T. Gagos and R.S. Bagnall. Oakville 2001. (Am.Stud.Pap. XLII) Nos. 1-31. Nos. 8 and 9 are ostraca; nos. 10 and 19 inscriptions; nos. 16 and 17 are wooden mummy labels; no. 18 a limestone mummy label; no. 31 is a graffito. No. 6 is Latin; Nos. 20, 24 and 25 are bilingual, Greek and Latin; no. 18 is Demotic and no. 31 is Coptic. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/7m0cg357)
 
 ### P.Tor.
-= "Papyri graeci Regii Taurinensis Musei Aegyptii," ed. A. Peyron in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie 31 (1827) 9—188 and 33 (1829) 1—80. Nos. 1-14. Texts republished in UPZ and P.Tor.Amen. [MF 2.85]
+= "Papyri graeci Regii Taurinensis Musei Aegyptii," ed. A. Peyron in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie 31 (1827) 9—188 and 33 (1829) 1—80. Nos. 1-14. Texts republished in UPZ and P.Tor.Amen. &#91;MF 2.85&#93; [Online: archive.org](https://archive.org/details/mdp.39015010706615)
 
 ### P.Tor.Amen.
 = _L'Archivio di Amenothes figlio di Horos. Testi demotici e greci relativi ad una famiglia di imbalsamatori del secondo sec. a.C._, ed. P.W. Pestman. Milan 1981. (Mus.Tor. V). Nos. [5], 6—8 and 12 are Greek; nos. 1—4, 9—11 and 13—17 Demotic. There is a Demotic note to no. 7. [CG]
