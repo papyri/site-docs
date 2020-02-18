@@ -1682,7 +1682,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Testi Demotici I_, ed. G. Botti. Includes 3 papyri from Bologna, 6 papyri from Florence, 7 ostraca from Florence and one papyrus from Naples. There is a pocket of plates. Florence 1941.
 
 ### P.Thead.
-= _Papyrus de Théadelphie_, ed. P. Jouguet. Paris 1911. Nos. 1—61, all reedited in P.Sakaon. [Rp. CG]
+= _Papyrus de Théadelphie_, ed. P. Jouguet. Paris 1911. Nos. 1—61, all reedited in P.Sakaon. &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/mdp.39015006592946)
 
 ### P.Theon.
 = _The Family of the Tiberii Iulii Theones_, ed. P.J. Sijpesteijn. Amsterdam 1976. (Stud.Amst. V). Nos. 1—29. [AMH]
