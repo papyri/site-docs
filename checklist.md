@@ -2033,7 +2033,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Ostraca Lundensia. Ostraka aus der Sammlung des Instituts für Altertumskunde an der Universität zu Lund_, ed. C. Tsiparis. Lund 1979. Nos. 1—32. [from Klassiska Institutionen, Sölvegatan 2, 22362 Lund, Sweden]
 
 ### O.Magnien
-= _Quelques reçus d’impôts agricoles_, ed. M. Magnien. Paris 1902.
+= _Quelques reçus d’impôts agricoles_, ed. M. Magnien. Paris 1902. [Online: archive.org](https://archive.org/details/mdp.39015009245252)
 
 ### O.Masada (see P.Masada. Nos. 750—771 are Latin ostraca, nos. 772—794 Greek)
 
