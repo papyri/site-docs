@@ -269,7 +269,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Die griechischen Papyrusurkunden der Königlichen Bibliothek zu Berlin_, ed. W.A. Schmidt. Berlin 1842. (Forschungen auf dem Gebiet des Altertums 1). Nos. 1—2. Texts reprinted as SB I 4503—4504. [Online: archive.org](http://archive.org/details/diegrieschische00schm)
 
 ### P.Berl.Spieg.
-= _Demotische Papyrus aus den Königlichen Museen zu Berlin_, ed. von der Generalverwaltung mit erläuterndem Texte von W. Spiegelberg. Berlin and Leipzig 1902. A catalogue with photographs.
+= _Demotische Papyrus aus den Königlichen Museen zu Berlin_, ed. von der Generalverwaltung mit erläuterndem Texte von W. Spiegelberg. Berlin and Leipzig 1902. A catalogue with photographs. [Online: archive.org](https://archive.org/details/demotischepapyru00koni)
 
 ### P.Berl.Thun.
 = _Sitologen-Papyri aus dem Berliner Museum_, ed. K. Thunell. Uppsala 1924. Texts reprinted as SB III 7193—7196 and as P.Berl.Leihg. I 1—4. [MF 2.106; rp.CG] {ddb:p.berl.thun} [Online: archive.org](https://archive.org/details/mdp.39015010580390)
@@ -338,7 +338,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * IV, Ptolemaic Legal Texts from the Theban Area, ed. C.A.R. Andrews. London 1990. Published texts in vol. IV are numbered sequentially Cat. 1 to Cat. 48. The indexes, however, give inventory number references. There is a concordance of inventory numbers with publication numbers on p. 108. In addition there is a concordance of Cat. nos. and plate nos. on p. 129. &#91;BMP&#93; [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015021458040)
 
 ### P.Brit.Mus.Reich
-= _Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum_, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3).
+= _Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum_, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3). [Online: archive.org](https://archive.org/details/papyrijuristisch00reic)
 
 ### P.Brookl.
 = _Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum_, ed. J.C. Shelton. Florence 1992. (Pap.Flor. XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF] {ddb:p.brook}
@@ -707,7 +707,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### P.Giss.Univ.
 = _Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek_. Giessen. {ddb:p.giss.univ}
 
- * I, Griechische Papyrusurkunden aus ptolemäischer und römischer Zeit, ed. H. Kling. 1924. (Schriften der hessischen Hochschulen, Universität Giessen 1924, 4). Nos. 1—16. [MF 2.20; rp. CG] {ddb:p.giss.univ;1}
+ * I, Griechische Papyrusurkunden aus ptolemäischer und römischer Zeit, ed. H. Kling. 1924. (Schriften der hessischen Hochschulen, Universität Giessen 1924, 4). Nos. 1—16. [MF 2.20; rp. CG] {ddb:p.giss.univ;1} [Online: archive.org](https://archive.org/details/griechischepapyr00klin)
  * II, Ein Bruchstück des Origenes über Genesis I, 28, ed. P. Glaue. 1928. (Schriften 1928, 1). No. 17. [MF 2.21; rp. CG]
  * III, Griechische Privatbriefe, ed. H. Büttner. 1931. (Schriften 1931, 3). Nos. 18—33. [MF 2.22; rp. CG] {ddb:p.giss.univ;3}
  * IV, Literarische Stücke, ed. H. Eberhart. 1935. (Schriften 1935, 2). Nos. 34—45. [MF 2.23; rp. CG]
