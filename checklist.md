@@ -1735,7 +1735,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _I Papiri Vaticani di Aphrodito_, ed. R. Pintaudi. Rome 1980. Separate portfolio of plates. Nos. 1—26. [VAT]
 
 ### P.Vat.Mai
-= _Classicorum Auctorum e Vaticanis codicibus editorum collectio_, ed. A. Mai. Vol. IV (Rome 1831) contains on pp. 442-447, P.Vatican B (UPZ I 7); vol. V (Rome 1833) contains on pp. 350-361, P.Vatican E, F (UPZ I 15, 16) and on pp. 600-604, P.Vatican A, C, D (UPZ I 60, 51, 45). Nos. A, B, C and D were reedited by B. Peyron in "Papiri greci del Museo di Londra e della Bibliotheca Vaticana" in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841). This article also reprints P.Forshall (q.v.) II-XV and SVIII.
+= _Classicorum Auctorum e Vaticanis codicibus editorum collectio_, ed. A. Mai. Vol. IV (Rome 1831, [Online: archive.org](https://archive.org/details/ucm.5324343333)) contains on pp. 442-447, P.Vatican B (UPZ I 7); vol. V (Rome 1833, [Online: archive.org](https://archive.org/details/ucm.5324724708)) contains on pp. 350-361, P.Vatican E, F (UPZ I 15, 16) and on pp. 600-604, P.Vatican A, C, D (UPZ I 60, 51, 45). Nos. A, B, C and D were reedited by B. Peyron in "Papiri greci del Museo di Londra e della Bibliotheca Vaticana" in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841). This article also reprints P.Forshall (q.v.) II-XV and SVIII.
 
 ### P.Verpfründung.
 = _Ägyptische Verpfründungsverträge mit Vermögensabtretungen_, ed. W. Spiegelberg. Heidelberg 1923. (SBHeidelberg 1923.6). Translations of 4 texts are given here.
