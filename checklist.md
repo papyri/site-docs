@@ -1900,7 +1900,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### O.Brit.Mus.Copt.
 
- * I, Coptic and Greek Texts of the Christian Period from Ostraka, Stelae, etc. in the British Museum, ed. H.R. Hall. London 1905. The arrangement is in 100 plates, each of which contains one or more texts. There is also an appendix of 33 Coptic inscriptions. There is no index.
+ * I, Coptic and Greek Texts of the Christian Period from Ostraka, Stelae, etc. in the British Museum, ed. H.R. Hall. London 1905. The arrangement is in 100 plates, each of which contains one or more texts. There is also an appendix of 33 Coptic inscriptions. There is no index. [Online: archive.org](https://archive.org/details/mdp.39015020865567)
  * II, Koptische Ostraka I: Ostraka aus dem Britischen Museum in London, ed. A. Biedenkopf-Ziehner. Wiesbaden 2000. Nos. 1-47, Add. 1-6. [OH]
 
 ### O.Brux.
