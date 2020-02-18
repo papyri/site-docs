@@ -1513,8 +1513,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Catalogue of the Demotic Papyri in the John Rylands Library, Manchester_, ed. F.Ll. Griffith. Manchester 1909. [Rp. GO]
 
  * I, Atlas of Facsimiles, nos. 1—45. [Online: archive.org](https://archive.org/details/0981732.0001.001.umich.edu)
- * II, Hand-copies of the earlier documents. (Nos. I—IX).
- * III, Key-list, Translations, Commentaries and Indices. (There are Greek subscriptions to nos. 15A, 17, 18 and 19, republished in P.Ryl. II 248—251).
+ * II, Hand-copies of the earlier documents. (Nos. I—IX). [Online: archive.org](https://archive.org/details/mdp.39015020864867)
+ * III, Key-list, Translations, Commentaries and Indices. (There are Greek subscriptions to nos. 15A, 17, 18 and 19, republished in P.Ryl. II 248—251). [Online: archive.org](https://archive.org/details/mdp.39015020864875)
 
 ### P.Sakaon
 = _The Archive of Aurelius Sakaon: Papers of an Egyptian Farmer in the last Century of Theadelphia_, ed. G.M. Parássoglou. Bonn 1978. (Pap. Texte Abh. XXIII). Nos. 1—98; ostraca nos. 78—81, 83, 85, 88, 90—91. [RH] {ddb:p.sakaon}
