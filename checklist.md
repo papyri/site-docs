@@ -1982,7 +1982,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Elkab III. Les ostraca grecs_, ed. J. Bingen and W. Clarysse. Brussels 1989. (Publications du Comité des Fouilles Belges en Égypte, Elkab). Nos. 1—227. [FERE]
 
 ### O.Erem.
-= "Griechische Ostraka in der Kaiserlichen Eremitage in St. Petersburg," ed. G. Zereteli in Archiv 5 (1913) 170—180, nos. 1—40. Now republished as SB XVIII 13179—13217.
+= "Griechische Ostraka in der Kaiserlichen Eremitage in St. Petersburg," ed. G. Zereteli in Archiv 5 (1913) 170—180, nos. 1—40. [Online: archive.org](https://archive.org/details/inu.30000106243904). Now republished as SB XVIII 13179—13217.
 
 ### O.Fay. (see P.Fay)
 
