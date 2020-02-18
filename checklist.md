@@ -1392,7 +1392,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * IV, ed. A. Arjava, M. Buchholz, T. Gagos and M. Kaimio, with contributions by J. Kaimio, C. A. Kuehn and T. Purola. Amman 2011. (American Center of Oriental Research Publications 6). Nos. 37–49. {ddb:p.petra;4}
 
 ### P.Petrettini
-= _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114).
+= _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114). [Online: archive.org](https://archive.org/details/loc.ark__13960_t8gf21d1v)
 
 ### P.Pher.
 = _Eine Steuerliste aus Pheretnuis_, ed. P.J. Sijpesteijn and K.A. Worp. Amsterdam 1993. (Stud.Amst. XXXIII). &#91;JCG&#93; [Online: Leiden](http://hdl.handle.net/1887/9300)
