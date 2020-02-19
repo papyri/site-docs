@@ -2605,7 +2605,7 @@ I.2 Galenus – Isocrates
  = Nozioni elementari di grammatica demotica, by E. Bresciani. Milan 1969. (Testi e documenti per lo studio dell’antichità 29). [CG]
  
 ### Brugsch, Gram.
- = Grammaire Démotique, by H. Brugsch. Berlin 1855.
+ = Grammaire Démotique, by H. Brugsch. Berlin 1855. [Online: archive.org](https://archive.org/details/bub_gb_0OFWm7H_EZYC)
  
 ### du Bourguet, Gram.
  = Grammaire fonctionelle et progressive de l’égyptien démotique, by P. du Bourguet. Louvain 1976. [Peeters]
