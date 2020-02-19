@@ -3092,8 +3092,8 @@ I.2 Galenus – Isocrates
  * I, 1887. [Online: archive.org](https://archive.org/details/p1p2mitteilungen01karauoft)
  * II—III, 1887. [Online: archive.org](https://archive.org/details/mitteilungenausd23karauoft)
  * IV, 1888. [Online: archive.org](https://archive.org/details/mitteilungenausdv4t6kara)
- * V, 1892.
- * VI, 1897.
+ * V, 1892. [Online: archive.org](https://archive.org/details/mitteilungenausdv4t6kara/page/148/mode/2up)
+ * VI, 1897. [Online: archive.org](https://archive.org/details/mitteilungenausdv4t6kara/page/134/mode/2up)
 
 ### MPER N.S.
  = _Mitteilungen aus der Papyrussammlung der österreichischen Nationalbibliothek in Wien, Neue Serie_. Vienna 1932—.
