@@ -2188,7 +2188,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Tablitele Cerate Dacice_, ed. I.I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
 
 ### T.Jucundus
-= _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887.
+= _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887. [Online: archive.org](https://archive.org/details/umn.31951p00109614s)
 
 ### T.Möller
 = Demotische Texte aus den Königlichen Museen zu Berlin, ed. Georg Möller. Leipzig 1913. Nos. 1-171. [Online: archive.org](https://archive.org/details/tmoller)
