@@ -3714,7 +3714,7 @@ I.2 Galenus – Isocrates
  * XX, Catalogus Papyrorum Raineri. Series Graeca. Pars I. Textus Graeci papyrorum, qui in libro "Papyrus Erzherzog Rainer–Führer durch die Austellung Wien 1894" descripti sunt, ed. C. Wessely. Nos. 1—308. 1921. This volume publishes the Greek text of all the papyri listed in the Führer PER; in pp. 61—130 Wessely describes each papyrus and illustrates some, providing a commentary for the bare Greek texts published inStud.Pal. XX. Many of the texts are republications of some first published in CPR or in Stud.Pal. III and VIII; for a concordance see BL Konkordanz pp. 56—58 and 251—256. &#91;MF 2.118; rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo20unse)
  * XXI, Griechisch-ägyptischer Offenbarungszauber, ed. Th. Hopfner. 1921. Revised ed. Amsterdam 1974. [Rp. AMH]
  * XXII, Catalogus papyrorum Raineri. Series Graeca. Pars II. Papyri N.24858—25024, aliique in Socnopaei Insula scripti, ed. C. Wessely. Nos. 1—184. 1922. &#91;MF 2.119; rp. AMH&#93; [Online: archive.org](https://archive.org/details/ldpd_6072312_000)
- * XXIII, Griechisch-ägyptischer Offenbarungszauber: seine Methoden, ed. Th. Hopfner. 1924. [Rp. AMH in two volumes]
+ * XXIII, Griechisch-ägyptischer Offenbarungszauber: seine Methoden, ed. Th. Hopfner. 1924. &#91;Rp. AMH in two volumes&#93; [Online: archive.org](https://archive.org/details/uiuc.5974882v22)
 
 ### Stud.Test.Pap.
  = _Studi e testi di Papirologia_. Florence. [FLM]
