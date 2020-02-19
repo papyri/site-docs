@@ -3619,7 +3619,7 @@ I.2 Galenus – Isocrates
  * II, see P.Katoché.
  * III, Das Signalement in den Papyrusurkunden, by J. Hasebroek. 1921. [Online: archive.org](https://archive.org/details/wu.89102041209)
  * IV, see O.Berl.
- * V, Das Verhältnis der griechischen und ägyptischen Texte in den zwei-sprachigen Dekreten von Rosette und Kanopus, by W. Spiegelberg. 1922.
+ * V, Das Verhältnis der griechischen und ägyptischen Texte in den zwei-sprachigen Dekreten von Rosette und Kanopus, by W. Spiegelberg. 1922. [Online: archive.org](https://archive.org/details/coo.31924026870281)
  * VI, Die Gotteskraft der frühchristlichen Zeit, by F. Preisigke. 1922.
 
 ### SPP (see Stud.Pal.)
