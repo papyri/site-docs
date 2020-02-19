@@ -2614,7 +2614,7 @@ I.2 Galenus – Isocrates
  = A Grammar of the Greek Papyri of the Roman and Byzantine Periods, vol. I, Phonology, vol. II Morphology, by F.T. Gignac. Milan 1976, 1981. (Testi e documenti per lo studio dell’antichità, 55, 1—2). [CG]
  
 ### Johnson, Gram.
- = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC45.html>.
+ = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <http://www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC45.html>.
  
 ### Johnson, Verbal System
  = The Demotic Verbal System by J.H. Johnson. Chicago 1976. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 38).
