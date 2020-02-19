@@ -2475,7 +2475,7 @@ I.2 Galenus – Isocrates
  = Duke Data Bank of Documentary Papyri. Recorded on Packard Humanities Institute CD-ROM 7 with all material entered to June 1996. Online version at <http://papyrus.info>. The DDBDP is co-directed by James Cowey and Joshua Sosin, who together set policy in close consultation with Rodney Ast, the Editorial Board, and other colleagues. Day-to-day editorial decisions are made democratically by the Editorial Board (Rodney Ast, James Cowey, Alain Delattre, Paul Heilporn, Todd Hickey, Cisca Hoogendijk, Joshua Sosin), often in consultation with other colleagues. Editorial proposals of special difficulty or weight are referred to a board of Senior Editors, who advise the Editorial Board on the virtue of the submissions. Senior Editors are/were: Isabella Andorlini(†), Roger Bagnall, Willy Clarysse, Hélène Cuvigny, Nikolaos Gonis, Dieter Hagedorn, Ann Hanson, Andrea Jördens, James Keenan, and Klaas Worp. For more on the DDBDP see the development site. 
 
 ### Fachwörter
- = Fachwörter des öffentlichen Berwaltungsdienstes Ägyptens in der griechischen Papyrusurkunden der ptolemäisch-römischen Zeit, by F. Preisigke. Göttingen 1915.
+ = Fachwörter des öffentlichen Verwaltungsdienstes Ägyptens in der griechischen Papyrusurkunden der ptolemäisch-römischen Zeit, by F. Preisigke. Göttingen 1915. [Online: archive.org](https://archive.org/details/fachwrterdes00preiuoft)
 
 ### HGV
  = Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden aus Ägypten, directed by D. Hagedorn. Available on the World Wide Web at <http://aquila.zaw.uni-heidelberg.de/>. Also available on the CD-ROM "Subsidia Papyrologica 1.0." Brussels 2000. [FERE]
