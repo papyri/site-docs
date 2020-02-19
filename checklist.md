@@ -2430,7 +2430,7 @@ I.2 Galenus – Isocrates
 ### BL
  = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten. 
  
- * I, ed. F. Preisigke. Berlin/Leipzig 1922. [WdG]
+ * I, ed. F. Preisigke. Berlin/Leipzig 1922. &#91;WdG&#93; [Online: archive.org](https://archive.org/details/pst.000010146934)
  * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
  * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
  * IV, ed. idem. Leiden 1964. [EJB]
