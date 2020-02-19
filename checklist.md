@@ -3435,7 +3435,7 @@ I.2 Galenus – Isocrates
  * I, Die Septuaginta-Papyri, ed. A. Deissmann. Heidelberg 1905. &#91;MF 2.31&#93; [Online: archive.org](https://archive.org/details/bub_gb_0DQPAQAAMAAJ)
  * II, Acta Pauli aus der Heidelberger koptischen Papyrushandschrift Nr. 1, ed. C. Schmidt. Leipzig 1904. &#91;MF 2.32&#93; [Online: archive.org](https://archive.org/details/actapauliausder00papygoog)
  * III, Papyri Schott-Reinhardt I, ed. C.H. Becker. Heidelberg 1906. Greek texts reprinted as SB I 5638—55. &#91;MF 2.33&#93; [Online: archive.org](https://archive.org/details/bub_gb_pTQPAQAAMAAJ) [Online: archive.org](https://archive.org/details/bub_gb_pTQPAQAAMAAJ)
- * IV, Griechisch literarische Papyri I, Ptolemäische Homerfragmente, ed. G.A. Gerhard. Heidelberg 1911. [CWV]
+ * IV, Griechisch literarische Papyri I, Ptolemäische Homerfragmente, ed. G.A. Gerhard. Heidelberg 1911. &#91;CWV&#93; [Online: archive.org](https://archive.org/details/griechischlitera00gerh)
  * N.F. I, Zum Drogenhandel im islamischen Aegypten ed. A. Dietrich. Heidelberg 1954. [CWV]
  * N.F. II, see P.Heid. I.
  * N.F. III, see P.Heid. III.
