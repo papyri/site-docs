@@ -2674,7 +2674,7 @@ I.2 Galenus – Isocrates
  = Griechische Palaeographie, by W. Schubart. Munich 1925, rp. 1966. (Handbuch der Altertumswissenschaft I.4.1). [Beck]
  
 ### Schubart, PGB
- = Papyrae graecae Berolinenses, by W. Schubart. Bonn 1911. (Tabulae in Usum Scholarum 2).
+ = Papyrae graecae Berolinenses, by W. Schubart. Bonn 1911. (Tabulae in Usum Scholarum 2). [Online: archive.org](https://archive.org/details/papyrigraecaeber00schuuoft)
  
 ### Seider, Pal.Gr.
  = Paläographie der griechischen Papyri, by R. Seider. Bd. I Urkunden, Bd. II Literarische Papyri, Bd. III Text, pt. 1 Urkundenschrift. Stuttgart 1967, 1970, 1990. [Hiersemann]
