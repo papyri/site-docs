@@ -2050,7 +2050,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Ostraka e papiri greci da Medinet Madi nelle campagne 1968 e 1969_, ed. D. Foraboschi. Milan 1976. (Testi e documenti per lo studio dell’antichità 53). Nos. 1—33 plus two papyri (= P.Medin.Madi). [CG]
 
 ### O.Métrologie
-= _Mélanges sur la métrologie, l’économie politique et l’histoire de l’ancienne Égypte_, by E. Revillout. Paris 1895. 
+= _Mélanges sur la métrologie, l’économie politique et l’histoire de l’ancienne Égypte_, by E. Revillout. Paris 1895. [Online: archive.org](https://archive.org/details/umn.319510020687805)
 
 ### O.Meyer (see P.Meyer)
 
