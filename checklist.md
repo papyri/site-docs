@@ -3135,7 +3135,7 @@ I.2 Galenus – Isocrates
  = _Münchener Beiträge zur Papyrusforschung und antiken Rechtgeschichte_. Munich 1915—. (C.H. Beck). All volumes in print unless noted o.p.
 
  * 1, Papyrologische Studien zum byzantinischen Urkundenwesen im Anschluß an P.Heidelberg 311, by E. von Druffel. 1915. [Online: archive.org](https://archive.org/details/ldpd_6769773_000). 2nd ed. 1970.
- * 2, Ägyptisches Vereinswesen zur Zeit der Ptolemäer und Römer. Teil 1: Die Vereinsarten. Teil 2:Vereinswesen und Vereinsrecht, by M. San Nicolò. 1915. Both volumes 2nd ed. 1972, with Nachträgen by J. Herrmann.
+ * 2, Ägyptisches Vereinswesen zur Zeit der Ptolemäer und Römer. Teil 1: Die Vereinsarten. [Online: archive.org](https://archive.org/details/in.ernet.dli.2015.292027). Teil 2:Vereinswesen und Vereinsrecht, by M. San Nicolò. 1915. [Online: archive.org](https://archive.org/details/in.ernet.dli.2015.292014). Both volumes 2nd ed. 1972, with Nachträgen by J. Herrmann.
  * 3, Frühchristliche Vorbereitungsgebete zur Taufe (Papyr. Berol. 13415), by T. Schermann. 1917. [o.p.]
  * 4, Die Schlußklauseln der altbabylonischen Kauf- und Tauschverträge, by M. San Nicolò. 1922. 2nd ed. 1974.
  * 5, Das Asylwesen Ägyptens in der Ptolemäerzeit und die spätere Entwicklung: eine Einführung in das Rechtsleben Ägyptens besonders der Ptolemäerzeit, by F. von Woess. 1923.
