@@ -2709,7 +2709,7 @@ I.2 Galenus – Isocrates
  = Ägypten: Kultur und Lebenswelt in griechisch-römischer Zeit: Eine Darstellung nach den demotischen Quellen, by F. Hoffmann. Berlin 2000. [AV]
  
 ### Hohlwein, Papyrologie
- = La Papyrologie Grecque, Bibliographie raisonée, by N. Hohlwein. Louvain 1905. (Musée Belge 6-9 [1902-1906]). 
+ = La Papyrologie Grecque, Bibliographie raisonée, by N. Hohlwein. Louvain 1905. (Musée Belge 6-9 [1902-1906]). [Online: archive.org](https://archive.org/details/lapapyrologiegr00hohlgoog)
  
 ### Montevecchi, Pap.
  = La Papirologia, by O. Montevecchi. 2nd ed. Milan 1988. [VP]
