@@ -3707,7 +3707,7 @@ I.2 Galenus – Isocrates
  * XIII, Greek texts in: "Sklaven-Prosangelie bei der Bibliotheke Enkteseon," ed. C. Wessely. Three texts (pp. 1—3; no. 3 = P.Lond. II 299 = Mitteis Chrest. 204); "Eine Urkunde aus dem 6. Konsulat des Kaisers Licinius," ed. C. Wessely (pp. 6—7, reprinted as SB I 5810); "Das Ghetto von Apollinopolis Magna," ed. C. Wessely, ostraca nos. 1—20 (pp. 8—10; most reprinted in SB I). 1913. &#91;Rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo13unse)
  * XIV, Die ältesten lateinischen und griechischen Papyri Wiens, ed. C. Wessely. Nos. 1 and 2 are Greek, 3—14 Latin. 1914. &#91;Rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo14unse)
  * XV, Griechische und koptische Texte theologischen Inhalts IV, ed. C. Wessely. Nos. 193—259. 1914. &#91;Rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo15unse)
- * XVI, Duodecim prophetarum minorum versionis Achmimicae Codex Rainerianus, ed. C. Wessely. 1915. [Rp. AMH]
+ * XVI, Duodecim prophetarum minorum versionis Achmimicae Codex Rainerianus, ed. C. Wessely. 1915. &#91;Rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo16unse)
  * XVII, Greek texts in: "Un document administratif du nome de Mendès," ed. V. Martin (pp. 9—48); reedition by Martin of P.Lond. II 193 recto (pp. 49—52); Indexes to vols. XIII and XVII. 1917. &#91;Rp. AMH&#93; [Online: archive.org](https://archive.org/details/studienzurpalaeo17wess)
  * XVIII, Griechische und koptische Texte theologischen Inhalts V, ed. C. Wessely. Nos. 260—290. 1917. [Rp. AMH]
  * XIX, Studien zu den koptischen Rechtsurkunden aus Oberägypten, ed. A. Steinwenter. 1920. [Rp. AMH]
