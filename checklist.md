@@ -2727,7 +2727,7 @@ I.2 Galenus – Isocrates
  = Kleine Einführung in die Papyruskunde, by H.-A. Rupprecht. Darmstadt 1994.
  
 ### Schubart, Einf.
- = Einführung in die Papyruskunde, by W. Schubart. Berlin 1918.
+ = Einführung in die Papyruskunde, by W. Schubart. Berlin 1918. [Online: archive.org](https://archive.org/details/einfhrungindie00schuuoft)
  
 ### Turner, GP
  = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP] 
