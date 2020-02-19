@@ -3617,7 +3617,7 @@ I.2 Galenus – Isocrates
 
  * I, Vom göttlichen Fluidum nach ägyptischer Anschauung, by F. Preisigke. 1920. [Online: archive.org](https://archive.org/details/vomgttlichenfl00prei)
  * II, see P.Katoché.
- * III, Das Signalment in den Papyrusurkunden, by J. Hasebroek. 1921.
+ * III, Das Signalement in den Papyrusurkunden, by J. Hasebroek. 1921. [Online: archive.org](https://archive.org/details/wu.89102041209)
  * IV, see O.Berl.
  * V, Das Verhältnis der griechischen und ägyptischen Texte in den zwei-sprachigen Dekreten von Rosette und Kanopus, by W. Spiegelberg. 1922.
  * VI, Die Gotteskraft der frühchristlichen Zeit, by F. Preisigke. 1922.
