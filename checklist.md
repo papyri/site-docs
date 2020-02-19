@@ -2914,7 +2914,7 @@ I.2 Galenus – Isocrates
  * III, Der Sagenkreis des Königs Petubastis nach dem Strassburger demotischen Papyrus sowie den Wiener und Pariser Bruchstücken, ed. W. Spiegelberg. 1910. &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/dersagenkreisdes00spie)
  * IV, Das demotische Totenbuch der Pariser Nationalbibliothek (Papyrus des Pamonthes), ed. F. Lexa. 1910. &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/dasdemotischetot00lexa)
  * V, Demotische Texte auf Krügen, ed. W. Spiegelberg. 1912. &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/njp.32101076408655)
- * VI, Die beiden Totenpapyrus Rhind des Museums zu Edinburg, ed. G. Möller. 1911. [Rp. CG]
+ * VI, Die beiden Totenpapyrus Rhind des Museums zu Edinburg, ed. G. Möller. 1911. &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/njp.32101076408663)
  * VII, see P.Chronik.
  * VIII, see P.Zen.Dem.
  * IX, Le Mythe de l’oeil du soleil, ed. F. de Cenival. 1988. [Gisela Zauzich Verlag]
