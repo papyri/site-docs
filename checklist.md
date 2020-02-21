@@ -1809,7 +1809,7 @@ A number of these texts had been published in translation in PSI IX 1001—1010A
 ### SB
 = _Sammelbuch griechischer Urkunden aus Aegypten_. (A collection of documentary papyri, ostraca, inscriptions, mummy tablets and related texts published in journals or unindexed catalogues. Begun by F. Preisigke in 1915, continued by F. Bilabel, E. Kiessling, and H.-A. Rupprecht). In progress.
 
- * I, Strassburg and Berlin 1913—1915. Nos. 1—6000. &#91;MF 1.33; rp. WdG&#93; [Online: archive.org](https://archive.org/details/sammelbuchgriech02wissuoft)
+ * I, Strassburg and Berlin 1913—1915. Nos. 1—6000. &#91;MF 1.33; rp. WdG&#93; 
  * II, Berlin and Leipzig 1918—1922. Index to I. &#91;MF 1.34; rp. WdG&#93; [Online: archive.org](https://archive.org/details/sammelbuchgriech02wissuoft)
  * III, Berlin and Leipzig 1926—1927. Nos. 6001—7269. [MF 1.35; rp. WdG]
  * IV, Heidelberg 1931. Nos. 7270—7514 with index. &#91;MF 1.36&#93; [Online: archive.org](https://archive.org/details/ldpd_6352579_000)
