@@ -187,7 +187,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### P.Bad.
 = _Veröffentlichungen aus den badischen Papyrus-Sammlungen_. Heidelberg. Series continues with P.Heid. I. {ddb:p.bad}
 
- * I, Demotische Papyri, ed. W. Spiegelberg. 1923. [MF 2.49]
+ * I, Demotische Papyri, ed. W. Spiegelberg. 1923. &#91;MF 2.49&#93; [Online: archive.org](https://archive.org/details/mdp.39015010580788)
  * II, Griechische Papyri, ed. F. Bilabel. 1923. Nos. 1—45. [MF 2.50] {ddb:p.bad;2} [Online: archive.org](https://archive.org/details/inu.30000011417478)
  * III, Ein koptisches Fragment über die Begründer des Manichäismus, ed. F. Bilabel. 1924. No. 46. &#91;MF 2.51&#93; [Online: archive.org](https://archive.org/details/mdp.39015062319333)
  * IV, Griechische Papyri, ed. F. Bilabel. 1924. Nos. 47-111. Nos. 47—59, 70—97 are papyri, 98—110 ostraca, 60—65 and 111 tablets, 66—69 pots. [MF 2.52] {ddb:p.bad;4}
