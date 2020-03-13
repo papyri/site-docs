@@ -3942,7 +3942,7 @@ I.2 Galenus – Isocrates
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV
- * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII
+ * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II
  
 ### Coptic
  * 1876: P.RevilloutCopt.
