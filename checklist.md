@@ -1709,6 +1709,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri der Trierer Papyrussammlung_.
 
  * I, Neue Quellen zum Prozessrecht der Ptolemäerzeit. Gerichtsakten aus der Trierer Papyrussammlung (P.Trier I). Ed. B. Kramer, C. Sánchez-Moreno Ellart. Berlin and Boston 2017. (ArchivBeih. 36). Nos. 1–14.
+ * II, Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit (P.Trier II 15). Ed. C. Werner. Berlin and Boston 2019. (ArchivBeih. 38). No. 15.
  
 ### P.Tsenhor
 = _Les Papyrus démotiques de Tsenhor_, ed. P.W. Pestman. Leuven 1994. (Stud. Demotica IV). Nos. 1—17. [Peeters]
