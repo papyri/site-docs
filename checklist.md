@@ -2839,7 +2839,7 @@ I.2 Galenus – Isocrates
  * 34, see P.Philammon
  * 35, see P.Cair.Mich. II
  * 36, see P.Trier I
- * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, (2016) 
+ * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016. 
  * 38, see P.Trier II
 
 ### BASP Suppl.
