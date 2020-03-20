@@ -1327,6 +1327,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXXI, Nos. 5258-5289, ed. J.H. Brusuelas, C. Meccariello with contributions by 20 others. 2016. (102).
  * LXXXII, Nos. 5290-5343, ed. N. Gonis, F. Maltomini, W.B. Henry and S. Slattery with contributions by 14 others. 2016. (103).
  * LXXXIII, Nos. 5344-5403, ed. P.J. Parsons and N. Gonis with contributions by 11 others. 2018 (104).
+ * LXXXIV, Nos. 5404-5454, ed. A. Benaissa, N. Gonis, W.B. Henry and M. Langellotti with contributions by 14 others. 2019 (105).
 
 ### P.Oxy.Astr.
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
@@ -1390,7 +1391,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, ed. L. Koenen, J. Kaimio, M. Kaimio and R.W. Daniel, with contributions by thirteen others. Amman 2013. (American Center of Oriental Research Publications 7). No. 17. {ddb:p.petra;2}
  * III, ed. A. Arjava, M. Buchholz, and T. Gagos. Amman 2007. (American Center of Oriental Research Publications 5). Nos. 18-36. {ddb:p.petra;3}
  * IV, ed. A. Arjava, M. Buchholz, T. Gagos and M. Kaimio, with contributions by J. Kaimio, C. A. Kuehn and T. Purola. Amman 2011. (American Center of Oriental Research Publications 6). Nos. 37–49. {ddb:p.petra;4}
- * V, ed. A. Arjava, J. Frösén, J. Kaimio, with contributions by M. Buchholz, T. Gagos (†), Ahmad M. Al-Jallad, M. Kaimio, L. Koenen, M. Lehtinen (†), T. Purola & M. Vierros and plates prepared by M. Holappa. Amman 2018. (American Center of Oriental Research Publications 8). Nos. 50–60.
+ * V, ed. A. Arjava, J. Frösén, J. Kaimio, with contributions by M. Buchholz, T. Gagos (†), Ahmad M. Al-Jallad, M. Kaimio, L. Koenen, M. Lehtinen (†), T. Purola & M. Vierros and plates prepared by M. Holappa. Amman 2018. (American Center of Oriental Research Publications 8). Nos. 50–87.
 
 ### P.Petrettini
 = _Papyri Greco-Egizi ed altri greci monumenti dell'I.R. Museo di Corte, ed. G. Petrettini_. Vienna, Stamperia Ant. Strauss. 1826. Publication of the Artemesia Papyrus (UPZ I 1) and the Zois Papyrus (UPZI 114). [Online: archive.org](https://archive.org/details/loc.ark__13960_t8gf21d1v)
