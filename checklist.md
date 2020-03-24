@@ -3,7 +3,18 @@
 
 This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James M.S. Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brussels), Robert Maxwell (BYU), Paul Heilporn (Strasbourg), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published. Links to digitized volumes available online have been made by Ryan Baumann (Duke), with the help of [a list](https://www.college-de-france.fr/media/culture-ecrite-antiquite-papyrologie-byzantine/UPL1136838564638901641_Checklist_avec_url_des_pdf__9XII17_.pdf) made by Loreleï Vanderheyden and Jean-Luc Fournet.
 
-## Papyri
+## Table of Contents
+
+ * [Papyri](#Papyri)
+ * [Ostraca](#Ostraca)
+ * [Tablets](#Tablets)
+ * [Corpora](#Corpora)
+ * [Instrumenta](#Instrumenta)
+ * [Series](#Series)
+ * [Congresses](#Congresses)
+ * [Editions of Greek and Coptic Documentary Papyri by Year of Publication](#Editions)
+
+## <a id="Papyri">Papyri</a>
 ### <a id="Actenstücke">Actenstücke</a>
  = _Actenstücke aus der Königlichen Bank zu Theben in den Museen zu Berlin_, London, Paris, ed. U. Wilcken. Berlin 1887. (AbhBerlin 1886, Anhang, Abh.1; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde I [Leipzig 1970] 39—104). Nos. 1—12. Republished in UPZ II 205—207, 214—215, 217—221, 226—228. &#91;MF 1.10; rp. DZA&#93; [Full bibliographic record](http://papyri.info/biblio/48130) [Online: archive.org](https://archive.org/details/actenstucke)
 
@@ -1858,7 +1869,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * II, Papyri aus Oberägypten. Berlin 1935—1957. Nos. 151—229. [Rp. WdG]
 
 
-## Ostraca
+## <a id="Ostraca">Ostraca</a>
 
 ### <a id="O.AbuMina">O.AbuMina</a>
 = _Greek Ostraka from Abu Mina_, ed. N. Litinas. Berlin and New York 2008. (Archiv Beih. 25). Nos. 1—1088; nos. 1089—1446 are decripta. [KGS]
@@ -2176,7 +2187,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Zürich">O.Zürich</a>
 = _Die demotischen Ostraka der Universtät zu Zürich_, ed. S. WÅngstedt. Uppsala 1965. (Bibliotheca Ekmania 62). Nos. 1—53.
 
-## Tablets
+## <a id="Tablets">Tablets</a>
 
 ### <a id="T.Alb.">T.Alb.</a>
 = _Tablettes Albertini, Actes privés de l’époque Vandale_, ed. C. Courtois, L. Leschi, C. Perrat and C. Saumagne. Paris 1952. Texts I—XXXIV; separate portfolio of plates.
@@ -2219,7 +2230,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="T.Vindon.">T.Vindon.</a>
 = _Die römischen Schreibtafeln von Vindonissa_, ed. M.A. Speidel. 1996. (Veröffentlichungen der Gesellschaft Pro Vindonissa 12). Nos. 1—65, descripta nos. 66—90.
 
-## Corpora
+## <a id="Corpora">Corpora</a>
 
 ### <a id="Chrest.Mitt._(or_M.Chr.)">Chrest.Mitt. (or M.Chr.)</a>
 = L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, II Bd. Juristischer Teil, II Hälfte Chrestomathie. Leipzig-Berlin 1912. Nos. 1—500. &#91;MF 2.122—123 (with Grundzüge); rp. GO, all 4 vols.&#93;
@@ -2425,7 +2436,7 @@ I.2 Galenus – Isocrates
  * I, Opladen 1990. Nos. 1-51. [FS]
  * II, Opladen 1992. Nos. 52-100. [FS]
 
-## Instrumenta
+## <a id="Instrumenta">Instrumenta</a>
 
 ### <a id="Bibl.Pap.">Bibl.Pap.</a>
  = Bibliographie Papyrologique: Fichier électronique 1932—2010, under the direction of A. Martin with the assistance of R.S. Bagnall, A. Buchet, A. Deknudt, A. Delattre, P. Heilporn and H. Melaerts. Available on CD-ROM "Subsidia Papyrologica 4.0." Brussels 2010. [AERE]
@@ -2736,7 +2747,7 @@ I.2 Galenus – Isocrates
  = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP] 
  * Papyrological resources on the World Wide Web not listed here can be found through the Web site of the American Society of Papyrologists, <www.papyrology.org>
 
-## Series
+## <a id="Series">Series</a>
 
 ### <a id="Aegypt.Trev.">Aegypt.Trev.</a>
  = _Aegyptiaca Treverensia. Trierer Studien zum griechisch-römischen Ägypten_. Mainz 1981—. [PvZ]
@@ -3756,7 +3767,7 @@ I.2 Galenus – Isocrates
  * 6, see _O.Cret.Chers._
  * 7, Juristische Begriffe im ersten Korintherbrief des Paulus, by A. Papathomas. 2009.
 
-## Congresses
+## <a id="Congresses">Congresses</a>
 
 ### <a id="PapCongr.">PapCongr.</a>
 = Congresses sponsored by the Association Internationale de Papyrologues
@@ -3813,7 +3824,7 @@ I.2 Galenus – Isocrates
  * IX, Actes du IXe congrès international des études démotiques, Paris, 31 août—3 septembre 2005, ed. G. Widmer and D. Devauchelle. (IFAO, Bibliothèque d'études 147). Cairo 2009.
  * XIII, New Approaches in Demotic Studies : Acts of the 13th International Conference of Demotic Studies [Leipzig, September 4-8, 2017], ed. F. Naether. Berlin 2019.
 
-## Editions of Greek and Coptic Documentary Papyri by Year of Publication
+## <a id="Editions">Editions of Greek and Coptic Documentary Papyri by Year of Publication</a>
 
 ### <a id="Greek">Greek</a>
  * 1891: P.Petr. I
