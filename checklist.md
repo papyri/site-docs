@@ -157,7 +157,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Du Village à l'Empire. Autour du registre fiscal d'Aphroditô_, ed. C. Zuckerman. Paris 2004. (Monographies, Centre de Recherche d'Histoire et Civilisation de Byzance 16)
 
 ### P.Apoll.
-= _Papyrus grecs d'Apollônos Anô_, ed. R. Rémondon. Cairo 1953. (Documents de fouilles de l'Institut Français d'Archéologie Orientale du Caire 19). Nos. 1—105; no. 91 reprinted as SB Kopt. I 7. [MF 1.41] Nos. 106 and 107 = SB XIV 11917—11918; nos. 108—110 = SB XVI 12428—12431. {ddb:p.apoll}
+= _Papyrus grecs d'Apollônos Anô_, ed. R. Rémondon. Cairo 1953. (Documents de fouilles de l'Institut Français d'Archéologie Orientale du Caire 19). Nos. 1—105; no. 91 reprinted as SB Kopt. I 7. [MF 1.41] Nos. 106 and 107 = SB XIV 11917—11918; nos. 108—110 = SB XVI 12428—12431. {ddb:p.apoll} [Online: University of Basel](https://d-scribes.philhist.unibas.ch/en/case-studies/papas/)
 
 ### P.Ashm.
 = _Catalogue of the Demotic Papyri in the Ashmolean Museum._ {ddb:p.ashm}
