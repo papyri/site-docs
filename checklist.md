@@ -3769,7 +3769,7 @@ I.2 Galenus – Isocrates
 
 ## <a id="Congresses">Congresses</a>
 
-### <a id="Pap.Congr.">PapCongr.</a>
+### <a id="Pap.Congr.">PapCongr.</a><a id="PapCongr." />
 = Congresses sponsored by the Association Internationale de Papyrologues
 
  * I, "Semaine Égyptologique et Papyrologique du 14 au 20 septembre 1930." Brussels. Published in CdÉ 6 (1931) 189—470. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1931/6/12)
