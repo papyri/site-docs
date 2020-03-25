@@ -881,7 +881,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * Pt. II, Stockholm 1982. Nos. 29—59. {ddb:p.ital;2}
  * Pt. III, Lund 1954. Plates.
 
-### <a id="P.Jena_{ddb:p.jena}">P.Jena {ddb:p.jena}</a>
+### <a id="P.Jena_{ddb:p.jena}">P.Jena</a>
 
  * I, Jenäer Papyrus-Urkunden, ed. F. Zucker and F. Schneider. Jena 1926. Nos. 1—4. Texts reprinted as SB III 7165—7168. [MF 2.101] {ddb:p.jena;1}
  * II, Late Antique Greek Papyri in the Collection of the Friedrich-Schiller-Universität Jena, ed. R. Ast (Pap.Texte Abh. XLV). Bonn 2010. Nos. 1—39.  {ddb:p.jena;2}
