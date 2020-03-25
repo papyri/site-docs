@@ -810,7 +810,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### <a id="P.Herakl.Bank">P.Herakl.Bank</a>
 = _Ptolemäische Bankpapyri aus dem Herakleopolites (P.Herakl.Bank). Papyri der Sammlungen in Heidelberg, Köln und Wien_, ed. K. Maresch. Paderborn et al. 2012. (Pap.Colon. 35). Nos. 1–6.
 
-### <a id="P.Hercul.">P.Hercul.</a>
+### <a id="P.Hercul.">P.Herc.</a>
 See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante at Centro Internazionale per lo Studio dei Papiri Ercolanesi (Naples 1979) and Manuale di papirologia ercolanese, by M. Capasso (Lecce 1991 = Università degli Studi di Lecce, Dipartmento di Filologia Classica e Medioevale, Testi e Studi 3).
 
 ### <a id="P.Herm.">P.Herm.</a>
