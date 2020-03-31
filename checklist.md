@@ -2331,8 +2331,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="C.Pap.Hengstl">C.Pap.Hengstl</a>
 = _Griechische Papyri aus Ägypten als Zeugnisse des öffentlichen und privaten Lebens_, ed. J. Hengstl with G. Häge and H. Kühnert. Munich 1978. 161 documents with translation and commentary. [Heimeran]
 
-### <a id="C.Pap.Jud._=__Corpus_Papyrorum_Judaicarum_._Cambridge,_Mass.">C.Pap.Jud. = _Corpus Papyrorum Judaicarum_. Cambridge, Mass.</a>
-
+### <a id="C.Pap.Jud.">C.Pap.Jud.</a>
+= _Corpus_Papyrorum_Judaicarum_. Cambridge, Mass.
  * I, ed. V.A. Tcherikover. 1957. Nos. 1—141.
  * II, ed. V.A. Tcherikover and A. Fuks. 1960. Nos. 142—450.
  * III, ed. V.A. Tcherikover, A. Fuks and M. Stern. 1964. Nos. 451—520.
