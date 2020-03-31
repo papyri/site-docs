@@ -2340,7 +2340,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="C.Pap.Lat.">C.Pap.Lat.</a>
 = _Corpus Papyrorum Latinarum_, ed. R. Cavenaile. Wiesbaden 1958. Nos. 1—345 plus Annexe nos. 1—28. &#91;OH&#93; [Online: CeDoPaL](http://web.philo.ulg.ac.be/cedopal/wp-content/uploads/sites/29/pdf/cavenaile.pdf)
 
-### <a id="C.Palmomanticum_[Online:_CeDoPaL](http://web.philo.ulg.ac.be/cedopal/wp-content/uploads/sites/29/pdf/cavenaile.pdf)">C.Palmomanticum [Online: CeDoPaL](http://web.philo.ulg.ac.be/cedopal/wp-content/uploads/sites/29/pdf/cavenaile.pdf)</a>
+### <a id="C.Palmomanticum">C.Palmomanticum</a>
 = _Corpus Palmomanticum Graecum_, ed. S. Costanza. Florence 2009. (Pap.Flor. XXXIX)
 
 ### <a id="CPF">CPF</a>
