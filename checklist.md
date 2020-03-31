@@ -2402,7 +2402,7 @@ I.2 Galenus – Isocrates
 = "Die koptischen Arbeitsverträge," by W.C. Till. Eos, 48.1 (1956) 272—329 (Symbolae Raphaeli Taubenschlag dedicatae). Translations and commentary of 60 labor contracts and related texts. (Nos. 7 = [CPR IV 156](http://papyri.info/ddbdp/cpr;4;156); 9 = [CPR IV 157](http://papyri.info/ddbdp/cpr;4;157); 20 = [CPR IV 162](http://papyri.info/hgv/82291); and 25 = [CPR IV 163](http://papyri.info/hgv/82292)).
 
 ### <a id="Pap.Bürgsch.Copt.">Pap.Bürgsch.Copt.</a>
-= "Die koptischen Bürgschaftsurkunden," by W.C. Till. Bull.Soc.Arch.Copt. 14 (1958) 165—226. Translations of 90 guarantees and sureties (nos. 3 and 58 = CPR IV 102 and 84 resp.).
+= "Die koptischen Bürgschaftsurkunden," by W.C. Till. Bull.Soc.Arch.Copt. 14 (1958) 165—226. Translations of 90 guarantees and sureties (nos. 3 = [CPR IV 102](http://papyri.info/ddbdp/cpr;4;102) and 58 = [CPR IV 84](http://papyri.info/ddbdp/cpr;4;84)).
 
 ### <a id="Pap.Choix">Pap.Choix</a>
 = _Choix de papyrus grecs: Essai de traitement automatique_, ed. J. Bingen, A. Tomsin, A. Bodson, J. Denooz, J.D. Dupont and E. Evrard. Liège 1968. 28 miscellaneous texts revised and republished.
