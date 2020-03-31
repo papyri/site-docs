@@ -2213,6 +2213,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="T.Pizarras">T.Pizarras</a>
 = _Las Pizarras Visigoda: edición crítica y estudio_, ed. I. Velázquez Soriano. Murcia 1989. (Antigüedad y cristianismo 6). Nos. 1-104.
 
+### <a id="T.Pizarras.2">T.Pizarras.2</a>
+= _Las pizarras visigodas (Entre el latín y su disgregación. La lengua hablada en Hispania, siglos vi-viii)_, 2nd edition, ed. I. Velázquez Soriano. Madrid and Burgos 2004. Nos. 1-163.
+
 ### <a id="T.Sulpicii">T.Sulpicii</a>
 = _Tabulae Pompeianae Sulpiciorum: edizione critica dell'archivio puteolano dei Sulpicii_, ed. G. Camodeca. 2 vols. Rome 1999. (Vetera 12) Nos.1—126. [Quasar]
 
