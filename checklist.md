@@ -2739,7 +2739,7 @@ I.2 Galenus – Isocrates
 ### <a id="Peremans,_Vergote,_Handboek">Peremans, Vergote, Handboek</a>
  = Papyrologisch Handboek, by W. Peremans and J. Vergote. Leuven 1942.
  
-### <a id="Pestman,_Prim.2">Pestman, Prim.2</a>
+### <a id="Pestman,_Prim.2">Pestman, Prim.²</a>
  = The New Papyrological Primer, 2nd ed., by P.W. Pestman. Leiden 1994. [EJB]
  
 ### <a id="Preisendanz,_Papyrusfunde">Preisendanz, Papyrusfunde</a>
