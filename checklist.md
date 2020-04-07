@@ -1392,7 +1392,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, ed. J.P. Mahaffy. 1893. (Memoirs IX), and plates. Nos. 1—50. [MF 1.30; rp. CG] {ddb:p.petr;2} [Online: archive.org](https://archive.org/details/coo.31924032402228)
  * III, ed. J.P. Mahaffy and J.G. Smyly. 1905. (Memoirs XI), and plates. Nos. 1—146. There are notices of Demotic material at no. 59(c) on p. 175; at no. 69(b) on p. 195 and at no. 110 on p. 275. [MF 1.31] {ddb:p.petr;3} [Online: archive.org](https://archive.org/details/coo.31924032402236)
 
-### <a id="P.Petr.2_I">P.Petr.2 I</a>
+### <a id="P.Petr.2_I">P.Petr.² I</a>
 = _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31. {ddb:p.petr.2}
 
 ### <a id="P.Petr.Kleon">P.Petr.Kleon</a>
