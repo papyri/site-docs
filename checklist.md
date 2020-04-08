@@ -214,8 +214,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### <a id="P.Bas.">P.Bas.</a>
 = _Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel: Pt. I, Urkunden in griechischer Sprache_, ed. E. Rabel. Nos. 1—26. Pt. II, Ein koptischer Vertrag, ed. W. Spiegelberg. Berlin 1917. (AbhGöttingen N.F. 16.3). [MF 1.86] See also [SB](#SB) XVIII 13752. {ddb:p.bas} [Online: archive.org](http://archive.org/details/papyrusurkundend00univ)
 
-### <a id="P.Bas.2">P.Bas.2</a>
-= _Papyri of the University Library of Basel_, ed. S.R. Huebner, W.G. Claytor, I. Marthot-Santaniello and M. Müller. Berlin/Boston 2020. Nos. 1-27 are re-editions of all texts previously edited in P.Bas. The remaining numbers are completely new texts.
+### <a id="P.Bas.2">P.Bas.²</a>
+= _Papyri of the University Library of Basel_, ed. S.R. Huebner, W.G. Claytor, I. Marthot-Santaniello and M. Müller. Berlin/Boston 2020. Nos. 1-70. All texts previously edited as P.Bas. 1-27 as well as P.Bas.Copt. 1 have been re-edited, but have received different numbering. The remainder are completely new texts.
 
 ### <a id="P.Batav.">P.Batav.</a>
 = _Textes grecs, démotiques et bilingues_, ed. E. Boswinkel and P.W. Pestman. Leiden 1978. (Pap.Lugd.Bat. XIX). Nos. 1—2, 26—28, 42—48 Demotic; 3, 5, 25, 29—32, 40—41 bilingual (Greek and Demotic); 4, 6—24, 33—39 Greek. Nos. 1—24 are papyri, 25—28 ostraca, 29—39 linen, 40—48 mummy labels. [EJB] {ddb:p.batav}
