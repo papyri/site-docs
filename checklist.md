@@ -2360,6 +2360,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
    * 2\. Culture and philosophy (Acusilaus - Xenophon)
      * CPF I.2 [1]: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2[.1], Cultura e filosofia, Firenze, L. S. Olschki, 2008. Galenus – Isocratis Ad Nicoclem
  * II: Unattributed fragments; Gnomologia and Sayings
+   * CPF II.1\*: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 1, Frammenti adespoti. 1\*, Firenze, L. S. Olschki, 2019, con XXIV tavole fuori testo.
    * CPF II.2: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2, Frammenti adespoti; Gnomologi e sentenze. 2, Sentenze di autori noti e «chreiai», Firenze, L. S. Olschki, 2015.
    * CPF II.3: Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. 2, Frammenti adespoti; Gnomologi e sentenze. 3, Gnomica, Firenze, L. S. Olschki, 2017.
  * III: Commentaries
