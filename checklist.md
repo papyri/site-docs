@@ -1036,7 +1036,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 = _A Sixth-century Tax Register from the Hermopolite Nome_, ed. R. S. Bagnall, J. G. Keenan and L. S. B. MacCoull. Durham, NC 2011. ([Am.Stud.Pap.](#Am.Stud.Pap.) 51).  {ddb:p.lond.herm}
 
 ### <a id="P.Lond.Lit.">P.Lond.Lit.</a>
-= _Catalogue of the Literary Papyri in the British Museum_, ed. H.J.M. Milne. London 1927. Contains texts of many inedita, together with descriptions of texts published previously, especially those in Classical Texts from Papyri in the British Museum, ed. F.G. Kenyon, London 1891. [Online: archive.org](https://archive.org/details/classicaltextsf00kenygoog). [MF 1.58; rp. CG]
+= _Catalogue of the Literary Papyri in the British Museum_, ed. H.J.M. Milne. London 1927. Contains texts of many inedita, together with descriptions of texts published previously (especially those in Classical Texts from Papyri in the British Museum, ed. F.G. Kenyon, London 1891. [Online: archive.org](https://archive.org/details/classicaltextsf01kenygoog/)). [MF 1.58; rp. CG]
 
 ### <a id="P.Lond.Wasser.">P.Lond.Wasser.</a>
 = _Zur Wasserversorgung einer Metropole im kaiserzeitlichen Ägypten_, by W. Habermann. A new edition of P.Lond. III 1177. Munich 2000. (Vestigia 53) [Beck]
