@@ -355,7 +355,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum_, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3). [Online: archive.org](https://archive.org/details/papyrijuristisch00reic)
 
 ### <a id="P.Brookl.">P.Brookl.</a>
-= _Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum_, ed. J.C. Shelton. Florence 1992. (Pap.Flor. XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF] {ddb:p.brook}
+= _Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum_, ed. J.C. Shelton. Florence 1992. ([Pap.Flor.](#Pap.Flor.) XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF] {ddb:p.brook}
 
 ### <a id="P.Brookl.Dem.">P.Brookl.Dem.</a>
 = _Catalog of Demotic Texts in the Brooklyn Museum_, ed. G. R. Hughes, with contributions by B. P. Muhs and S. Vinson. Chicago 2005. (OIC 29). [OIP]
@@ -704,9 +704,9 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Papiri dell'Università di Genova_. {ddb:p.genova}
 
  * I, ed. M. Amelotti and L. Zingale Migliardi. Milan 1974. (Univ. di Genova, Fondazione Nobile Agostino Poggi 10). Nos. 1—50. [AG] {ddb:p.genova;1}
- * II, ed. L. Migliardi Zingale. Florence 1980. (Pap.Flor. VI). Nos. 51—85 papyri; nos. 86—90 ostraca. [LGF] {ddb:p.genova;2}
- * III, ed. L. Migliardi Zingale. Florence 1991. (Pap.Flor. XX). Nos. 91—130. [LGF] {ddb:p.genova;3}
- * IV, ed. L. Migliardi Zingale, G. Casanova. Florence 2016. (Pap.Flor. XLVI) Nos. 131-185.
+ * II, ed. L. Migliardi Zingale. Florence 1980. ([Pap.Flor.](#Pap.Flor.) VI). Nos. 51—85 papyri; nos. 86—90 ostraca. [LGF] {ddb:p.genova;2}
+ * III, ed. L. Migliardi Zingale. Florence 1991. ([Pap.Flor.](#Pap.Flor.) XX). Nos. 91—130. [LGF] {ddb:p.genova;3}
+ * IV, ed. L. Migliardi Zingale, G. Casanova. Florence 2016. ([Pap.Flor.](#Pap.Flor.) XLVI) Nos. 131-185.
  * V, ed. S. Perrone. Rome 2015. Nos. 186-225.
  
 ### <a id="P.Giss.">P.Giss.</a>
@@ -847,7 +847,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, 2003. (Pap.Brux. XXXII). Nos. 39—45. Nos. 39—42 and 45 are ostraca; no. 43 is a inscribed figurine and no. 44 is an inscription. [FERE] {ddb:p.hombert;2}
 
 ### <a id="P.Horak">P.Horak</a>
-= _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. (Pap.Flor. XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF] {ddb:p.horak}
+= _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. ([Pap.Flor.](#Pap.Flor.) XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF] {ddb:p.horak}
 
 ### <a id="P.Hou">P.Hou</a>
 = _The Gooseherds of Hou_, ed. S. Vleeming. Leuven 1991. (Stud. Demotica 3). Nos. 1—13. [Peeters]
@@ -956,11 +956,11 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 ### <a id="P.Laur.">P.Laur.</a>
 = _Dai Papiri della Biblioteca Medicea Laurenziana_. Florence. {ddb:p.laur}
 
- * I, ed. R. Pintaudi. 1976. (Pap.Flor. I). Nos. 1—20. [LGF] {ddb:p.laur;1}
- * II, ed. R. Pintaudi. 1977. (Pap.Flor. II). Nos. 21—50. [LGF] {ddb:p.laur;2}
- * III, ed. R. Pintaudi. 1979. (Pap.Flor. V). Nos. 51—125; no. 125 is Coptic. [LGF] {ddb:p.laur;3}
- * IV, ed. R. Pintaudi. 1983. (Pap.Flor. XII). Nos. 126—192. [LGF] {ddb:p.laur;4}
- * V, Papiri Laurenziani Copti, ed. G.M. Browne. 1984. (Pap.Flor. XIII). Nos. 193—205. [LGF]
+ * I, ed. R. Pintaudi. 1976. ([Pap.Flor.](#Pap.Flor.) I). Nos. 1—20. [LGF] {ddb:p.laur;1}
+ * II, ed. R. Pintaudi. 1977. ([Pap.Flor.](#Pap.Flor.) II). Nos. 21—50. [LGF] {ddb:p.laur;2}
+ * III, ed. R. Pintaudi. 1979. ([Pap.Flor.](#Pap.Flor.) V). Nos. 51—125; no. 125 is Coptic. [LGF] {ddb:p.laur;3}
+ * IV, ed. R. Pintaudi. 1983. ([Pap.Flor.](#Pap.Flor.) XII). Nos. 126—192. [LGF] {ddb:p.laur;4}
+ * V, Papiri Laurenziani Copti, ed. G.M. Browne. 1984. ([Pap.Flor.](#Pap.Flor.) XIII). Nos. 193—205. [LGF]
 
 ### <a id="P.LeedsMus.">P.LeedsMus.</a>
 = _A Selective Publication and Description of the Greek Papyri in the Leeds City Museum_, ed. S. Strassi. Leeds 1983. (Proceedings of the Leeds Philosophical and Literary Society, Literary and Historical Section, XIX.4). Nos. 1—30, descripta nos. 31—136. Nos. 1—4 are literary; nos. 5—30 and no. 53 (descripta) are republished in SB XVI 12958—12978. Nos. 10 and 20 are republished outside of this series of numbers as SB XVI 13082 and 12862 respectively. {ddb:p.leeds.mus}
@@ -1440,9 +1440,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Prag.">P.Prag.</a>
 = _Papyri Graecae Wessely Pragenses_, ed. R. Pintaudi, R. Dostálová and L. Vidman. Firenze. [LGF]. See also [P.Prag.Varcl.](#P.Prag.Varcl.)
 
- * I, 1988. (Pap.Flor. XVI). Nos. 1—117. {ddb:p.prag;1}
- * II, 1995. (Pap.Flor. XXVI). Nos. 118—205. {ddb:p.prag;2}
- * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. (Pap.Flor. 41). Nos. 206–249. {ddb:p.prag;3}
+ * I, 1988. ([Pap.Flor.](#Pap.Flor.) XVI). Nos. 1—117. {ddb:p.prag;1}
+ * II, 1995. ([Pap.Flor.](#Pap.Flor.) XXVI). Nos. 118—205. {ddb:p.prag;2}
+ * III, ed. R. Pintaudi and D. Rathbone, with contributions by nine others. Firenze 2011. ([Pap.Flor.](#Pap.Flor.) 41). Nos. 206–249. {ddb:p.prag;3}
 
 ### <a id="P.Prag.Satzung.">P.Prag.Satzung.</a>
 = _Die Satzungen einer ägyptischen Kultgenossenschaft aus der Ptolemäerzeit nach einem demotischen Papyrus in Prag_, ed. W. Erichsen. Copenhagen 1959. (Det Kongelige Danske Videnskabernes Selskab. Historisk-filosofiske Skrifter 4.1).
@@ -1554,7 +1554,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyri Graecae Schøyen_
 
  * I, ed. R. Pintaudi. Florence 2005. Nos. 1—25; 1—25 literary; 14—15 and 17—20 parchment, 11 wood tablet, 24 bronze tablet, 25 bronze tablet from Asia Minor [LGF]
- * II, ed. D. Minutoli and R. Pintaudi. Florence 2010. (Pap.Flor. 40). Nos. 26–34.
+ * II, ed. D. Minutoli and R. Pintaudi. Florence 2010. ([Pap.Flor.](#Pap.Flor.) 40). Nos. 26–34.
 
 ### <a id="P.Schreibertrad.">P.Schreibertrad.</a>
 = _Die Ägyptische Schreibertradition in Aufbau, Sprache und Schrift der demotischen Kaufverträge aus ptolemäischer Zeit_, ed. K.-Th. Zauzich. I, Text; II, Anmerkungen, Indices, Tabellen der Anlage. Wiesbaden 1968. (Äg.Abh. 19). A catalogue of sales (nos. 1—95) and associated cession documents (nos. 96—159), not an edition of texts. In some cases, however, a transcript and translation of a text are given. These are as follows: 1, 4, 5, 11, 14, 15, 20, 26, 30 (unpublished), 42, 47, 56, 94, 97, 100, 108, 109, 115 (unpublished), 118, 127, 132 and 157. No. 118 has been republished by G. Vittman in Enchoria 15 (1987) 99—112. [OH]
@@ -1887,7 +1887,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Koptische Ostraka II: Ostraka aus dem Ashmolean Museum in Oxford_, ed. A. Biedenkopf-Ziehner. Wiesbaden 2000. Nos. 1-22. [OH]
 
 ### <a id="O.Ashm.Shelt.">O.Ashm.Shelt.</a>
-= _Greek Ostraca in the Ashmolean Museum from Oxyrhynchus and other sites_, ed. J.C. Shelton. Firenze 1988. (Pap.Flor. XVII). Nos. 1—229. No. 1 contains a Demotic subscription. [LGF]
+= _Greek Ostraca in the Ashmolean Museum from Oxyrhynchus and other sites_, ed. J.C. Shelton. Firenze 1988. ([Pap.Flor.](#Pap.Flor.) XVII). Nos. 1—229. No. 1 contains a Demotic subscription. [LGF]
 
 ### <a id="O.Bankes">O.Bankes</a>
 = _The Bankes Ostraka from a box at Kingston Lacy: the Greek Texts_, ed. K.A. Worp. Messina 2016. Nos. 1—70. Includes CD-ROM with images of the ostraka.
@@ -1930,7 +1930,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Les Ostraca de Bu Njem_, ed. R. Marichal. Tripoli 1992. (Libya Antiqua, Suppl. VII). Nos. 1—151, Latin ostraca.
 
 ### <a id="O.Cair.">O.Cair.</a>
-= _Ostraka greci del Museo Egizio del Cairo_, ed. C. Gallazzi, R. Pintaudi and K.A. Worp. Florence 1986. (Pap.Flor. XIV). Nos. 1—140. &#91;LGF&#93; [Online: Leiden](http://hdl.handle.net/1887/9262)
+= _Ostraka greci del Museo Egizio del Cairo_, ed. C. Gallazzi, R. Pintaudi and K.A. Worp. Florence 1986. ([Pap.Flor.](#Pap.Flor.) XIV). Nos. 1—140. &#91;LGF&#93; [Online: Leiden](http://hdl.handle.net/1887/9262)
 
 ### <a id="O.Cair.Cat.">O.Cair.Cat.</a>
 = _Catalogue général des antiquités égyptiennes du Musée du Caire_, nos. 9501—9711: Griechische Ostraka, by U. Wilcken, ed. C. Gallazzi. Cairo 1983. Not mainly a publication of ostraca but a list and short description of ostraca in the Cairo Museum. For the texts, see [O.Cair.](#O.Cair.) (concordance, p. xiv). Transcriptions are given in notes for 5 ostraca; texts reprinted in SB XX 14594-14598.
@@ -2127,7 +2127,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = "Ostraca in Prof. W.M. Flinders Petrie’s Collection at University College, London," in [O.Bodl.](#O.Bodl.) I, pp. 82—152, nos. 1—476. Nos. 36 and 144 contain Demotic. No. 467 = SB Kopt. I 241.
 
 ### <a id="O.Petr.Mus.">O.Petr.Mus.</a>
-= _Ostraca greci e bilingui del Petrie Museum of Egyptian Archaeology_, ed. M. S. Funghi,  G. Messeri and C. E. Römer. Firenze 2012. (Pap.Flor. 42). Nos. 1–796.
+= _Ostraca greci e bilingui del Petrie Museum of Egyptian Archaeology_, ed. M. S. Funghi,  G. Messeri and C. E. Römer. Firenze 2012. ([Pap.Flor.](#Pap.Flor.) 42). Nos. 1–796.
 
 ### <a id="O.Quseir">O.Quseir</a> (see [P.Quseir](#P.Quseir))
 
@@ -2223,7 +2223,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Tabulae Pompeianae Sulpiciorum: edizione critica dell'archivio puteolano dei Sulpicii_, ed. G. Camodeca. 2 vols. Rome 1999. (Vetera 12) Nos.1—126. [Quasar]
 
 ### <a id="T.Varie">T.Varie</a>
-= _Tavolette lignee e cerate da varie collezioni_, ed. R. Pintaudi, P.J. Sijpesteijn et al. Florence 1989. (Pap.Flor. XVIII). Nos. 1—81 from six collections. [LGF]
+= _Tavolette lignee e cerate da varie collezioni_, ed. R. Pintaudi, P.J. Sijpesteijn et al. Florence 1989. ([Pap.Flor.](#Pap.Flor.) XVIII). Nos. 1—81 from six collections. [LGF]
 
 ### <a id="T.Vindol.">T.Vindol.</a>
 = _Vindolanda: the Latin Writing Tablets_
@@ -2305,7 +2305,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * L, begins a new series devoted to Latin Charters of the 9th century. See the Introduction by editors, G. Cavallo and G. Nicolaj. These volumes are not papyrological in nature and are not listed here.
 
 ### <a id="C.Epist.Lat.">C.Epist.Lat.</a>
-= _Corpus Epistularum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. (Pap.Flor. XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
+= _Corpus Epistularum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. ([Pap.Flor.](#Pap.Flor.) XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
 
 ### <a id="C.Étiq.Mom.">C.Étiq.Mom.</a>
 = _Corpus des étiquettes de momies grecques_, ed. B. Boyaval. Lille 1976. (Publications de l'Université de Lille III). Nos. 1657 and 2077 were previously unedited.
@@ -2346,7 +2346,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Corpus Papyrorum Latinarum_, ed. R. Cavenaile. Wiesbaden 1958. Nos. 1—345 plus Annexe nos. 1—28. &#91;OH&#93; [Online: CeDoPaL](http://web.philo.ulg.ac.be/cedopal/wp-content/uploads/sites/29/pdf/cavenaile.pdf)
 
 ### <a id="C.Palmomanticum">C.Palmomanticum</a>
-= _Corpus Palmomanticum Graecum_, ed. S. Costanza. Florence 2009. (Pap.Flor. XXXIX)
+= _Corpus Palmomanticum Graecum_, ed. S. Costanza. Florence 2009. ([Pap.Flor.](#Pap.Flor.) XXXIX)
 
 ### <a id="CPF">CPF</a>
 = _Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina_. Firenze.
@@ -2776,7 +2776,7 @@ I.2 Galenus – Isocrates
 
  * I, Essays in Honor of C. Bradford Welles, ed. A.E. Samuel. 1966. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/51c5b4dh)
  * II, see [P.Yale](#P.Yale) I.
- * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. (Pap.Flor. XXVIII). [Online: AWDL](http://hdl.handle.net/2333.1/547d809c)
+ * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. ([Pap.Flor.](#Pap.Flor.) XXVIII). [Online: AWDL](http://hdl.handle.net/2333.1/547d809c)
  * IV, The Taxes in Grain in Ptolemaic Egypt: Granary Receipts from Diospolis Magna, 164—88 B.C., by Z.M. Packman. 1968. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/189323w5)
  * V, Euripides Papyri I, Texts from Oxyrhynchus, by B.E. Donovan. 1969. [Oxbow]
  * VI, see [P.Mich.](#P.Mich.) X.
