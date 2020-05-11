@@ -1086,7 +1086,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Matr.">P.Matr.</a>
 = _Dieci Papyri Matritenses_, ed. S. Daris. Madrid 1990. (Cuadernos de la Fundacion Pastor de Estudios Clasicos 36). Nos. 1—10. {ddb:p.matr}
 
-### <a id="P.Med.">P.Med.</a> (see [P.Mil](#P.Mil)).
+### <a id="P.Med.">P.Med.</a> (see [P.Mil.](#P.Mil.)).
 
 ### <a id="P.Medin.Madi">P.Medin.Madi</a> (see [O.Medin.Madi](#O.Medin.Madi)).
 
