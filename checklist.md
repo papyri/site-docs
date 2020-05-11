@@ -1741,6 +1741,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Turner">P.Turner</a>
 = _Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday_, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
 
+### <a id="PUG">PUG</a> (see [P.Genova](#P.Genova)).
+
 ### <a id="P.Ups.8">P.Ups.8</a>
 = _Der Fluch des Christen Sabinus, Papyrus Upsaliensis 8_, ed. G. Björk. Uppsala 1938. (Arbeten utgivna med understöd av Vilhelm Ekmans Universitetsfond 47). [UUB]
 
