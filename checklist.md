@@ -4041,5 +4041,5 @@ I.2 Galenus – Isocrates
  * 2013: P.Macq.; O.Lips.Copt.
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
- * 2018: CPR XXXIV
+ * 2018: CPR XXXIV; P.Heid.Kopt.
 
