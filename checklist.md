@@ -3658,6 +3658,11 @@ I.2 Galenus – Isocrates
 
 ### SPP (see [Stud.Pal.](#Stud.Pal.))
 
+### <a id="STHP">STHP</a>
+ = _Studien und Texte aus der Heidelberger Papyrussammlung_. Heidelberg 2018—
+
+ * I, see [P.Heid.Kopt.](#P.Heid.Kopt.)
+
 ### <a id="Stud.Amst.">Stud.Amst.</a>
  = _Studia Amstelodamensia ad epigraphicam, ius antiquum et papyrologicam pertinentia_. Amsterdam 1972—1976, 1989— , Zutphen 1976—86.
 
