@@ -2401,6 +2401,12 @@ I.2 Galenus – Isocrates
 ### <a id="Horoscopes">Horoscopes</a>
 = _Greek Horoscopes_, by O. Neugebauer and H.B. Van Hoesen. Philadelphia 1957. (Memoirs of the American Philosophical Society 48).
 
+### <a id="Gr.Med.Pap.">Gr.Med.Pap.</a>
+= _Greek Medical Papyri_, ed. I. Andorlini. Istituto papirologico G. Vitelli. Firenze.
+
+ * I, ed. I. Andorlini. 2001. Nos. 1—15.
+ * II, ed. I. Andorlini. 2009. Nos. 1—15.
+
 ### <a id="Jur.Pap.">Jur.Pap.</a>
 = _Juristische Papyri_, ed. P.M. Meyer. Berlin 1920. Nos. 1—93. &#91;MF 2.45; rp. ARES&#93; [Online: archive.org](http://archive.org/details/juristischepapry00meyeuoft)
 
