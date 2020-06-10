@@ -4087,11 +4087,11 @@ I.2 Galenus – Isocrates
  * <a id="O.Cair.">O.Cair.</a> (see [O.Cair.Cat.](#O.Cair.Cat.))
  * <a id="O.Cair.GPW">O.Cair.GPW</a> (see [O.Cair.](#O.Cair.))
  * <a id="O.LeidenInsinger">O.LeidenInsinger</a> (see [O.Leid.](#O.Leid.))
- * <a id="OMH">OMH</a> (see [O.Medin.Habu.](#O.Medin.Habu.))
+ * <a id="OMH">OMH</a> (see [O.Medin.HabuCopt.](#O.Medin.HabuCopt.))
  * <a id="O.Rom.">O.Rom.</a> (see [O.Ont.Mus.](#O.Ont.Mus.))
  * <a id="O.Tait">O.Tait</a> (see [O.Bodl.](#O.Bodl.))
  * <a id="O.Viereck">O.Viereck</a> (see [O.Stras.](#O.Stras.))
  * <a id="O.Zereteli">O.Zereteli</a> (see [O.Erem.](#O.Erem.))
  * <a id="P.Amst.">P.Amst.</a> (see [P.Gron.](#P.Gron.))
- * <a id="P.Amstel.">P.Amstel.</a> (see [P.Gron.Amst.](#P.Gron.Amst.))
+ * <a id="P.Amstel.">P.Amstel.</a> (see [P.Gron.](#P.Gron.))
 
