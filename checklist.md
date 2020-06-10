@@ -4065,6 +4065,6 @@ I.2 Galenus – Isocrates
  * <a id="C.P.An.">C.P.An.</a> (see [P.Anag.](#P.Anag.))
  * <a id="C.P.Herm.">C.P.Herm. = Corpus Papyrorum Hermopolitanarum</a> (see [Stud.Pal. V](#Stud.Pal.))
  * <a id="Dikaiomata">Dikaiomata</a> (see [P.Hal.](#P.Hal.))
- * <a id="DJD">DJD</a> (see [P.Mur.](#P.Mur.))
+ * <a id="DJD">DJD</a> (see [P.P.Murabba'ât](#P.P.Murabba'ât))
  * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
 
