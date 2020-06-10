@@ -4068,4 +4068,5 @@ I.2 Galenus – Isocrates
  * <a id="Dikaiomata">Dikaiomata</a> (see [P.Hal.](#P.Hal.))
  * <a id="DJD">DJD</a> (see [P.P.Murabba'ât](#P.P.Murabba'ât))
  * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
+ * <a id="Erbstreit">Erbstreit</a> (text in [SB I 4512](http://papyri.info/ddbdp/sb;1;4512))
 
