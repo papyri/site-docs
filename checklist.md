@@ -4060,5 +4060,11 @@ I.2 Galenus – Isocrates
  * <a id="Bürg.">Bürg.</a> (see [Pap.Bürgsch.Copt.](#Pap.Bürgsch.Copt.))
  * <a id="Charta Borgiana.">Charta Borgiana</a> (see [P.Schow](#P.Schow))
  * <a id="Chrest.">Chrest.</a> (see [Chrest.Mitt.](#Chrest.Mitt.) or [Chrest.Wilck.](#Chrest.Wilck.) or [P.Chrest.Nouvelle](#P.Chrest.Nouvelle) or [P.Chrest.Revillout](#P.Chrest.Revillout))
- 
+ * <a id="CMSS">CMSS</a> (see [P.Fay.Copt.](#P.Fay.Copt.))
+ * <a id="CO">CO</a> (see [O.Crum](#O.Crum))
+ * <a id="C.P.An.">C.P.An.</a> (see [P.Anag.](#P.Anag.))
+ * <a id="C.P.Herm.">C.P.Herm. = Corpus Papyrorum Hermopolitanarum</a> (see [Stud.Pal. V](#Stud.Pal.))
+ * <a id="Dikaiomata">Dikaiomata</a> (see [P.Hal.](#P.Hal.))
+ * <a id="DJD">DJD</a> (see [P.Mur.](#P.Mur.))
+ * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
 
