@@ -13,6 +13,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * [Series](#Series)
  * [Congresses](#Congresses)
  * [Editions of Greek and Coptic Documentary Papyri by Year of Publication](#Editions)
+ * [Appendix: Other citations sometimes used for editions of papyri](#Appendix)
 
 ## <a id="Papyri">Papyri</a>
 ### <a id="Actenstücke">Actenstücke</a>
@@ -4051,6 +4052,6 @@ I.2 Galenus – Isocrates
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
-### <a id="Apa J">Apa J</a> (see [P.RevilloutCopt.](#P.RevilloutCopt.))
-### <a id="Apokrimata">Apokrimata</a> (see [P.Col. VI](#P.Col.))
+ * <a id="Apa J">Apa J</a> (see [P.RevilloutCopt.](#P.RevilloutCopt.))
+ * <a id="Apokrimata">Apokrimata</a> (see [P.Col. VI](#P.Col.))
 
