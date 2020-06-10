@@ -4060,7 +4060,7 @@ I.2 Galenus – Isocrates
  * <a id="Bürg.">Bürg.</a> (see [Pap.Bürgsch.Copt.](#Pap.Bürgsch.Copt.))
  * <a id="Charta Borgiana.">Charta Borgiana</a> (see [P.Schow](#P.Schow))
  * <a id="Chrest.">Chrest.</a> (see [Chrest.Mitt.](#Chrest.Mitt.) or [Chrest.Wilck.](#Chrest.Wilck.) or [P.Chrest.Nouvelle](#P.Chrest.Nouvelle) or [P.Chrest.Revillout](#P.Chrest.Revillout))
- * <a id="CLT">CLT</a> (see [P.CLT.](#P.CLT.))
+ * <a id="CLT">CLT</a> (see [P.CLT](#P.CLT))
  * <a id="CMSS">CMSS</a> (see [P.Fay.Copt.](#P.Fay.Copt.))
  * <a id="CO">CO</a> (see [O.Crum](#O.Crum))
  * <a id="C.P.An.">C.P.An.</a> (see [P.Anag.](#P.Anag.))
