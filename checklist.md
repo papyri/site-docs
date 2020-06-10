@@ -4054,4 +4054,9 @@ I.2 Galenus – Isocrates
 
  * <a id="Apa J">Apa J</a> (see [P.RevilloutCopt.](#P.RevilloutCopt.))
  * <a id="Apokrimata">Apokrimata</a> (see [P.Col. VI](#P.Col.))
+ * <a id="Arb.">Arb.</a> (see [Pap.Arbeit.](#Pap.Arbeit.))
+ * <a id="Bal.">Bal.</a> (see [P.Bal.](#P.Bal.))
+ * <a id="BM">BM</a> (see [P.Lond.Copt. I](#P.Lond.Copt.))
+ * <a id="Bürg.">Bürg.</a> (see [Pap.Bürgsch.Copt.](#Pap.Bürgsch.Copt.))
+ * <a id="Charta Borgiana.">Charta Borgiana</a> (see [P.Schow](#P.Schow))
 
