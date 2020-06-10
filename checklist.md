@@ -4049,3 +4049,8 @@ I.2 Galenus – Isocrates
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
 
+## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
+
+### <a id="Apa J">Apa J</a> (see [P.RevilloutCopt.](#P.RevilloutCopt.))
+### <a id="Apokrimata">Apokrimata</a> (see [P.Col. VI](#P.Col.))
+
