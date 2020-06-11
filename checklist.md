@@ -4100,4 +4100,9 @@ I.2 Galenus – Isocrates
  * <a id="P.Artemisia">P.Artemisia</a> (text in [UPZ I 1](http://papyri.info/dclp/65797))
  * <a id="P.Ashmol.">P.Ashmol.</a> (see [P.Ashm.](#P.Ashm.))
  * <a id="P.Athen.S.A.">P.Athen.S.A.</a> (see [P.Athen.](#P.Athen.))
+ * <a id="P.Ausonia">P.Ausonia</a> (texts in [P.Flor. III 291](http://papyri.info/ddbdp/p.flor;3;291), [P.Flor. III 357](http://papyri.info/ddbdp/p.flor;3;357), [P.Flor. III 358](http://papyri.info/ddbdp/p.flor;3;358))
+ * <a id="P.Bakchiastexte">P.Bakchiastexte</a> (see [P.Lund IV.](#P.Lund))
+ * <a id="P.Bankakten">P.Bankakten</a> (see [P.Berl.Frisk.](#P.Berl.Frisk.))
+ * <a id="P.Beatty Panop.">P.Beatty Panop.</a> (see [P.Panop.Beatty.](#P.Panop.Beatty.))
+ * <a id="P.Beauge">P.Beauge</a> (texts in [P.Cair.Masp. II 67156](http://papyri.info/ddbdp/p.cair.masp;2;67156), [P.Cair.Masp. III 67279](http://papyri.info/ddbdp/p.cair.masp;3;67279), [P.Cair.Masp. III 67305](http://papyri.info/ddbdp/p.cair.masp;3;67305))
 
