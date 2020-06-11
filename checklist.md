@@ -4110,6 +4110,6 @@ I.2 Galenus – Isocrates
  * <a id="P.Bibl.Univ.Giss.">P.Bibl.Univ.Giss.</a> (see [P.Giss.Univ.](#P.Giss.Univ.))
  * <a id="P.BM Andrews">P.BM Andrews</a> (see [P.Brit.Mus. IV.](#P.Brit.Mus.))
  * <a id="P.BM Glanville">P.BM Glanville</a> (see [P.Brit.Mus. I.](#P.Brit.Mus.))
- * <a id="P.BM Reich">P.BM Reich</a> (see [P.Brit.Mus.Reich.](#P.Brit.Mus.Reich.))
+ * <a id="P.BM Reich">P.BM Reich</a> (see [P.Brit.Mus.Reich](#P.Brit.Mus.Reich))
  * <a id="P.BM Siut">P.BM Siut</a> (see [P.Siut](#P.Siut))
 
