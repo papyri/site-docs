@@ -4132,4 +4132,12 @@ I.2 Galenus – Isocrates
  * <a id="P.Colon.">P.Colon.</a> (see [P.Köln](#P.Köln))
  * <a id="P.Colon.Panop.">P.Colon.Panop.</a> (see [P.Panop.](#P.Panop.))
  * <a id="P.Cong.Omaggio">P.Cong.Omaggio</a> (see [PSI Congr.XI](#PSI_Congr.XI))
+ * <a id="P.Copenhagen">P.Copenhagen</a> (text in [SB I 428](http://papyri.info/ddbdp/sb;1;428); see also [P.Haun.](#P.Haun.))
+ * <a id="P.Corpus">P.Corpus</a> (see [P.CorpusRevillout](#P.CorpusRevillout))
+ * <a id="P.Denkschriften">P.Denkschriften</a> (see [the listing in SB II. pp.74-82.](https://archive.org/details/sammelbuchgriech02wissuoft/page/74/mode/2up))
+ * <a id="P.Didot">P.Didot</a> (text in [UPZ I 56](http://papyri.info/ddbdp/upz;1;56))
+ * <a id="P.Dresden">P.Dresden</a> (text in [UPZ I 34](http://papyri.info/ddbdp/upz;1;34), [UPZ I 43](http://papyri.info/ddbdp/upz;1;43) and [UPZ I 44](http://papyri.info/ddbdp/upz;1;44))
+ * <a id="P.Droysen">P.Droysen</a> (texts in [UPZ II passim](http://papyri.info/ddbdp/upz;2))
+ * <a id="P.Edmondstone">P.Edmondstone</a> (text in [Chrest.Mitt. 361](http://papyri.info/ddbdp/chr.mitt;;361) see also [BASP 15 (1978) 235-36.](https://quod.lib.umich.edu/b/basp/0599796.0015.004/5:2) and [P.Oxy. IV, pp.202-203](https://archive.org/details/oxyrhynchuspapyr04gren/page/202/mode/2up))
+ * <a id="P.Eitrem">P.Eitrem</a> (see [listing in SB II p.83.](https://archive.org/details/sammelbuchgriech02wissuoft/page/82/mode/2up))
 
