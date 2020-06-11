@@ -4069,6 +4069,7 @@ I.2 Galenus – Isocrates
  * <a id="DJD">DJD</a> (see [P.Murabba'ât](#P.Murabba'ât))
  * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
  * <a id="Erbstreit">Erbstreit</a> (text in [SB I 4512](http://papyri.info/ddbdp/sb;1;4512))
+ * <a id="GMP">GMP</a> (see [Gr.Med.Pap.](#Gr.Med.Pap.))
  * <a id="G.S.M.">G.S.M.</a> (see [Shorthand Manuals](#Shorthand_Manuals))
  * <a id="Hall">Hall</a> (see [O.Brit.Mus.Copt.](#O.Brit.Mus.Copt.))
  * <a id="Heid.Veroff.">Heid.Veroff.</a> (see [P.Heid.](#P.Heid.))
