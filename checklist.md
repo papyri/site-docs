@@ -4082,7 +4082,7 @@ I.2 Galenus – Isocrates
  * <a id="KTE">KTE</a> (see [P.HermitageCopt.](#P.HermitageCopt.))
  * <a id="KTM">KTM</a> (see [P.MoscowCopt.](#P.MoscowCopt.))
  * <a id="Lond.">Lond.</a> (see [P.Lond IV and V.](#P.Lond.))
- * <a id="Mich.">Mich.</a> (see [O.Mich.Copt.](#O.Mich.Copt.), [O.Mich.Copt.Etmoulon](#O.Mich.Copt.Etmoulon) and [P.Mich.Copt.](#O.P.Mich.Copt.))
+ * <a id="Mich.">Mich.</a> (see [O.Mich.Copt.](#O.Mich.Copt.), [O.Mich.Copt.Etmoulon](#O.Mich.Copt.Etmoulon) and [P.Mich.Copt.](#P.Mich.Copt.))
  * <a id="Mon.Epiph.">Mon.Epiph.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.); Greek texts at [SB IV 7477-7514](http://papyri.info/ddbdp/sb;4;7477))
  * <a id="Negotia">Negotia</a> (see [FIRA III](#FIRA_III))
  * <a id="O.Bruss.Berl.">O.Bruss.Berl.</a> (see [O.Berl.](#O.Berl.) and [O.Brux.](#O.Brux.))
@@ -4096,4 +4096,8 @@ I.2 Galenus – Isocrates
  * <a id="O.Zereteli">O.Zereteli</a> (see [O.Erem.](#O.Erem.))
  * <a id="P.Amst.">P.Amst.</a> (see [P.Gron.](#P.Gron.))
  * <a id="P.Amstel.">P.Amstel.</a> (see [P.Gron.](#P.Gron.))
+ * <a id="P.Arsinoe">P.Arsinoe</a> (see [P.Haw.](#P.Haw.))
+ * <a id="P.Artemisia">P.Artemisia</a> (text in [UPZ I 1](http://papyri.info/dclp/65797))
+ * <a id="P.Ashmol.">P.Ashmol.</a> (see [P.Ashm.](#P.Ashm.))
+ * <a id="P.Athen.S.A.">P.Athen.S.A.</a> (see [P.Athen.](#P.Athen.))
 
