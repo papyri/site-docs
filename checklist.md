@@ -4105,4 +4105,11 @@ I.2 Galenus – Isocrates
  * <a id="P.Bankakten">P.Bankakten</a> (see [P.Berl.Frisk.](#P.Berl.Frisk))
  * <a id="P.Beatty Panop.">P.Beatty Panop.</a> (see [P.Panop.Beatty.](#P.Panop.Beatty))
  * <a id="P.Beauge">P.Beauge</a> (texts in [P.Cair.Masp. II 67156](http://papyri.info/ddbdp/p.cair.masp;2;67156tripl), [P.Cair.Masp. III 67279](http://papyri.info/ddbdp/p.cair.masp;3;67279), [P.Cair.Masp. III 67305](http://papyri.info/ddbdp/p.cair.masp;3;67305))
+ * <a id="P.Berl.Eleph.">P.Berl.Eleph.</a> (see [P.Berl.Dem. I](#P.Berl.Dem.) or [P.Eleph.Dem.](#P.Eleph.Dem.))
+ * <a id="P.Berl.Kaufv.">P.Berl.Kaufv.</a> (see [P.Berl.Dem. II.](#P.Berl.Dem.))
+ * <a id="P.Bibl.Univ.Giss.">P.Bibl.Univ.Giss.</a> (see [P.Giss.Univ.](#P.Giss.Univ.))
+ * <a id="P.BM Andrews">P.BM Andrews</a> (see [P.Brit.Mus. IV.](#P.Brit.Mus.))
+ * <a id="P.BM Glanville">P.BM Glanville</a> (see [P.Brit.Mus. I.](#P.Brit.Mus.))
+ * <a id="P.BM Reich">P.BM Reich</a> (see [P.Brit.Mus.Reich.](#P.Brit.Mus.Reich.))
+ * <a id="P.BM Siut">P.BM Siut</a> (see [P.Siut](#P.Siut))
 
