@@ -4128,7 +4128,7 @@ I.2 Galenus – Isocrates
  * <a id="P.Col.480">P.Col.480</a> (see [P.Col. I.](#P.Col.))
  * <a id="P.Col.Zen.">P.Col.Zen.</a> (see [P.Col. III and IV.](#P.Col.))
  * <a id="P.Coll. Hell. I">P.Coll. Hell. I</a> (see [C.Jud.Syr.Eg.](#C.Jud.Syr.Eg.))
- * <a id="P.Colon.">P.Colon.</a> (see [P.Köln.](#P.Köln.))
+ * <a id="P.Colon.">P.Colon.</a> (see [P.Köln](#P.Köln))
  * <a id="P.Colon.Panop.">P.Colon.Panop.</a> (see [P.Panop.](#P.Panop.))
- * <a id="P.Cong.Omaggio">P.Cong.Omaggio</a> (see [PSI Cong.XI.](#PSI Cong.XI.))
+ * <a id="P.Cong.Omaggio">P.Cong.Omaggio</a> (see [PSI Congr.XI](#PSI_Congr.XI))
 
