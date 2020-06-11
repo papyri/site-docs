@@ -4096,7 +4096,7 @@ I.2 Galenus – Isocrates
  * <a id="O.Zereteli">O.Zereteli</a> (see [O.Erem.](#O.Erem.))
  * <a id="P.Amst.">P.Amst.</a> (see [P.Gron.](#P.Gron.))
  * <a id="P.Amstel.">P.Amstel.</a> (see [P.Gron.](#P.Gron.))
- * <a id="P.Arsinoe">P.Arsinoe</a> (see [P.Haw.](#P.Haw.))
+ * <a id="P.Arsinoe">P.Arsinoe</a> (see [P.Hawara](#P.Hawara))
  * <a id="P.Artemisia">P.Artemisia</a> (text in [UPZ I 1](http://papyri.info/dclp/65797))
  * <a id="P.Ashmol.">P.Ashmol.</a> (see [P.Ashm.](#P.Ashm.))
  * <a id="P.Athen.S.A.">P.Athen.S.A.</a> (see [P.Athen.](#P.Athen.))
