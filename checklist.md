@@ -4112,4 +4112,10 @@ I.2 Galenus – Isocrates
  * <a id="P.BM Glanville">P.BM Glanville</a> (see [P.Brit.Mus. I.](#P.Brit.Mus.))
  * <a id="P.BM Reich">P.BM Reich</a> (see [P.Brit.Mus.Reich](#P.Brit.Mus.Reich))
  * <a id="P.BM Siut">P.BM Siut</a> (see [P.Siut](#P.Siut))
+ * <a id="P.Boissier">P.Boissier</a> (text in [W.Chrest. 13](http://papyri.info/ddbdp/chr.wilck;;13))
+ * <a id="P.Brookl.Pierce">P.Brookl.Pierce</a> (see [P.Brookl.Dem.](#P.Brookl.Dem.))
+ * <a id="P.Buttmann">P.Buttmann</a> (text in [UPZ II 175b](http://papyri.info/ddbdp/upz;2;175))
+ * <a id="P.Cair.">P.Cair.</a> (see [P.Cair.Cat.](#P.Cair.Cat.))
+ * <a id="P.Cair.Byz.">P.Cair.Byz.</a> (see [P.Cair.Masp.](#P.Cair.Masp.))
+ * <a id="P.Cair.GH">P.Cair.GH</a> (see [P.Cair.Cat.](#P.Cair.Cat.))
 
