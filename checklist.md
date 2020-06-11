@@ -4082,6 +4082,8 @@ I.2 Galenus – Isocrates
  * <a id="KTE">KTE</a> (see [P.HermitageCopt.](#P.HermitageCopt.))
  * <a id="KTM">KTM</a> (see [P.MoscowCopt.](#P.MoscowCopt.))
  * <a id="Lond.">Lond.</a> (see [P.Lond IV and V.](#P.Lond.))
+ * <a id="Mich.">Mich.</a> (see [O.Mich.Copt.](#O.Mich.Copt.), [O.Mich.Copt.Etmoulon](#O.Mich.Copt.Etmoulon) and [P.Mich.Copt.](#O.P.Mich.Copt.))
+ * <a id="Mon.Epiph.">Mon.Epiph.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.); Greek texts at [SB IV 7477-7514](#http://papyri.info/ddbdp/sb;4;7477))
  * <a id="Negotia">Negotia</a> (see [FIRA III](#FIRA_III))
  * <a id="O.Bruss.Berl.">O.Bruss.Berl.</a> (see [O.Berl.](#O.Berl.) and [O.Brux.](#O.Brux.))
  * <a id="O.Cair.">O.Cair.</a> (see [O.Cair.Cat.](#O.Cair.Cat.))
