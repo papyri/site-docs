@@ -4151,7 +4151,7 @@ I.2 Galenus – Isocrates
  * <a id="P.Goodsp.">P.Goodsp.</a> (see [P.Cair.Goodsp.](#P.Cair.Goodsp.), [P.Chic.](#P.Chic.) and [P.Kar.Goodsp.](#P.Kar.Goodsp.))
  * <a id="P.Graz">P.Graz</a> (texts in [Stud.Pal. IV pp. 114-21](https://archive.org/details/studienzurpalaeo04wess/page/114/mode/2up), [P.Turner 50](http://papyri.info/ddbdp/p.turner;;50) and [SB XVI 12484](http://papyri.info/ddbdp/sb;16;12484))
  * <a id="P.Grey">P.Grey</a> (texts in [UPZ II 165](http://papyri.info/ddbdp/upz;2;165), [UPZ II 166](http://papyri.info/ddbdp/upz;2;166) and [UPZ II 167](http://papyri.info/ddbdp/upz;2;167))
- * <a id="P.Gr.Texte">P.Gr.Texte</a> (see [P.Mey.](#P.Mey.))
+ * <a id="P.Gr.Texte">P.Gr.Texte</a> (see [P.Meyer](#P.Meyer))
  * <a id="P.Heid. 1280">P.Heid. 1280</a> (text in [SB I 4638](http://papyri.info/ddbdp/sb;1;4638))
  * <a id="P.Hernals">P.Hernals</a> (see [listing in SB II p.93.](https://archive.org/details/sammelbuchgriech02wissuoft/page/93/mode/2up))
  * <a id="P.Hess.">P.Hess.</a> (see [P.Giss.](#P.Giss.))
