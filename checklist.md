@@ -4145,7 +4145,7 @@ I.2 Galenus – Isocrates
  * <a id="P.Fuad">P.Fuad</a> (see also [P.Fouad](#P.Fouad))	
  * <a id="P.Fraser">P.Fraser</a>	(text in [UPZ I 158b,c](http://papyri.info/ddbdp/upz;2;158))
  * <a id="P.Frisk">P.Frisk</a> (see [P.Berl.Frisk](#P.Berl.Frisk))	
- * <a id="P.Gentili">P.Gentili</a>	(texts in [SB I 5658](http://papyri.info/ddbdp/sb;1;5658), [P.Flor. III 368](http://papyri.info/ddbdp/p.flor;3;368), [P.Flor. III 369](http://papyri.info/ddbdp/p.flor;3;369) and [P.Flor. III 370](http://papyri.info/ddbdp/p.flor;3;370))
+ * <a id="P.Gentili">P.Gentili</a>	(texts in [SB I 5658](http://papyri.info/ddbdp/sb;1;5658), [P.Flor. III 368](http://papyri.info/ddbdp/p.flor;3;368r), [P.Flor. III 369](http://papyri.info/ddbdp/p.flor;3;369) and [P.Flor. III 370](http://papyri.info/ddbdp/p.flor;3;370))
  * <a id="P.Germ.">P.Germ.</a>	(text in [SB I 3924](http://papyri.info/ddbdp/sb;1;3924))
  * <a id="P.Gnomon">P.Gnomon</a> (see [BGU V](#BGU))
  * <a id="P.Goodsp.">P.Goodsp.</a> (see [P.Cair.Goodsp.](#P.Cair.Goodsp.), [P.Chic.](#P.Chic.) and [P.Kar.Goodsp.](#P.Kar.Goodsp.))
