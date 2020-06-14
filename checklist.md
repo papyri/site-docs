@@ -4140,4 +4140,12 @@ I.2 Galenus – Isocrates
  * <a id="P.Droysen">P.Droysen</a> (texts in [UPZ II passim](http://papyri.info/ddbdp/upz;2))
  * <a id="P.Edmondstone">P.Edmondstone</a> (text in [Chrest.Mitt. 361](http://papyri.info/ddbdp/chr.mitt;;361) see also [BASP 15 (1978) 235-36.](https://quod.lib.umich.edu/b/basp/0599796.0015.004/5:2) and [P.Oxy. IV, pp.202-203](https://archive.org/details/oxyrhynchuspapyr04gren/page/202/mode/2up))
  * <a id="P.Eitrem">P.Eitrem</a> (see [listing in SB II p.83.](https://archive.org/details/sammelbuchgriech02wissuoft/page/82/mode/2up))
+ * <a id="Pes.">Pes.</a> (see [P.Pisentius](#P.Pisentius))	
+ * <a id="P.Feste">P.Feste</a> (see [Feste](#Feste))	
+ * <a id="P.Fuad">P.Fuad</a> (see [also P.Fouad](#also P.Fouad))	
+ * <a id="P.Fraser">P.Fraser</a>	(text in [UPZ I 158b,c](http://papyri.info/ddbdp/upz;1;158))
+ * <a id="P.Frisk">P.Frisk</a> (see [P.Berl.Frisk.](#P.Berl.Frisk.))	
+ * <a id="P.Gentili">P.Gentili</a>	(texts in [SB I 5658](http://papyri.info/ddbdp/sb;1;5658), [P.Flor. III 368](http://papyri.info/ddbdp/p.flor;3;368), [P.Flor. III 369](http://papyri.info/ddbdp/p.flor;3;369) and [P.Flor. III 370](http://papyri.info/ddbdp/p.flor;3;370))
+ * <a id="P.Germ.">P.Germ.</a>	(text in [SB I 3924](http://papyri.info/ddbdp/sb;1;3924))
+ * <a id="P.Gnomon">P.Gnomon</a> (see [BGU V.](#BGU))
 
