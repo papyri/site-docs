@@ -4177,6 +4177,6 @@ I.2 Galenus – Isocrates
  * <a id="P.Magirus">P.Magirus</a> (texts in [SB I 5317-40](http://papyri.info/ddbdp/sb;1;5317) etc.)
  * <a id="P.Maspero">P.Maspero</a> (see [P.Cair.Masp.](#P.Cair.Masp.))
  * <a id="P.Med.">P.Med.</a> (see [P.Mil.](#P.Mil.))
- * <a id="P.Mél.Rev.">P.Mél.Rev.</a> (see the listing in SB II p. 140 under Revillout, Mélanges.](https://archive.org/details/sammelbuchgriech02wissuoft/page/140/mode/2up))
+ * <a id="P.Mél.Rev.">P.Mél.Rev.</a> (see the listing in [SB II p. 140 under Revillout, Mélanges.](https://archive.org/details/sammelbuchgriech02wissuoft/page/140/mode/2up))
  * <a id="P.Mich.Browne">P.Mich.Browne</a> (see [P.Mich. X.](#P.Mich.))
  * <a id="P.Mich.Shelton">P.Mich.Shelton</a> (see [P.Mich. XI.](#P.Mich.))
