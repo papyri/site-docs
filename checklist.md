@@ -4229,7 +4229,7 @@ I.2 Galenus – Isocrates
  * <a id="P.Weil">P.Weil</a> (text in [UPZ I 56](http://papyri.info/ddbdp/upz;1;56))
  * <a id="P.Wessely Prag.">P.Wessely Prag.</a> (see [P.Prag.](#P.Prag.))
  * <a id="P.Zereteli">P.Zereteli</a> (see [P.Ross.Georg. passim](#P.Ross.Georg.))
- * <a id="P.Zois">P.Zois</a> (text in [UPZ I 114](http://papyri.info/ddbdp/upz;1;114))
+ * <a id="P.Zois">P.Zois</a> (text in [UPZ I 114](http://papyri.info/ddbdp/upz;1;114_1))
  * <a id="RAC">RAC</a> (see [P.RevilloutCopt.](#P.RevilloutCopt.))
  * <a id="Ryl.">Ryl.</a> (see [P.Ryl.Copt.](#P.Ryl.Copt.))
  * <a id="Schutzbr.">Schutzbr.</a> (see [P.Schutzbriefe](#P.Schutzbriefe))
@@ -4237,7 +4237,7 @@ I.2 Galenus – Isocrates
  * <a id="Tor.">Tor.</a> (see [O.Theb.](#O.Theb.))
  * <a id="UM">UM</a> (see [O.Mich.Copt.](#O.Mich.Copt.), [O.Mich.Copt.Etmoulon](#O.Mich.Copt.Etmoulon) and [P.Mich.Copt.](#P.Mich.Copt.))
  * <a id="V.B.P.">V.B.P.</a> (see [P.Bad.](#P.Bad.))
- * <a id="VC">VC</a> (see [O.CrumVC.](#O.CrumVC.))
+ * <a id="VC">VC</a> (see [O.CrumVC](#O.CrumVC))
  * <a id="V.H.P.">V.H.P.</a> (see [P.Heid.](#P.Heid.))
- * <a id="WS">WS</a> (see [P.Sarga.](#P.Sarga))
+ * <a id="WS">WS</a> (see [P.Sarga](#P.Sarga))
 
