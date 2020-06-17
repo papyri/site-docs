@@ -1167,7 +1167,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Mil.Congr.XIX">P.Mil.Congr.XIX</a>
 = _Papiri documentari dell'Università Cattolica di Milano_, various editors. Milan 1989. 12 unnumbered documents. (Aegyptus 69 [1989] 5—60; texts reprinted as SB XX 14082—14093).
 
-### <a id="P.Mil.Vogl._[CG]_{ddb:p.mil.vogl}">P.Mil.Vogl. [CG] {ddb:p.mil.vogl}</a>
+### <a id="P.Mil.Vogl.">P.Mil.Vogl.</a>
 
  * I, Papiri della R. Università di Milano, ed. A. Vogliano. Milan 1937. Sometimes called P.Mil.R.Univ., PRIMI or P.R.U.M., to distinguish this from the series of P.Mil. Reprint Milan 1966 with same title as Vols. II—IV. Nos. 1—28. Texts of nos. 23—28 reprinted in SB Beiheft II, 1961. {ddb:p.mil.vogl;1}
  * II, Papiri della Università degli Studi di Milano, ed. by many collaborators. Milan 1961. Nos. 29—110. {ddb:p.mil.vogl;2}
