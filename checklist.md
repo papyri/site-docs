@@ -1364,6 +1364,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Oxy.Hels.">P.Oxy.Hels.</a>
 = _Fifty Oxyrhynchus Papyri_, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio and M. Kaimio. Helsinki 1979. (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum 63). Nos. 1—50. [AB] {ddb:p.oxy.hels}
 
+### <a id="P.Oxyrhyncha">P.Oxyrhyncha</a>
+= _P.Oxyrhyncha. Edition dokumentarischer Papyri aus der Kölner Sammlung_, ed. E. Skarsouli. Paderborn 2020. (Pap.Colon. XLII). Nos. 1—35.
+
 ### <a id="P.PalauRib.">P.PalauRib.</a>
 = _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.] {ddb:p.palaurib}
 
@@ -1702,6 +1705,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
 ### <a id="P.TestiBotti">P.TestiBotti</a>
 = _Testi Demotici I_, ed. G. Botti. Includes 3 papyri from Bologna, 6 papyri from Florence, 7 ostraca from Florence and one papyrus from Naples. There is a pocket of plates. Florence 1941.
+
+### <a id="P.Testi_Med.">P.Testi Med.</a>
+= _Testi Medici su Papiro_, ed. I. Andorlini. Atti del Seminario di studio (Firenze, 3-4 giugno 2002), Florence 2004.
 
 ### <a id="P.Thead.">P.Thead.</a>
 = _Papyrus de Théadelphie_, ed. P. Jouguet. Paris 1911. Nos. 1—61, all reedited in [P.Sakaon](#P.Sakaon). &#91;Rp. CG&#93; [Online: archive.org](https://archive.org/details/mdp.39015006592946)
@@ -3417,6 +3423,7 @@ I.2 Galenus – Isocrates
  * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
  * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete, 2017.
  * XLI, Corpus des papyrus grecs sur les relations administratives entre le clerge égyptien et les autorités romaines, by C. Messerer, vol. 1, 2017 (projected to be complete in 3 v.)
+ * XLII, see [P.Oxyrhyncha](#P.Oxyrhyncha)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
