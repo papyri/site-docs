@@ -97,12 +97,13 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXVI, Arabische juristische Urkunden aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed M. E. Thung. Munich-Leipzig 2006. Nos. 1-45. [K. G. Saur]
  * XXVII, (Gott) Schütze das Fleisch des Pharao: Untersuchungen zum magischen Handbuch pWien 8426, ed. N. Flessa. Edition and study of a Hieratic papyrus. [K. G. Saur]
  * XXVIII, Greek Documentary Papyri from Ptolemaic Egypt, ed. C. A. La'da, Berlin 2008. Nos. 1—14. {ddb:cpr;28}
- * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 2009. 
+ * XXIX, "Du hast mein Herz zufriedengestellt ...", Ptolemäerzeitliche demotische Urkunden aus Soknopaiu Nesos, ed. M. Schentuleit and G. Vittmann, Berlin-New York 2009.
  * XXX, L'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-New York 2010; separate fascicle of plates. Nos. 1—32. [WdG] {ddb:cpr;30}
  * XXXI, Koptische dokumentarische und literarische Texte "First International Summer School in Coptic Papyrology 2006", ed. M. Hasitzka, Berlin-New York 2011. Nos. 1—23; separate fascicle of plates. [WdG] {ddb:cpr;31}
  * XXXII, Arabische Briefe aus dem 10.-16. Jahrhundert, ed. W. Diem. Berlin, 2011.
  * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015.
  * XXXIV, Koptische dokumentarische Texte aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed. M.R.M. Hasitzka. Berlin, 2018.
+ * XXXV, Les archives du conseil municipal d'Hermoupolis Magna, ed. M. Drew-Bear, with collaboration of F. Chausson and H. Maehler, Berlin-Boston 2020.
 
 ### <a id="P.Aberd.">P.Aberd.</a>
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [Full BP bibliographic record](http://papyri.info/biblio/3909)
@@ -3993,7 +3994,7 @@ I.2 Galenus – Isocrates
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
- * 2020: P.Bas. II; P.Oxyrhyncha
+ * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV
  
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
