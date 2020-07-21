@@ -3423,9 +3423,10 @@ I.2 Galenus – Isocrates
  * XXXVIII, see [P.ÄkNo.](#P.ÄkNo.)
  * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
  * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete, 2017.
- * XLI, Corpus des papyrus grecs sur les relations administratives entre le clerge égyptien et les autorités romaines, by C. Messerer, vol. 1, 2017 (projected to be complete in 3 v.)
+ * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer, 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
  * XLII, see [P.Oxyrhyncha](#P.Oxyrhyncha)
-
+ * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz, 2020.
+ 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
 
