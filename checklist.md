@@ -712,7 +712,10 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * V, ed. S. Perrone. Rome 2015. Nos. 186-225.
  
 ### <a id="P.Giss.">P.Giss.</a>
-= _Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen_, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss}
+= _Griechische Papyri zu Giessen_. {ddb:p.giss}
+
+ * I, Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss}
+ * II, A notebook roll and a fiscal codex from the Giessen Papyrus collection, ed. M. Kotyl. Berlin/Boston 2020. (ArchivBeih. 39). Nos. 127-128.
 
 ### <a id="P.Giss.Apoll.">P.Giss.Apoll.</a>
 = _Briefe des Apollonios-Archives aus der Sammlung Papyri Gissenses_, ed. M. Kortus. Giessen 1999. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 49). Nos. 1-43. {ddb:p.giss.apoll}
@@ -2886,6 +2889,7 @@ I.2 Galenus – Isocrates
  * 36, see [P.Trier](#P.Trier) I
  * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016. 
  * 38, see [P.Trier](#P.Trier) II
+ + 39, see [P.Giss](#P.Giss.) II
 
 ### <a id="BASP_Suppl.">BASP Suppl.</a>
  = _Bulletin of the American Society of Papyrologists_: Supplements. Published irregularly by the Society, 1973— . [Oxbow]
@@ -3995,7 +3999,7 @@ I.2 Galenus – Isocrates
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
- * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV
+ * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV; P.Giss. II
  
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
