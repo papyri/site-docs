@@ -1091,6 +1091,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Masada">P.Masada</a>
 = _Masada II, The Yigael Yadin Excavations 1963—1965, Final Reports: The Latin and Greek Documents_, ed. H.M. Cotton and J. Geiger. Jerusalem 1989. (Israel Exploration Society, The Masada Reports). Nos. 721—738 are Latin papyri, 739—747 Greek papyri, 748—749 bilingual; the ostraca (nos. 750—771 Latin, 772—794 Greek) should be cited as O.Masada. {ddb:p.masada}
 
+### <a id="P.Math.">P.Math.</a>
+= _Mathematics, Metrology, and Model Contracts_, ed. R.S. Bagnall, A. Jones, with contributions by K. Kosovo, Z. Misiewicz, J. Ben-Dov, J. Dieleman, J. Dombrowski, E. Hermans, M. Ossendrijver. New York 2020.
+
 ### <a id="P.Matr.">P.Matr.</a>
 = _Dieci Papyri Matritenses_, ed. S. Daris. Madrid 1990. (Cuadernos de la Fundacion Pastor de Estudios Clasicos 36). Nos. 1—10. {ddb:p.matr}
 
@@ -3999,7 +4002,7 @@ I.2 Galenus – Isocrates
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
- * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV; P.Giss. II
+ * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.
  
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
