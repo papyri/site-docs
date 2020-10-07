@@ -664,7 +664,7 @@ To indicate supralines, most often used in case of numbers (not, as rule, for ex
 
 _To get this PN preview:_ `ø --> underline and supraline`
 
-_Use this Leiden+:_ `=εὐτύχει=`
+_Use this Leiden+:_ `¯_εὐτύχει=_¯`
 
 _To create this XML:_ `<hi rend="supraline-underline">εὐτύχει</hi>`
 
