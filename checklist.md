@@ -2024,7 +2024,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Erem.">O.Erem.</a>
 = "Griechische Ostraka in der Kaiserlichen Eremitage in St. Petersburg," ed. G. Zereteli in Archiv 5 (1913) 170—180, nos. 1—40. [Online: archive.org](https://archive.org/details/inu.30000106243904). Now republished as SB XVIII 13179—13217.
 
-### <a id="O.Fay.">O.Fay.</a> (see [P.Fay](#P.Fay))
+### <a id="O.Fay.">O.Fay.</a> (see [P.Fay](#P.Fay.))
 
 ### <a id="O.Florida">O.Florida</a>
 = _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
