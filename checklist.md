@@ -343,7 +343,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Les Papyrus Bouriant_, ed. P. Collart. Paris 1926. Nos. 1—63. [MF 1.87] {ddb:p.bour}
 
 ### <a id="P.Brem.">P.Brem.</a>
-= _Die Bremer Papyri_, ed. U. Wilcken. Berlin 1936. (AbhBerlin 1936,2; rp. in U. Wilcken, Berliner Akademieschriften zur alten Geschichte und Papyruskunde II 193—368. Leipzig 1970). Nos. 1—83 are Greek; no. 84, in Coptic, is briefly described. [DZA; MF 1.83] {ddb:p.brem}
+= _Die Bremer Papyri_, ed. U. Wilcken. Berlin 1936. (AbhBerlin 1936,2; rp. in U. Wilcken, Berliner Akademieschriften zur alten Geschichte und Papyruskunde II 193—368. Leipzig 1970). Nos. 1—83 are Greek; no. 84, in Coptic, is briefly described. [DZA; MF 1.83] {ddb:p.brem} [Online: brema.suub.uni-bremen.de](https://brema.suub.uni-bremen.de/content/pageview/365931)
 
 ### <a id="P.Brit.Mus.">P.Brit.Mus.</a>
 = _Catalogue of the Demotic Papyri in the British Museum_
