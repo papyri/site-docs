@@ -986,7 +986,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 = _Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute_, ed. F.A.J. Hoogendijk and P. van Minnen. Leiden 1991. (Pap.Lugd.Bat. XXV). Nos. 1—107; nos. 11-12 and 24 are ostraca; nos. 15—18 wax tablets; the rest papyri. Nos. 81—107 are descripta. [EJB] {ddb:p.leid.inst}
 
 ### <a id="P.Leipz.">P.Leipz.</a>
-= _Die griechischen Papyri der Leipziger Universitätsbibliothek_, ed. C. Wessely. Leipzig 1885. (Verhandlungen der Königlichen Sächsischen Gesellschaft der Wissenschaften 37: 237—275). Nos. 1—35. (See also [P.Lips.](#P.Lips.)) {ddb:p.leipz}
+= _Die griechischen Papyri der Leipziger Universitätsbibliothek_, ed. C. Wessely. Leipzig 1885. (Verhandlungen der Königlichen Sächsischen Gesellschaft der Wissenschaften 37: 237—275). Nos. 1—35. (See also [P.Lips.](#P.Lips.)) {ddb:p.leipz} [Online: archive.org](https://archive.org/stream/berichteberdie3637berluoft#page/n629/mode/2up)
 
 ### <a id="P.Leit.">P.Leit.</a>
 = _Leitourgia Papyri_, ed. N. Lewis. Philadelphia 1963. (Transactions of the American Philosophical Society N.S. 53, pt. 9). Nos. 1—16. Texts reprinted as SB VIII 10192—10208. [o.p.] {ddb:p.leit}
