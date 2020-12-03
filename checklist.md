@@ -2697,7 +2697,7 @@ I.2 Galenus – Isocrates
  = Demotic Grammar in the Ptolemaic Sacerdotal Decrees, by R.S. Simpson. Oxford 1996. (Griffith Institute Monographs). [Griffith Institute. Ashmolean Museum]
  
 ### <a id="Spiegelberg,_Gram.">Spiegelberg, Gram.</a>
- = Demotische Grammatik, by W. Spiegelberg. Heidelberg 1925.
+ = Demotische Grammatik, by W. Spiegelberg. Heidelberg 1925. [Online: bodleian.ox.ac.uk](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph012114216)
 
 ### <a id="Palaeography">Palaeography</a>
 
