@@ -1590,7 +1590,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="PSI">PSI</a>
 = _Papiri greci e latini_. (Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto). Florence. The first eleven volumes were edited by a number of persons under the general direction of G. Vitelli and M. Norsa. A list of reeditions of documentary texts is given by P. Pruneti in [Pap.Flor.](#Pap.Flor.) XIX.2, pp. 475—502. Volumes 16- are published under the title _Papiri della Società Italiana_ in the series Edizioni dell'Istituto papirologico G. Vitelli.
 
- * I, 1912. Nos. 1—112. [MF 1.65; rp. Bd'E] {ddb:psi;1} [Online: archive.org](http://archive.org/details/papyrusgrecsdp01masp)
+ * I, 1912. Nos. 1—112. [MF 1.65; rp. Bd'E] {ddb:psi;1} [Online: archive.org](https://archive.org/details/papirigrecielati01sociuoft)
  * II, 1913. Nos. 113—156. [MF 1.66; rp. Bd'E] {ddb:psi;2} [Online: archive.org](http://archive.org/details/papirigrecielati02soci)
  * III, 1914. Nos. 157—279. Nos. 254—279 are ostraca. [MF 1.67] {ddb:psi;3} [Online: archive.org](http://archive.org/details/papirigrecielati03soci)
  * IV, 1917. Nos. 280—445. [MF 1.68]] {ddb:psi;4} [Online: archive.org](https://archive.org/details/papirigrecielati04sociuoft)
