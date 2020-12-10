@@ -21,7 +21,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 
 ### <a id="BGU">BGU</a>
  = _Aegyptische Urkunden aus den Königlichen_ (later Staatlichen) _Museen zu Berlin_, Griechische Urkunden. Berlin. {ddb:bgu}
- 
+
  * I, 1895. Nos. 1—361. [MF 1.1; rp. CG] {ddb:bgu;1} [Full bibliographic record](http://papyri.info/biblio/95040) [Online: archive.org](https://archive.org/details/aegyptischeurkun112kn)
  * II, 1898. Nos. 362—696. [MF 1.2; rp. CG] {ddb:bgu;2} [Online: archive.org](https://archive.org/details/aegyptischeurkun212kn)
  * III, 1903. Nos. 697—1012. [MF 1.3; rp. CG] {ddb:bgu;3} [Online: archive.org](https://archive.org/details/aegyptischeurkun312kn)
@@ -42,7 +42,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM] {ddb:bgu;18}
  * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur] {ddb:bgu;19}
  * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876.  {ddb:bgu;20}
- 
+
 ### <a id="BKT">BKT</a>
 = _Berliner Klassikertexte_. Berlin.
 
@@ -75,7 +75,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * VI, 1, Griechische Texte III, Part 1, ed. H. Harrauer and S.M.E. van Lith. Nos. 1—71; separate fascicle of plates. 1978. [ÖNB] {ddb:cpr;6}
  * VI, 2, Griechische Texte III, Part 2, ed. H. Harrauer. Nos. 72—85; separate fascicle of plates. 1985. [ÖNB] {ddb:cpr;6}
  * VII, Griechische Texte IV, ed. H. Zilliacus, J. Frösén, P. Hohti, J. Kaimio, M. Kaimio. 1979. Nos. 1—60; separate fascicle of plates. [ÖNB] {ddb:cpr;7}
- * VIII, Griechische Texte V, ed. P.J. Sijpesteijn and K.A. Worp. 1983. Nos. 1—85; separate fascicle of plates. [ÖNB] {ddb:cpr;8}
+ * VIII, Griechische Texte V, ed. P.J. Sijpesteijn and K.A. Worp. 1983. Nos. 1—85; separate fascicle of plates. [ÖNB] {ddb:cpr;8} [Online: leidenuniv.nl](http://openaccess.leidenuniv.nl/handle/1887/9231)
  * IX, Griechische Texte VI, ed. J.M. Diethart. 1984. Nos. 1—79; separate fascicle of plates. [ÖNB] {ddb:cpr;9}
  * X, Griechische Texte VII, ed. H. Harrauer et alii. 1986. Nos. 1—140; nos. 32—34 are ostraca; separate fascicle of plates. [ÖNB] {ddb:cpr;10}
  * XI, Not published.
@@ -84,7 +84,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XIV, Griechische Texte X, Greek Papyri of the Byzantine Period, ed. G. Fantoni. 1989. Nos. 1—55; separate fascicle of plates. [ÖNB] {ddb:cpr;14}
  * XV, Griechische Texte XI, Papiri greci di Socnopaiu Nesos e dell'Arsinoites, ed. G. Messeri Savorelli. 1990. Nos. 1—53; separate fascicle of plates. [ÖNB] {ddb:cpr;15}
  * XVI, Arabische Briefe aus dem 7.—10. Jahrhundert, ed. W. Diem. 1993. Nos. 1—35; separate fascicle of plates. [ÖNB]
- * XVIIA, Griechische Texte XIIA, Die Archive der Aurelii Adelphios und Asklepiades, ed. K.A. Worp. 1991. Nos. 1—39 and App. a—c; separate fascicle of plates. [ÖNB] {ddb:cpr;17A}
+ * XVIIA, Griechische Texte XIIA, Die Archive der Aurelii Adelphios und Asklepiades, ed. K.A. Worp. 1991. Nos. 1—39 and App. a—c; separate fascicle of plates. [ÖNB] {ddb:cpr;17A} [Online: leidenuniv.nl](http://openaccess.leidenuniv.nl/handle/1887/9294)
  * XVIIB, Griechische Texte XIIB, Papyri aus Panopolis, ed. P.J. Sijpesteijn. 1991. Nos. 1—47; separate fascicle of plates. [ÖNB] {ddb:cpr;17B}
  * XVIII, Griechische Texte XIII, Das Vertragsregister von Theogenis (P.Vindob. G40618), ed. B. Kramer. 1991. Nos. 1—34; separate fascicle of plates. [ÖNB] {ddb:cpr;18}
  * XIX, Griechische Texte XVIII, ed. H. Harrauer et alii. 2004. Nos. 1-69; separate fascicle of plates. [ÖNB] {ddb:cpr;19}
@@ -107,7 +107,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 
 ### <a id="P.Aberd.">P.Aberd.</a>
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] {ddb:p.aberd}; [Full BP bibliographic record](http://papyri.info/biblio/3909)
- 
+
 ### <a id="P.Abinn.">P.Abinn.</a>
 = _The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II_, ed. H.I. Bell, V. Martin, E.G. Turner, D. van Berchem. Oxford 1962. Nos. 1—82. [Rp. CG]. See also [SB X 10755](http://papyri.info/ddbdp/sb;10;10755), [SB XIV 11380](http://papyri.info/ddbdp/sb;14;11380) and [SB XX 14954](http://papyri.info/ddbdp/sb;20;14954). {ddb:p.abinn}
 
@@ -130,7 +130,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 = _Papyrus grecs du Musée Gréco-Romain d'Alexandrie_, ed. A. Swiderek and M. Vandoni. Warsaw 1964. (Travaux du Centre d'Archéologie Méditerranéenne de l'Académie Polonaise des Sciences 2). Nos. 1—40 on pp. 47—79; otherwise a catalogue of descriptions and other material relating to the Alexandria papyri. [o.p.] {ddb:p.alex}
 
 ### <a id="P.Alex.Giss.">P.Alex.Giss.</a>
-= _Papyri variae Alexandrinae et Gissenses_, ed. J. Schwartz. Brussels 1969. (Pap.Brux. VII). Nos. 1—61; nos. 62—73 are notes to other texts. Texts reprinted as SB X 10617—10653. [FERE] {ddb:p.alex.giss}
+= _Papyri variae Alexandrinae et Gissenses_, ed. J. Schwartz. Brussels 1969. (Pap.Brux. VII). Nos. 1—61; nos. 62—73 are notes to other texts. Texts reprinted as SB X 10617—10653. [FERE] {ddb:p.alex.giss} [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000007/1)
 
 ### <a id="P.Amh.">P.Amh.</a>
 = _The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk_, ed. B.P. Grenfell and A.S. Hunt. London. {ddb:p.amh}
@@ -148,7 +148,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * II, Das Archiv des Aurelius Ammon (P.Ammon): Papyri aus den Sammlungen des Istituto Papirologico "G. Vitelli" (Università di Firenze), der Duke University, Durham N.C., und der Universität zu Köln, ed. K. Maresch and I. Andorlini. Paderborn 2006. (Pap.Colon. 26, 2). Nos. 26-56; separate fascicle of plates. [Verlag Ferdinand Schöningh] {ddb:p.ammon;2}
 
 ### <a id="P.Amst._I">P.Amst. I</a>
-= _Die Amsterdamer Papyri I_, ed. R.P. Salomons, P.J. Sijpesteijn, K.A. Worp. Zutphen 1980. (Stud.Amst. XIV). Nos. 1—100. [TPC] Cf. also P.Gron.Amst. {ddb:p.amst;1}
+= _Die Amsterdamer Papyri I_, ed. R.P. Salomons, P.J. Sijpesteijn, K.A. Worp. Zutphen 1980. (Stud.Amst. XIV). Nos. 1—100. [TPC] Cf. also P.Gron.Amst. {ddb:p.amst;1} [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9201)
 
 ### <a id="P.Anag.">P.Anag.</a>
 = _Corpus Papyrorum Anagennesis_, ed. F. Farid. Athens 1986. Revised texts originally published by various editors in the journal Anagennesis vols. 1—3 (1981—1983). There is no index but the texts from this volume were entered in the DDBDP. The texts were not given numbers and must be referred to by page number. A number of texts were taken up in SB XVI from their original publication in the three volumes of the journal Anagennesis. {ddb:p.anag}
@@ -360,7 +360,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Greek and Latin Papyri, Ostraca, and Wooden Tablets in the Collection of the Brooklyn Museum_, ed. J.C. Shelton. Florence 1992. ([Pap.Flor.](#Pap.Flor.) XXII). Nos. 1—26 and 88—91 are papyri; nos. 27—31 tablets; nos. 32—87 ostraca; nos. 92—115 descriptions of papyri; nos. 116—184 descriptions of ostraca. Nos. 24, 100, and 101 are Latin; no. 20 bilingual. [LGF] {ddb:p.brook}
 
 ### <a id="P.Brookl.Dem.">P.Brookl.Dem.</a>
-= _Catalog of Demotic Texts in the Brooklyn Museum_, ed. G. R. Hughes, with contributions by B. P. Muhs and S. Vinson. Chicago 2005. (OIC 29). [OIP]
+= _Catalog of Demotic Texts in the Brooklyn Museum_, ed. G. R. Hughes, with contributions by B. P. Muhs and S. Vinson. Chicago 2005. (OIC 29). [OIP] [Online: Oriental Institute](http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oic29.pdf)
 
 ### <a id="P.Brookl.Pierce">P.Brookl.Pierce</a>
 = _Three Demotic Papyri in the Brooklyn Museum_, ed. R. H. Pierce. Oslo 1972. (Symb.Osl. Suppl. 24); republished with extensive commentary, translation and plates as P.Recueil 4—6
@@ -456,7 +456,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublished. [Online: AWDL](http://hdl.handle.net/2333.1/hdr7stn3)
 
 ### <a id="P.Charite">P.Charite</a>
-= _Das Aurelia Charite Archiv_, ed. K.A. Worp. Zutphen 1981. (Stud.Amst. XII). Nos. 1—41. [TPC] {ddb:p.charite}
+= _Das Aurelia Charite Archiv_, ed. K.A. Worp. Zutphen 1981. (Stud.Amst. XII). Nos. 1—41. [TPC] {ddb:p.charite} [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9200)
 
 ### <a id="P.Chept.">P.Chept.</a>
 = "Une Famille de chepteliers au IIIe s.p.C.," ed. J. Schwartz. RechPap 3 (1964) 49—64. Nos. 1—20. The article has no index.
@@ -495,18 +495,17 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Columbia Papyri_. {ddb:p.col}
 
  * I, Upon Slavery in Ptolemaic Egypt (P.Col.inv. 480), by W.L. Westermann. New York 1929. [Rp. CG] {ddb:p.col;1}
- * II, Tax Lists and Transportation Receipts from Theadelphia, ed. W.L. Westermann and C.W. Keyes. New York 1932. No. 1 recto. [Rp. CG] {ddb:p.col;2}
- * III, Zenon Papyri: Business Papers of the Third Century B.C. dealing with Palestine and Egypt I, ed. W.L. Westermann and E.S. Hasenoehrl. New York 1934. Nos. 2—59. [Rp. CG] {ddb:p.col;3}
- * IV (P.Col.Zen. II), ed. W.L. Westermann, C.W. Keyes, and H. Liebesny. New York 1940. Nos. 60—122. [Rp. CG] {ddb:p.col;4}
- * V, Tax Documents from Theadelphia, ed. J. Day and C.W. Keyes. New York 1956. No. 1 verso. [WHA; rp. CG] {ddb:p.col;5}
+ * II, Tax Lists and Transportation Receipts from Theadelphia, ed. W.L. Westermann and C.W. Keyes. New York 1932. No. 1 recto. [Rp. CG] {ddb:p.col;2} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068197998;view=1up;seq=9)
+ * III, Zenon Papyri: Business Papers of the Third Century B.C. dealing with Palestine and Egypt I, ed. W.L. Westermann and E.S. Hasenoehrl. New York 1934. Nos. 2—59. [Rp. CG] {ddb:p.col;3} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=inu.30000005470939;view=1up;seq=9)
+ * IV (P.Col.Zen. II), ed. W.L. Westermann, C.W. Keyes, and H. Liebesny. New York 1940. Nos. 60—122. [Rp. CG] {ddb:p.col;4} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015010580531;view=1up;seq=9)
+ * V, Tax Documents from Theadelphia, ed. J. Day and C.W. Keyes. New York 1956. No. 1 verso. [WHA; rp. CG] {ddb:p.col;5} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015055903838;view=1up;seq=7)
  * VI, Apokrimata: Decisions of Septimius Severus on Legal Matters, ed. W.L. Westermann and A.A. Schiller. New York 1954. No. 123. Not actually part of Columbia Papyri, Greek Series, but later treated as Vol. VI. Improved text ed. H.C. Youtie and A.A. Schiller in Cd'E 30 (1955) 327—345 ([Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1955/30/60)), reprinted as SB VI 9526. [Rp. CG] {ddb:p.col;6}
  * VII, Fourth Century Documents from Karanis, ed. R.S. Bagnall and N. Lewis. Missoula 1979. ([Am.Stud.Pap.](#Am.Stud.Pap.) XX). Nos. 124—191. [Oxbow] {ddb:p.col;7} [Online: AWDL](http://hdl.handle.net/2333.1/kwh70xjb)
  * VIII, Columbia Papyri VIII, ed. R.S. Bagnall, T.T. Renner and K.A. Worp. Atlanta 1990. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXVIII). Nos. 192—246. [Oxbow] {ddb:p.col;8} [Online: AWDL](http://hdl.handle.net/2333.1/7wm37smm)
  * IX, Columbia Papyri IX, The Vestis Militaris Codex, ed. J. Sheridan. Atlanta 1998. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXIX). Nos. 247—248. [Oxbow] {ddb:p.col;9} [Online: AWDL](http://hdl.handle.net/2333.1/m63xsmx8)
- * X, Columbia Papyri X, ed. R.S. Bagnall and D.D. Obbink. Atlanta 1996. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXIV). Nos. 249—292. [Oxbow] {ddb:p.col;10}
+ * X, Columbia Papyri X, ed. R.S. Bagnall and D.D. Obbink. Atlanta 1996. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXIV). Nos. 249—292. [Oxbow] {ddb:p.col;10} [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000034/1)
  * XI, Columbia Papyri XI, ed. T.M. Teeter. Atlanta 1998. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXVIII). Nos. 293—303. [Oxbow] {ddb:p.col;11} [Online: AWDL](http://hdl.handle.net/2333.1/qz612ndk)
- * 
- 
+
 ### <a id="P.Coles">P.Coles</a>
 = _Charisterion per Revel A. Coles_, ed. G. Bastianini, N. Gonis and S. Russo. Firenze 2015. (Edizioni dell' Istituto Papyrologico <<G. Vitelli>> 4)
 
@@ -517,7 +516,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Actes du XVe Congrès International de Papyrologie_ (ed. J. Bingen and G. Nachtergael) II, _Papyrus inédits_. Brussels 1979. (Pap.Brux. XVII). Nos. 1—22 are Greek, no. 23 Coptic. [FERE] {ddb:p.congr.xv}
 
 ### <a id="P.Corn.">P.Corn.</a>
-= _Greek Papyri in the Library of Cornell University_, ed. W.L. Westermann and C.J. Kraemer, Jr. New York 1926. Nos. 1—55. [Rp. CG] {ddb:p.corn}
+= _Greek Papyri in the Library of Cornell University_, ed. W.L. Westermann and C.J. Kraemer, Jr. New York 1926. Nos. 1—55. [Rp. CG] {ddb:p.corn} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=wu.89090748419;view=1up;seq=7)
 
 ### <a id="P.CorpusRevillout">P.CorpusRevillout</a>
 = _Corpus Papyrorum Aegypti_, ed. E. Revillout and A. Eisenlohr. Paris.
@@ -540,7 +539,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Customs Duties in Graeco-Roman Egypt_, by P.J. Sijpesteijn. Zutphen 1987. (Stud.Amst. XVII). Within a monographic study of customs, 109 new texts and 19 republished texts are catalogued in List I (pp.102—143) among a chronological list of 919 customs transactions; the numbers denote not individual papyri but separate transactions attested, as many as 152 assigned to a single papyrus text (e.g. 733—884). The new and republished texts are edited in "Notes to List I" (pp. 144—189) and fully indexed (pp. 217—229). Republished are P.Stras. II 123, SB XII 10789, Stud.Pal. XXII 63.2—7, 9—12, 14 and 64. 3—4, 6—8, 10. Five additional texts (formerly P.Lond. descripta) are edited in "Addenda et Corrigenda" pp. 1—6, to be renumbered as 428a—d and 596a. Plates of new texts in pocket. [TPC] {ddb:p.customs}
 
 ### <a id="P.Daris">P.Daris</a>
-= _Silloge di papiri greci documentari_, ed. S. Daris. Trieste 2015.
+= _Silloge di papiri greci documentari_, ed. S. Daris. Trieste 2015. [Online: units.it](https://www.openstarts.units.it/handle/10077/10934)
 
 ### <a id="P.David">P.David</a>
 = _Antidoron Martino David oblatum, Miscellanea Papyrologica_, ed. E. Boswinkel, B.A. van Groningen, P.W. Pestman. Leiden 1968. (Pap.Lugd.Bat. XVII). Nos. 12 and 15 are Demotic; 1, 3, 4, 7, 10, 14, 16 and 17 Greek papyrus documents, 5 and 18 literary; 6 two ostraca. Greek documents, nos. 1, 3, 4, 6.1, 10, 16, and 17, are reprinted as SB X 10281—10287; no. 7 is reprinted as SB XX 14229. [EJB] {ddb:p.david}
@@ -620,7 +619,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### <a id="P.Erasm.">P.Erasm.</a>
 = _Papyri in the Collection of the Erasmus University (Rotterdam)_. {ddb:p.erasm}
 
- * I, ed. P.J. Sijpesteijn and Ph.A. Verdult. Brussels 1986. (Pap.Brux. XXI). Nos. 1—22. [FERE]  {ddb:p.erasm;1}
+ * I, ed. P.J. Sijpesteijn and Ph.A. Verdult. Brussels 1986. (Pap.Brux. XXI). Nos. 1—22. [FERE]  {ddb:p.erasm;1} [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000021/1)
  * II, = P.Erasmianae II, Parts of the Archive of an Arsinoite Sitologus from the Middle of the Second Century BC, ed. Ph.A. Verdult. Amsterdam 1991. (Stud.Amst. XXXII). Nos. 23—58. [JCG]. Rev. ed. of P.Erasmianae II, Delen van een arsinoitisch sitologen-archief uit het midden van de tweede eeuw v. Chr., ed. Ph.A. Verdult (Rotterdam 1988; Mededelingen van het Juridisch Instituut van de Erasmus Universiteit Rotterdam, nr. 45) and one unnumbered text P.Abcoude (51a, pp. 241—242) also reprinted as SB XIV 11962. {ddb:p.erasm;2}
 
 ### <a id="P.Erbstreit">P.Erbstreit</a>
@@ -680,7 +679,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 
  * I, Literarische Stücke, ed. W. Aly. Ptolemäische Kleruchenurkunde, ed. M. Gelzer. Heidelberg 1914. (SBHeidelberg 1914, Abh. 2). Nos. 1—7; no. 7 reprinted as SB I 5942. [MF 1.80; rp. CG] {ddb:p.freib;1} [Online: archive.org](https://archive.org/details/wu.89102041464)
  * II, Juristische Texte der römischen Zeit, ed. J. Partsch. Heidelberg 1916. (SBHeidelberg 1916, Abh.10). Nos. 8—11. Texts reprinted as SB III 6291—6294. [MF 1.81; rp. CG] {ddb:p.freib;2} [Online: archive.org](https://archive.org/details/juristischetexte00part)
- * III, Juristische Urkunden der Ptolemäerzeit, ed. J. Partsch. Heidelberg 1927. (AbhHeidelberg 1927, Abh. 7). Nos. 12—38. [MF 1.82; rp. CG] {ddb:p.freib;3}
+ * III, Juristische Urkunden der Ptolemäerzeit, ed. J. Partsch. Heidelberg 1927. (AbhHeidelberg 1927, Abh. 7). Nos. 12—38. [MF 1.82; rp. CG] {ddb:p.freib;3} [Online: digitale-sammlungen.de](https://daten.digitale-sammlungen.de/%7Edb/0011/bsb00113603/images/index.html?seite=00001&l=de)
  * IV, Griechische und demotische Papyri der Universitätsbibliothek Freiburg, ed. R.W. Daniel, M. Gronewald, H.-J. Thissen. Bonn 1986. (Pap.Texte Abh. XXXVIII). Nos. 39—44 are listed in P.Freib. IV as follows: 39 = SB V 7600; 40—41 = SB III 6094—6095; 42 = SB IV 7351; 43 = SB VI 9562; 44 = P.Customs 266. Nos. 45—71 Greek; nos. 72—75 Demotic. There are two additional Demotic texts, P.Berlin P.15791 and P.Berlin P.23742, published here. [RH] {ddb:p.freib;4}
 
 ### <a id="P.FuadUniv.">P.FuadUniv.</a> (or <a id="P.FuadCrawford">P.FuadCrawford</a>)
@@ -710,7 +709,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * III, ed. L. Migliardi Zingale. Florence 1991. ([Pap.Flor.](#Pap.Flor.) XX). Nos. 91—130. [LGF] {ddb:p.genova;3}
  * IV, ed. L. Migliardi Zingale, G. Casanova. Florence 2016. ([Pap.Flor.](#Pap.Flor.) XLVI) Nos. 131-185.
  * V, ed. S. Perrone. Rome 2015. Nos. 186-225.
- 
+
 ### <a id="P.Giss.">P.Giss.</a>
 = _Griechische Papyri zu Giessen_. {ddb:p.giss}
 
@@ -718,21 +717,25 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * II, A notebook roll and a fiscal codex from the Giessen Papyrus collection, ed. M. Kotyl. Berlin/Boston 2020. (ArchivBeih. 39). Nos. 127-128.
 
 ### <a id="P.Giss.Apoll.">P.Giss.Apoll.</a>
-= _Briefe des Apollonios-Archives aus der Sammlung Papyri Gissenses_, ed. M. Kortus. Giessen 1999. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 49). Nos. 1-43. {ddb:p.giss.apoll}
+= _Briefe des Apollonios-Archives aus der Sammlung Papyri Gissenses_, ed. M. Kortus. Giessen 1999. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 49). Nos. 1-43. {ddb:p.giss.apoll} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/ba49/ubgiber49_-_meta.html)
 
 ### <a id="P.Giss.Lit.">P.Giss.Lit.</a>
 = _Die Giessener literarischen Papyri und die Caracalla-Erlasse_, ed. P.A. Kuhlmann. Giessen 1994. (Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Giessen 46). This volume includes a reedition of P.Giss. 40.
+
+ * Teil 1 [Online: uni-giessen.de](https://geb.uni-giessen.de/geb/volltexte/2006/3638/pdf/BA-46-Teil-1.pdf)
+ * Teil 2 [Online: uni-giessen.de](https://geb.uni-giessen.de/geb/volltexte/2006/3638/pdf/BA-46-Teil-2.pdf)
+ * Teil 3 [Online: uni-giessen.de](https://geb.uni-giessen.de/geb/volltexte/2006/3638/pdf/BA-46-Teil-3.pdf)
 
 ### <a id="P.Giss.Univ.">P.Giss.Univ.</a>
 = _Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek_. Giessen. {ddb:p.giss.univ}
 
  * I, Griechische Papyrusurkunden aus ptolemäischer und römischer Zeit, ed. H. Kling. 1924. (Schriften der hessischen Hochschulen, Universität Giessen 1924, 4). Nos. 1—16. [MF 2.20; rp. CG] {ddb:p.giss.univ;1} [Online: archive.org](https://archive.org/details/griechischepapyr00klin)
- * II, Ein Bruchstück des Origenes über Genesis I, 28, ed. P. Glaue. 1928. (Schriften 1928, 1). No. 17. [MF 2.21; rp. CG]
- * III, Griechische Privatbriefe, ed. H. Büttner. 1931. (Schriften 1931, 3). Nos. 18—33. [MF 2.22; rp. CG] {ddb:p.giss.univ;3}
- * IV, Literarische Stücke, ed. H. Eberhart. 1935. (Schriften 1935, 2). Nos. 34—45. [MF 2.23; rp. CG]
- * V, Alexandrinische Geronten vor Kaiser Gaius: Ein neues Bruchstuck der sogenannten Alexandrinischen Martyrer-Akten, ed. A. von Premerstein. 1939. (Schriften der Ludwigs-Universität zu Giessen, Jg. 1936). No. 46. [MF 2.24; rp. CG]
- * VI, Griechische Verwaltungsurkunden von Tebtynis aus dem Anfang des dritten Jahrhunderts n. Chr., ed. G. Rosenberger. 1939. Nos. 47—53. [MF 2.25; rp. CG] {ddb:p.giss.univ;6}
- * Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ. Giss.), by K.A. Worp. 1975. (Kurzberichte Giessen 35). [MF 2.26]
+ * II, Ein Bruchstück des Origenes über Genesis I, 28, ed. P. Glaue. 1928. (Schriften 1928, 1). No. 17. [MF 2.21; rp. CG] [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/gibib2/pgissbib2_-_meta.html)
+ * III, Griechische Privatbriefe, ed. H. Büttner. 1931. (Schriften 1931, 3). Nos. 18—33. [MF 2.22; rp. CG] {ddb:p.giss.univ;3} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/gibib3/pgissbib3_-_meta.html)
+ * IV, Literarische Stücke, ed. H. Eberhart. 1935. (Schriften 1935, 2). Nos. 34—45. [MF 2.23; rp. CG] [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/gibib4/pgissbib4_-_meta.html)
+ * V, Alexandrinische Geronten vor Kaiser Gaius: Ein neues Bruchstuck der sogenannten Alexandrinischen Martyrer-Akten, ed. A. von Premerstein. 1939. (Schriften der Ludwigs-Universität zu Giessen, Jg. 1936). No. 46. [MF 2.24; rp. CG] [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/gibib5/pgissbib5_-_meta.html)
+ * VI, Griechische Verwaltungsurkunden von Tebtynis aus dem Anfang des dritten Jahrhunderts n. Chr., ed. G. Rosenberger. 1939. Nos. 47—53. [MF 2.25; rp. CG] {ddb:p.giss.univ;6} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/gibib6/pgissbib6_-_meta.html)
+ * Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ. Giss.), by K.A. Worp. 1975. (Kurzberichte Giessen 35). [MF 2.26] [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9155)
 
 ### <a id="P.Got.">P.Got.</a>
 = _Papyrus grecs de la Bibliothèque municipale de Gothembourg_, ed. H. Frisk. Gothenburg 1929. (Göteborgs Högskolas Årsskrift 35 [1929] pt. 1). Nos. 1—21; nos. 22—114 descripta. [Rp. CG] {ddb:p.got}
@@ -808,7 +811,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * VIII (= Pap.Heid. N.F. X), Dokumentarische Papyri des 2. Jh. v. Chr. aus dem Herakleopolites, ed. D. Kaltsas. Heidelberg 2001. Nos. 412-421. [CWV] {ddb:p.heid;8}
  * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. Ch. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV] {ddb:p.heid;9}
  * I, Die badischen Grabungen in Qarâra und El-Hibeh 1913 und 1914, ed. W. Habermann and others. 2014. (Pap.Heid. N.F. XIV). Nos. 446-458.
- 
+
 ### <a id="P.Heid.Kopt.">P.Heid.Kopt.</a>
 = _Coptica Palatina: koptische Texte aus der Heidelberger Papyrussammlung,_ ed. A. Boud'hors, A. Delattre, G. Schenke, T.S. Richter, G. Schmelz. 2018. (STHP I). Nos. 1-25.
 
@@ -822,7 +825,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Ptolemäische Bankpapyri aus dem Herakleopolites (P.Herakl.Bank). Papyri der Sammlungen in Heidelberg, Köln und Wien_, ed. K. Maresch. Paderborn et al. 2012. (Pap.Colon. 35). Nos. 1–6.
 
 ### <a id="P.Herc.">P.Herc.</a>
-See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante at Centro Internazionale per lo Studio dei Papiri Ercolanesi (Naples 1979) and Manuale di papirologia ercolanese, by M. Capasso (Lecce 1991 = Università degli Studi di Lecce, Dipartmento di Filologia Classica e Medioevale, Testi e Studi 3).
+See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante at Centro Internazionale per lo Studio dei Papiri Ercolanesi (Naples 1979) and Manuale di papirologia ercolanese, by M. Capasso (Lecce 1991 = Università degli Studi di Lecce, Dipartmento di Filologia Classica e Medioevale, Testi e Studi 3). <http://www.chartes.it/>
 
 ### <a id="P.Herm.">P.Herm.</a>
 = _Papyri from Hermopolis and Other Documents of the Byzantine Period_, ed. B.R. Rees. London 1964. (Egypt Exploration Society, Graeco-Roman Memoirs 42). Nos. 1—85. [EES] {ddb:p.herm}
@@ -841,7 +844,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 
 ### <a id="P.Hib.">P.Hib.</a>
 = _The Hibeh Papyri_. London. {ddb:p.hib}
- 
+
  * I, ed. B.P. Grenfell and A.S. Hunt. 1906. (Egypt Exploration Society, Graeco-Roman Memoirs 7). Nos. 1—171. There is a Demotic docket at no. 80 and no. 164 (descriptum) is a Demotic document. The receipts, nos. 105—107 and (in the descripta) nos. 136—142 have one line each of Demotic at the bottom of the Greek text. [EES] {ddb:p.hib;1} [Online: archive.org](http://archive.org/details/hibehpapyri00brangoog)
  * II, ed. E.G. Turner and M.-Th. Lenger. 1955. (Egypt Exploration Society, Graeco-Roman Memoirs 32). Nos. 172—284. [EES] {ddb:p.hib;2}
 
@@ -867,13 +870,13 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, Epistulae privatae Graecae, ed. L. Eisner. 1913. Nos. 8—25. [MF 2.7] {ddb:p.iand;2} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * III, Instrumenta Graeca publica et privata, pt. I, ed. L. Spohr. 1913. Nos. 26—51. [MF 2.8] {ddb:p.iand;3} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
  * IV, Instrumenta Graeca publica et privata, pt. II, ed. G. Spiess. 1914. Nos. 52—68b. Nos. 68, 68a, and 68b are Latin. [MF 2.9] {ddb:p.iand;4} [Online: archive.org](http://archive.org/details/papyriiandanaecv01kalb)
- * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1931. Nos. 69—90. [MF 2.19]
- * VI, Griechische Privatbriefe, ed. G. Rosenberger. 1934. Nos. 91—133. [MF 2.11] {ddb:p.iand;6}
- * VII, Griechische Verwaltungsurkunden, ed. D. Curschmann. 1934. Nos. 134—145. [MF 2.12] {ddb:p.iand;7}
- * VIII, Griechische Wirtschaftsrechnungen und Verwandtes, ed. J. Hummel. 1938. Nos. 146—155. [MF 2.13] {ddb:p.iand;8}
+ * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1931. Nos. 69—90. [MF 2.19] [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv5/papiandv5_-_meta.html)
+ * VI, Griechische Privatbriefe, ed. G. Rosenberger. 1934. Nos. 91—133. [MF 2.11] {ddb:p.iand;6} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv6/papiandv6_-_meta.html)
+ * VII, Griechische Verwaltungsurkunden, ed. D. Curschmann. 1934. Nos. 134—145. [MF 2.12] {ddb:p.iand;7} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv7/papiandv7_-_meta.html)
+ * VIII, Griechische Wirtschaftsrechnungen und Verwandtes, ed. J. Hummel. 1938. Nos. 146—155. [MF 2.13] {ddb:p.iand;8} [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv8/papiandv8_-_meta.html)
 
 ### <a id="P.Iand.inv._653">P.Iand.inv. 653</a>
-= _A Sixth Century Account of Hay_, ed. T. Reekmans. Brussels 1962. (Pap.Brux. I). Text reprinted as SB VIII 9920. [FERE] {ddb:p.iand.inv.653}
+= _A Sixth Century Account of Hay_, ed. T. Reekmans. Brussels 1962. (Pap.Brux. I). Text reprinted as SB VIII 9920. [FERE] {ddb:p.iand.inv.653} [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000001/1)
 
 ### <a id="P.Iand.Zen.">P.Iand.Zen.</a>
 = _Die Giessener Zenonpapyri_, ed. Ph. Schmitz. Paderborn 2007. (Pap.Colon. 32). Nos. 1-82. [Verlag Ferdinand Schöning] {ddb:p.iand.zen}
@@ -960,7 +963,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 
 ### <a id="P.LandLeases">P.LandLeases</a>
 = _Saite Demotic Land Leases_, ed. G.R. Hughes. Chicago 1952. (The Oriental Institute of the University of Chicago: Studies in Ancient Oriental Civilization 28). Nos. 1—7; nos. 2—7 of these texts are from the Louvre. [Online: Oriental Institute](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/saoc28.pdf)
- 
+
 ### <a id="P.Laur.">P.Laur.</a>
 = _Dai Papiri della Biblioteca Medicea Laurenziana_. Florence. {ddb:p.laur}
 
@@ -1077,7 +1080,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Macq.">P.Macq.</a>
 = _The Macquarie Papyri_. Turnhout.
 
- * I, A Coptic handbook of ritual power (P. Macq. I 1), ed. M. Choat and I. Gardner. Turnhout, 2013. 
+ * I, A Coptic handbook of ritual power (P. Macq. I 1), ed. M. Choat and I. Gardner. Turnhout, 2013.
 
 ### <a id="P.Mallawi">P.Mallawi</a>
 = _Frühdemotische Urkunden aus Hermupolis_, ed. El-H.O.M. Zaghloul. Cairo 1985. (Bull.CPS 2). Nos. 1—6.
@@ -1095,7 +1098,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Mathematics, Metrology, and Model Contracts_, ed. R.S. Bagnall, A. Jones, with contributions by K. Kosovo, Z. Misiewicz, J. Ben-Dov, J. Dieleman, J. Dombrowski, E. Hermans, M. Ossendrijver. New York 2020.
 
 ### <a id="P.Matr.">P.Matr.</a>
-= _Dieci Papyri Matritenses_, ed. S. Daris. Madrid 1990. (Cuadernos de la Fundacion Pastor de Estudios Clasicos 36). Nos. 1—10. {ddb:p.matr}
+= _Dieci Papyri Matritenses_, ed. S. Daris. Madrid 1990. (Cuadernos de la Fundacion Pastor de Estudios Clasicos 36). Nos. 1—10. {ddb:p.matr} [Online: um.es](http://interclassica.um.es/investigacion/hemeroteca/c/cuadernos_de_la_fundacion_pastor/numero_1990/dieci_papyri_matritenses_edizione_e_commento)
 
 ### <a id="P.Med.">P.Med.</a> (see [P.Mil.](#P.Mil.)).
 
@@ -1118,13 +1121,13 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Mich.">P.Mich.</a>
 = _Michigan Papyri_. Each volume has a subtitle of its own. The numerical sequence of volumes as a single series was not established until vol. II. Vol. I is often referred to as P.Mich. Zen. {ddb:p.mich}
 
- * I, Zenon Papyri, ed. C.C. Edgar. Ann Arbor 1931. (Univ. of Mich. Studies, Humanistic Series 24). Nos. 1—120. [MF 1.19] {ddb:p.mich;1}
- * II, Papyri from Tebtunis, Part I, ed. A.E.R. Boak. Ann Arbor 1933. (Univ. of Mich. Studies, Humanistic Series 28). Nos. 121—128. (Nos. 129—130, A Papyrus Codex of the Shepherd of Hermas, ed. C. Bonner. Ann Arbor 1934. [Univ. of Mich. Studies, Humanistic Series 22]). [MF 1.20] {ddb:p.mich;2}
- * III, Miscellaneous Papyri, ed. J.G. Winter and others. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 40). Nos. 131—221. (No. 222, A Third Century Codex of the Epistles of Paul, ed. H.A. Sanders, Ann Arbor 1935. [Univ. of Mich. Studies, Humanistic Series 38]. For Nos. 167 and 168 see Vol. VII. [MF 1.21] {ddb:p.mich;3}
- * IV, pt. I, Tax Rolls from Karanis, ed. H.C. Youtie. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 42). Nos. 223—225. [MF 1.22] {ddb:p.mich;4.1}
- * IV, pt. II, Texts nos. 357—363 and Indexes, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1939. (Univ. of Mich. Studies, Humanistic Series 43). Nos. 357—363. [MF 1.23] (See also [P.Cair.Mich.](#P.Cair.Mich.) for addenda to no. 359). {ddb:p.mich.4.2}
+ * I, Zenon Papyri, ed. C.C. Edgar. Ann Arbor 1931. (Univ. of Mich. Studies, Humanistic Series 24). Nos. 1—120. [MF 1.19] {ddb:p.mich;1} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015071418639;view=1up;seq=1)
+ * II, Papyri from Tebtunis, Part I, ed. A.E.R. Boak. Ann Arbor 1933. (Univ. of Mich. Studies, Humanistic Series 28). Nos. 121—128. [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015004281641;view=1up;seq=9) (Nos. 129—130, A Papyrus Codex of the Shepherd of Hermas, ed. C. Bonner. Ann Arbor 1934. [Univ. of Mich. Studies, Humanistic Series 22]). [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015074215073;view=1up;seq=9) [MF 1.20] {ddb:p.mich;2}
+ * III, Miscellaneous Papyri, ed. J.G. Winter and others. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 40). Nos. 131—221. [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015010704131;view=1up;seq=9) (No. 222, A Third Century Codex of the Epistles of Paul, ed. H.A. Sanders, Ann Arbor 1935. [Univ. of Mich. Studies, Humanistic Series 38]. [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=wu.89041242975;view=1up;seq=11). For Nos. 167 and 168 see Vol. VII. [MF 1.21] {ddb:p.mich;3}
+ * IV, pt. I, Tax Rolls from Karanis, ed. H.C. Youtie. Ann Arbor 1936. (Univ. of Mich. Studies, Humanistic Series 42). Nos. 223—225. [MF 1.22] {ddb:p.mich;4.1} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015071418803;view=1up;seq=9)
+ * IV, pt. II, Texts nos. 357—363 and Indexes, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1939. (Univ. of Mich. Studies, Humanistic Series 43). Nos. 357—363. [MF 1.23] (See also [P.Cair.Mich.](#P.Cair.Mich.) for addenda to no. 359). {ddb:p.mich.4.2} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015071418811;view=1up;seq=485)
  * V, Papyri from Tebtunis, Part II, ed. E.M. Husselman, A.E.R. Boak and W.F. Edgerton. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 29). Nos. 226—356. Nos. 249, 250, 253, 308, 342, 347 are Demotic. [MF 1.24] {ddb:p.mich;5}
- * VI, Papyri and Ostraca from Karanis, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 47). Nos. 364—428; ostraca nos. 700—971. (For nos. 1—699 see [O.Mich.](#O.Mich.)). [MF 1.26] {ddb:p.mich;6}
+ * VI, Papyri and Ostraca from Karanis, ed. H.C. Youtie and O.M. Pearl. Ann Arbor 1944. (Univ. of Mich. Studies, Humanistic Series 47). Nos. 364—428; ostraca nos. 700—971. (For nos. 1—699 see [O.Mich.](#O.Mich.)). [MF 1.26] {ddb:p.mich;6} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015071418845;view=1up;seq=7)
  * VII, Latin Papyri, ed. H.A. Sanders with contributions by J.E. Dunlap. Ann Arbor 1947. (Univ. of Mich. Studies, Humanistic Series 48). Nos. 167—168, 429—463. [MF 2.17] {ddb:p.mich;7}
  * VIII, Papyri and Ostraca from Karanis, Second Series, ed. H.C. Youtie and J.G. Winter. Ann Arbor 1951. (Univ. of Mich. Studies, Humanistic Series 50). Nos. 464—521; ostraca nos. 972—1111. (see [O.Mich.](#O.Mich.)) [MF 2.18] {ddb:p.mich;8}
  * IX, Papyri from Karanis, Third Series, ed. E.M. Husselman. Cleveland 1971. (American Philological Association, Philological Monograph 29). Nos. 522—576. [Oxbow] {ddb:p.mich;9}
@@ -1192,7 +1195,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Coptic and Greek texts relating to the Hermopolite Monastery of Apa Apollo_, ed. S.J. Clackson. Oxford 2000. (Griffith Institute Monographs). Nos. 1—66. Nos. 27, 31, 48 are Greek; the rest Coptic. [Oxbow] {ddb:p.mon.apollo}
 
 ### <a id="P.Mon.Epiph.">P.Mon.Epiph.</a>
-= _The Monastery of Epiphanius at Thebes, Part II, ed. W.E. Crum and H.G. Evelyn White_. New York 1926. (The Metropolitan Museum of Art Egyptian Expedition). Nos. 1—575 are Coptic papyri, ostraca, and parchment; nos. 579—634 Greek papyri, ostraca, limestone and wood; nos. 635—675 Coptic graffiti; nos. 676—702 Greek graffiti. The texts are found on pp. 1—119; the metadata and the translations on pp. 153—348. Some Greek texts have been reprinted: SB IV 7436 = no. 624; 7477 = 623 and 7478—7487 = 625—634. The Greek graffiti, nos. 676—702, are reprinted as SB IV 7488—7514.
+= _The Monastery of Epiphanius at Thebes, Part II, ed. W.E. Crum and H.G. Evelyn White_. New York 1926. (The Metropolitan Museum of Art Egyptian Expedition). Nos. 1—575 are Coptic papyri, ostraca, and parchment; nos. 579—634 Greek papyri, ostraca, limestone and wood; nos. 635—675 Coptic graffiti; nos. 676—702 Greek graffiti. The texts are found on pp. 1—119; the metadata and the translations on pp. 153—348. Some Greek texts have been reprinted: SB IV 7436 = no. 624; 7477 = 623 and 7478—7487 = 625—634. The Greek graffiti, nos. 676—702, are reprinted as SB IV 7488—7514. [Online: The Met](https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/166634)
 
 ### <a id="P.Monac.">P.Monac.</a>
 = _Byzantinische Papyri in der Königlichen Hof- und Staatsbibliothek zu München_, ed. A. Heisenberg and L. Wenger. Leipzig-Berlin 1914. (Veröffentlichungen aus der Papyrussammlung der K. Hof- und Staatsbibliothek zu München I). Nos. 1—18. [MF 1.42; atlas, MF 2.80] Reprinted as P.Münch. I. [Online: archive.org](https://archive.org/details/mdp.39015010705187)
@@ -1233,7 +1236,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Narm.">P.Narm.</a>
 
  * I, Narmouthis 2006: Documents et objects découverts à Médinet Madi en 2006, ed. E. Bresciani, A. Delattre, P. Heilporn, A. Martin, A. Menchetti, G. Nachtergael, R. Pintaudi and F. Silvano. Pisa 2010. (Monografie di “Egitto e Vicino Oriente” II). Nos. 1–13 are Greek papyri; no. 14 is a Greek tablet; nos. 15–19 are Demotic and bilingual ostraca; nos. 20–147 Greek ostraca; nos. 148–149 Greek inscriptions. {ddb:p.narm.2006}
- 
+
 ### <a id="P.Nekr.">P.Nekr.</a>
 
 = _The Undertakers of the Great Oasis_, ed. R.S. Bagnall. London, 2017. (Graeco-Roman Memoirs, Supplemental Vol. 1)
@@ -1252,7 +1255,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Greek Papyri in the Collection of New York University_.
 
  * I, Fourth Century Documents from Karanis, ed. N. Lewis. Leiden 1967. (New York Univ., Department of Classics, Monographs on Mediterranean Antiquity I). Nos. 1—25. [NYU or EJB]
- * II, Papyri from the New York University Collection II, ed. B. Nielsen and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53. For the indices see www.papy.uni-hd.de/WL/PNYU\_II\_Indices.pdf]
+ * II, Papyri from the New York University Collection II, ed. B. Nielsen and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53.] For the indices see <http://www.papy.uni-hd.de/WL/PNYU_II_Indices.pdf>.
 
 ### <a id="P.Oslo">P.Oslo</a>
 = _Papyri Osloenses_. Oslo.
@@ -1291,7 +1294,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XVIII, Nos. 2157—2207, ed. E. Lobel, C.H. Roberts and E.P. Wegener. 1941. (26) {ddb:p.oxy;18}
  * XIX, Nos. 2208—2244, ed. E. Lobel, E.P. Wegener, C.H. Roberts and H.I. Bell. 1948. (27) {ddb:p.oxy;19}
  * XX, Nos. 2245—2287, ed. E. Lobel, E.P. Wegener, C.H. Roberts. 1952. (29) {ddb:p.oxy;20}
- * XXI, Nos. 2288—2308, ed. E. Lobel. 1951. (30) {ddb:p.oxy;21}
+ * XXI, Nos. 2288—2308, ed. E. Lobel. 1951. (30) {ddb:p.oxy;21} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0021unse/page/n7/mode/2up)
  * XXII, Nos. 2309—2353, ed. E. Lobel and C.H. Roberts. 1954. (31) {ddb:p.oxy;22}
  * XXIII, Nos. 2354—2382, ed. E. Lobel. 1956. (34) {ddb:p.oxy;23}
  * XXIV, Nos. 2383—2425, ed. E. Lobel, C.H. Roberts, E.G. Turner and J.W.B. Barns. 1957. (35) {ddb:p.oxy;24}
@@ -1306,48 +1309,48 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XXXIII, Nos. 2654—2682, ed. P.J. Parsons, J.R. Rea and E.G. Turner. 1968. (48) {ddb:p.oxy;33}
  * XXXIV, Nos. 2683—2732, ed. L. Ingrams, P. Kingston, P.J. Parsons and J.R. Rea. 1968. (49) {ddb:p.oxy;34}
  * XXXV, Nos. 2733—2744, ed. E. Lobel. 1968. (50) {ddb:p.oxy;35}
- * XXXVI, Nos. 2745—2800, ed. R.A. Coles, D. Foraboschi, A.H. Soliman el-Mosallamy, J.R. Rea, U. Schlag and others. 1970. (51) {ddb:p.oxy;36}
+ * XXXVI, Nos. 2745—2800, ed. R.A. Coles, D. Foraboschi, A.H. Soliman el-Mosallamy, J.R. Rea, U. Schlag and others. 1970. (51) {ddb:p.oxy;36} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0036unse/page/n5/mode/2up)
  * XXXVII, Nos. 2801—2823, ed. E. Lobel. 1971. (53) {ddb:p.oxy;37}
- * XXXVIII, Nos. 2824—2877, ed. G.M. Browne, J.D. Thomas, E.G. Turner, M.E. Weinstein and others. 1971.  {ddb:p.oxy;38}
- * XXXIX, Nos. 2878—2891, ed. E. Lobel. 1972. (55) {ddb:p.oxy;39}
- * XL, Nos. 2892—2942, ed. J.R. Rea. 1972. (56) {ddb:p.oxy;40}
+ * XXXVIII, Nos. 2824—2877, ed. G.M. Browne, J.D. Thomas, E.G. Turner, M.E. Weinstein and others. 1971.  {ddb:p.oxy;38} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0038unse/page/n5/mode/2up)
+ * XXXIX, Nos. 2878—2891, ed. E. Lobel. 1972. (55) {ddb:p.oxy;39} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0039unse/page/n5/mode/2up)
+ * XL, Nos. 2892—2942, ed. J.R. Rea. 1972. (56) {ddb:p.oxy;40} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0040unse/page/n5/mode/2up)
  * XLI, Nos. 2943—2998, ed. G.M. Browne, R.A. Coles, J.R. Rea, J.C. Shelton, E.G. Turner and others. 1972. (57) {ddb:p.oxy;41}
- * XLII, Nos. 2999—3087, ed. P.J. Parsons. 1974. (58) {ddb:p.oxy;42}
- * XLIII, Nos. 3088—3150, ed. J.R. Rea and others. 1975. (60) {ddb:p.oxy;43}
- * XLIV, Nos. 3151—3208, ed. A.K. Bowman, M.W. Haslam, J.C. Shelton and J.D. Thomas. 1976. (62) {ddb:p.oxy;44}
- * XLV, Nos. 3209—3266, ed. A.K. Bowman, M.W. Haslam, S.A. Stephens, M.L. West and others. 1977. (63) {ddb:p.oxy;45}
- * XLVI, Nos. 3267—3315, ed. J.R. Rea. 1978. (65) {ddb:p.oxy;46}
- * XLVII, Nos. 3316—3367, ed. R.A. Coles and M.W. Haslam, with contributions from 8 others. 1980. (66) {ddb:p.oxy;47}
+ * XLII, Nos. 2999—3087, ed. P.J. Parsons. 1974. (58) {ddb:p.oxy;42} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0042unse/page/n5/mode/2up)
+ * XLIII, Nos. 3088—3150, ed. J.R. Rea and others. 1975. (60) {ddb:p.oxy;43} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0043unse/page/n7/mode/2up)
+ * XLIV, Nos. 3151—3208, ed. A.K. Bowman, M.W. Haslam, J.C. Shelton and J.D. Thomas. 1976. (62) {ddb:p.oxy;44} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0044unse/page/n5/mode/2up)
+ * XLV, Nos. 3209—3266, ed. A.K. Bowman, M.W. Haslam, S.A. Stephens, M.L. West and others. 1977. (63) {ddb:p.oxy;45} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0045unse/page/n7/mode/2up)
+ * XLVI, Nos. 3267—3315, ed. J.R. Rea. 1978. (65) {ddb:p.oxy;46} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0046unse/page/n5/mode/2up)
+ * XLVII, Nos. 3316—3367, ed. R.A. Coles and M.W. Haslam, with contributions from 8 others. 1980. (66) {ddb:p.oxy;47} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0047unse/page/n5/mode/2up)
  * XLVIII, Nos. 3368—3430, ed. M. Chambers, W.E.H. Cockle, J.C. Shelton and E.G. Turner. 1981. (67) {ddb:p.oxy;48}
- * XLIX, Nos. 3431—3521, ed. A. Bülow-Jacobsen and J.E.G. Whitehorne. 1982. (69) {ddb:p.oxy;49}
+ * XLIX, Nos. 3431—3521, ed. A. Bülow-Jacobsen and J.E.G. Whitehorne. 1982. (69) {ddb:p.oxy;49} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0049unse/page/n5/mode/2up)
  * L, Nos. 3522—3600, ed. various editors. 1983. (70) {ddb:p.oxy;50}
- * LI, Nos. 3601—3646, ed. J.R. Rea. 1984. (71) {ddb:p.oxy;51}
- * LII, Nos. 3647—3694, ed. H.M. Cockle. 1984. (72) {ddb:p.oxy;52}
- * LIII, Nos. 3695—3721, ed. M.W. Haslam. 1986. (73) {ddb:p.oxy;53}
- * LIV, Nos. 3722—3776, ed. R.A. Coles, H. Maehler, P.J. Parsons, with contributions from J.M. Bremer and R.J.D. Carden. 1987. (74) {ddb:p.oxy;54}
- * LV, Nos. 3777—3821, ed. J.R. Rea. 1988. (75) {ddb:p.oxy;55}
+ * LI, Nos. 3601—3646, ed. J.R. Rea. 1984. (71) {ddb:p.oxy;51} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0051unse/page/n5/mode/2up)
+ * LII, Nos. 3647—3694, ed. H.M. Cockle. 1984. (72) {ddb:p.oxy;52} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0052unse/page/n7/mode/2up)
+ * LIII, Nos. 3695—3721, ed. M.W. Haslam. 1986. (73) {ddb:p.oxy;53} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0053unse/page/n5/mode/2up)
+ * LIV, Nos. 3722—3776, ed. R.A. Coles, H. Maehler, P.J. Parsons, with contributions from J.M. Bremer and R.J.D. Carden. 1987. (74) {ddb:p.oxy;54} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0054unse/page/n5/mode/2up)
+ * LV, Nos. 3777—3821, ed. J.R. Rea. 1988. (75) {ddb:p.oxy;55} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0055unse/page/n7/mode/2up)
  * LVI, Nos. 3822—3875, ed. M.G. Sirivianou, with contributions by H.-C. Gunther, P.J. Parsons, P. Schubert and others. 1989. (76) {ddb:p.oxy;56}
- * LVII, Nos. 3876—3914, ed. M.W. Haslam, H. El-Maghrabi and J.D. Thomas. 1990. (77) {ddb:p.oxy;57}
- * LVIII, Nos. 3915—3962, ed. J.R. Rea. 1991. (78) {ddb:p.oxy;58}
- * LIX, Nos. 3963—4008, ed. E.W. Handley, H.G. Ioannidou, P.J. Parsons and J.E.G. Whitehorne. 1992. (79) {ddb:p.oxy;59}
- * LX, Nos. 4009—4092, ed. R.A. Coles, M.W. Haslam, P.J. Parsons and others. 1994. (80) {ddb:p.oxy;60}
- * LXI, Nos. 4093—4132, ed. T. Gagos, M.W. Haslam and N. Lewis. 1995. (81). There is a list of astronomical texts, nos. 4133—4300, now published in [P.Oxy.Astr.](#P.Oxy.Astr.) {ddb:p.oxy;61}
- * LXII, Nos. 4301—4351, ed. J.C. Shelton and J.E.G. Whitehorne. 1995. (82) {ddb:p.oxy;62}
+ * LVII, Nos. 3876—3914, ed. M.W. Haslam, H. El-Maghrabi and J.D. Thomas. 1990. (77) {ddb:p.oxy;57} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0057unse/page/n7/mode/2up)
+ * LVIII, Nos. 3915—3962, ed. J.R. Rea. 1991. (78) {ddb:p.oxy;58} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0058unse/page/n5/mode/2up)
+ * LIX, Nos. 3963—4008, ed. E.W. Handley, H.G. Ioannidou, P.J. Parsons and J.E.G. Whitehorne. 1992. (79) {ddb:p.oxy;59} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0059unse/page/n5/mode/2up)
+ * LX, Nos. 4009—4092, ed. R.A. Coles, M.W. Haslam, P.J. Parsons and others. 1994. (80) {ddb:p.oxy;60} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0060unse/page/n5/mode/2up)
+ * LXI, Nos. 4093—4132, ed. T. Gagos, M.W. Haslam and N. Lewis. 1995. (81). There is a list of astronomical texts, nos. 4133—4300, now published in [P.Oxy.Astr.](#P.Oxy.Astr.) {ddb:p.oxy;61} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0061unse/page/n5/mode/2up)
+ * LXII, Nos. 4301—4351, ed. J.C. Shelton and J.E.G. Whitehorne. 1995. (82) {ddb:p.oxy;62} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0062unse/page/n5/mode/2up)
  * LXIII, Nos. 4352—4400, ed. J. Rea. 1996. (83) {ddb:p.oxy;63}
  * LXIV, Nos. 4401—4441, ed. E.W. Handley and U. Wartenberg. 1997. (84) {ddb:p.oxy;64}
  * LXV, Nos. 4442—4493, ed. M.W. Haslam, A. Jones, F. Maltomini, M.L. West, W.E.H. Cockle, R.A. Coles, D. Montserrat and J.D. Thomas with contributions by 11 others. 1998. (85) {ddb:p.oxy;65}
- * LXVI, Nos. 4494—4544, ed. N. Gonis, J. Chapa, W.E.H. Cockle, D. Obbink, P.J. Parsons and J.D. Thomas with contributions by 8 others. 1999. (86) {ddb:p.oxy;66}
- * LXVII, Nos. 4545—4629, ed. R. A. Coles, N. Gonis, A. Nodar, D. Obbink, R. Stewart with contributions by 45 others. 2001. (87) There is a list of Homeric papyri, nos. 4630—4638, now published as Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. Florence 2002. (Studi e Testi di Papirologia, N. S. 1). {ddb:p.oxy;67}
- * LXVIII, Nos. 4639—4704, ed. N. Gonis, D. Obbink and P. J. Parsons with contributions by 15 others. 2003. (88) {ddb:p.oxy;68}
- * LXIX, Nos. 4705-4758, ed. N. Gonis, D. Obbink, and others. 2005. (89) {ddb:p.oxy;69}
- * LXX, Nos. 4759-4802, ed. N. Gonis, J. D. Thomas, and R. Hatzilambrou. 2006. (90) {ddb:p.oxy;70}
- * LXXI, Nos. 4803-4843, ed. R. Hatzilambrou, P.J. Parsons, J. Chapa, and others. 2007. (91) {ddb:p.oxy;71}
- * LXXII, Nos. 4844-4930, ed. N. Gonis, D. Colomo, and others. 2008. (92) {ddb:p.oxy;72}
- * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94) {ddb:p.oxy;73}
- * LXXIV, Nos. 4968—5019, ed. D. Leith and others. (95) {ddb:p.oxy;74}
+ * LXVI, Nos. 4494—4544, ed. N. Gonis, J. Chapa, W.E.H. Cockle, D. Obbink, P.J. Parsons and J.D. Thomas with contributions by 8 others. 1999. (86) {ddb:p.oxy;66} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0066unse/page/n5/mode/2up)
+ * LXVII, Nos. 4545—4629, ed. R. A. Coles, N. Gonis, A. Nodar, D. Obbink, R. Stewart with contributions by 45 others. 2001. (87) There is a list of Homeric papyri, nos. 4630—4638, now published as Nine Homeric Papyri from Oxyrhynchus, ed. J. Spooner. Florence 2002. (Studi e Testi di Papirologia, N. S. 1). {ddb:p.oxy;67} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0067unse/page/n5/mode/2up)
+ * LXVIII, Nos. 4639—4704, ed. N. Gonis, D. Obbink and P. J. Parsons with contributions by 15 others. 2003. (88) {ddb:p.oxy;68} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0068unse/page/n5/mode/2up)
+ * LXIX, Nos. 4705-4758, ed. N. Gonis, D. Obbink, and others. 2005. (89) {ddb:p.oxy;69} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0069unse/page/n5/mode/2up)
+ * LXX, Nos. 4759-4802, ed. N. Gonis, J. D. Thomas, and R. Hatzilambrou. 2006. (90) {ddb:p.oxy;70} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0070unse/page/n5/mode/2up)
+ * LXXI, Nos. 4803-4843, ed. R. Hatzilambrou, P.J. Parsons, J. Chapa, and others. 2007. (91) {ddb:p.oxy;71} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0071unse/page/n5/mode/2up)
+ * LXXII, Nos. 4844-4930, ed. N. Gonis, D. Colomo, and others. 2008. (92) {ddb:p.oxy;72} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0072unse/page/n5/mode/2up)
+ * LXXIII, In Honour of Peter Parsons and John Rea, Nos. 4931-4967, ed. D. Obbink, N. Gonis, and others. 2009. (94) {ddb:p.oxy;73} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0073unse/page/n5/mode/2up)
+ * LXXIV, Nos. 4968—5019, ed. D. Leith and others. (95) {ddb:p.oxy;74} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0074unse/page/n5/mode/2up)
  * LXXV, Nos. 5020—5071, ed. H. Maehler, C. Römer, and R. Hatzilambrou. 2010. (96); nos. 5020—5048 literary, nos. 5049—5071 documentary. {ddb:p.oxy;75}
- * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97). {ddb:p.oxy;76}
- * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98). {ddb:p.oxy;77}
+ * LXXVI, Nos. 5072–5100, ed. D. Colomo and J. Chapa with contributions by 22 others. 2011. (97). {ddb:p.oxy;76} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0076unse/page/n5/mode/2up)
+ * LXXVII, Nos. 5101–5126, ed. A. Benaissa with contributions by 14 others. 2011. (98). {ddb:p.oxy;77} [Online: archive.org](http://archive.org/details/oxyrhynchuspapyr0077unse/page/n5/mode/2up)
  * LXXVIII, Nos. 5127–5182, ed. R.-L. Chang, W.B. Henry, P. J. Parsons and A. Benaissa with contributions by 17 others. 2012. (99).  {ddb:p.oxy;78}
  * LXXIX, Nos. 5183–5218, ed. W.B. Henry, P.J. Parsons with contributions by 18 others and an appendix Games, Competitors and Performers in Roman Egypt by S. Remijsen. 2014. (100).  {ddb:p.oxy;79}
  * LXXX, Nos. 5219–5257, ed. M. Hirt, D. Leith and W.B. Henry. 2014 (101).  {ddb:p.oxy;80}
@@ -1375,7 +1378,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _P.Oxyrhyncha. Edition dokumentarischer Papyri aus der Kölner Sammlung_, ed. E. Skarsouli. Paderborn 2020. (Pap.Colon. XLII). Nos. 1—35.
 
 ### <a id="P.PalauRib.">P.PalauRib.</a>
-= _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.] {ddb:p.palaurib}
+= _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.] {ddb:p.palaurib} [Online: academia.edu](http://www.academia.edu/8694497/S._Daris_Papiri_documentari_greci_del_fondo_Palau-Ribes_P._Palau_Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995)
 
 ### <a id="P.PalauRib.Lit.">P.PalauRib.Lit.</a>
 = _Papiros literarios griegos dei fondo Palau-Ribes_, ed. J. O'Callaghan. Barcelona 1993. (Estud.Pap. 3). Nos. 1—40. [Sem.Pap.Barc.]
@@ -1387,7 +1390,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Urkunden aus Panopolis_, ed. L.C. Youtie, D. Hagedorn, H.C. Youtie. Bonn 1980. Nos. 1—31. Reprint without plates of original publication in three articles in ZPE 7 (1971) 1—40; 8 (1971) 207—234; and 10 (1973) 101—170, from which texts reprinted as SB XII 10968—10981, 10992—10996, 11213—11224. [RH] {ddb:p.panop}
 
 ### <a id="P.Panop.Beatty">P.Panop.Beatty</a>
-= _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF]
+= _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF] [Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Monographs-10-Papyri-From-Panopolis-Opt.pdf)
 
 ### <a id="P.Paramone">P.Paramone</a>
 = _Editionen und Aufsätze von Mitgleidern des heidelberger Instituts für Papyrologie zwischen 1982 und 2004_, ed. J.M.S. Cowey and B. Kramer. (Archiv Beih. 16) 19 texts are published; nos. 1–18 are Greek and 19 is Coptic. Munich and Leipzig 2004. [KGS] {ddb:p.paramone}
@@ -1433,13 +1436,13 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Papyrus de Philadelphie_, ed. J. Scherer. Cairo 1947. (Publ.Soc.Fouad VII). Nos. 1—35. [MF 2.94] {ddb:p.phil}
 
 ### <a id="P.Philammon">P.Philammon</a>
-= _Aktenbuch des Aurelios Philammon: Prozessberichte, Annona militaris und Magie in BGU IV 1024–1027_, ed. G. Poethke, S. Prignitz, V. Vaelske. Berlin and Boston 2012. (ArchivBeih. 34). 
+= _Aktenbuch des Aurelios Philammon: Prozessberichte, Annona militaris und Magie in BGU IV 1024–1027_, ed. G. Poethke, S. Prignitz, V. Vaelske. Berlin and Boston 2012. (ArchivBeih. 34).
 
 ### <a id="P.Pintaudi">P.Pintaudi</a>
 = _Inediti offerti a Rosario Pintaudi per il suo 65° compleanno_, ed. D. Minutoli. Firenze 2012. Nos. 1–70 {ddb:p.pintaudi}
 
 ### <a id="P.PisaLit.">P.PisaLit.</a>
-= _Papiri letterari greci_, ed. A. Carlini et al. Pisa 1978. (Biblioteca degli studi classici e orientali). Nos. 1—38. 
+= _Papiri letterari greci_, ed. A. Carlini et al. Pisa 1978. (Biblioteca degli studi classici e orientali). Nos. 1—38.
 
 ### <a id="P.Pisentius">P.Pisentius</a>
 = "Textes coptes. Extraits de la correspondence de St. Pésunthius, évêque de Coptos, et de plusieurs documents analogues (juridiques et économiques)," ed. E. Revillout in three issues of the RevÉgypt 9 (1900) 133—177 [Online: archive.org](https://archive.org/details/revuegyptologi09pari/page/132/mode/2up); 10 (1902) 34—47 [Online: archive.org](https://archive.org/details/revuegyptologi10pari/page/34/mode/2up); and 14 (1914) 22—32 [Online: archive.org](https://archive.org/details/revuegyptologi14pari/page/22/mode/2up). Republication of some texts: 64 = BKU I 78; 65 = P.KRU 115; 67 = BKU I 48; 72 = P.KRU 109; 73 = P.KRU 111; and 83 = P.KRU 40.
@@ -1480,8 +1483,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Princ.">P.Princ.</a>
 = _Papyri in the Princeton University Collections_.
 
- * I, ed. A.C. Johnson and H.B. van Hoesen. Baltimore 1931. (The Johns Hopkins Univ. Studies in Archaeology X). Nos. 1—14. [MF 2.36; rp. CG] {ddb:p.princ;1}
- * II, ed. E.H. Kase, Jr. Princeton 1936. (Princ.Stud.Pap. I). Nos. 15—107. The Coptic verso of no. 84 has been published in ZPE 96 (1993) 227—229 (L.S.B. MacCoull). [MF 2.37; rp. CG] {ddb:p.princ;2}
+ * I, ed. A.C. Johnson and H.B. van Hoesen. Baltimore 1931. (The Johns Hopkins Univ. Studies in Archaeology X). Nos. 1—14. [MF 2.36; rp. CG] {ddb:p.princ;1} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=wu.89102041696;view=1up;seq=9)
+ * II, ed. E.H. Kase, Jr. Princeton 1936. (Princ.Stud.Pap. I). Nos. 15—107. The Coptic verso of no. 84 has been published in ZPE 96 (1993) 227—229 (L.S.B. MacCoull). [MF 2.37; rp. CG] {ddb:p.princ;2} [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=uc1.b4034604;view=1up;seq=7)
  * III, ed. A.C. Johnson and S.P. Goodrich. Princeton 1942. (Princ.Stud.Pap. IV). Nos. 108—191. [MF 2.38; rp. CG] {ddb:p.princ;3}
 
 ### <a id="P.Princ.Roll">P.Princ.Roll</a>
@@ -1605,9 +1608,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XIII, ed. M. Norsa and V. Bartoletti. 1949—1953. Nos. 1296—1370. [MF 2.89; fasc. 2 only, FL] {ddb:psi;13}
  * XIV, ed. V. Bartoletti. 1957. Nos. 1371—1452. [FL] {ddb:psi;14}
  * XV, ed. †V. Bartoletti, G. Bastianini, G. Messeri, F. Montanari, R. Pintaudi. 2008. Nos. 1453—1574. Nos. 1453—1468 previously published by V. Bartoletti and M. Manfredi in PSI XV, fasc. 1, 1979 (all literary); nos. 1478—1479, 1484, 1489, 1508, 1513—1515, 1522, 1526, 1528, 1531, 1532, 1536—1538, 1540, 1543, 1544, 1546, 1556, 1557, 1561—1566 and 1569 previously published in PSI XV Estr or in SB XII. {ddb:psi;15}
- * XVI, ed. G. Bastianini, F. Maltomini, G. Messeri. 2013. Nos. 1575—1653.
- * XVII, ed. F. Maltomini, S. Russo, M. Stroppa. 2018. Nos. 1654-1715.
- 
+ * XVI, ed. G. Bastianini, F. Maltomini, G. Messeri. 2013. Nos. 1575—1653. [Online: fupress.com](http://www.fupress.com/archivio/pdf/2612_23132.pdf)
+ * XVII, ed. F. Maltomini, S. Russo, M. Stroppa. 2018. Nos. 1654-1715. [Online: fupress.com](http://www.fupress.com/archivio/pdf/3588_16238.pdf)
+
 ### <a id="PSI_XV_Estr.">PSI XV Estr.</a>
 = _Dai Papiri della Societa Italiana, Estratto dal vol. XV dei P.S.I._, ed. M. Manfredi. Florence 1966. This volume contains PSI XV 1478—1479, 1484, 1489, 1508, 1513—1514, 1522, 1526, 1532, 1536—1538, 1540, 1546, 1557, 1562, 1564—1566 and 1569. Another Estratto dal vol. XV, ed. A. Biscardi, Florence 1978, has 1515. In addition: PSI XV 1528 = SB XII 11046; 1531 = SB XII 11047; 1543 = SB XII 11049; 1544 = SB XII 11048; 1556 = SB XII 11050; 1561 = SB XII 11052; 1563 = SB XII 11051. All are republished in PSI XV.
 
@@ -1618,7 +1621,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * 8, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2009. (ComunicazioniVitelli 8 [2009] pages 1–86, tav. I–VIII). Nos. 1–15.
  * 9, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2011. (ComunicazioniVitelli 9 [2011] pages 1–55, tav. I–VIII). [prev. PSI Com. II] Nos. 1–12. {ddb:psi.com;9}
  * 11, Dai Papiri della Società Italiana, ed. G. Bastianini and others. Firenze 2013. (ComunicazioniVitelli 11 [2013] pages 1–86, tav. I–XV). [prev. PSI Com. III] Nos. 1–16.
- * 12, Dai Papiri della Società Italiana, ed. G. Bastianini and S. Russo. Firenze 2015. (ComunicazioniVitelli 12 [2015] pages 1–61, tav. I–XII). Nos. 1–14.
+ * 12, Dai Papiri della Società Italiana, ed. G. Bastianini and S. Russo. Firenze 2015. (ComunicazioniVitelli 12 [2015] pages 1–61, tav. I–XII). Nos. 1–14. [Online: fupress.com](http://www.fupress.com/archivio/pdf/3030_23115.pdf)
+ * 13, Dai Papiri della Società Italiana, ed. G. Bastianini and S. Russo. Firenze 2019. (ComunicazioniVitelli 13 [2019]). [Online: fupress.com](https://fupress.com/archivio/pdf/3942_18836.pdf)
 
 ### <a id="PSI_Congr.XI">PSI Congr.XI</a>
 = _Dai papiri della Società Italiana: Omaggio all'XI Congresso Internazionale di Papirologia_. Florence 1965. Nos. 1—14.
@@ -1652,7 +1656,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
 ### <a id="P.SlaveryDem.">P.SlaveryDem.</a>
 = _Slavery in Pharaonic Egypt_, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
- 
+
 ### <a id="P.Sorb.">P.Sorb.</a>
 = _Papyrus de la Sorbonne_
 
@@ -1676,7 +1680,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * VIII, ed. J. Schwartz et ses élèves. 1980-1985. Issued in fascicles 1, 2, 3, 4, and 5. (Publications VI). Nos. 701—800. Index to nos. 501—800 by B. Kramer in Publications X (1986). [BNU] {ddb:p.stras;8}
  * IX, ed. J. Schwartz et ses élèves. 1985-1989. Issued in fascicles 1, 2, 3, 4, and 5. (Publications IX). Nos. 801—900. [BNU]
  * X, _Un dossier fiscal hermopolitain d'époque romaine conservé à la Bibliothèque nationale et universitaire de Strasbourg : P. Strasb. inv. gr. 897-898, 903-905, 939-968, 982-1000, 1010-1013, 1918-1929_, ed. R.-L. Chang. Paris 2014. (IFAO Bibliothèque générale 46). Nos. 901-903.
- 
+
 ### <a id="P.Stras.Copt.">P.Stras.Copt.</a>
 = _Coptica Argentoratensia. Textes et documents de la troisième Université d’Eté de Papyrologie Copte (Strasbourg, 18 - 25 juillet 2010)_ ed. A. Boud'hors. Paris 2014. (Cahiers de la Bibliothèque Copte 19)
 
@@ -1745,7 +1749,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 
  * I, Neue Quellen zum Prozessrecht der Ptolemäerzeit. Gerichtsakten aus der Trierer Papyrussammlung (P.Trier I). Ed. B. Kramer, C. Sánchez-Moreno Ellart. Berlin and Boston 2017. (ArchivBeih. 36). Nos. 1–14.
  * II, Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit (P.Trier II 15). Ed. C. Werner. Berlin and Boston 2019. (ArchivBeih. 38). No. 15.
- 
+
 ### <a id="P.Tsenhor">P.Tsenhor</a>
 = _Les Papyrus démotiques de Tsenhor_, ed. P.W. Pestman. Leuven 1994. (Stud. Demotica IV). Nos. 1—17. [Peeters]
 
@@ -1753,7 +1757,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * II, Paléographie et Planches
 
 ### <a id="P.Turku">P.Turku</a>
-= _Papyri Turkuenses: die Papyri im Besitz der Universitätsbibliothek Turku_, ed. H. Koskenniemi, E. Koskenniemi, J. Koskenniemi. Helsinki 2014. (Commentationes humanarum litterarum 131). Nos. 1—99. 
+= _Papyri Turkuenses: die Papyri im Besitz der Universitätsbibliothek Turku_, ed. H. Koskenniemi, E. Koskenniemi, J. Koskenniemi. Helsinki 2014. (Commentationes humanarum litterarum 131). Nos. 1—99.
 
 ### <a id="P.Turner">P.Turner</a>
 = _Papyri Greek and Egyptian Edited by Various Hands in Honour of Eric Gardner Turner on the Occasion of his Seventieth Birthday_, ed. P.J. Parsons, J.R. Rea and others. London 1981. (Egypt Exploration Society, Graeco-Roman Memoirs 68). Nos. 1—55. No. 15 is Demotic and no. 55 is Coptic. [EES]
@@ -1885,7 +1889,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * II, ed. M.R.M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
  * III, ed. M.R.M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1690 . (MPER, N.S. XXIII.3). [K.G. Saur]
  * IV ed. M.R.M. Hasitzka. Berlin 2012. Nos. 1691-2163 (MPER N.S. XXIII.4)
- 
+
 ### <a id="VBP">VBP</a> (see [P.Bad.](#P.Bad.)).
 
 ### <a id="UPZ">UPZ</a>
@@ -1927,7 +1931,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * I, Greek Ostraka from the 1996—1998 Seasons, ed. R.S. Bagnall, C. Helms and A.M.F.W. Verhoogt. Brussels 2000. (Pap.Brux. XXXI). Nos. 1—117.
  * II, Texts from the 1999-2001 Seasons, ed. R. S. Bagnall, C. Helms, and A. M. F. W. Verhoogt. Brussels 2005. (Pap.Brux. 33). Nos. 118-260 (nos. 118-120 are inscriptions, 123-135 papyri, 136-257 ostraka, 258 a wooden tag, 259-260 instrumenta).
  * III, Texts from the 2009-2013 Seasons, ed. R. Ast and R. S. Bagnall. Brussels 2016. (Pap.Brux. 36). Nos. 261-511 (nos. 261-273 are papyri, 274-511 ostraka).
- 
+
 ### <a id="O.Berl.">O.Berl.</a>
 = _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in [O.Brux.](#O.Brux.) &#91;MF 2.72&#93; [Online: archive.org](https://archive.org/details/ostrakaausbrss00vieruoft/)
 
@@ -1948,6 +1952,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### <a id="O.Buch.">O.Buch.</a>
 = _The Bucheum_, by R. Mond and O.H. Myers. 3 vols. London 1934. (Egypt Exploration Society, 41st Memoir). There are Demotic, Greek and Coptic texts in vol. II: "The Demotic Ostraca," ed. G. Mattha on pp. 53—74; "The Greek Ostraca," ed. A.S. Hunt, T.C. Skeat and J.G. Tait on pp. 75—78; "The Coptic Ostraca," ed. W. Crum on pp. 78—80.
+
+ * Volume 1. [Online: archive.org](https://archive.org/details/EXCMEM41_1)
+ * Volume 2. [Online: archive.org](https://archive.org/details/EXCMEM41_2)
+ * Volume 3. (Plates) [Online: archive.org](https://archive.org/details/EXCMEM41)
 
 ### <a id="O.BuNjem">O.BuNjem</a>
 = _Les Ostraca de Bu Njem_, ed. R. Marichal. Tripoli 1992. (Libya Antiqua, Suppl. VII). Nos. 1—151, Latin ostraca.
@@ -1988,7 +1996,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Varia Coptica_, ed. W.E. Crum. Aberdeen 1939. Nos. 1—129. Papyri are nos. 5—9, 38—39, 46—52, 100, 114—116 and 129. No. 5 is reedited with a new fragment in Enchoria 15 (1987) 55—59 (R.P. Salomons and P.J. Sijpesteijn).
 
 ### <a id="O.Deir_el-Bahari">O.Deir el-Bahari</a>
-= _Le Monastère de St. Phoibammon_. Deir el-Bahari 5, ed. W. Godlewski. Warsaw 1986. Coptic ostraca nos. 1—19 (no. 16 is wood and no. 19 Arabic) are found in chapter 9, pp. 134—140.
+= _Le Monastère de St. Phoibammon_. Deir el-Bahari 5, ed. W. Godlewski. Warsaw 1986. Coptic ostraca nos. 1—19 (no. 16 is wood and no. 19 Arabic) are found in chapter 9, pp. 134—140. [Online: Heidelberg](http://digi.ub.uni-heidelberg.de/diglit/godlewski1986)
 
 ### <a id="O.Deiss.">O.Deiss.</a> (see [P.Meyer](#P.Meyer)).
 
@@ -2009,7 +2017,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### <a id="O.Edfou">O.Edfou</a>, published in Tell Edfou vols. I—III; for bibliographical information see under [P.Edfou](#P.Edfou).
 
- * I, Cairo 1937. Nos. 1—230.
+ * I, Cairo 1937. Nos. 1—230. [Online: archive.org](https://archive.org/details/TellEdfou-1937-1)
  * II, Cairo 1938. Nos. 231—325. There is Demotic noted at nos. 232, 233, 238, 245 and 255.
  * III, Cairo 1950. Nos. 326—372. There is Demotic noted at nos. 348, 353, 355 and 360.
 
@@ -2027,7 +2035,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Fay.">O.Fay.</a> (see [P.Fay](#P.Fay.))
 
 ### <a id="O.Florida">O.Florida</a>
-= _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS]
+= _The Florida Ostraka: Documents from the Roman Army in Upper Egypt_, ed. R.S. Bagnall. Durham, N.C. 1976. (Greek, Roman and Byzantine Monographs 7). Nos. 1—31. [GRBS] [Online: Duke](http://grbs.library.duke.edu/index.php/grbs/pages/view/mono)
 
 ### <a id="O.Frangé">O.Frangé</a>
 = _Les ostraca coptes de la TT 29. Autour du moine Frangé_, ed. A. Boud'hors and Ch. Heurtel. Brussels 2010. (Études d'archéologie thébaine 3). Nos. 1-805. [Online: ULB](https://crea.centresphisoc.ulb.be/fr/publication/les-ostraca-coptes-de-la-tt-29-autour-du-moine-frange-0)
@@ -2167,7 +2175,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Taxes">O.Taxes</a>
 
  * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B. P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
- 
+
 ### <a id="O.Tebt.">O.Tebt.</a> (Nos. 1—20, see [P.Tebt. II](#P.Tebt._II))
 
 ### <a id="O.Tebt.Pad.">O.Tebt.Pad.</a>
@@ -2200,7 +2208,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Les Ostraca grecs d’Aïn Waqfa (Oasis de Kharga)_, ed. H. Cuvigny, A. Hussein and G. Wagner. Cairo 1993. (Institut Français d’Archéologie Orientale, Documents de Fouilles 30). Nos. 1—79. [SEVPO]
 
 ### <a id="O.Wilb.">O.Wilb.</a>
-= _Les Ostraca grecs de la collection Charles-Edwin Wilbour au Musée de Brooklyn,_ ed. C. Préaux. New York 1935. Nos. 1—78; no. 1 has Demotic. [FERE; rp. CG]
+= _Les Ostraca grecs de la collection Charles-Edwin Wilbour au Musée de Brooklyn,_ ed. C. Préaux. New York 1935. Nos. 1—78; no. 1 has Demotic. [FERE; rp. CG] [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_aere000004/5)
 
 ### <a id="O.Wilck.">O.Wilck.</a> (or <a id="WO">WO</a>)
 = _Griechische Ostraka aus Aegypten und Nubien_, ed. U. Wilcken. Leipzig-Berlin 1899. 2 vols. Texts, vol. II, nos. 1—1624. Reprint Amsterdam 1970 with addenda compiled by P.J. Sijpesteijn. There is Demotic noted at nos. 95, 97, 141, 160, 305, 313, 314, 316, 394 and 1384. &#91;MF 2.78—79; rp. CG, AMH&#93;
@@ -2237,7 +2245,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = "Catalogue des étiquettes de momies du Musée du Louvre," ed. F. Baratte and B. Boyaval. Lille 1974—1981. Pt. 1, nos. 1—259 (CRIPEL 2, 1974); pt. 2, nos. 260—688 (CRIPEL 3, 1975); pt. 3, nos. 689—999 (CRIPEL 4, 1976); pt. 4, nos. 1000—1209 and indexes (CRIPEL 5, 1979); corrigenda (CRIPEL 6, 1981).
 
 ### <a id="T.Pizarras">T.Pizarras</a>
-= _Las Pizarras Visigoda: edición crítica y estudio_, ed. I. Velázquez Soriano. Murcia 1989. (Antigüedad y cristianismo 6). Nos. 1-104.
+= _Las Pizarras Visigoda: edición crítica y estudio_, ed. I. Velázquez Soriano. Murcia 1989. (Antigüedad y cristianismo 6). Nos. 1-104. [Online: academia.edu](http://www.academia.edu/35899850/Las_Pizarras_visigodas_edici%C3%B3n_cr%C3%ADtica_y_estudio)
 
 ### <a id="T.Pizarras.2">T.Pizarras.²</a>
 = _Las pizarras visigodas (Entre el latín y su disgregación. La lengua hablada en Hispania, siglos vi-viii)_, 2nd edition, ed. I. Velázquez Soriano. Madrid and Burgos 2004. Nos. 1-163.
@@ -2448,6 +2456,10 @@ I.2 Galenus – Isocrates
 ### <a id="Pap.Graec.Mag.">Pap.Graec.Mag.</a>
 = _Papyri Graecae Magicae_, ed. K. Preisendanz. 2 vols. Leipzig-Berlin 1928, 1931. Photostatic copies of proofs of an unpublished third volume are to be found in some libraries. A reprint including texts from the projected third vol. with revisions by A. Henrichs was published in 1974. [KGS] See also The Magical Papyri in Translation, by H.D. Betz (esp. p. xliv), Chicago 1985. See also below [Suppl.Mag.](#Suppl.Mag.)
 
+ * III. [Online: accademiafiorentina.it](http://www.accademiafiorentina.it/BbltOnLine/PGM_III.pdf)
+ * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
+
+
 ### <a id="Rom.Mil.Rec.">Rom.Mil.Rec.</a>
 = _Roman Military Records on Papyrus_, ed. R.O. Fink. Cleveland 1971. (American Philological Association, Philological Monograph 26). Nos. 1—134. [OUP]
 
@@ -2459,7 +2471,7 @@ I.2 Galenus – Isocrates
  * III, Literary Papyri: Poetry, ed. D.L. Page. 1942. Nos. 1—147. [Online: archive.org](https://archive.org/details/selectpapyriwith03huntuoft)
 
 ### <a id="Short_Texts">Short Texts</a>
-= _Demotic and Greek short texts gathered from many publications_, ed. S.P. Vleeming. 
+= _Demotic and Greek short texts gathered from many publications_, ed. S.P. Vleeming.
 
  * I, Some Coins of Artaxerxes and other short texts in the Demotic Script found on various objects and gathered from many publications, ed. S.P. Vleeming. 2001. Nos. 1-277. (Stud.Demotica 5)
  * II, Demotic and Greek Mummy Labels and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.  (Stud.Demotica 9)
@@ -2480,8 +2492,8 @@ I.2 Galenus – Isocrates
  = Bibliographie Papyrologique: Fichier électronique 1932—2010, under the direction of A. Martin with the assistance of R.S. Bagnall, A. Buchet, A. Deknudt, A. Delattre, P. Heilporn and H. Melaerts. Available on CD-ROM "Subsidia Papyrologica 4.0." Brussels 2010. [AERE]
 
 ### <a id="BL">BL</a>
- = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten. 
- 
+ = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten.
+
  * I, ed. F. Preisigke. Berlin/Leipzig 1922. &#91;WdG&#93; [Online: archive.org](https://archive.org/details/pst.000010146934)
  * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
  * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
@@ -2499,17 +2511,17 @@ I.2 Galenus – Isocrates
 
 ### <a id="BL_Konkordanz">BL Konkordanz</a>
  = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz
- 
+
  * I, Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: Konkordanz und Supplement zu Band I—VII, ed. W. Clarysse, R.W. Daniel, F.A.J. Hoogendijk and P. van Minnen. Leuven 1989. [Peeters]
  * II, Berichtigungsliste der Griechischen Papyrusurkunden aus Ägypten: Konkordanz zu Band VIII—XI, ed. M.J. Bakker, A.V. Bakkers, F.A.J. Hoogendijk and N. Kruit. Leiden-Boston 2007. [EJB]
 
 ### <a id="BL_Dem.">BL Dem.</a>
  = A Berichtigungsliste of Demotic Documents, ed. A. A. den Brinker, B. P. Muhs, and S. P. Vleeming. Leuven 2005. (Studia Demotica 7). [Peeters]
- 
- * A, Papyrus Editions. 
+
+ * A, Papyrus Editions.
  * B, Ostrakon Editions and Various Publications.
- * Note: S. P. Vleeming has issued four supplements to date (privately printed, Brauneberg): 
- * The Berichtigungsliste of Demotic Documents in A. D. MMV (2006) 
+ * Note: S. P. Vleeming has issued four supplements to date (privately printed, Brauneberg):
+ * The Berichtigungsliste of Demotic Documents in A. D. MMV (2006)
  * The Berichtigungsliste of Demotic Documents in A. D. 2005-2006 (2007)
  * The Berichtigungsliste of Demotic Documents in A. D. 2007 (2008)
  * The Berichtigungsliste of Demotic Documents in A. D. 2007-9 (2010)
@@ -2524,7 +2536,7 @@ I.2 Galenus – Isocrates
  = Checklist of Demotic Text Editions and Re-editions, by S.P. Vleeming and A.A. den Brinker. Leiden 1993. (Uitgaven Vanwege de Stichting "Het Leids Papyrologisch Instituut" 14).
 
 ### <a id="DDBDP">DDBDP</a>
- = Duke Data Bank of Documentary Papyri. Recorded on Packard Humanities Institute CD-ROM 7 with all material entered to June 1996. Online version at <http://papyrus.info>. The DDBDP is co-directed by James Cowey and Joshua Sosin, who together set policy in close consultation with Rodney Ast, the Editorial Board, and other colleagues. Day-to-day editorial decisions are made democratically by the Editorial Board (Rodney Ast, James Cowey, Alain Delattre, Paul Heilporn, Todd Hickey, Cisca Hoogendijk, Joshua Sosin), often in consultation with other colleagues. Editorial proposals of special difficulty or weight are referred to a board of Senior Editors, who advise the Editorial Board on the virtue of the submissions. Senior Editors are/were: Isabella Andorlini(†), Roger Bagnall, Willy Clarysse, Hélène Cuvigny, Nikolaos Gonis, Dieter Hagedorn, Ann Hanson, Andrea Jördens, James Keenan, and Klaas Worp. For more on the DDBDP see the development site. 
+ = Duke Data Bank of Documentary Papyri. Recorded on Packard Humanities Institute CD-ROM 7 with all material entered to June 1996. Online version at <http://papyrus.info>. The DDBDP is co-directed by James Cowey and Joshua Sosin, who together set policy in close consultation with Rodney Ast, the Editorial Board, and other colleagues. Day-to-day editorial decisions are made democratically by the Editorial Board (Rodney Ast, James Cowey, Alain Delattre, Paul Heilporn, Todd Hickey, Cisca Hoogendijk, Joshua Sosin), often in consultation with other colleagues. Editorial proposals of special difficulty or weight are referred to a board of Senior Editors, who advise the Editorial Board on the virtue of the submissions. Senior Editors are/were: Isabella Andorlini(†), Roger Bagnall, Willy Clarysse, Hélène Cuvigny, Nikolaos Gonis, Dieter Hagedorn, Ann Hanson, Andrea Jördens, James Keenan, and Klaas Worp. For more on the DDBDP see the development site.
 
 ### <a id="Fachwörter">Fachwörter</a>
  = Fachwörter des öffentlichen Verwaltungsdienstes Ägyptens in der griechischen Papyrusurkunden der ptolemäisch-römischen Zeit, by F. Preisigke. Göttingen 1915. [Online: archive.org](https://archive.org/details/fachwrterdes00preiuoft)
@@ -2534,12 +2546,12 @@ I.2 Galenus – Isocrates
 
 ### <a id="Leiden_system_of_punctuation">Leiden system of punctuation</a>
  = Essai d'unification des méthodes employées dans les éditions de papyrus. (Résolution votée par le XVIIIe Congrès des Orientalistes, à Leyde, le 11 septembre 1931.), ChrEg 7 (1932) Nos 13-14, pp. 285-287. Online at <https://doi.org/10.1484/J.CDE.2.307092>. [Full bibliographic record](http://papyri.info/biblio/34098)
- 
+
 ### <a id="Lex.Äg.">Lex.Äg.</a>
- = Lexikon der Ägyptologie, ed. W. Helck, E. Otto and W. Westendorf. Wiesbaden 1972-1996. 
+ = Lexikon der Ägyptologie, ed. W. Helck, E. Otto and W. Westendorf. Wiesbaden 1972-1996.
 
 ### <a id="Lex.Äg.Pap.Dem.">Lex.Äg.Pap.Dem.</a>
- = "Papyrus, demotische," Lex.Äg. 4 (1982) coll. 750—898. An extensive list of published Demotic texts compiled by E. Lüddeckens. There are also lists of monographic editions of papyri in vol. 7 (1996) under section II Abkürzung, part d; in section IX, part b, there is a list of all papyrus texts cited in the Lex.Äg. 
+ = "Papyrus, demotische," Lex.Äg. 4 (1982) coll. 750—898. An extensive list of published Demotic texts compiled by E. Lüddeckens. There are also lists of monographic editions of papyri in vol. 7 (1996) under section II Abkürzung, part d; in section IX, part b, there is a list of all papyrus texts cited in the Lex.Äg.
 
 ### <a id="LHPC">LHPC</a>
  = The Leuven Homepage of Papyrus Collections World Wide, directed by W. Clarysse and H. Verreth, with H. Proost, I. Uytterhoeven, K. Vandorpe, P. van Minnen. Online at <http://www.trismegistos.org/coll/index.php>.
@@ -2549,7 +2561,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="Pros.Ptol.">Pros.Ptol.</a>
  = Prosopographia Ptolemaica, ed. W. Peremans and E. Van ’t Dack with additional editors as noted below. Leuven.
- 
+
  * I, L’Administration civile et financière. 1950. (Studia Hellenistica 6).
  * II, L’Armée de terre et la police. 1952. (Studia Hellenistica 8).
  * III, Le Clergé, le notariat, les tribunaux. 1956, reprint 1977. (Studia Hellenistica 11).
@@ -2559,25 +2571,25 @@ I.2 Galenus – Isocrates
  * VII, Index Nominum, ed. L. De Meulemeester-Swinnen and H. Hauben. 1975. (Studia Hellenistica 20).
  * VIII, Addenda et Corrigenda aux volumes I et II, ed. L. Mooren and W. Swinnen. 1975. (Studia Hellenistica 21).
  * IX, Addenda et Corrigenda au volume III, ed. W. Clarysse. 1981. (Studia Hellenistica 25).
- * X, Foreign Ethnics in Hellenistic Egypt, ed. C. A. La'da. 2002. (Studia Hellenistica 38). 
+ * X, Foreign Ethnics in Hellenistic Egypt, ed. C. A. La'da. 2002. (Studia Hellenistica 38).
 
 ### <a id="Till,_Prosopographie">Till, Prosopographie</a>
  = Datierung und Prosopographie der koptischen Urkunden aus Theben, ed. W.C. Till. SBWien 240.1 (1954).
 
 ### <a id="WörterListe">WörterListe</a>
- = Word lists of recent volumes of papyri and ostraca, compiled under the direction of D. Hagedorn, covering publications not included in the CD-ROM of the DDDBDP. An Adobe Acrobat (.pdf) file, available at <https://www.zaw.uni-heidelberg.de/hps/pap/WL/WL.pdf>. Now continued by K. Maresch and D. Hagedorn and available through the services of CCeH at Cologne <https://papyri.uni-koeln.de/papyri-woerterlisten/index.html>. 
+ = Word lists of recent volumes of papyri and ostraca, compiled under the direction of D. Hagedorn, covering publications not included in the CD-ROM of the DDDBDP. An Adobe Acrobat (.pdf) file, available at <https://www.zaw.uni-heidelberg.de/hps/pap/WL/WL.pdf>. Now continued by K. Maresch and D. Hagedorn and available through the services of CCeH at Cologne <https://papyri.uni-koeln.de/papyri-woerterlisten/index.html>.
 
 ### <a id="Lexica">Lexica</a>
 
 ### <a id="Calderini,_Diz.geogr.">Calderini, Diz.geogr.</a>
- = Dizionario dei nomi geografici e topografici dell’Egitto greco-romano, ed. A. Calderini and S. Daris. 
- 
+ = Dizionario dei nomi geografici e topografici dell’Egitto greco-romano, ed. A. Calderini and S. Daris.
+
  * I pt. 1, ed. A. Calderini. Cairo 1935. [Rp. CG 1972]; pt. 2, ed. A. Calderini. Madrid 1966; [Rp. CG 1972]
  * II, ed. S. Daris in 4 pts. Milan 1973—1977; [CG]
  * III, ed. idem in 4 parts. Milan 1978—1983; [CG]
- * IV, ed. idem in 4 pts. Milan 1983—1986; [CG] 
+ * IV, ed. idem in 4 pts. Milan 1983—1986; [CG]
  * V, ed. idem. Milan 1987. [CG]
- * Supplemento 1 (1935—1986), ed. idem. Milan 1988. [CG] 
+ * Supplemento 1 (1935—1986), ed. idem. Milan 1988. [CG]
  * Supplemento 2 (1987-1993), ed. idem. Bonn 1996. [CG]
 
 ### <a id="Chicago_Demotic_Dictionary">Chicago Demotic Dictionary</a>
@@ -2585,7 +2597,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="Coptic_Dictionary_Online">Coptic Dictionary Online</a>
  = <https://coptic-dictionary.org/>
- 
+
 ### <a id="Crum,_Dict.">Crum, Dict.</a>
  = Coptic Dictionary, ed. W.E. Crum. Oxford 1939. [rp. Sandpiper Books. OUP]
 
@@ -2593,7 +2605,7 @@ I.2 Galenus – Isocrates
  = Compléments au dictionnaire copte de Crum, ed. R. Kasser. Cairo 1964. (Institut Français d’Archéologie Orientale, Bibliothèque d’études coptes 7).
 
 ### <a id="Dict.inversé">Dict.inversé</a>
- = Dictionnaire inversé du Copte, ed. M.-O. Strasbach and B. Barc. Louvain 1984. (Cahiers de la bibliothèque copte 7). 
+ = Dictionnaire inversé du Copte, ed. M.-O. Strasbach and B. Barc. Louvain 1984. (Cahiers de la bibliothèque copte 7).
 
 ### <a id="Dornseiff-Hansen">Dornseiff-Hansen</a>
  = Rücklaüfiges Wörterbuch der griechischen Eigennamen, ed. F. Dornseiff and B. Hansen. Berlin 1957. (Sächsischen Akademie der Wissenschaften zu Leipzig, Phil.-hist. Kl., Berichte über die Verhandlungen 102.4). [AV]
@@ -2635,67 +2647,67 @@ I.2 Galenus – Isocrates
  = Lexicon nominum Semiticorum quae in papyris Graecis in Aegypto repertis ab anno 323 a.Ch.n. usque ad annum 70 p.Ch.n. laudata reperiuntur, ed. S.M. Ruozzi Sala. Milan 1974. (Testi e documenti per lo studi dell’antichità 46). [CG]
 
 ### <a id="Spoglio">Spoglio</a>
- = Spoglio lessicale papirologico, ed. S. Daris, in 3 vols. Milan 1968. 
+ = Spoglio lessicale papirologico, ed. S. Daris, in 3 vols. Milan 1968.
 
 ### <a id="Timm">Timm</a>
  = Das christlich-koptische Ägypten in arabischer Zeit: Eine Sammlung christlicher Stätten in Ägypten in arabischer Zeit unter Ausschluss von Alexandria, Kairo, des Apa-Mena-Klosters (Der Abu Mina), der Sketis (Wadi n-Natrun) und der Sinai-Region, ed. S. Timm. 6 volumes. Wiesbaden 1984—1992. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 1-6). [Dr. Ludwig Reichert Verlag]. See: Index zu Das christlich-koptische Ägypten in arabischer Zeit (Stefan Timm), ed. K.-H. Brune, Wiesbaden 2007. (Tübinger Atlas zum vorderen Orient, Beihefte, Reihe B, Geisteswissenschaften, 41, 7). [Dr. Ludwig Reichert Verlag]
 
 ### <a id="WB">WB</a>
- = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling. 
- 
+ = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling.
+
  * I, A-K, Berlin 1925.
  * II, Λ-Ω, Berlin 1927.
- * III, besondere Wörterliste, Berlin 1931. 
- * IV, A-Z in 5 pts. Berlin 1944—. 
- * Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH]. 
- * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH]. 
+ * III, besondere Wörterliste, Berlin 1931.
+ * IV, A-Z in 5 pts. Berlin 1944—.
+ * Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH].
+ * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH].
  * Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH].
 
 ### <a id="Grammars">Grammars</a>
 
 ### <a id="Bresciani,_Nozioni">Bresciani, Nozioni</a>
  = Nozioni elementari di grammatica demotica, by E. Bresciani. Milan 1969. (Testi e documenti per lo studio dell’antichità 29). [CG]
- 
+
 ### <a id="Brugsch,_Gram.">Brugsch, Gram.</a>
  = Grammaire Démotique, by H. Brugsch. Berlin 1855. [Online: archive.org](https://archive.org/details/bub_gb_0OFWm7H_EZYC)
- 
+
 ### <a id="du_Bourguet,_Gram.">du Bourguet, Gram.</a>
  = Grammaire fonctionelle et progressive de l’égyptien démotique, by P. du Bourguet. Louvain 1976. [Peeters]
- 
+
 ### <a id="Gignac,_Gram.">Gignac, Gram.</a>
  = A Grammar of the Greek Papyri of the Roman and Byzantine Periods, vol. I, Phonology, vol. II Morphology, by F.T. Gignac. Milan 1976, 1981. (Testi e documenti per lo studio dell’antichità, 55, 1—2). [CG]
- 
+
 ### <a id="Johnson,_Gram.">Johnson, Gram.</a>
  = Thus Wrote ‘Onchsheshonqy: An Introductory Grammar of Demotic, by J.H. Johnson. Chicago 1986. 2nd ed. 1991. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 45). A 3rd ed. rev. 2000 has been published on the World Wide Web at <http://www-oi.uchicago.edu/OI/DEPT/PUB/SRC/SAOC/45/SAOC45.html>.
- 
+
 ### <a id="Johnson,_Verbal_System">Johnson, Verbal System</a>
  = The Demotic Verbal System by J.H. Johnson. Chicago 1976. (University of Chicago, Oriental Institute. Studies in Ancient Oriental Civilization 38).
- 
+
 ### <a id="Layton,_Coptic_Grammar">Layton, Coptic Grammar</a>
  = A Coptic Grammar with Chrestomathy and Glossary. Sahidic Dialect, by B. Layton. Wiesbaden 2000. (Porta Linguarum Orientalium NS 20). [OH]
- 
+
 ### <a id="Lexa,_Gram.">Lexa, Gram.</a>
  = Grammaire démotique, by F. Lexa, in 7 parts. Prague 1949—1951. Privately printed.
- 
+
 ### <a id="Mandilaras,_Verb">Mandilaras, Verb</a>
  = The Verb in the Greek Non-literary Papyri, by B.G. Mandilaras. Athens 1973.
- 
+
 ### <a id="Mayser,_Gram.">Mayser, Gram.</a>
  = Grammatik der griechischen Papyri aus der Ptolemäerzeit mit Einschluss der gleichzeitigen Ostraka und der in Ägypten verfassten Inschriften, by E. Mayser. Berlin/Leipzig 1906—1970. [WdG]
- 
+
  * I, Laut und Wortlehre, 1906, rp. 1923. [Online: archive.org](https://archive.org/details/grammatikdergrie00maysuoft)
  * I 1, Einleitung und Lautlehre, 2nd ed. by H. Schmoll. Berlin 1970. [WdG]
  * I 2, Laut- und Wortlehre, pt. II Flexionslehre, 2nd ed. 1938.
  * I 3, Laut- und Wortlehre, pt. III Stammbildung, 2nd ed. 1936.
  * II 1—2, Satzlehre, Analytischer Teil. 1933—1934. [II.1 Online: archive.org](https://archive.org/details/p1grammatikder02maysuoft), [II.2 Online: archive.org](https://archive.org/details/p2n2grammatikder02maysuoft)
  * II 3, Satzlehre, Synthetischer Teil. 1934. [Online: archive.org](https://archive.org/details/p3grammatikder02maysuoft)
- 
+
 ### <a id="Palmer,_Gram.">Palmer, Gram.</a>
  = A Grammar of the Post-Ptolemaic Papyri, by L.R. Palmer. Vol. I, Accidence and Word-formation, pt. 1, The Suffixes (no further parts published). London 1945. [OUP]
- 
+
 ### <a id="Simpson,_Gram.">Simpson, Gram.</a>
  = Demotic Grammar in the Ptolemaic Sacerdotal Decrees, by R.S. Simpson. Oxford 1996. (Griffith Institute Monographs). [Griffith Institute. Ashmolean Museum]
- 
+
 ### <a id="Spiegelberg,_Gram.">Spiegelberg, Gram.</a>
  = Demotische Grammatik, by W. Spiegelberg. Heidelberg 1925. [Online: bodleian.ox.ac.uk](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph012114216)
 
@@ -2703,86 +2715,86 @@ I.2 Galenus – Isocrates
 
 ### <a id="Boswinkel-Sijpesteijn,_Tabulae">Boswinkel-Sijpesteijn, Tabulae</a>
  = Greek Papyri, Ostraca and Mummy Labels, by E. Boswinkel and P.J. Sijpesteijn. Amsterdam 1968. (Tabulae Palaeo-graphicae I). [AMH]
- 
+
 ### <a id="Cavallo-Maehler,_GB">Cavallo-Maehler, GB</a>
  = Greek Bookhands of the Early Byzantine Period, A.D. 300—800, by G. Cavallo and H. Maehler. London 1987. (Institute of Classical Studies, Bulletin Supplement 47). [ICS]
- 
+
 ### <a id="Cramer">Cramer</a>
  = Koptische Paläographie, by M. Cramer. Wiesbaden 1964. [OH]
- 
+
 ### <a id="El-Aguizy">El-Aguizy</a>
  = A Palaeographical Study of Demotic Papyri in the Cairo Museum from the Reign of King Taharka to the End of the Ptolemaic Period (684-30 B.C.), by O. el-Aguizy. Cairo 1998. (MIFAO 113). [SEVPO]
- 
+
 ### <a id="Harauer">Harauer</a>
  = Handbuch der griechischen Paläographie, by H. Harrauer. Bd. I Textband, Bd. II Tafelband, with a CD-ROM. Stuttgart 2010. (Bibliothek des Buchwesens 20). [A. Hiersemman]
- 
+
 ### <a id="Hyvernat">Hyvernat</a>
  = Album de paléographie copte pour servir à l’introduction paléo-graphique des Actes des Martyrs de l’Égypte, by H. Hyvernat. Paris 1888. [Reprint OZ 1972]
- 
+
 ### <a id="Roberts,_GLH">Roberts, GLH</a>
  = Greek Literary Hands, 350 B.C.—A.D. 400, by C.H. Roberts. Oxford 1956. [OUP]
- 
+
 ### <a id="Schubart,_Pal.">Schubart, Pal.</a>
  = Griechische Palaeographie, by W. Schubart. Munich 1925, rp. 1966. (Handbuch der Altertumswissenschaft I.4.1). [Beck]
- 
+
 ### <a id="Schubart,_PGB">Schubart, PGB</a>
  = Papyrae graecae Berolinenses, by W. Schubart. Bonn 1911. (Tabulae in Usum Scholarum 2). [Online: archive.org](https://archive.org/details/papyrigraecaeber00schuuoft)
- 
+
 ### <a id="Seider,_Pal.Gr.">Seider, Pal.Gr.</a>
  = Paläographie der griechischen Papyri, by R. Seider. Bd. I Urkunden, Bd. II Literarische Papyri, Bd. III Text, pt. 1 Urkundenschrift. Stuttgart 1967, 1970, 1990. [Hiersemann]
- 
+
 ### <a id="Seider,_Pal.Lat.">Seider, Pal.Lat.</a>
  = Paläographie der lateinischen Papyri, by R. Seider. Bd. I Urkunden. Bd. II, 1 Literarische Papyri. Bd. II, 2 Juristische und Christliche Texte. Stuttgart 1972, 1978, 1981. [Hiersemann]
- 
+
 ### <a id="Stegemann">Stegemann</a>
  = Koptische Paläographie, by V. Stegemann. Heidelberg 1936.
- 
+
 ### <a id="Turner,_GMAW">Turner, GMAW</a>
- = Greek Manuscripts of the Ancient World, by E.G. Turner: 2nd ed. rev. and enl. by P.J. Parsons. London 1987. (Institute of Classical Studies, Bulletin Supplement 46). [ICS] 
+ = Greek Manuscripts of the Ancient World, by E.G. Turner: 2nd ed. rev. and enl. by P.J. Parsons. London 1987. (Institute of Classical Studies, Bulletin Supplement 46). [ICS]
 
 ### <a id="Handbooks">Handbooks</a>
 
 ### <a id="Copt.Enc.">Copt.Enc.</a>
  = The Coptic Encyclopedia, ed. A.S. Atiya. 8 volumes. New York 1991.
- 
+
 ### <a id="Depauw,_Companion">Depauw, Companion</a>
  = A Companion to Demotic Studies, by M. Depauw. Brussels 1997. (Pap.Brux. XXVIII). [FERE]
- 
+
 ### <a id="Fikhman,_Introduction">Fikhman, Introduction</a>
  = Introduction à la papyrologie documentaire (In Russian), by I.F. Fikhman. Moscow 1987.
- 
+
 ### <a id="Grundz.Mitt.">Grundz.Mitt.</a> (or <a id="M.Gr.">M.Gr.</a>)
  = L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, II Bd. Juristischer Teil, I Hälfte Grundzüge, by L. Mitteis. Leipzig/Berlin 1912. &#91;MF 2. 122—123 (with Chrestomathie); rp. GO&#93; [Online: archive.org](https://archive.org/details/grundzgeundchr21wilc)
- 
+
 ### <a id="Grundz.Wilck.">Grundz.Wilck.</a> (or <a id="W.Gr.">W.Gr.</a>)
  = L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, I Bd. Historischer Teil, I Hälfte Grundzüge, by U. Wilcken. Leipzig/Berlin 1912. &#91;MF 2. 120—121 (with Chrestomathie); rp. GO&#93; [Online: archive.org](http://archive.org/details/grundzgeundchr11wilcuoft)
- 
+
 ### <a id="Hoffmann,_Darstellung">Hoffmann, Darstellung</a>
  = Ägypten: Kultur und Lebenswelt in griechisch-römischer Zeit: Eine Darstellung nach den demotischen Quellen, by F. Hoffmann. Berlin 2000. [AV]
- 
+
 ### <a id="Hohlwein,_Papyrologie">Hohlwein, Papyrologie</a>
  = La Papyrologie Grecque, Bibliographie raisonée, by N. Hohlwein. Louvain 1905. (Musée Belge 6-9 [1902-1906]). [Online: archive.org](https://archive.org/details/lapapyrologiegr00hohlgoog)
- 
+
 ### <a id="Montevecchi,_Pap.">Montevecchi, Pap.</a>
  = La Papirologia, by O. Montevecchi. 2nd ed. Milan 1988. [VP]
- 
+
 ### <a id="Peremans,_Vergote,_Handboek">Peremans, Vergote, Handboek</a>
  = Papyrologisch Handboek, by W. Peremans and J. Vergote. Leuven 1942.
- 
+
 ### <a id="Pestman,_Prim.2">Pestman, Prim.²</a>
  = The New Papyrological Primer, 2nd ed., by P.W. Pestman. Leiden 1994. [EJB]
- 
+
 ### <a id="Preisendanz,_Papyrusfunde">Preisendanz, Papyrusfunde</a>
  = Papyrusfunde und Papyrusforschung, by K. Preisendanz. Leipzig 1933.
- 
+
 ### <a id="Rupprecht,_Einf.">Rupprecht, Einf.</a>
  = Kleine Einführung in die Papyruskunde, by H.-A. Rupprecht. Darmstadt 1994.
- 
+
 ### <a id="Schubart,_Einf.">Schubart, Einf.</a>
  = Einführung in die Papyruskunde, by W. Schubart. Berlin 1918. [Online: archive.org](https://archive.org/details/einfhrungindie00schuuoft)
- 
+
 ### <a id="Turner,_GP">Turner, GP</a>
- = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP] 
+ = Greek Papyri, an Introduction, by E.G. Turner. Oxford 1968; rev. ed. 1980. [OUP]
  * Papyrological resources on the World Wide Web not listed here can be found through the Web site of the American Society of Papyrologists, <www.papyrology.org>
 
 ## <a id="Series">Series</a>
@@ -2804,55 +2816,55 @@ I.2 Galenus – Isocrates
  = _American Studies in Papyrology_. Durham, New Haven, Toronto, Las Palmas, Missoula, Chico, Decatur, Atlanta, Oakville 1966—. (American Society of Papyrologists).
 
  * I, Essays in Honor of C. Bradford Welles, ed. A.E. Samuel. 1966. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/51c5b4dh)
- * II, see [P.Yale](#P.Yale) I.
+ * II, see [P.Yale](#P.Yale) I. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000002/1)
  * III, Inventory of Compulsory Services in Ptolemaic and Roman Egypt, by N. Lewis. 1968. [o.p.] See now N. Lewis, The Compulsory Public Services of Roman Egypt, 2nd ed., Florence 1997. ([Pap.Flor.](#Pap.Flor.) XXVIII). [Online: AWDL](http://hdl.handle.net/2333.1/547d809c)
  * IV, The Taxes in Grain in Ptolemaic Egypt: Granary Receipts from Diospolis Magna, 164—88 B.C., by Z.M. Packman. 1968. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/189323w5)
  * V, Euripides Papyri I, Texts from Oxyrhynchus, by B.E. Donovan. 1969. [Oxbow]
- * VI, see [P.Mich.](#P.Mich.) X.
- * VII, see [Pap.Congr.](#Pap.Congr.) XII (IX Proceedings).
+ * VI, see [P.Mich.](#P.Mich.) X. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000006/1)
+ * VII, see [Pap.Congr.](#Pap.Congr.) XII (IX Proceedings). [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000007/1)
  * VIII, The Ptolemaic and Roman Idios Logos, by P.R. Swarney. 1970. &#91;o.p.&#93; [Online: AWDL](http://hdl.handle.net/2333.1/n02v72f2)
- * IX, see [P.Mich.](#P.Mich.) XI.
- * X, see [O.Ont.Mus.](#O.Ont.Mus.) I.
+ * IX, see [P.Mich.](#P.Mich.) XI. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000009/1)
+ * X, see [O.Ont.Mus.](#O.Ont.Mus.) I. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000010/1)
  * XI, The Town Councils of Roman Egypt, by A.K. Bowman. 1971. &#91;o.p.&#93; [Online: AWDL](http://hdl.handle.net/2333.1/j3tx9bjf)
  * XII, The Four Greek Hymns of Isidorus and the Cult of Isis, by V.F. Vanderlip. 1972. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/wm37pzfs)
  * XIII, Greek Terms for Roman Institutions: A Lexicon and Analysis, by H.J. Mason. 1974. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/dbrv1b19)
- * XIV, see [P.Mich.](#P.Mich.) XII.
- * XV, see [O.Ont.Mus.](#O.Ont.Mus.) II.
+ * XIV, see [P.Mich.](#P.Mich.) XII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000014/1)
+ * XV, see [O.Ont.Mus.](#O.Ont.Mus.) II. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000015/1)
  * XVI, Chester Beatty Biblical Papyri IV and V, by A. Pietersma. 1977. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/4tmpg8x0)
- * XVII, see [P.Wash.Univ.](#P.Wash.Univ.) I.
+ * XVII, see [P.Wash.Univ.](#P.Wash.Univ.) I. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000017/1)
  * XVIII, Imperial Estates in Egypt, by G.M. Parássoglou. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/0gb5mrbr)
  * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/rv15dxzp)
- * XX, see [P.Col.](#P.Col.) VII.
+ * XX, see [P.Col.](#P.Col.) VII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000020/11)
  * XXI, Le Nome Hermopolite: toponymes et sites, by M. Drew-Bear. 1979. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/g4f4qx0v)
- * XXII, see [P.Mich.](#P.Mich.) XIV.
+ * XXII, see [P.Mich.](#P.Mich.) XIV. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000022/1)
  * XXIII, see [Pap.Congr.](#Pap.Congr.) XVI (IX Proceedings).
- * XXIV, see [P.Yale](#P.Yale) II.
+ * XXIV, see [P.Yale](#P.Yale) II. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000024/1)
  * XXV, Register of Oxyrhynchites, 30 B.C.—A.D. 96, by B.W. Jones and J.E.G. Whitehorne. 1983. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/n5tb2v4b)
- * XXVI, see [P.CattleDocs.](#P.CattleDocs.) 
+ * XXVI, see [P.CattleDocs.](#P.CattleDocs.) [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000026/1)
  * XXVII, Grundlagen des koptischen Satzbaus, by H.J. Polotsky. (Half-title misnumbered 28, corrected on title-page verso). 1987. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/cnp5ht4z)
- * XXVIII, see [P.Col.](#P.Col.) VIII.
+ * XXVIII, see [P.Col.](#P.Col.) VIII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000028)
  * XXIX, Grundlagen des koptischen Satzbaus, zweite Hälfte, by H.J. Polotsky. 1990. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/cnp5ht4z)
  * XXX, see [P.Mich.](#P.Mich.) XVI.
  * XXXI, Ptocheia or Odysseus in Disguise at Troy (P.Köln 245), by M.G. Parca. 1991. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/44j0zs3c)
- * XXXII, see [P.Sorb.](#P.Sorb.) II.
+ * XXXII, see [P.Sorb.](#P.Sorb.) II. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000032/1)
  * XXXIII, On Government and Law in Roman Egypt. Collected Papers of Naphtali Lewis. 1995. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/mw6m94sf)
- * XXXIV, see [P.Col.](#P.Col.) X.
- * XXXV, see [P.Mich.](#P.Mich.) XVII.
+ * XXXIV, see [P.Col.](#P.Col.) X. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000034/1)
+ * XXXV, see [P.Mich.](#P.Mich.) XVII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000035/1)
  * XXXVI, Writing, Teachers, and Students in Graeco-Roman Egypt, by R. Cribiore. 1996. [Oxbow]
  * XXXVII, The Herakleopolite Nome, by M.R. Falivene. 1998. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/cc2fr3qm)
- * XXXVIII, see [P.Col.](#P.Col.) XI.
- * XXXIX, see [P.Col.](#P.Col.) IX.
- * XL, see [P.Sijp.](#P.Sijp.)
- * XLI, see [P.Yale](#P.Yale) III.
- * XLII, see [P.Thomas](#P.Thomas)
- * XLIII, see [P.Bawit Clackson](#P.Bawit_Clackson)
- * XLIV, see [P.Berl.Cohen](#P.Berl.Cohen)
+ * XXXVIII, see [P.Col.](#P.Col.) XI. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000038/1)
+ * XXXIX, see [P.Col.](#P.Col.) IX. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000039)
+ * XL, see [P.Sijp.](#P.Sijp.) [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000040/1)
+ * XLI, see [P.Yale](#P.Yale) III. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000041/1)
+ * XLII, see [P.Thomas](#P.Thomas) [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000042/1)
+ * XLIII, see [P.Bawit Clackson](#P.Bawit_Clackson) [Online: AWDL](http://hdl.handle.net/2333.1/gf1vhmd4)
+ * XLIV, see [P.Berl.Cohen](#P.Berl.Cohen) [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000044/1)
  * XLV, Annotations in Greek and Latin Texts from Egypt, by K.McNamee. 2007 &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/6m905vz5)
- * XLVI, see [P.Clackson](#P.Clackson)
+ * XLVI, see [P.Clackson](#P.Clackson) [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000046/1)
  * XLVII, In pursuit of invisibility: ritual texts from late Roman Egypt, by Richard L. Phillips. 2009 [Online: AWDL](http://hdl.handle.net/2333.1/bnzs7kwq)
  * XLVIII, To mega biblion: book-ends, end-titles, and coronides in papyri with hexametric poetry, by F. Schironi. 2010. [Online: AWDL](http://hdl.handle.net/2333.1/05qftzwh)
  * XLIX, see [P.Mich.](#P.Mich.) XX
- * L, A prosopography of Byzantine Aphrodito, by G.R. Ruffini. 2011. 
+ * L, A prosopography of Byzantine Aphrodito, by G.R. Ruffini. 2011.
  * LI, see [P.Lond.Herm.](#P.Lond.Herm.)
  * LII, New epigrams of Palladas: a fragmentary papyrus codex (P. CtYBR inv. 4000), by K.W. Wilkinson. 2012.
  * LIII, see [P.Bagnall](#P.Bagnall)
@@ -2863,7 +2875,7 @@ I.2 Galenus – Isocrates
  * 1, Studien zur Geschichte des Römischen Kolonates, by M. Rostowzew. Leipzig and Berlin 1910. [Online: archive.org](https://archive.org/details/studienzurgeschi00rost)
  * 2, Untersuchungen zur Chronologie der ersten Ptolemäer auf Grund der Papyri, by E. Meyer. Leipzig and Berlin 1925.
  * 3, see [Pap.Congr.](#Pap.Congr.) XXI (IX Proceedings).
- * 4, see [P.Hamb.](#P.Hamb.) IV.
+ * 4, see [P.Hamb.](#P.Hamb.) IV. [Online: archive.org](https://archive.org/details/archivfrpapyru04leipuoft)
  * 5, Topographie und Geschichte der Region am ersten Nilkatarakt in griechisch-römischer Zeit, by J. Locher. Stuttgart and Leipzig 1999. [KGS]
  * 6, Des Niloten Horapollon Hieroglyphenbuch, Part One, Text und Überstetzung, by H.J. Thissen. Munich and Leipzig 2001. [KGS]
  * 7, See [BGU](#BGU) XVII.
@@ -2890,7 +2902,7 @@ I.2 Galenus – Isocrates
  * 34, see [P.Philammon](#P.Philammon)
  * 35, see [P.Cair.Mich.](#P.Cair.Mich.) II
  * 36, see [P.Trier](#P.Trier) I
- * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016. 
+ * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016.
  * 38, see [P.Trier](#P.Trier) II
  + 39, see [P.Giss](#P.Giss.) II
 
@@ -2917,7 +2929,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="ComunicazioniVitelli">ComunicazioniVitelli</a>
  = Comunicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
- 
+
  * 1, 1995
  * 2, 1997
  * 3, 1999
@@ -3081,7 +3093,7 @@ I.2 Galenus – Isocrates
  * 90, see [P.Oxy.](#P.Oxy.) LXX.
  * 91, see [P.Oxy.](#P.Oxy.) LXXI.
  * 92, see [P.Oxy.](#P.Oxy.) LXXII.
- * 93, Oxyrhynchus: a city and its texts, ed. A.K. Bowman, R.A. Coles, N. Gonis, D. Obbink, P.J. Parsons. 2007 
+ * 93, Oxyrhynchus: a city and its texts, ed. A.K. Bowman, R.A. Coles, N. Gonis, D. Obbink, P.J. Parsons. 2007
  * 94, see [P.Oxy.](#P.Oxy.) LXXIII.
  * 95, see [P.Oxy.](#P.Oxy.) LXXIV.
  * 96, see [P.Oxy.](#P.Oxy.) LXXV.
@@ -3096,50 +3108,50 @@ I.2 Galenus – Isocrates
 ### <a id="KurzberichteGiessen">KurzberichteGiessen</a>
  = _Kurzberichte aus den Papyrussammlungen: Universitäts-bibliothek Giessen_
 
- * I, Bericht über den VII. Internationalen Kongress für Papyrologie im Hinblick auf die Giessener Papyrussammlungen, by H.G. Gundel. 1956. Reprint 1968.
- * II, Die Giessener Papyrussammlungen. Überblick und Bibliographie, by H.G. Gundel. 1956. Reprint 1966.
- * III, Vorbemerkungen zum Inventar der Papyri bibliothecae universitatis Gissensis, by H.G. Gundel. 1956. 2nd edition 1968 = Kurzberichte XXVII.
- * IV, Die Rückführung Giessener Papyri aus Amerika, by H.G. Gundel. 1958. 2nd edition 1971.
- * V, Vorbemerkungen zum Inventar der Papyri Iandanae, by H.G. Gundel. 1958. Second edition, KurzberichteXXIX, 1971.
- * VI, Vorbemerkungen zum Inventar der papyri Gissenses, by H.G. Gundel. 1958. Second edition KurzberichteXXXII, 1975.
- * VII Vorbemerkungen zum Inventar der Ostraca Gissensia, with the collaboration of F. Heichelheim, by H.G. Gundel. 1959. Second expanded edition 1971.
- * VIII Giessener Papyrussammlungen im neuen Raum, by H.G. Gundel. 1959. Second edition 1976.
- * IX, Von der Arbeit an den Giessener Papyrussammlungen, by H.G. Gundel. 1960.
- * X, Antiker Kaufvertrag auf einer Wachstafel aus Ravenna, by H.G. Gundel. 1960.
- * XI, Das Inventar der Giessener Papyrussammlungen–Neues über die Bestände, by H.G. Gundel. 1961.
- * XII, Die literarischen Papyri in der Giessener Universitätsbibliothek, by H.G. Gundel. 1962. Second expanded edition in Kurzberichte XXXIX, 1977.
- * XIII, Das kolorierte Giessener Papyrusfragment P.Giss.Inv.Nr 1080, by H.G. Gundel and J.M.A. Janssen. 1962.
- * XIV, Antike Papyri in Giessen. Proben aus den Papyrussammlungen der Universitätsbibliothek, by H.G. Gundel. 1963.
- * XV, Probleme der Papyrus-Konservierung in den Giessener Papyrussammlungen, by H.G. Gundel. 1963.
- * XVI, Das Giessener Fragment einer demotischen Zivilprozessordnung (P.bibl.univ.Giss.inv.Nr 101), by E. Seidl. 1963.
- * XVII, Giessener Papyrologen im Briefwechsel mit H. Ibscher. Neue Materialien zur Geschichte der Giessener Papyrussammlungen zwischen 1927 und 1945, by H.G. Gundel. 1964.
- * XVIII, Die Giessener Zenonpapyri (P.Iand.). Zwischenbericht über ihre Bearbeitung, by F. Uebel. 1964.
- * XIX, Das Giessener veterinärmedizinische Rezept aus der Antike (P.Iand. 86), by H.G. Gundel. 1965.
- * XX, Un compte de foin du 6e siècle. Le P.Iand.inv. 653, by T. Reekmans. 1965.
- * XXI, Les archives du stratège Apollonios et les P.Gissenses inédits, by J. Schwartz. 1965.
- * XXII, Zur Constitutio Antoniniana. (Pap.Giss. 40 I). 1. "Una nueva hipotesis sobre P.Giss. 40 I," by A. d’Ors. 2. "Papyrologisches zur Constitutio Antoniniana," by H.G. Gundel. 1966. 2nd edition 1973.
- * XXIII, The Giessen Coptic Texts, by R. J. Williams. 1966.
- * XXIV, Aus dem Briefwechsel mit Giessener Papyrologen. Weitere Materialien zur Geschichte der Giessener Papyrussammlungen zwischen 1926 und 1945, by F. M. Heichelheim and H.G. Gundel. 1967. 2nd edition 1977.
- * XXV, Papyrus Iandana 68b. Eine paläographische Studie, by J.-O. Tjäder. 1967. 2nd edition 1977.
- * XXVI, Weitere griechische Texte aus Giessen. Ein Bericht über die Zusammenarbeit Giessen — Leiden, 1960—1967, by E. Boswinkel. 1968.
- * XXVII, Papyri bibliothecae universitatis Gissensis. Eine Einführung, by H.G. Gundel. 1968.
- * XXVIII, Literarische und experimentelle technologische Studien über Wachsbeschreibstoffe unter besonderer Berücksichtigung der Giessener Wachsschreibtafeln, by R. Büll. 1969.
- * XXIX, Papyri Iandanae. Eine Einführung. 2nd updated edition of Kurzberichte V (1957), by H.G. Gundel. 1971.
- * XXX, Ausgewählte Giessener Papyri. Ein Katalog, by H.G. Gundel. 1971.
- * XXXI, Giessener papyri 1971, by O. Gärtner und H.G. Gundel. 1972.
- * XXXII, Papyri Gissenses. Eine Einführung. 2nd new and expanded edition of Kurzberichte VI (1958), by H.G. Gundel. 1975.
- * XXXIII, Zur Paläographie des Giessener Ciceropapyrus (P.Iand.90 Inv. 210), by R. Seider. 1975.
- * XXXIV, Trajans Vergöttung (P.Giss.3), by W. den Boer. 1975.
- * XXXV, Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ.Giss.), by K.A. Worp. 1975. [Online: Leiden](http://hdl.handle.net/1887/9155)
- * XXXVI, Die Entzifferung griechischer Tachygraphie auf Papyri und Wachstafeln mit Bemerkungen zu den Giessener tachygraphischen Fragmenten sowie zur Geschichte der Tachygraphie und zur Frage der Priorität ihrer Erfindung, by H. Boge. 1976.
- * XXXVII, Neues aus unveröffentlichten Giessener Papyri, by P.J. Sijpesteijn. 1976.
- * XXXVIII, Vom Graecus und seinen Aufgaben nach den alten Giessener Universitätsstatuten, by H.G. Gundel. 1977.
- * XXXIX, Katalog der literarischen Papyri in der Giessener Universitätsbibliothek, by H.G. Gundel. 2nd expanded edition of Kurzberichte XII (1966). 1977.
- * XL, Papyrustexte als Geschichtsquellen. Schriftträger und Schriften im Altertum–Sammlungen und Fragmente heute, by H.G. Gundel. 1980.
- * XLI, Editionen Giessener Papyri nach 1945. Katalog und Bibliographie, by H.G. Gundel. 1984.
- * XLII, Die Giessener hieroglyphischen und demotischen Texte, by U. Kaplony-Heckel. 1986.
- * XLIII, Die Unschuldserklärungen und Beichten im ägyptischen Totenbuch, in der römischen Elegie und im antiken Roman, by R. Merkelbach. 1987.
- * XLIV, Giessener Dokumente zur antiken Schriftkultur, by P. Kuhlmann. 1997.
+ * I, Bericht über den VII. Internationalen Kongress für Papyrologie im Hinblick auf die Giessener Papyrussammlungen, by H.G. Gundel. 1956. Reprint 1968. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1652/pdf/Kurzberichte-01.pdf)
+ * II, Die Giessener Papyrussammlungen. Überblick und Bibliographie, by H.G. Gundel. 1956. Reprint 1966. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1653/pdf/Kurzberichte-02.pdf)
+ * III, Vorbemerkungen zum Inventar der Papyri bibliothecae universitatis Gissensis, by H.G. Gundel. 1956. 2nd edition 1968 = Kurzberichte XXVII. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1748/pdf/Kurzbericht-27.pdf)
+ * IV, Die Rückführung Giessener Papyri aus Amerika, by H.G. Gundel. 1958. 2nd edition 1971. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1730/pdf/Kurzberichte-04.pdf)
+ * V, Vorbemerkungen zum Inventar der Papyri Iandanae, by H.G. Gundel. 1958. Second edition, KurzberichteXXIX, 1971. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1750/pdf/Kurzberichte-29.pdf)
+ * VI, Vorbemerkungen zum Inventar der papyri Gissenses, by H.G. Gundel. 1958. Second edition KurzberichteXXXII, 1975. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1755/pdf/Kurzberichte-32.pdf)
+ * VII Vorbemerkungen zum Inventar der Ostraca Gissensia, with the collaboration of F. Heichelheim, by H.G. Gundel. 1959. Second expanded edition 1971. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1731/pdf/Kurzberichte-07.pdf)
+ * VIII Giessener Papyrussammlungen im neuen Raum, by H.G. Gundel. 1959. Second edition 1976. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1732/pdf/Kurzberichte-08.pdf)
+ * IX, Von der Arbeit an den Giessener Papyrussammlungen, by H.G. Gundel. 1960. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1733/pdf/Kurzberichte-09.pdf)
+ * X, Antiker Kaufvertrag auf einer Wachstafel aus Ravenna, by H.G. Gundel. 1960. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1734/pdf/Kurzberichte-10.pdf)
+ * XI, Das Inventar der Giessener Papyrussammlungen–Neues über die Bestände, by H.G. Gundel. 1961. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1735/pdf/Kurzberichte-11.pdf)
+ * XII, Die literarischen Papyri in der Giessener Universitätsbibliothek, by H.G. Gundel. 1962. Second expanded edition in Kurzberichte XXXIX, 1977. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1762/pdf/Kurzberichte-39.pdf)
+ * XIII, Das kolorierte Giessener Papyrusfragment P.Giss.Inv.Nr 1080, by H.G. Gundel and J.M.A. Janssen. 1962. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1736/pdf/Kurzberichte-13.pdf)
+ * XIV, Antike Papyri in Giessen. Proben aus den Papyrussammlungen der Universitätsbibliothek, by H.G. Gundel. 1963. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1737/pdf/Kurzberichte-14.pdf)
+ * XV, Probleme der Papyrus-Konservierung in den Giessener Papyrussammlungen, by H.G. Gundel. 1963. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1738/pdf/Kurzberichte-15.pdf)
+ * XVI, Das Giessener Fragment einer demotischen Zivilprozessordnung (P.bibl.univ.Giss.inv.Nr 101), by E. Seidl. 1963. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1739/pdf/Kurzberichte-16.pdf)
+ * XVII, Giessener Papyrologen im Briefwechsel mit H. Ibscher. Neue Materialien zur Geschichte der Giessener Papyrussammlungen zwischen 1927 und 1945, by H.G. Gundel. 1964. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1740/pdf/Kurzberichte-17.pdf)
+ * XVIII, Die Giessener Zenonpapyri (P.Iand.). Zwischenbericht über ihre Bearbeitung, by F. Uebel. 1964. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1741/pdf/Kurzberichte-18.pdf)
+ * XIX, Das Giessener veterinärmedizinische Rezept aus der Antike (P.Iand. 86), by H.G. Gundel. 1965. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1742/pdf/Kurzberichte-19.pdf)
+ * XX, Un compte de foin du 6e siècle. Le P.Iand.inv. 653, by T. Reekmans. 1965. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1743/pdf/Kurzberichte-20.pdf)
+ * XXI, Les archives du stratège Apollonios et les P.Gissenses inédits, by J. Schwartz. 1965. [Online: uni-giessen.de](http://bibd.uni-giessen.de/pub/kbgi21a2/kbgipap21a2-001.html)
+ * XXII, Zur Constitutio Antoniniana. (Pap.Giss. 40 I). 1. "Una nueva hipotesis sobre P.Giss. 40 I," by A. d’Ors. 2. "Papyrologisches zur Constitutio Antoniniana," by H.G. Gundel. 1966. 2nd edition 1973. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1789/pdf/Kurzberichte-22.pdf)
+ * XXIII, The Giessen Coptic Texts, by R. J. Williams. 1966. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1745/pdf/Kurzberichte-23.pdf)
+ * XXIV, Aus dem Briefwechsel mit Giessener Papyrologen. Weitere Materialien zur Geschichte der Giessener Papyrussammlungen zwischen 1926 und 1945, by F. M. Heichelheim and H.G. Gundel. 1967. 2nd edition 1977. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1790/pdf/Kurzberichte-24.pdf)
+ * XXV, Papyrus Iandana 68b. Eine paläographische Studie, by J.-O. Tjäder. 1967. 2nd edition 1977. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1746/pdf/Kurzberichte-25.pdf)
+ * XXVI, Weitere griechische Texte aus Giessen. Ein Bericht über die Zusammenarbeit Giessen — Leiden, 1960—1967, by E. Boswinkel. 1968. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1747/pdf/Kurzberichte-26.pdf)
+ * XXVII, Papyri bibliothecae universitatis Gissensis. Eine Einführung, by H.G. Gundel. 1968. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1748/pdf/Kurzbericht-27.pdf)
+ * XXVIII, Literarische und experimentelle technologische Studien über Wachsbeschreibstoffe unter besonderer Berücksichtigung der Giessener Wachsschreibtafeln, by R. Büll. 1969. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1749/pdf/Kurzberichte-28.pdf)
+ * XXIX, Papyri Iandanae. Eine Einführung. 2nd updated edition of Kurzberichte V (1957), by H.G. Gundel. 1971. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1750/pdf/Kurzberichte-29.pdf)
+ * XXX, Ausgewählte Giessener Papyri. Ein Katalog, by H.G. Gundel. 1971. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1751/pdf/Kurzberichte-30.pdf)
+ * XXXI, Giessener papyri 1971, by O. Gärtner und H.G. Gundel. 1972. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1754/pdf/Kurzberichte-31.pdf)
+ * XXXII, Papyri Gissenses. Eine Einführung. 2nd new and expanded edition of Kurzberichte VI (1958), by H.G. Gundel. 1975. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1755/pdf/Kurzberichte-32.pdf)
+ * XXXIII, Zur Paläographie des Giessener Ciceropapyrus (P.Iand.90 Inv. 210), by R. Seider. 1975. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1756/pdf/Kurzberichte-33.pdf)
+ * XXXIV, Trajans Vergöttung (P.Giss.3), by W. den Boer. 1975. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1757/pdf/Kurzberichte-34.pdf)
+ * XXXV, Indices zu den Papyri bibliothecae universitatis Gissensis (P.bibl.univ.Giss.), by K.A. Worp. 1975. [Online: Leiden](http://hdl.handle.net/1887/9155) [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9155)
+ * XXXVI, Die Entzifferung griechischer Tachygraphie auf Papyri und Wachstafeln mit Bemerkungen zu den Giessener tachygraphischen Fragmenten sowie zur Geschichte der Tachygraphie und zur Frage der Priorität ihrer Erfindung, by H. Boge. 1976. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1759/pdf/Kurzberichte-36.pdf)
+ * XXXVII, Neues aus unveröffentlichten Giessener Papyri, by P.J. Sijpesteijn. 1976. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1760/pdf/Kurzberichte-37.pdf)
+ * XXXVIII, Vom Graecus und seinen Aufgaben nach den alten Giessener Universitätsstatuten, by H.G. Gundel. 1977. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1761/pdf/Kurzberichte-38.pdf)
+ * XXXIX, Katalog der literarischen Papyri in der Giessener Universitätsbibliothek, by H.G. Gundel. 2nd expanded edition of Kurzberichte XII (1966). 1977. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1762/pdf/Kurzberichte-39.pdf)
+ * XL, Papyrustexte als Geschichtsquellen. Schriftträger und Schriften im Altertum–Sammlungen und Fragmente heute, by H.G. Gundel. 1980. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1763/pdf/Kurzberichte-40.pdf)
+ * XLI, Editionen Giessener Papyri nach 1945. Katalog und Bibliographie, by H.G. Gundel. 1984. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1764/pdf/Kurzberichte-41.pdf)
+ * XLII, Die Giessener hieroglyphischen und demotischen Texte, by U. Kaplony-Heckel. 1986. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1649/pdf/Kurzberichte-42.pdf)
+ * XLIII, Die Unschuldserklärungen und Beichten im ägyptischen Totenbuch, in der römischen Elegie und im antiken Roman, by R. Merkelbach. 1987. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1765/pdf/Kurzberichte-43.pdf)
+ * XLIV, Giessener Dokumente zur antiken Schriftkultur, by P. Kuhlmann. 1997. [Online: uni-giessen.de](http://geb.uni-giessen.de/geb/volltexte/2004/1766/pdf/Kurzberichte-44.pdf)
 
 ### <a id="MPER">MPER</a>
  = _Mittheilungen aus der Sammlung der Papyrus Erzherzog Rainer_, ed. J. Karabacek. Vienna. A publication of various articles, some concerned with Greek papyri. [MF 2.40—44]
@@ -3323,7 +3335,7 @@ I.2 Galenus – Isocrates
 ### <a id="Pap.Brux.">Pap.Brux.</a>
  = _Papyrologica Bruxellensia_. Brussels 1962—. (Fondation Égypto-logique Reine Élisabeth).
 
- * I, see [P.Iand.inv. 653](#P.Iand.inv._653).
+ * I, see [P.Iand.inv. 653](#P.Iand.inv._653). [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000001/1)
  * II, Les Titulatures impériales dans les papyrus, les ostraca et les inscriptions d’Égypte (30 a.C.—284 p.C.), by P. Bureth. 1964. &#91;FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/gf1vhpdj)
  * III, La Sitométrie dans les archives de Zénon, by T. Reekmans. 1966. &#91;FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/bnzs7nxc)
  * IV, Reports of Proceedings in Papyri, by R.A. Coles. 1966. &#91;FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/70rxwk3z)
@@ -3349,7 +3361,7 @@ I.2 Galenus – Isocrates
  * XXIII, Papyrus in Classical Antiquity, a Supplement, by N. Lewis. 1989. A supplement to N. Lewis, Papyrus in Classical Antiquity (Oxford 1974). [FERE]
  * XXIV, see [C.Ord.Ptol.](#C.Ord.Ptol.)
  * XXV, Magica Varia, ed W.M. Brashear with contributions by A. Bülow-Jacobsen. 1991. Five miscellaneous texts. [FERE]
- * XXVI, Sigla and Select Marginalia in Greek Literary Papyri, by K. McNamee. 1992. [FERE]
+ * XXVI, Sigla and Select Marginalia in Greek Literary Papyri, by K. McNamee. 1992. [FERE] [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000026/1)
  * XXVII, La Consommation dans les archives de Zénon, by T. Reekmans. 1996. [FERE]
  * XXVIII, see Depauw, Companion (IV, Instrumenta). [Online: AWDL](http://hdl.handle.net/2333.1/zgmsbj8x)
  * XXIX, see [P.Oxy.Census](#P.Oxy.Census).
@@ -3433,7 +3445,7 @@ I.2 Galenus – Isocrates
  * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer, 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
  * XLII, see [P.Oxyrhyncha](#P.Oxyrhyncha)
  * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz, 2020.
- 
+
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
 
@@ -3485,7 +3497,7 @@ I.2 Galenus – Isocrates
  * XLV, E sì d'amici pieno: omaggio di studiosi italiani a Guido Bastianini per il suo settantesimo compleanno. Ed. A. Casanova, G. Messeri, R. Pintaudi. 2 volumes. 2016.
  * XLVI, see [P.Genova](#P.Genova) IV
  * XLVII, Early Christian Gospels: their production and transmission, by S. Charlesworth. 2016.
- 
+
 ### <a id="Pap.Heid.">Pap.Heid.</a>
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
 
@@ -3557,9 +3569,9 @@ I.2 Galenus – Isocrates
  * XXXII, see [P.Tebt.](#P.Tebt.) V.
  * XXXIII, see [P.Worp.](#P.Worp.)
  * XXXIV, Hieratic, Demotic and Greek studies and text editions : of making many books there is no end : Festschrift in honour of Sven P. Vleeming, ed. K. Donker van Heel, F.A.J. Hoogendijk, C.J. Martin. 2018.
- 
+
 ### <a id="Pap.Lup.">Pap.Lup.</a>
- = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce. 
+ = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
 
  * I, Papiri letterari greci e latini, ed. M. Capasso. 1992.
  * II, Papiri documentari greci, ed. M. Capasso. 1993.
@@ -3577,10 +3589,10 @@ I.2 Galenus – Isocrates
 
 ### <a id="Pap.Paris.">Pap.Paris.</a>
  = _Papyrologica Parisina_. Paris 2011— .
- 
+
  * I, see [P.Sorb.](#P.Sorb.) III.
  * II, see [P.Louvre Hag.](#P.Louvre_Hag.)
- 
+
 ### <a id="Pap.Texte_Abh.">Pap.Texte Abh.</a>
  = _Papyrologische Texte und Abhandlungen_, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
 
@@ -3612,7 +3624,7 @@ I.2 Galenus – Isocrates
  * XXVI, Didymos der Blinde, Kommentar zum Ecclesiastes (Tura-Papyrus), Teil I.2, ed. G. Binder. 1982. [RH]
  * XXVII, Three Rolls of the Early Septuagint: Genesis and Deuteronomy, by Z. Aly, with preface, introd. and notes by L. Koenen. 1980. [RH]
  * XXVIII, see [P.Ups.Frid.](#P.Ups.Frid.)
- * XXIX, see [P.Haun.](#P.Haun.) II. 
+ * XXIX, see [P.Haun.](#P.Haun.) II.
  * XXX, see [C.Gloss.Biling.](#C.Gloss.Biling.) (III, Corpora).
  * XXXI, see [P.Hamb.](#P.Hamb.) III.
  * XXXII, Die Lehre des Anchscheschonqi (P. BM 10508), ed. H.J. Thissen. 1984. [RH]
@@ -3728,7 +3740,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="Stud.Demotica">Stud.Demotica</a>
  = Studia Demotica. Leuven 1987—. [Peeters]
- 
+
  * I, see [DemCongr.](#DemCongr.) II (IX Proceedings).
  * II, see [P.Choach.Survey](#P.Choach.Survey).
  * III, see [P.Hou.](#P.Hou.)
@@ -3805,7 +3817,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="TycheSuppl.">TycheSuppl.</a>
  = _Tyche_, Supplementbände. Vienna 1992—. [AHN]
- 
+
  * 1, A Mithraic Catechism from Egypt, by W.M. Brashear. 1992.
  * 2, Das europäische "Barbaricum" und die Zone der Mediterrankultur: Ihre historische Wechselwirkung und das Geschichtsbild des Poseidonios, by G. Dobesch. 1995.
  * 3, Ostrakismos und Prominenz in Athen: Attische Bürger des 5. Jh. v. Chr. auf den Ostraka, by S. Brenne. 2000.
@@ -3822,9 +3834,9 @@ I.2 Galenus – Isocrates
  * II, "XVIIIe Congrès International des Orientalistes. Leyde, du 7 au 1 septembre 1931. Section Autonome des Papyrologues." Published in CdÉ 7 (1932) 127—348. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)
  * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934).
  * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936).
- * V, Actes du Ve Congrès International de Papyrologie, Oxford, 30 août—3 septembre 1937. Published by the Fondation Égyptologique Reine Élisabeth. (Brussels 1938).
+ * V, Actes du Ve Congrès International de Papyrologie, Oxford, 30 août—3 septembre 1937. Published by the Fondation Égyptologique Reine Élisabeth. (Brussels 1938). [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_aere000003/1)
  * VI, Paris, 29 August—4 September 1949. No proceedings published.
- * VII, L'Originalité de l'Égypte dans le monde gréco-romain, Septième Congrès International de Papyrologie, Genève, 1—6 septembre 1952. Museum Helveticum 10 (1953) 129—180.
+ * VII, L'Originalité de l'Égypte dans le monde gréco-romain, Septième Congrès International de Papyrologie, Genève, 1—6 septembre 1952. Museum Helveticum 10 (1953) 129—180. [Online: e-periodica.ch](http://www.e-periodica.ch/digbib/voltoc?pid=mhl-001:1953:10#137)
  * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956).
  * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961).
  * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964).
@@ -3845,7 +3857,7 @@ I.2 Galenus – Isocrates
  * XXV, Proceedings of the 25th International Congress of Papyrology. Ann Arbor, July 29—August 4, 2007, ed. T. Gagos and A. Hyatt. (American Studies in Papyrology. Special Edition). Ann Arbor 2010. [Online: Mich.Publ.](http://quod.lib.umich.edu/i/icp).
  * XXVI, Actes du 26e Congrès international de papyrologie. Genève 16-21 août 2010, ed. P. Schubert. Geneva, 2012. [Online: réro](http://doc.rero.ch/record/258239)
  * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, 3 vols. ed. T. Derda, A. Łajtar and J. Urbanik, in cooperation with A. Mirończuk and T. Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
- * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online version](http://hdl.handle.net/10230/41902).
+ * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online: upf.edu](http://hdl.handle.net/10230/41902).
 
 ### <a id="CoptCongr.">CoptCongr.</a>
 
@@ -4003,7 +4015,7 @@ I.2 Galenus – Isocrates
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.
- 
+
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
  * 1893: P.Fay.Copt.
@@ -4156,11 +4168,11 @@ I.2 Galenus – Isocrates
  * <a id="P.Droysen">P.Droysen</a> (texts in [UPZ II passim](http://papyri.info/ddbdp/upz;2))
  * <a id="P.Edmondstone">P.Edmondstone</a> (text in [Chrest.Mitt. 361](http://papyri.info/ddbdp/chr.mitt;;361) see also [BASP 15 (1978) 235-36.](https://quod.lib.umich.edu/b/basp/0599796.0015.004/5:2) and [P.Oxy. IV, pp.202-203](https://archive.org/details/oxyrhynchuspapyr04gren/page/202/mode/2up))
  * <a id="P.Eitrem">P.Eitrem</a> (see [listing in SB II p.83.](https://archive.org/details/sammelbuchgriech02wissuoft/page/82/mode/2up))
- * <a id="Pes.">Pes.</a> (see [P.Pisentius](#P.Pisentius))	
- * <a id="P.Feste">P.Feste</a> (see [Feste](#Feste))	
- * <a id="P.Fuad">P.Fuad</a> (see also [P.Fouad](#P.Fouad))	
+ * <a id="Pes.">Pes.</a> (see [P.Pisentius](#P.Pisentius))
+ * <a id="P.Feste">P.Feste</a> (see [Feste](#Feste))
+ * <a id="P.Fuad">P.Fuad</a> (see also [P.Fouad](#P.Fouad))
  * <a id="P.Fraser">P.Fraser</a>	(text in [UPZ I 158b,c](http://papyri.info/ddbdp/upz;2;158))
- * <a id="P.Frisk">P.Frisk</a> (see [P.Berl.Frisk](#P.Berl.Frisk))	
+ * <a id="P.Frisk">P.Frisk</a> (see [P.Berl.Frisk](#P.Berl.Frisk))
  * <a id="P.Gentili">P.Gentili</a>	(texts in [SB I 5658](http://papyri.info/ddbdp/sb;1;5658), [P.Flor. III 368](http://papyri.info/ddbdp/p.flor;3;368r), [P.Flor. III 369](http://papyri.info/ddbdp/p.flor;3;369) and [P.Flor. III 370](http://papyri.info/ddbdp/p.flor;3;370))
  * <a id="P.Germ.">P.Germ.</a>	(text in [SB I 3924](http://papyri.info/ddbdp/sb;1;3924))
  * <a id="P.Gnomon">P.Gnomon</a> (see [BGU V](#BGU))
@@ -4184,7 +4196,7 @@ I.2 Galenus – Isocrates
  * <a id="P.Köln Panop.">P.Köln Panop.</a> (see [P.Panop.](#P.Panop.))
  * <a id="P.Landlisten">P.Landlisten</a> (see [P.Herm.Landl.](#P.Herm.Landl.))
  * <a id="P.L.Bat.">P.L.Bat.</a> (see [Pap.Lugd.Bat.](#Pap.Lugd.Bat.))
- * <a id="P.Lewald">P.Lewald</a> (see [P.Frankf.](#P.Frankf.))	
+ * <a id="P.Lewald">P.Lewald</a> (see [P.Frankf.](#P.Frankf.))
  * <a id="P.Libelli">P.Libelli</a> (see for listing [SB II p. 140.](https://archive.org/details/sammelbuchgriech02wissuoft/page/140/mode/2up))
  * <a id="P.Lit.Lond.">P.Lit.Lond.</a> (see [P.Lond.Lit.](#P.Lond.Lit.))
  * <a id="P.Louvre">P.Louvre</a> (see [UPZ passim](#UPZ); cf. also [P.Denkschriften](#P.Denkschriften))
@@ -4256,4 +4268,3 @@ I.2 Galenus – Isocrates
  * <a id="VC">VC</a> (see [O.CrumVC](#O.CrumVC))
  * <a id="V.H.P.">V.H.P.</a> (see [P.Heid.](#P.Heid.))
  * <a id="WS">WS</a> (see [P.Sarga](#P.Sarga))
-
