@@ -2875,7 +2875,7 @@ I.2 Galenus – Isocrates
  * 1, Studien zur Geschichte des Römischen Kolonates, by M. Rostowzew. Leipzig and Berlin 1910. [Online: archive.org](https://archive.org/details/studienzurgeschi00rost)
  * 2, Untersuchungen zur Chronologie der ersten Ptolemäer auf Grund der Papyri, by E. Meyer. Leipzig and Berlin 1925.
  * 3, see [Pap.Congr.](#Pap.Congr.) XXI (IX Proceedings).
- * 4, see [P.Hamb.](#P.Hamb.) IV. [Online: archive.org](https://archive.org/details/archivfrpapyru04leipuoft)
+ * 4, see [P.Hamb.](#P.Hamb.) IV.
  * 5, Topographie und Geschichte der Region am ersten Nilkatarakt in griechisch-römischer Zeit, by J. Locher. Stuttgart and Leipzig 1999. [KGS]
  * 6, Des Niloten Horapollon Hieroglyphenbuch, Part One, Text und Überstetzung, by H.J. Thissen. Munich and Leipzig 2001. [KGS]
  * 7, See [BGU](#BGU) XVII.
