@@ -2188,6 +2188,8 @@ Indicate text strings written in a language/script other than the document's def
 
 NOTE: You must enter a space after the language designator; so, not `"~la"`, but `"~la "`.
 
+NOTE: The standard language designators are: `ar`(Arabic); `cop` (Coptic); `egy-Egyd` (Demotic); `grc` (Greek); `la` (Latin); `grc_Latn` (Ancient Greek in Latin script); `la-Grek` (Latin in Greek script).
+
 ***
 
 #### Non-default Language: Latin
