@@ -277,6 +277,9 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### <a id="P.Berl.Möller">P.Berl.Möller</a>
 = _Griechische Papyri aus dem Berliner Museum_, ed. S. Möller. Gothenburg 1929. Nos. 1—13. Texts reprinted as SB IV 7338—7350. [MF 2.87] {ddb:p.berl.moeller}
 
+### <a id="P.Berl.Monte">P.Berl.Monte</a>
+= _Neue Quellen zum griechisch-römisch-byzantinischen Ägypten: Erstedition von fünfzehn griechischen Papyrustexten der Berliner Papyrussammlung_, ed. A. Monte. Berlin 2020. Nos. 1—15. [Online: edoc.hu-berlin.de](https://doi.org/10.18452/21422)
+
 ### <a id="P.Berl.Salmen.">P.Berl.Salmen.</a>
 = _Cartonnage Papyri in Context: New Ptolemaic Documents from Abu Sir al Malaq_, ed. E. Salmenkivi. Helsinki 2002. (Commentationes Humanarum Litterarum 119) Nos. 1–20. [AB] Cf. BGU XVIII. {ddb:p.berl.salmen}
 
