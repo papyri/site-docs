@@ -1123,6 +1123,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * III, ed. J.D. Thomas. London 1967. (Bulletin of the Institute of Classical Studies, suppl. vol. 18). Nos. 101—128. [ICS] {ddb:p.mert;3}
  * Nos. 129—131 ed. J.D. Thomas in JEA 56 (1970) 172—178; texts reprinted as SB XII 10886—10888. Nos. 132—136 ed. J.D. Thomas in JEA 68 (1982) 283—289; nos. 132—134 repr. as SB XVI 12470—12472, nos. 135—136 descripta.
 
+### <a id="P.Messeri">P.Messeri</a>
+= _e me l’ovrare appaga. Papiri e saggi in onore di Gabriella Messeri_, ed. G. Bastianini, F. Maltomini, D. Manetti, D. Minutoli, R. Pintaudi. Florence 2020. Nos. 1—50. [Online: fupress.com](https://doi.org/10.36253/978-88-5518-219-5)
+
 ### <a id="P.Meyer">P.Meyer</a>
 = _Griechische Texte aus Aegypten. I, Papyri des Neutestamentlichen Seminars der Universität Berlin_; II, _Ostraka der Sammlung Deissmann_, ed. P.M. Meyer. Berlin 1916. Papyri nos. 1—45; ostraca (O.Deiss.) nos. 1—92. There are Demotic signatures on the ostraca at nos. 7, 23 and 46. [Rp. CG] {ddb:p.meyer} [Online: archive.org](http://archive.org/details/griechischetexte00meyeuoft)
 
