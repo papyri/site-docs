@@ -863,7 +863,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, 2003. (Pap.Brux. XXXII). Nos. 39—45. Nos. 39—42 and 45 are ostraca; no. 43 is a inscribed figurine and no. 44 is an inscription. [FERE] {ddb:p.hombert;2}
 
 ### <a id="P.Hoogendijk">P.Hoogendijk</a>
-= _Text Editions of (Abnormal) Hieratic, Demotic, Greek, Latin and Coptic Papyri and Ostraca. Some people love their friends even when they are far away: Festschrift in Honour of Francisca A.J. Hoogendijk_, ed. J.V. Stolk & G.A.J.C. van Loon. Leiden - Boston: Brill, 2021. (P.L. Bat. 37) Nos. 1—50. 
+= _Text Editions of (Abnormal) Hieratic, Demotic, Greek, Latin and Coptic Papyri and Ostraca. Some people love their friends even when they are far away: Festschrift in Honour of Francisca A.J. Hoogendijk_, ed. J.V. Stolk & G.A.J.C. van Loon. Leiden - Boston: Brill, 2021. (P.L. Bat. 37) Nos. 1—56. 
 
 ### <a id="P.Horak">P.Horak</a>
 = _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. ([Pap.Flor.](#Pap.Flor.) XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF] {ddb:p.horak}
