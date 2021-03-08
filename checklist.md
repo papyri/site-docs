@@ -487,6 +487,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### <a id="P.Chrest.Revillout">P.Chrest.Revillout</a>
 = _Chrestomathie démotique_, ed. E. Revillout. Paris 1880.
 
+### <a id="P.Christodote">P.Christodote</a>
+= _The property of a lady (P.Christodote)_, ed. T.M. Hickey, J.G. Keenan. Florence 2020. (Pap.Flor. XLVIII) (=PSI I 76).
+
 ### <a id="P.Chronik">P.Chronik</a>
 = _Die sogenannte demotische Chronik des Pap. 215 der Bibliothèque Nationale zu Paris_, ed. W. Spiegelberg. Leipzig 1914. (Dem.Stud. 7). [Online: archive.org](https://archive.org/details/diesogenanntedem00spieuoft)
 
@@ -4025,7 +4028,7 @@ I.2 Galenus – Isocrates
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
- * 2020: P.Bas. II; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
+ * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk
 
 ### <a id="Coptic">Coptic</a>
