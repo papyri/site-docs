@@ -488,7 +488,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Chrestomathie démotique_, ed. E. Revillout. Paris 1880.
 
 ### <a id="P.Christodote">P.Christodote</a>
-= _The property of a lady (P.Christodote)_, ed. T.M. Hickey, J.G. Keenan. Florence 2020. (Pap.Flor. XLVIII) (=PSI I 76).
+= _The property of a lady (P.Christodote)_, ed. T.M. Hickey, J.G. Keenan. Florence 2020. (Pap.Flor. XLVIII) (Recto is a reedition of PSI I 76; verso is first published here).
 
 ### <a id="P.Chronik">P.Chronik</a>
 = _Die sogenannte demotische Chronik des Pap. 215 der Bibliothèque Nationale zu Paris_, ed. W. Spiegelberg. Leipzig 1914. (Dem.Stud. 7). [Online: archive.org](https://archive.org/details/diesogenanntedem00spieuoft)
