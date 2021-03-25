@@ -2921,7 +2921,8 @@ I.2 Galenus – Isocrates
  * 36, see [P.Trier](#P.Trier) I
  * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016.
  * 38, see [P.Trier](#P.Trier) II
- + 39, see [P.Giss](#P.Giss.) II
+ * 39, see [P.Giss](#P.Giss.) II
+ * 43, see [O.Copt.Lips](#O.Copt.Lips.) II
 
 ### <a id="BASP_Suppl.">BASP Suppl.</a>
  = _Bulletin of the American Society of Papyrologists_: Supplements. Published irregularly by the Society, 1973— . [Oxbow]
