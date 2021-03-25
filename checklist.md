@@ -2084,7 +2084,10 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Lips.">O.Lips.</a> (see [P.Lips.](#P.Lips.))
 
 ### <a id="O.Lips.Copt.">O.Lips.Copt.</a>
-= _Coptica: koptische Ostraka und Papyri, koptische und griechische Grabstelen aus Ägypten und Nubien, spätantike Bauplastik, Textilien und Keramik_, ed. S. Hodak, T.S. Richter, F. Steinmann. Berlin 2013. (Katalog Ägyptischer Sammlungen in Leipzig III). Nos. 1—54.
+ 
+ * I, Coptica: koptische Ostraka und Papyri, koptische und griechische Grabstelen aus Ägypten und Nubien, spätantike Bauplastik, Textilien und Keramik_, ed. S. Hodak, T.S. Richter, F. Steinmann. Berlin 2013. (Katalog Ägyptischer Sammlungen in Leipzig III). Nos. 1—54.
+
+ * II, Andreas von Hermonthis und das Kloster des Apa Hesekiel. Mikrohistorische Untersuchungen zu Kirchengeschichte und Klosterwesen im Gebiet von Armant (Oberägypten) in byzantinischer Zeit anhand der koptischen Ostraka der Universitätsbibliothek Leipzig (O.Lips.Copt. II), ed. F. Krueger. Berlin/Boston 2020 (Archiv für Papyrusforschung und verwandte Gebiete – Beiheft 43. Nos. 1-587, Appendix with reeditions of numerous texts esp. from O.CrumST, O.Vind.Copt. and O.Brit.Mus.Copt.).
 
 ### <a id="O.Louvre">O.Louvre</a>
 = _Ostraca démotiques du Musée du Louvre_.
