@@ -4092,10 +4092,11 @@ I.2 Galenus – Isocrates
  * 2010: O.Frangé
  * 2011: CPR XXXI
  * 2012: SB Kopt. IV
- * 2013: P.Macq.; O.Lips.Copt.
+ * 2013: P.Macq.; O.Lips.Copt. I
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
+ * 2020: O.Lips.Copt. II
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
