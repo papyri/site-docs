@@ -1903,6 +1903,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * II, ed. M.R.M. Hasitzka. Vienna 2004. Nos. 801-1260. (MPER, N.S. 23.2). [ÖNB]
  * III, ed. M.R.M. Hasitzka. Munich-Leipzig 2006. Nos. 1261-1690 . (MPER, N.S. XXIII.3). [K.G. Saur]
  * IV ed. M.R.M. Hasitzka. Berlin 2012. Nos. 1691-2163 (MPER N.S. XXIII.4)
+ * V ed. M.R.M. Hasitzka. Berlin 2020. Nos. 2164-2377 (MPER N.S. XXIII.5)
 
 ### <a id="VBP">VBP</a> (see [P.Bad.](#P.Bad.)).
 
@@ -4095,7 +4096,7 @@ I.2 Galenus – Isocrates
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
- * 2020: O.Lips.Copt. II
+ * 2020: SB Kopt. V; O.Lips.Copt. II
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
