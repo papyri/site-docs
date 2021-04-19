@@ -721,7 +721,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### <a id="P.Giss.">P.Giss.</a>
 = _Griechische Papyri zu Giessen_. {ddb:p.giss}
 
- * I, Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss}
+ * I, Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss;1}
  * II, A notebook roll and a fiscal codex from the Giessen Papyrus collection, ed. M. Kotyl. Berlin/Boston 2020. (ArchivBeih. 39). Nos. 127-128.
 
 ### <a id="P.Giss.Apoll.">P.Giss.Apoll.</a>
