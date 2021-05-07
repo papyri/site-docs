@@ -3552,6 +3552,7 @@ I.2 Galenus – Isocrates
  * VI, _Signes dans les textes, textes sur les signes : érudition, lecture et écriture dans le monde gréco-romain : actes du colloque international (Liège, 6-7 septembre 2013)_, ed. G. Nocchi Macedo, M. Chiara Scappaticcio. 2017.
  * VII, _En marge du Serment hippocratique : contrats et serments dans le monde greco-romain : actes de la Journée d'étude internationale (Liège, 20 Octobre 2014)_, ed. M.-H. Marganne, A. Ricciardetto. 2017.
  * VIII, _L'Hadrianus de Montserrat (P.Monts.Roca III, inv. 162-165)_, ed. T. Berg. 2018.
+ * IX, _Signes dans les textes : continuités et ruptures des pratiques scribales en Égypte pharaonique, gréco-romaine et byzantine : actes du colloque international de Liège (2-4 juin 2016)_. ed. N. Carlig, G. Lescuyer, A. Motte, N. Sojic. 2020.
 
 ### <a id="Pap.Lugd.Bat.">Pap.Lugd.Bat.</a>
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
