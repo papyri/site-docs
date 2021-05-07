@@ -3455,14 +3455,16 @@ I.2 Galenus – Isocrates
  * XXXIII, Der koptische Kölner Papyruskodex 3221. Teil I, Das Testament des Iob, ed. G. Schenke. Paderborn, 2009.
  * XXXIV, Architectural orientation in the papyri, by R.W. Daniel. 2010.
  * XXXV, see [P.Herakl.Bank](#P.Herakl.Bank)
- * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni, 2012.
+ * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni. 2012.
  * XXXVII, see [P.Tarich.](#P.Tarich.)
  * XXXVIII, see [P.ÄkNo.](#P.ÄkNo.)
- * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
- * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete, 2017.
- * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer, 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
+ * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli. 2017. 2 v.
+ * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete. 2017.
+ * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer. 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
  * XLII, see [P.Oxyrhyncha](#P.Oxyrhyncha)
- * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz, 2020.
+ * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
+ * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
+ * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
