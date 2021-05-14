@@ -4068,6 +4068,7 @@ I.2 Galenus – Isocrates
  * 1952: O.Medin.HabuCopt.
  * 1953: P.Apoll.
  * 1954: P.Bal.
+ * 1956: Pap.Arbeit.
  * 1958: CPR IV
  * 1959: P.HermitageCopt.; P.MoscowCopt.
  * 1960: O.Vind.Copt.
