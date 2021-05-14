@@ -4062,6 +4062,7 @@ I.2 Galenus – Isocrates
  * 1930: O.Camb.; O.Petr.
  * 1932: P.CLT
  * 1934: O.Buch.
+ * 1938: P.Schutzbriefe
  * 1939: O.CrumVC
  * 1942: P.(&O.)Mich.Copt.; O.Mich.Copt.Etmoulon
  * 1952: O.Medin.HabuCopt.
