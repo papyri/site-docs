@@ -2847,7 +2847,7 @@ I.2 Galenus – Isocrates
  * XIII, Greek Terms for Roman Institutions: A Lexicon and Analysis, by H.J. Mason. 1974. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/dbrv1b19)
  * XIV, see [P.Mich.](#P.Mich.) XII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000014/1)
  * XV, see [O.Ont.Mus.](#O.Ont.Mus.) II. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000015/1)
- * XVI, Chester Beatty Biblical Papyri IV and V, by A. Pietersma. 1977. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/4tmpg8x0)
+ * XVI, [Chester Beatty Biblical Papyri](#P.Beatty) IV and V, by A. Pietersma. 1977. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/4tmpg8x0)
  * XVII, see [P.Wash.Univ.](#P.Wash.Univ.) I. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000017/1)
  * XVIII, Imperial Estates in Egypt, by G.M. Parássoglou. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/0gb5mrbr)
  * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/rv15dxzp)
