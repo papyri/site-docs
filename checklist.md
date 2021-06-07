@@ -4105,6 +4105,7 @@ I.2 Galenus – Isocrates
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
+ * 2021: P.Hoogendijk
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
