@@ -3225,7 +3225,7 @@ I.2 Galenus – Isocrates
  * 4, Die Schlußklauseln der altbabylonischen Kauf- und Tauschverträge, by M. San Nicolò. 1922. [Online: archive.org](https://archive.org/details/coo.31924006491090). 2nd ed. 1974.
  * 5, Das Asylwesen Ägyptens in der Ptolemäerzeit und die spätere Entwicklung: eine Einführung in das Rechtsleben Ägyptens besonders der Ptolemäerzeit, by F. von Woess. 1923. [Online: archive.org](https://archive.org/details/wu.89091842815)
  * 6, Untersuchungen über das Urkundenwesen und den Publizitätsschutz im römischen Ägypten, by F. von Woess. 1924.
- * 7, Die Landwirtschaft im hellenistischen Ägypten, by M. Schnebel. 1925. [Rp. CG]
+ * 7, Die Landwirtschaft im hellenistischen Ägypten, by M. Schnebel. 1925. &#91;Rp. CG&#93; [Online: HathiTrust](https://hdl.handle.net/2027/uc1.$b671404)
  * 8, Die Streitbeendigung durch Urteil, Schiedspruch und Vergleich nach griechischem Rechte, by A. Steinwenter. 1925. 2nd ed. 1971.
  * 9, Totenteil und Seelgerät im griechischen Recht, by F.E. Bruck. 1926. 2nd ed. 1976.
  * 10, Der römische Ritterstand: Ein Beitrag zur Sozial- und Personengeschichte des römischen Reiches, by A. Stein. 1927.
