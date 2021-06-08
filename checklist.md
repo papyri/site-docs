@@ -3590,7 +3590,10 @@ I.2 Galenus – Isocrates
  * XXXII, see [P.Tebt.](#P.Tebt.) V.
  * XXXIII, see [P.Worp.](#P.Worp.)
  * XXXIV, Hieratic, Demotic and Greek studies and text editions : of making many books there is no end : Festschrift in honour of Sven P. Vleeming, ed. K. Donker van Heel, F.A.J. Hoogendijk, C.J. Martin. 2018.
-
+ * XXXV, The materiality of texts from ancient Egypt: new approaches to the study of textual material from the early pharaonic to the late antique period, ed. F.A.J. Hoogendijk, S.M.T. van Gompel. 2018.
+ * XXXVI, The Derveni papyrus: unearthing ancient mysteries. Ed. M.A. Santamaría. 2019.
+ * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
+  
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
 
@@ -4102,6 +4105,7 @@ I.2 Galenus – Isocrates
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
+ * 2021: P.Hoogendijk
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
