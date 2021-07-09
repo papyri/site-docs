@@ -1767,6 +1767,8 @@ _To create this XML:_ `<num value="1/16">ιϛ</num>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Fractions should be accompanied by their values, just as whole numbers.
+	
+Please note that papyri.info uses a _Greek delta_ (NOT a Latin "d") for 1/4: `<num value="1/4">δ</num>`
 
 ***
 
