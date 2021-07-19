@@ -70,17 +70,17 @@ _To create this XML:_ `<div n="r" type="textpart"><ab> <lb n="1"/>line of text <
 
 _Example PN Link:_
 
-Recto and verso are indicated with closed pairs of tags as follows: 
+Recto and verso are indicated with closed pairs of tags as follows:
 
 		<S=.grc
-		<D=.r<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.v<= 
-		3. line of text 
-		4. line of text 
-		=>=D> 
+		<D=.r<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.v<=
+		3. line of text
+		4. line of text
+		=>=D>
 
 Note that the pair of tags inside the recto/verso tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
@@ -98,16 +98,16 @@ _To create this XML:_ `<div n="1" subtype="fragment" type="textpart"><ab> <lb n=
 
 _Example PN Link:_
 
-Fragments are indicated with closed pairs of tags as follows: 
+Fragments are indicated with closed pairs of tags as follows:
 
-		<D=.1.fragment<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.2.fragment<= 
-		3. line of text 
-		4. line of text 
-		=>=D> 
+		<D=.1.fragment<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.2.fragment<=
+		3. line of text
+		4. line of text
+		=>=D>
 
 Note that the pair of tags inside the fragment tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
@@ -123,16 +123,16 @@ _To create this XML:_ `<div n="A" subtype="part" type="textpart"><ab> <lb n="1"/
 
 _Example PN Link:_
 
-Parts of a document are indicated with closed pairs of tags as follows: 
+Parts of a document are indicated with closed pairs of tags as follows:
 
-		<D=.A.part<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.B.part<= 
-		3. line of text 
-		4. line of text 
-		=>=D> 
+		<D=.A.part<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.B.part<=
+		3. line of text
+		4. line of text
+		=>=D>
 
 Note that the pair of tags inside the part tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
@@ -148,16 +148,16 @@ _To create this XML:_ `<div n="i" subtype="column" type="textpart"><ab> <lb n="1
 
 _Example PN Link:_
 
-Columns are indicated with closed pairs of tags as follows: 
+Columns are indicated with closed pairs of tags as follows:
 
-		<D=.i.column<= 
-		1. line of text 
+		<D=.i.column<=
+		1. line of text
 		2. line of text
-		=>=D> 
-		<D=.ii.column<= 
-		3. line of text 
-		4. line of text 
-		=>=D> 
+		=>=D>
+		<D=.ii.column<=
+		3. line of text
+		4. line of text
+		=>=D>
 
 Note that the pair of tags inside the column tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
@@ -173,16 +173,16 @@ _To create this XML:_ `<div n="a" subtype="folio" type="textpart"><ab> <lb n="1"
 
 _Example PN Link:_
 
-Folios are indicated with closed pairs of tags as follows: 
+Folios are indicated with closed pairs of tags as follows:
 
-		<D=.a.folio<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.b.folio<= 
-		3. line of text 
-		4. line of text 
-		=>=D> 
+		<D=.a.folio<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.b.folio<=
+		3. line of text
+		4. line of text
+		=>=D>
 
 Note that the pair of tags inside the folio tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
 
@@ -198,27 +198,27 @@ _To create this XML:_ `<div n="a" subtype="folio" type="textpart"><ab> <lb n="1"
 
 _Example PN Link:_
 
-Document divisions can be nested so long as tag pairs no not overlap: 
+Document divisions can be nested so long as tag pairs no not overlap:
 
-		<D=.r 
-		<D=.i.column<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.ii.column 
-		<D=.a.fragment<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		<D=.b.fragment<= 
-		1. line of text 
-		2. line of text 
-		=>=D> 
-		=D> 
-		=D> 
-		<D=.v<= 
-		1. line of text 
-		=>=D> 
+		<D=.r
+		<D=.i.column<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.ii.column
+		<D=.a.fragment<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.b.fragment<=
+		1. line of text
+		2. line of text
+		=>=D>
+		=D>
+		=D>
+		<D=.v<=
+		1. line of text
+		=>=D>
 
 Note that no matter how nested the divisions are, the pair of tags directly adjacent to the text is always the `<= =>` pair (see Document Division, ab)
 
@@ -252,12 +252,12 @@ _Example PN Link:_ [p.col.;10;259](http://papyri.info/hgv/10559)
 
 Words that wrap from the end of one line to the beginning of the next. Note that in Leiden+ the hyphen must be written at the start of the following line:
 
-		12. ἃς καὶ <:ἀποδώσει|orth|αποδωσι:> ἐν μηνὶ Πα 
-		13.- ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους 
+		12. ἃς καὶ <:ἀποδώσει|orth|αποδωσι:> ἐν μηνὶ Πα
+		13.- ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους
 
 In the PN the hyphen will be displayed in the expected location:
 
-		ἃς καὶ ἀποδώσει ἐν μηνὶ Πα- 
+		ἃς καὶ ἀποδώσει ἐν μηνὶ Πα-
 		ῦ̣[νι τοῦ] ἐνεσ[τ]ῶτος ἔτους
 
 ***
@@ -359,7 +359,7 @@ _Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
 For use in rare cases in which lines are presented so as not to indicate break; not recommended.
 
 ***
- 
+
 ### Vacat <a id="vacat"></a> ([return to top](#top))
 
 #### Character space extent unknown
@@ -736,12 +736,12 @@ _To create this XML:_ `<gap reason="lost" extent="unknown" unit="line"/>`
 
 _Example PN Link:_
 
-To indicate unknown number of lines lost. This is used to indicate "break" in the papyrus. Enter as follows: 
+To indicate unknown number of lines lost. This is used to indicate "break" in the papyrus. Enter as follows:
 
-		1. lost.?lin 
-		1. first line of text 
-		2. second line of text 
-		3. third line of text 
+		1. lost.?lin
+		1. first line of text
+		2. second line of text
+		3. third line of text
 		3. lost.?lin
 
 ***
@@ -1030,7 +1030,7 @@ _To create this XML:_ `ἀπ<supplied reason="omitted">ε</supplied>γραψάμ
 
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
-Note: for cases like `ἀπ<ε>γραψάμην` the DDbDP has historically entered an orthographic correction of the entire word, i.e. `<:ἀπεγραψάμην|orth|απγραψαμην:>`. Recommended practice now is to enter just the angle brackets wherever possible: `ἀπ<ε>γραψάμην`. 
+Note: for cases like `ἀπ<ε>γραψάμην` the DDbDP has historically entered an orthographic correction of the entire word, i.e. `<:ἀπεγραψάμην|orth|απγραψαμην:>`. Recommended practice now is to enter just the angle brackets wherever possible: `ἀπ<ε>γραψάμην`.
 
 For more on this, see the documentation entry under Orthographic Correction.
 
@@ -1062,7 +1062,7 @@ _To create this XML:_ `ὁμο<surplus>μο</surplus>λογῶ.`
 
 _Example PN Link:_
 
-Surplus text written by scribe, deleted by modern editor. 
+Surplus text written by scribe, deleted by modern editor.
 
 For cases like `ὁμολογῶι` enter an orthographic regularization of the entire word, i.e. `<:ὁμολογῶ|reg|ὁμολογῶι:>`. But where the letter(s) is genuinely superfluous, use braces: `ὁμο{μο}λογῶ`.
 
@@ -1152,9 +1152,9 @@ _To create this XML:_ `<expan>Καρ<ex>ανίδ </ex></expan>`
 
 _Example PN Link:_ [bgu;1;154](http://papyri.info/hgv/8922)
 
-Ancient abbreviations. Where a word is only partially expanded (for example because the termination is unknown), enter as follows: 
+Ancient abbreviations. Where a word is only partially expanded (for example because the termination is unknown), enter as follows:
 
-    Καρ(ανίδ ) 
+    Καρ(ανίδ )
 
 Note: leave two spaces between the last character and the closing parens.
 
@@ -1198,9 +1198,9 @@ _To create this XML:_ `<expan><ex>ἔτ </ex></expan>`
 
 _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
-For symbols that are partially expanded enter as follows (for example because the termination is unknown): 
+For symbols that are partially expanded enter as follows (for example because the termination is unknown):
 
-    ((ἔτ )) 
+    ((ἔτ ))
 
 Note: leave two spaces between the last character and the closing parens.
 
@@ -1250,9 +1250,9 @@ _To create this XML:_ `<abbr>λ<certainty locus="name" match=".."/></abbr>`
 
 _Example PN Link:_ [P.Lips.1.40](http://papyri.info/hgv/33700)
 
-Ancient abbreviations. Where the expansion is unknown and it is not even certain whether the character(s) on the papyrus is meant to be an expansion or not, enter: 
+Ancient abbreviations. Where the expansion is unknown and it is not even certain whether the character(s) on the papyrus is meant to be an expansion or not, enter:
 
-    (|λ(?)|) 
+    (|λ(?)|)
 
 This could indicate `λ` (i.e. 30) or, e.g. `λ(όγος)`; but we cannot say for certain.
 
@@ -1340,17 +1340,17 @@ _To create this XML:_ `ἡμετέρ<supplied reason="lost" cert="low">α μήτ
 
 _Example PN Link:_ [P.Matr.5](http://papyri.info/hgv/18218)
 
-Letters lost in lacuna, restored by modern editor; restoration uncertain 
+Letters lost in lacuna, restored by modern editor; restoration uncertain
 
 Example: `ἡμετέρ[α μήτηρ (?) -ca.?- ]`
 
-Note that the restoration of μήτηρ is uncertain, but the lacuna after it is not. Thus, encode as follows: 
+Note that the restoration of μήτηρ is uncertain, but the lacuna after it is not. Thus, encode as follows:
 
-    ἡμετέρ[α μήτηρ (?)] [.?] 
+    ἡμετέρ[α μήτηρ (?)] [.?]
 
-In order to indicate that the one restoration is uncertain and the other certain. For even greater precision, we might enter: 
+In order to indicate that the one restoration is uncertain and the other certain. For even greater precision, we might enter:
 
-    ἡμετέρ[α] [μήτηρ (?)] [.?] 
+    ἡμετέρ[α] [μήτηρ (?)] [.?]
 
 ***
 
@@ -1468,14 +1468,14 @@ _To create this XML:_ `<choice><reg>φρόντι<supplied reason="lost">σ</supp
 
 _Example PN Link:_
 
-To be used for two classes of 'correction': 
+To be used for two classes of 'correction':
 
-1. Regularization/'correction' of non-standard orthographic form, e.g. αἰνακούεις for ἐνακούεις; in such cases the form is 'correct' but is not spelled in the canonical fashion. 
-2. Correction of syntax not morphology, e.g. τῷ for τοῦ; in such cases the form is a valid one, but is not strictly correct in the context. 
+1. Regularization/'correction' of non-standard orthographic form, e.g. αἰνακούεις for ἐνακούεις; in such cases the form is 'correct' but is not spelled in the canonical fashion.
+2. Correction of syntax not morphology, e.g. τῷ for τοῦ; in such cases the form is a valid one, but is not strictly correct in the context.
 
-In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that DDbDP now presents the reading of the papyrus in the text and the regularized reading in the apparatus (per modern convention). To support that change, we now enter orthographic 'corrections' differently. 
+In past, DDbDP suppressed all diacriticals from the mistaken reading. NOTE that DDbDP now presents the reading of the papyrus in the text and the regularized reading in the apparatus (per modern convention). To support that change, we now enter orthographic 'corrections' differently.
 
-1. For `φρόνδει[σ]ο̣ν --> φρόντισον` encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg') 
+1. For `φρόνδει[σ]ο̣ν --> φρόντισον` encode, `<:φρόντι[σ]ον|reg|φρόνδει[σ]ο̣ν:>` (Note: all Leiden except underdots on left side of 'reg')
 2. PN displays: `text: φρόνδει[σ]ο̣ν / app: Read φρόντι[σ]ον`
 
 ***
@@ -1490,7 +1490,7 @@ _To create this XML:_ `<choice><reg cert="low">ἀνοίγεται </reg><reg ce
 
 _Example PN Link:_
 
-Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται. 
+Leiden+ supports not only simple regularizations but 'chains' of regularization. For example, let us say that I scribe wrote "ἀ̣νύεται", which is held to be a likely phonetic representation of ἀνοίεται, which itself perhaps ought to be regularized to ἀνοίγεται.
 
     <:ἀνοίγεται (?)|ἀνοίεται (?)||reg||ἀ̣νύεται:>
 
@@ -1506,9 +1506,9 @@ _To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁ�
 
 _Example PN Link:_
 
-Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
+Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows:
 
-    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
+    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>
 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
 
@@ -1538,9 +1538,9 @@ _To create this XML:_ `<app type="alternative"><lem><gap reason="lost" extent="u
 
 _Example PN Link:_
 
-Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternatives (`<rdg>`) in the apparatus. 
+Multiple alternate readings posited by the editor. Preferred reading (`<lem>`) will appear in the text, the alternatives (`<rdg>`) in the apparatus.
 
-Where the papyrus reads, e.g. `[ - - - ] ̣αμεν ̣ν̣` and the editor posits perhaps `[ἀπογρα]ψ̣αμένη̣ν̣` or `[θρε]ψ̣αμένη̣ν̣`, encode: 
+Where the papyrus reads, e.g. `[ - - - ] ̣αμεν ̣ν̣` and the editor posits perhaps `[ἀπογρα]ψ̣αμένη̣ν̣` or `[θρε]ψ̣αμένη̣ν̣`, encode:
 
     <:[.?].1αμεν.1ν̣||alt||[ἀπογρα]ψ̣αμένη̣ν̣|[θρε]ψ̣αμένη̣ν̣:>
 
@@ -1556,7 +1556,7 @@ _To create this XML:_ `<app type="alternative"><lem>Ὀχυρυγχίτου<cert
 
 _Example PN Link:_ [bgu;6;1265](http://papyri.info/ddbdp/bgu;6;1265)
 
-By definition, all alternate readings are uncertain, but to indicate especial uncertainty as to one or both possibilities, enter as follows: 
+By definition, all alternate readings are uncertain, but to indicate especial uncertainty as to one or both possibilities, enter as follows:
 
     <:Ὀχυρυγχίτου(?)|alt|Ὀξυρυγχίτου νομοῦ(?):>
 
@@ -1572,11 +1572,11 @@ _To create this XML:_ `<subst><add place="inline">τοῦ</add><del rend="correc
 
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
-To indicate scribal corrections and alterations. Note that as a general rule, the original reading does not carry diacriticals; also that this apparatus tag is used for entire words and not for the corrected characters alone. 
+To indicate scribal corrections and alterations. Note that as a general rule, the original reading does not carry diacriticals; also that this apparatus tag is used for entire words and not for the corrected characters alone.
 
 Indicating that the scribe wrote της and corrected to τοῦ: `<:τοῦ|subst|της:>`
 
-    No: τ<:οῦ|subst|ης:> 
+    No: τ<:οῦ|subst|ης:>
     Yes: <:τοῦ|subst|της:>
 
 ***
@@ -1591,7 +1591,7 @@ _To create this XML:_ `<subst><add place="inline">τοῦ<certainty match=".." l
 
 _Example PN Link:_ [BGU.1.154](http://papyri.info/ddbdp/bgu;1;154)
 
-To indicate scribal corrections and alterations where one or both readings is uncertain. Follow the conventions for an ordinary scribal correction, but add (?) to the affected reading. 
+To indicate scribal corrections and alterations where one or both readings is uncertain. Follow the conventions for an ordinary scribal correction, but add (?) to the affected reading.
 
     <:τοῦ|subst|της:> --> <:τοῦ(?)|subst|της(?):>
 
@@ -1607,12 +1607,12 @@ _To create this XML:_ `<choice><corr>τιμὴν</corr><sic>τμμὴν</sic></c
 
 _Example PN Link:_
 
-For correction of outright scribal error, e.g. `στ[ρ]α̣ττεός` for `στρατηγός`. 
+For correction of outright scribal error, e.g. `στ[ρ]α̣ττεός` for `στρατηγός`.
 
-1. where possible enter `στρατ{τ}ηγός` rather than `<:στρατηγός|corr|στραττηγός:>` 
-(NOTE: this does not apply to e.g. `ὁμολογῶι`, which is to be encoded as an orthographic regularization: `<:ὁμολογῶ|reg|ὁμολογῶι:>`) 
+1. where possible enter `στρατ{τ}ηγός` rather than `<:στρατηγός|corr|στραττηγός:>`
+(NOTE: this does not apply to e.g. `ὁμολογῶι`, which is to be encoded as an orthographic regularization: `<:ὁμολογῶ|reg|ὁμολογῶι:>`)
 2. where possible enter `στρα<τ>ηγός` rather than `<:στρατηγός|corr|στραηγός:>`
-3. in the case of `στ[ρ]α̣ττεός` for `στρατηγός` 
+3. in the case of `στ[ρ]α̣ττεός` for `στρατηγός`
     1. enter `<:(στ[ρ]ατ{τ}η<γ>(ός))|corr|(στ[ρ]α̣ττε(ός)):>` (Note: all Leiden except for underdots on left side of `'corr'`)
     2. PN displays: `text: στ[ρ]α̣ττε(ός) / app: l. στρατηγός (corr)`
 
@@ -1658,9 +1658,9 @@ _To create this XML:_ `<app type="editorial"><lem resp="BGU 1 p.357"><num value=
 
 _Example PN Link:_ [BGU.1.154](http://papyri.info/hgv/8922)
 
-Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either 
+Used for two situations: to indicate a correction proposed in a publication (not reported by Berichtigungsliste); either
 
-1. correction proposed in series Corrigenda list: `<:<#κγ=23#>=bgu 1 p.357|ed|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading. 
+1. correction proposed in series Corrigenda list: `<:<#κγ=23#>=bgu 1 p.357|ed|<#κϛ=26#>:>`, where κγ is the new reading and κϛ is the deprecated reading.
 2. or proposed in a publication: `<:(διαγρ(άφου))=N. Gonis, ZPE 143 (2003) 150|ed|(διαγρ(αφῆς)):>`, where διαγρ(άφου) is the new reading and διαγρ(αφῆς) is the deprecated reading.
 
 ***
@@ -1675,7 +1675,7 @@ _To create this XML:_ `<app type="editorial"><lem resp="bgu 1 p.357"><num value=
 
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
-Where an editorial correction is only tentative, uncertain, enter as follows: 
+Where an editorial correction is only tentative, uncertain, enter as follows:
 
     <:<#κγ=23#>(?)=BGU 1 p.357|ed|<#κϛ=26#>:>
 
@@ -1691,15 +1691,15 @@ _To create this XML:_ `<app type="editorial"><lem resp="PN W.G. Claytor (CPR VI 
 
 _Example PN Link:_ [cpr;6;82](http://papyri.info/ddbdp/cpr;6;82)
 
-Indicates a correction proposed directly to DDbDP via PE. 
+Indicates a correction proposed directly to DDbDP via PE.
 
-So, the following emendation observes the omission from an edition of a word clearly visible (from the published plate) on the papyrus: 
+So, the following emendation observes the omission from an edition of a word clearly visible (from the published plate) on the papyrus:
 
-    <:τοῦ=PN W.G. Claytor (CPR VI plate 35)|ed|:> 
+    <:τοῦ=PN W.G. Claytor (CPR VI plate 35)|ed|:>
 
-The corrected text is το­ῦ and the deprecated text is 'null', since this corrects an omission. Had the emendation sought to correct an existing (rather than omitted) reading, it might have looked like this: 
+The corrected text is το­ῦ and the deprecated text is 'null', since this corrects an omission. Had the emendation sought to correct an existing (rather than omitted) reading, it might have looked like this:
 
-    <:τοῦ=PN W.G. Claytor (CPR VI plate 35)|ed|μου:> 
+    <:τοῦ=PN W.G. Claytor (CPR VI plate 35)|ed|μου:>
 
 ***
 
@@ -1713,26 +1713,26 @@ _To create this XML:_ `<app type="editorial"><lem resp="BL 15.2"><subst><add pla
 
 _Example PN Link:_
 
-Leiden+ is capable of handling even extremely complicated series of corrections. Take the following completely fictional example: 
+Leiden+ is capable of handling even extremely complicated series of corrections. Take the following completely fictional example:
 
-    275. <:<:στρ[ατηγὸς]|subst|<:σ.2[.?]|alt|γ.3[.?]:>:>=BL 19.2||ed|| 
-    <:<:στρ[ατηλάτης]|reg|ξ̣τ̣ρ[ατηλάτης]:>|alt|.1γρ[.?]:>=J. Cowey, ZPE 150 (2020) 321-323| 
-    <:<:στρ[ατιώτης]|alt|στρ[ατηγία]:>|reg|στυ̣ρ[ατ][.?]:>=R. Ast, CdE 100 (2018) 13-15 (BL 14.5)| 
-    <:Συρ[ίων](?)|reg|<:<:Σο̣υ̣ρ[ίων]||alt||Συ̣υ̣ρ[ίων]|Σω̣υ̣ρ[ίων]:>|subst|Σ.2ρ[ίων]:>:>=Original Edition:> 
+    275. <:<:στρ[ατηγὸς]|subst|<:σ.2[.?]|alt|γ.3[.?]:>:>=BL 19.2||ed||
+    <:<:στρ[ατηλάτης]|reg|ξ̣τ̣ρ[ατηλάτης]:>|alt|.1γρ[.?]:>=J. Cowey, ZPE 150 (2020) 321-323|
+    <:<:στρ[ατιώτης]|alt|στρ[ατηγία]:>|reg|στυ̣ρ[ατ][.?]:>=R. Ast, CdE 100 (2018) 13-15 (BL 14.5)|
+    <:Συρ[ίων](?)|reg|<:<:Σο̣υ̣ρ[ίων]||alt||Συ̣υ̣ρ[ίων]|Σω̣υ̣ρ[ίων]:>|subst|Σ.2ρ[ίων]:>:>=Original Edition:>
 
-This means: 
+This means:
 
-1. at line 275 the DDbDP prints `στρ[ατηγὸς]`, which the scribe himself corrected from either `"σ . . [ca.?]"` or `"γ . . . [ca.?]"`, and which is recorded in BL vol.19 p.2 
+1. at line 275 the DDbDP prints `στρ[ατηγὸς]`, which the scribe himself corrected from either `"σ . . [ca.?]"` or `"γ . . . [ca.?]"`, and which is recorded in BL vol.19 p.2
 2. previously, Cowey had argued (in ZPE 150) for correcting the text to either στρ[ατηλάτης], which is a modern regularization of `ξ̣τ̣ρ[ατηλάτης]`, or to `". γρ[ca.?]" `
-3. before Cowey, Ast had suggested (in CdÉ 100) that the papyrus reads στυ̣ρ[ατ- ca.?], which should be regularized either to στρ[ατιώτης] or to στρ[ατηγία]; this was subsequently picked up by BL 14.5 
+3. before Cowey, Ast had suggested (in CdÉ 100) that the papyrus reads στυ̣ρ[ατ- ca.?], which should be regularized either to στρ[ατιώτης] or to στρ[ατηγία]; this was subsequently picked up by BL 14.5
 4. The original editors of the papyrus thought that the scribe had originally written "Σ . . ρ[ίων]", and then corrected it to either `Σο̣υ̣ρ[ίων] or Συ̣υ̣ρ[ίων] or Σω̣υ̣ρ[ίων]`, any one of which should perhaps be regularized to `Συρ[ίων] `
 
-Under this model, simple corrections may be concatenated: 
+Under this model, simple corrections may be concatenated:
 
-    275a. <:στρ[ατηγὸς]=BL 15.2||ed|| 
-    στρ[ατηλάτης]=J. Cowey, ZPE 150 (2020) 321-323| 
-    στρ[ατιώτης]=R. Ast, CdE 100 (2018) 13-15 (BL 14.5)| 
-    Συρ[ίων]=Original Edition:> 
+    275a. <:στρ[ατηγὸς]=BL 15.2||ed||
+    στρ[ατηλάτης]=J. Cowey, ZPE 150 (2020) 321-323|
+    στρ[ατιώτης]=R. Ast, CdE 100 (2018) 13-15 (BL 14.5)|
+    Συρ[ίων]=Original Edition:>
 
 or, any class of correction may be 'nested' inside any other (as above).
 
@@ -1780,11 +1780,11 @@ _To create this XML:_ `<num value="1/32" rend="tick">λβ</num>`
 
 _Example PN Link:_ [P.Matr.1](http://papyri.info/hgv/18215)
 
-To indicate the presence of a tick on the papyrus. This works for both fractions and whole numbers. In the PN a mouseover pop-up will alert you as to whether a number is whole or fraction. Note: the tick must be the standard ascii (`'`), not a Smart Quote, and not a Greek Unicode apostrophe (just as the system requires `<...>` and does not permit Greek Unicode `⟨...⟩`) 
+To indicate the presence of a tick on the papyrus. This works for both fractions and whole numbers. In the PN a mouseover pop-up will alert you as to whether a number is whole or fraction. Note: the tick must be the standard ascii (`'`), not a Smart Quote, and not a Greek Unicode apostrophe (just as the system requires `<...>` and does not permit Greek Unicode `⟨...⟩`)
 
 For example:
 
-		<γ '=3> 
+		<γ '=3>
 		<γ '=1/3>
 
 ***
@@ -2002,13 +2002,13 @@ _Example PN Link:_ [BGU.1.28](http://papyri.info/hgv/9025)
 To indicate paragraphos between, say, lines 4 and 5, enter as follows:
 
 
-		3. text 
+		3. text
 
-		4. text 
+		4. text
 
-		---- 
+		----
 
-		5. text 
+		5. text
 
 
 Note: paragraphoi should be entered 'between lines', as above, and not on their own lines.
@@ -2028,16 +2028,68 @@ _Example PN Link:_ [BGU.7.1526](http://papyri.info/hgv/4776)
 To indicate horizontal rule on papyrus. To indicate paragraphos between, say, lines 4 and 5, enter as follows:
 
 
-		3. text 
+		3. text
 
-		4. text 
+		4. text
 
-		-------- 
+		--------
 
-		5. text 
+		5. text
 
 
 Note: horizontal rules should be entered 'between lines', as above, and not on their own lines.
+
+***
+
+#### Wavy Line
+
+_To get this PN preview:_ `~~~~~~~~`
+
+_Use this Leiden+:_ `~~~~~~~~`
+
+_To create this XML:_ `<milestone rend="wavy-line" unit="undefined"></>`
+
+_Example PN Link:_ [BGU.19.2777](http://papyri.info/hgv/91687)
+
+To indicate a wavy line between, say, lines 4 and 5, enter as follows:
+
+
+		3. text
+
+		4. text
+
+		~~~~~~~~
+
+		5. text
+
+
+Note: wavy lines should be entered 'between lines', as above, and not on their own lines.
+
+***
+
+#### Diple obelismene or forked paragraphos
+
+_To get this PN preview:_ `>---`
+
+_Use this Leiden+:_ `>---`
+
+_To create this XML:_ `<milestone rend="diple-obelismene" unit="undefined"></>`
+
+_Example PN Link:_ [TM 59697](http://papyri.info/dclp/59697)
+
+To indicate a forked paragraphos or diple obelismene between, say, lines 4 and 5, enter as follows:
+
+
+		3. text
+
+		4. text
+
+		>---
+
+		5. text
+
+
+Note: a diple obelismene should be entered 'between lines', as above, and not on its own line.
 
 ***
 
@@ -2179,12 +2231,12 @@ _To create this XML:_ `<foreign xml:lang="grc">γενήσεται</foreign>`
 
 _Example PN Link:_ [SB.20.14688](http://papyri.info/hgv/23792)
 
-Indicate text strings written in a language/script other than the document's default as follows: 
+Indicate text strings written in a language/script other than the document's default as follows:
 
-		Greek = ~|γενήσεται|~grc 
-		Latin = ~|comes|~la 
-		Ancient Greek in Latin script = ~|di emu|~grc-Latn 
-		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek 
+		Greek = ~|γενήσεται|~grc
+		Latin = ~|comes|~la
+		Ancient Greek in Latin script = ~|di emu|~grc-Latn
+		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek
 
 NOTE: You must enter a space after the language designator; so, not `"~la"`, but `"~la "`.
 
@@ -2384,7 +2436,7 @@ _Use this Leiden+:_ `(Chars: ca.18 non transcribed)`
 
 _To create this XML:_ `<gap reason="ellipsis" quantity="18" unit="character" precision="low"><desc>non transcribed</desc></gap>`
 
-_Example PN Link:_ 
+_Example PN Link:_
 
 Estimated number of characters left untranscribed by editor.
 
@@ -2400,9 +2452,8 @@ _To create this XML:_ `<choice><reg xml:lang="grc">ἄρακος</reg><orig>ⲁ�
 
 _Example PN Link:_
 
-Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows: 
+Leiden+ treats multi-lingual equivalencies as a kind of rough 'regularization'. So, if a mainly Greek text has some Coptic written in it, and you would like to indicate the Greek word that a Coptic word represents, mark up as follows:
 
-    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:> 
+    <:ἄρακος=grc|reg|ⲁⲣⲁⲕ:>
 
 The text will print `ⲁⲣⲁⲕ` and the app will read `"i.e. Greek ἄρακος"`
-
