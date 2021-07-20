@@ -237,7 +237,7 @@ For a scribal apostrophe, whether as a marker of elision, word-division, or as a
 
 ***
 
-#### High point or ana-stigme
+#### High point or ano-stigme
 
 _To get this PN preview:_ ˙
 
