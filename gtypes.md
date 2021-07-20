@@ -14,7 +14,7 @@
 - [Misc. Symbols](#misc) <a id="top"></a>
     - [Magic and Monogram](#magic)
     - [Decoration](#decoration)
-- [Unclear Symbols](#unclear) <a id="top"></a>
+- [Unclear, Unintelligible, or Undefined](#unclear) <a id="top"></a>
     - [Unclear symbols](#unclear-symbols)
 
 ## Sigla <a id="sigla"></a>
