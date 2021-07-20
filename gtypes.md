@@ -1,7 +1,7 @@
 # Sigla, Special Characters, Punctuation, and Glyphs
 
 - Scribes and users occasionally adorn a text with paratextual material or other lexical aids. This help file offers a guide to encoding them:
-- [Sigla](#Sigla) <a id="top"></a>
+- [Sigla](#sigla) <a id="top"></a>
     - [Crosses](#crosses)
     - [Strokes, Dots, and Checks](#strokes-and-checks)
     - [Scribal Punctuation](#scribal-punctuation)
@@ -11,6 +11,9 @@
 - [Parentheses and Braces](#scribal-parentheses) <a id="top"></a>
     - [Scribal Parentheses](#parentheses)
     - [Scribal Braces](#braces)
+- [Misc. Symbols](#misc) <a id="top"></a>
+    - [Magic and Monogram](#magic)
+    - [Decoration](#decoration)
 - [Unclear Symbols](#unclear) <a id="top"></a>
     - [Unclear symbols](#unclear-symbols)
 
@@ -106,7 +109,7 @@ For a diagonal slash used in-line. For slashes which appear in the left-hand mar
 
 #### Reverse slanting stroke
 
-_To get this PN preview:_ \
+_To get this PN preview:_ \ (PN does not yet support this character)
 
 _Use this Leiden+:_ `*reverse-slanting-stroke*`
 
@@ -114,7 +117,7 @@ _To create this XML:_ `<g type="reverse-slanting-stroke"/>`
 
 _Example PN Link:_ [SB.14.11692](https://papyri.info/hgv/30884)
 
-For a backslash or inverted diagonal stroke.
+For a backslash or inverted diagonal stroke. Not yet supported by EpiDoc stylesheet (consolidate with `*backslash*` first?)
 
 ***
 
@@ -172,7 +175,7 @@ _To create this XML:_ `<g type="guide-dot"/>`
 
 _Example PN Link:_ [P.Leid.Inst.79](https://papyri.info/hgv/38784/source)
 
-For inline dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`.
+For inline dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`. Not yet supported by EpiDoc stylesheet.
 
 ***
 
@@ -214,7 +217,7 @@ _To create this XML:_ `<g type="tachygraphic-marks"/>`
 
 _Example PN Link:_ [P.Cair.Masp.1.67045](https://papyri.info/hgv/18997)
 
-For undecipherable tachygraphy.
+For undecipherable tachygraphy. Cf. `*unintelligible*`, for a single symbol or glyph.
 
 ***
 
@@ -262,7 +265,7 @@ For scribal punctuation in the form of a raised dot, including the Latin interpu
 
 ***
 
-#### Low point or kato-stigme
+#### Low point, kato-stigme, or hypo-stigme
 
 _To get this PN preview:_ .
 
@@ -346,7 +349,7 @@ _To create this XML:_ `<g type="asteriskos"/>`
 
 _Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
 
-For the asteriskos, whether used according to Aristarchus' system or not.
+For the asteriskos, whether used according to Aristarchus' system (i.e., marking genuine lines found elsewhere) or not.
 
 ***
 #### Antisigma
@@ -359,7 +362,7 @@ _To create this XML:_ `<g type="antisigma"/>`
 
 _Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
 
-For the antisigma, whether used according to Aristarchus' system or not.
+For the antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content) or not. In papyri antisigma frequently marks revisions (esp. textual variants) and comments.
 
 ***
 #### Antisigma periestigmene (or 'dotted' antisigma)
@@ -372,7 +375,7 @@ _To create this XML:_ `<g type="antisigma-periestigmene"/>`
 
 _Example PN Link:_ 
 
-For the dotted antisigma, whether used according to Aristarchus' system or not.
+For the dotted antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content, or for transposition) or not.
 
 ***
 #### Diple
@@ -385,7 +388,7 @@ _To create this XML:_ `<g type="diple"/>`
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
-For the wedge-shaped diple, whether used according to Aristarchus' system or not.
+For the wedge-shaped diple, typically used in the left-hand margin to mark any number of interesting features about a passage.
 
 ***
 
@@ -399,7 +402,7 @@ _To create this XML:_ `<g type="diple-periestigmene"/>`
 
 _Example PN Link:_ 
 
-For the dotted diple, whether used according to Aristarchus' system or not.
+For the dotted diple, whether used according to Aristarchus' system (i.e., marking disagreement with Zenodotus) or not.
 
 ***
 
@@ -413,7 +416,7 @@ _To create this XML:_ `<g type="obelos"/>`
 
 _Example PN Link:_ 
 
-For the marginal obelos, whether used according to Aristarchus' system or not.
+For the marginal obelos, whether used according to Aristarchus' system (i.e., marking a spurious line) or not.
 
 ***
 
@@ -487,9 +490,9 @@ _Use this Leiden+:_ `*parens-punctuation-opening*`
 
 _To create this XML:_ `<g type="parens-punctuation-opening"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [BGU.7.1621](https://papyri.info/hgv/27592)
 
-For the opening of a scribal parenthesis bracketing something on a single line of text. For sets of brackets enveloping multiple lines, use `parens-upper-opening`, `parens-middle-opening`, and `parens-lower-opening` as well as `parens-upper-closing`, `parens-middle-closing`, and `parens-lower-closing`. 
+For text marked in antiquity with the opening of a parenthesis, bracketing something on a single line of text. For parentheses that envelop multiple lines, use `parens-upper-opening`, `parens-middle-opening`, and `parens-lower-opening` on the individual lines, as well as `parens-upper-closing`, `parens-middle-closing`, and `parens-lower-closing` (where present). If the ancient parens indicate(s) deletion mark the affected string with `*parens-punctuation-opening*` and fully enclose in 〚...〛. If the semantic meaning of the parens is not clearly deletion, then use `*parens-punctuation-opening*` alone.
 
 ***
 
@@ -502,9 +505,9 @@ _Use this Leiden+:_ `*parens-punctuation-closing*`
 
 _To create this XML:_ `<g type="parens-punctuation-closing"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [BGU.7.1621](https://papyri.info/hgv/27592)
 
-For the closing of a scribal parenthesis bracketing something on a single line of text. For sets of brackets enveloping multiple lines, use `parens-upper-opening`, `parens-middle-opening`, and `parens-lower-opening` as well as `parens-upper-closing`, `parens-middle-closing`, and `parens-lower-closing`. 
+For text marked in antiquity with the closing of a parenthesis, bracketing something on a single line of text. For parentheses that envelop multiple lines, use `parens-upper-opening`, `parens-middle-opening`, and `parens-lower-opening` on the individual lines, as well as `parens-upper-closing`, `parens-middle-closing`, and `parens-lower-closing` (where present). If the ancient parens indicate(s) deletion, mark the affected string with `*parens-punctuation-closing*` and fully enclose in 〚...〛. If the semantic meaning of the parens is not clearly deletion, then use `*parens-punctuation-closing*` alone.
 
 ***
 
@@ -516,9 +519,9 @@ _Use this Leiden+:_ `*parens-upper-opening*`, `*parens-middle-opening*`, `*paren
 
 _To create this XML:_ `<g type="parens-upper-opening"/>`, `<g type="parens-middle-opening"/>`, and `<g type="parens-lower-opening"/>` 
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [CPR.7.8](https://papyri.info/hgv/26662)
 
-For the opening of a scribal parenthesis bracketing multiple lines of text. Use `*parens-upper-opening*` for the topmost line, `*parens-lower-opening*` for the last line, and `*parens-middle-opening*` for any lines in between. 
+For text marked in antiquity with the opening of a parenthesis, bracketing multiple lines of text. Use `*parens-upper-opening*` for the topmost line, `*parens-lower-opening*` for the last line, and `*parens-middle-opening*` for any lines in between. For parenthesis on a single line, use `*parens-punctuation-opening*` and `*parens-punctuation-closing*`.
 
 ***
 
@@ -530,45 +533,134 @@ _Use this Leiden+:_ `*parens-upper-closing*`, `*parens-middle-closing*`, `*paren
 
 _To create this XML:_ `<g type="parens-upper-closing"/>`, `<g type="parens-middle-closing"/>`, and `<g type="parens-lower-closing"/>` 
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [CPR.7.8](https://papyri.info/hgv/26662)
 
-For the opening of a scribal parenthesis bracketing multiple lines of text. Use `*parens-upper-closing*` for the topmost line, `*parens-lower-closing*` for the last line, and `*parens-middle-closing*` for any lines in between. 
-
-***
-
-#### Multi-line scribal parenthesis (closing)
-
-_To get this PN preview:_ (
-
-_Use this Leiden+:_ `*parens-punctuation-opening*`
-
-_To create this XML:_ `parens-punctuation-opening`
-
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
-
-For the opening of a scribal parenthesis bracketing something on a single line of text. For sets of brackets enveloping multiple lines, use `parens-upper-opening`, `parens-middle-opening`, and `parens-lower-opening` as well as `parens-upper-closing`, `parens-middle-closing`, and `parens-lower-closing`. 
+For text marked in antiquity with the opening of a parenthesis, bracketing multiple lines of text. Use `*parens-upper-closing*` for the topmost line, `*parens-lower-closing*` for the last line, and `*parens-middle-closing*` for any lines in between. For parenthesis on a single line, use `*parens-punctuation-opening*` and `*parens-punctuation-closing*`.
 
 ***
 
 ### Scribal Braces <a id="braces"></a>([return to top](#top))
 
-#### Unclear or uncertain symbol
+#### Scribal braces
 
-_To get this PN preview:_ ☧̣ or ((asteriskos?))
+_To get this PN preview:_ 
 
-_Use this Leiden+:_ `*chirho?*` or `*asteriskos?*`
+_Use this Leiden+:_ 
 
-_To create this XML:_ `<unclear><g type="chirho"/></unclear>` or `<unclear><g type="asteriskos"/></unclear>`
+_To create this XML:_ 
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ 
 
-When a symbol is unclear or uncertain, add ? (i.e., a question mark) to the penultimate position in the Leiden+ description. 
+Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`. 
 
 ***
 
-## Unclear Symbols <a id="unclear"></a>
+## Misc. Symbols <a id="misc"></a>
+
+### Magic and Monogram <a id="magic"></a>([return to top](#top))
+
+#### Magical symbol
+
+_To get this PN preview:_ ((magical-symbol))
+
+_Use this Leiden+:_ `*magical-symbol*`
+
+_To create this XML:_ `<g type="magical-symbol"/>`
+
+_Example PN Link:_ [TM 64757](https://papyri.info/dclp/64757)
+
+For magical symbols that are unsupported by Unicode and cannot be displayed.
+
+***
+#### Monogram
+
+_To get this PN preview:_ monogr.
+
+_Use this Leiden+:_ `*monogram*`
+
+_To create this XML:_ `<g type="monogram"/>`
+
+_Example PN Link:_ [CPR.9.17](https://papyri.info/hgv/45311)
+
+Needs description added.
+
+***
+
+#### Paraphe
+
+_To get this PN preview:_ ((paraphe))
+
+_Use this Leiden+:_ `*paraphe*`
+
+_To create this XML:_ `<g type="paraphe"/>`
+
+_Example PN Link:_ [TravMém.16.361_1](https://papyri.info/hgv/702253)
+
+Needs description added.
+
+***
+
+### Decoration <a id="decoration"></a>([return to top](#top))
+
+#### Decorative X
+
+_To get this PN preview:_ ☓
+
+_Use this Leiden+:_ `*x*`
+
+_To create this XML:_ `<g type="x"/>`
+
+_Example PN Link:_ [P.Sarap.92](https://papyri.info/hgv/17117)
+
+For a decorative X, as often appears on a document docket to separate entities.
+
+***
+
+#### Series of Decorative Xs
+
+_To get this PN preview:_ ☓☓☓☓☓
+
+_Use this Leiden+:_ `*xs*`
+
+_To create this XML:_ `<g type="xs"/>`
+
+_Example PN Link:_ [P.Brook.6](https://papyri.info/hgv/27388)
+
+For a series of Xs, added as adornment or space filler. NB: PN will display five Xs, regardless of the number on the papyrus
+
+***
+
+## Unclear, Unintelligible, or Undefined <a id="unclear"></a>
 
 ### Unclear Symbols <a id="unclear-symbols"></a>([return to top](#top))
+
+#### Unintelligible
+
+_To get this PN preview:_ ((unintelligible))
+
+_Use this Leiden+:_ `*unintelligible*`
+
+_To create this XML:_ `<g type="unintelligible"/>`
+
+_Example PN Link:_ [P.Cair.Isid.20](https://papyri.info/hgv/10353)
+
+For an unintelligible or unidentifiable symbol. Cf. `*tachygraphic-marks*`, for a longer series of indecipherable writing.
+
+***
+
+#### Undefined
+
+_To get this PN preview:_ ((undefined))
+
+_Use this Leiden+:_ `*undefined*`
+
+_To create this XML:_ `<g type="undefined"/>`
+
+_Example PN Link:_ [TM 62479](https://papyri.info/dclp/62479)
+
+Needs description added. TM 62479 is the transcription with this type.
+
+***
 
 #### Unclear or uncertain symbol
 
@@ -578,9 +670,9 @@ _Use this Leiden+:_ `*chirho?*` or `*asteriskos?*`
 
 _To create this XML:_ `<unclear><g type="chirho"/></unclear>` or `<unclear><g type="asteriskos"/></unclear>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [SB.18.13762](https://papyri.info/hgv/36300)
 
-When a symbol is unclear or uncertain, add ? (i.e., a question mark) to the penultimate position in the Leiden+ description. 
+When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in the Leiden+ description. The Unicode character will appear either with an underdot, or with a question mark.
 
 ***
 
