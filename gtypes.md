@@ -42,7 +42,7 @@ _To create this XML:_ `<g type="rho-cross"/>`
 
 _Example PN Link:_ [PSI.17.1701](https://papyri.info/hgv/786119)
 
-This gtype is used for staurograms of the tau-rho variety, as distinct from the `*chirho*` or `*stauros*`.
+For staurograms of the tau-rho variety, as distinct from the `*chirho*` or `*stauros*`.
 
 ***
 
@@ -56,7 +56,7 @@ _To create this XML:_ `<g type="chirho"/>`
 
 _Example PN Link:_ [P.Yale.1.71](https://papyri.info/hgv/16844)
 
-This gtype is used for staurograms of the chi-rho variety, as distinct from the `*rho-cross*` or `*stauros*`.
+For staurograms of the chi-rho variety, as distinct from the `*rho-cross*` or `*stauros*`.
 
 ***
 
@@ -70,9 +70,9 @@ _Use this Leiden+:_ `*dash*`
 
 _To create this XML:_ `<g type="dash"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [CPR.30.22](https://papyri.info/hgv/79319)
 
-For a horizontal or filler stroke that appears mid-line, often in the context of a register. For filler strokes at the end of a line, use `*filler(extension)*`.
+For a horizontal or filler stroke that appears mid-line, often (but not necessarily) in the context of a register. For filler strokes at the end of a line, use `*filler(extension)*`.
 
 ***
 
@@ -84,7 +84,7 @@ _Use this Leiden+:_ `*filler(extension)*`
 
 _To create this XML:_ `<g rend="extension" type="filler"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Amst.1.12](https://papyri.info/DCLP/61329)
 
 For a filler stroke or other space filler at the end of a line. For a horizontal stroke mid-line, use `*dash*`.
 
@@ -98,7 +98,7 @@ _Use this Leiden+:_ `*slanting-stroke*`
 
 _To create this XML:_ `<g type="slanting-stroke"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Worp.48](https://papyri.info/hgv/115577)
 
 For a diagonal slash used in-line. For slashes which appear in the left-hand margin, use `*check*`.
 
@@ -112,7 +112,7 @@ _Use this Leiden+:_ `*reverse-slanting-stroke*`
 
 _To create this XML:_ `<g type="reverse-slanting-stroke"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [SB.14.11692](https://papyri.info/hgv/30884)
 
 For a backslash or inverted diagonal stroke.
 
@@ -126,9 +126,9 @@ _Use this Leiden+:_ `*double-vertical-bar*`
 
 _To create this XML:_ `<g type="double-vertical-bar"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Lund.2.5](https://papyri.info/hgv/41035)
 
-For simple crosses or staurograms.
+For twinned vertical bars.
 
 ***
 
@@ -141,9 +141,9 @@ _Use this Leiden+:_ `*long-vertical-bar*`
 
 _To create this XML:_ `<g type="long-vertical-bar"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [SB.3.7013](https://papyri.info/hgv/31057)
 
-For simple crosses or staurograms.
+For a single vertical line occupying the height of a letter or more.
 
 ***
 
@@ -156,9 +156,9 @@ _Use this Leiden+:_ `*swungdash*`
 
 _To create this XML:_ `<g type="swungdash"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [TM 60668](https://papyri.info/dclp/60668)
 
-For simple crosses or staurograms.
+For a short horizontal line that is wavy instead of straight.
 
 ***
 
@@ -170,7 +170,7 @@ _Use this Leiden+:_ `*guide-dot*`
 
 _To create this XML:_ `<g type="guide-dot"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Leid.Inst.79](https://papyri.info/hgv/38784/source)
 
 For inline dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`.
 
@@ -184,9 +184,9 @@ _Use this Leiden+:_ `*dot*`
 
 _To create this XML:_ `<g type="dot"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [O.Heid.341](https://papyri.info/hgv/80547)
 
-For dots that appear in the left margin, as in a checklist. Mid-line or in-line dots should use `*guide-dot*`, unless they are punctuation (in which case, use `*middot*`). These are occasionally difficult to distinguish from `*check*`.
+For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. Mid-line or in-line dots should use `*guide-dot*`, unless they are punctuation (in which case, use `*middot*`). 
 
 ***
 
@@ -198,12 +198,11 @@ _Use this Leiden+:_ `*check*`
 
 _To create this XML:_ `<g type="check"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Pintaudi.21](https://papyri.info/hgv/38709)
 
-For slashes that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*dot*`, and are not interchangeable with `*slanting-stroke*`, which appears in-line.
+For slashes that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*dot*`, and are not interchangeable with `*slanting-stroke*`, which typically appears in-line.
 
 ***
-
 
 #### Tachygraphic marks
 
@@ -213,7 +212,7 @@ _Use this Leiden+:_ `*tachygraphic-marks*`
 
 _To create this XML:_ `<g type="tachygraphic-marks"/>`
 
-_Example PN Link:_ [Stud.Pal.3.503](http://papyri.info/hgv/37758)
+_Example PN Link:_ [P.Cair.Masp.1.67045](https://papyri.info/hgv/18997)
 
 For undecipherable tachygraphy.
 
@@ -229,9 +228,9 @@ _Use this Leiden+:_ `*apostrophe*`
 
 _To create this XML:_ `<g type="apostrophe"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Brook.87](https://papyri.info/hgv/30806)
 
-For a scribal apostrophe, whether as a marker of elision, word-division, or as a separator of double consonants. 
+For a scribal apostrophe, whether as a marker of elision, word-division, or as a separator of double consonants. These will appear in the apparatus criticus.
 
 ***
 
@@ -243,7 +242,7 @@ _Use this Leiden+:_ `*high-punctus*`
 
 _To create this XML:_ `<g type="high-punctus"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Oxy.58.3920](https://papyri.info/hgv/17904)
 
 For scribal punctuation in the form of a high dot.
 
@@ -257,9 +256,9 @@ _Use this Leiden+:_ `*middot*`
 
 _To create this XML:_ `<g type="middot"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [C.Ep.Lat.10](https://papyri.info/hgv/15965)
 
-For scribal punctuation in the form of a raised dot.
+For scribal punctuation in the form of a raised dot, including the Latin interpunct.
 
 ***
 
@@ -271,7 +270,7 @@ _Use this Leiden+:_ `*low-punctus*`
 
 _To create this XML:_ `<g type="low-punctus"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [Stud.Pal.20.212](https://papyri.info/hgv/36613)
 
 For scribal punctuation in the form of a low dot.
 
@@ -285,7 +284,7 @@ _Use this Leiden+:_ `*dipunct*`
 
 _To create this XML:_ `<g type="dipunct"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [Stud.Pal.8.1245](https://papyri.info/hgv/38103)
 
 For scribal punctuation in the form of a dicolon or dipunct.
 
@@ -299,7 +298,7 @@ _Use this Leiden+:_ `*tripunct*`
 
 _To create this XML:_ `<g type="tripunct"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [CPR.31.18](https://papyri.info/hgv/140877)
 
 For scribal punctuation in the form of a tripunct.
 
@@ -313,9 +312,9 @@ _Use this Leiden+:_ `*tetrapunct*`
 
 _To create this XML:_ `<g type="tetrapunct"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [TM 65258](https://papyri.info/dclp/65258)
 
-This gtype is used for scribal punctuation in the form of a tetrapunct.
+For scribal punctuation in the form of a tetrapunct.
 
 ***
 
@@ -327,9 +326,9 @@ _Use this Leiden+:_ `*hypodiastole*`
 
 _To create this XML:_ `<g type="hypodiastole"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [PSI.16.1604](https://papyri.info/dclp/220506)
 
-For simple crosses or staurograms.
+For scribal punctuation in the form of a hypodiastole, which resembles a comma.
 
 ***
 
@@ -347,7 +346,7 @@ _To create this XML:_ `<g type="asteriskos"/>`
 
 _Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
 
-For the asteriskos.
+For the asteriskos, whether used according to Aristarchus' system or not.
 
 ***
 #### Antisigma
@@ -358,12 +357,12 @@ _Use this Leiden+:_ `*antisigma*`
 
 _To create this XML:_ `<g type="antisigma"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
 
-For simple crosses or staurograms.
+For the antisigma, whether used according to Aristarchus' system or not.
 
 ***
-#### Antisigma periestigmene
+#### Antisigma periestigmene (or 'dotted' antisigma)
 
 _To get this PN preview:_ ͽ
 
@@ -371,9 +370,9 @@ _Use this Leiden+:_ `*antisigma-periestigmene*`
 
 _To create this XML:_ `<g type="antisigma-periestigmene"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ 
 
-For simple crosses or staurograms.
+For the dotted antisigma, whether used according to Aristarchus' system or not.
 
 ***
 #### Diple
@@ -384,9 +383,9 @@ _Use this Leiden+:_ `*diple*`
 
 _To create this XML:_ `<g type="diple"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
-For simple crosses or staurograms.
+For the wedge-shaped diple, whether used according to Aristarchus' system or not.
 
 ***
 
@@ -398,9 +397,9 @@ _Use this Leiden+:_ `*diple-periestigmene*`
 
 _To create this XML:_ `<g type="diple-periestigmene"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ 
 
-For simple crosses or staurograms.
+For the dotted diple, whether used according to Aristarchus' system or not.
 
 ***
 
@@ -412,9 +411,9 @@ _Use this Leiden+:_ `*obelos*`
 
 _To create this XML:_ `<g type="obelos"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ 
 
-For simple crosses or staurograms.
+For the marginal obelos, whether used according to Aristarchus' system or not.
 
 ***
 
@@ -428,9 +427,9 @@ _Use this Leiden+:_ `*downwards-ancora*`
 
 _To create this XML:_ `<g type="downwards-ancora"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Oxy.65.4452vo](https://papyri.info/dclp/60568)
 
-For simple crosses or staurograms.
+The downwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
 
 ***
 
@@ -442,9 +441,9 @@ _Use this Leiden+:_ `*upwards-ancora*`
 
 _To create this XML:_ `<g type="upwards-ancora"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Amh.1.1](https://papyri.info/dclp/64754)
 
-For simple crosses or staurograms.
+The upwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
 
 ***
 
@@ -456,9 +455,9 @@ _Use this Leiden+:_ `*dotted-obelos*`
 
 _To create this XML:_ `<g type="dotted-obelos"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
 
-For simple crosses or staurograms.
+For the dotted obelos, whether the obelos itself is horizontal or diagonal.
 
 ***
 
@@ -470,9 +469,9 @@ _Use this Leiden+:_ `*chi-periestigmenon*`
 
 _To create this XML:_ `<g type="chi-periestigmenon"/>`
 
-_Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
+_Example PN Link:_ 
 
-For simple crosses or staurograms.
+For the dotted chi.
 
 ***
 
