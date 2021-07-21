@@ -630,6 +630,20 @@ For a series of Xs, added as adornment or space filler. NB: PN will display five
 
 ***
 
+#### Drawings, Seals, Figures, Borders, etc.
+
+_To get this PN preview:_ (drawing)
+
+_Use this Leiden+:_ `#drawing`
+
+_To create this XML:_ `<figure><figDesc>drawing</figDesc></figure>`
+
+_Example PN Link:_ [TM 68861](https://papyri.info/dclp/68861)
+
+For figures on the papyrus. Describe the decoration in one or two words (e.g., drawing, seal, figure, decorated-border)
+
+***
+
 ## Unclear, Unintelligible, or Undefined <a id="unclear"></a>
 
 ### Unclear Symbols <a id="unclear-symbols"></a>([return to top](#top))
