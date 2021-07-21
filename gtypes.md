@@ -63,7 +63,7 @@ For staurograms of the chi-rho variety, as distinct from the `*rho-cross*` or `*
 
 ***
 
-### Strokes, Dots, and Checks <a id="strokes-and-checks"></a> ([return to top](#top))
+### Strokes, Fillers, Dots, and Checks <a id="strokes-and-checks"></a> ([return to top](#top))
 
 #### Dash
 
@@ -75,7 +75,7 @@ _To create this XML:_ `<g type="dash"/>`
 
 _Example PN Link:_ [CPR.30.22](https://papyri.info/hgv/79319)
 
-For a horizontal or filler stroke that appears mid-line, often (but not necessarily) in the context of a register. For filler strokes at the end of a line, use `*filler(extension)*`.
+For a horizontal or filler stroke that appears in-line amidst text, often (but not necessarily) in the context of a register. For a horizontal filler stroke at the end of a line, use `*filler(extension)*`.
 
 ***
 
@@ -89,7 +89,21 @@ _To create this XML:_ `<g rend="extension" type="filler"/>`
 
 _Example PN Link:_ [P.Amst.1.12](https://papyri.info/DCLP/61329)
 
-For a filler stroke or other space filler at the end of a line. For a horizontal stroke mid-line, use `*dash*`.
+For a filler stroke or other space filler at the end of a line. For a horizontal stroke in-line amidst text, use `*dash*`.
+
+***
+
+#### Wedge shaped space filler
+
+_To get this PN preview:_ › PN does not yet support this character
+
+_Use this Leiden+:_ `*diple(extension)*`
+
+_To create this XML:_ `<g rend="extension" type="diple"/>`
+
+_Example PN Link:_ [P.Amst.1.12](https://papyri.info/DCLP/61329)
+
+For a space filler at the end of a line in the shape of a diple or wedge. For a horizontal filler stroke at the end of a line, use `*filler(extension)*`. Not yet supported by EpiDoc stylesheet.
 
 ***
 
@@ -103,7 +117,7 @@ _To create this XML:_ `<g type="slanting-stroke"/>`
 
 _Example PN Link:_ [P.Worp.48](https://papyri.info/hgv/115577)
 
-For a diagonal slash used in-line. For slashes which appear in the left-hand margin, use `*check*`.
+For a diagonal slash used in-line amidst text. For slashes which appear in the left margin, use `*check*`.
 
 ***
 
@@ -175,7 +189,7 @@ _To create this XML:_ `<g type="guide-dot"/>`
 
 _Example PN Link:_ [P.Leid.Inst.79](https://papyri.info/hgv/38784/source)
 
-For inline dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`. Not yet supported by EpiDoc stylesheet.
+For in-line dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`. Not yet supported by EpiDoc stylesheet.
 
 ***
 
@@ -189,7 +203,7 @@ _To create this XML:_ `<g type="dot"/>`
 
 _Example PN Link:_ [O.Heid.341](https://papyri.info/hgv/80547)
 
-For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. Mid-line or in-line dots should use `*guide-dot*`, unless they are punctuation (in which case, use `*middot*`). 
+For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (in which case, use `*middot*`). 
 
 ***
 
@@ -203,21 +217,7 @@ _To create this XML:_ `<g type="check"/>`
 
 _Example PN Link:_ [P.Pintaudi.21](https://papyri.info/hgv/38709)
 
-For slashes that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*dot*`, and are not interchangeable with `*slanting-stroke*`, which typically appears in-line.
-
-***
-
-#### Tachygraphic marks
-
-_To get this PN preview:_ tachygr. marks
-
-_Use this Leiden+:_ `*tachygraphic-marks*`
-
-_To create this XML:_ `<g type="tachygraphic-marks"/>`
-
-_Example PN Link:_ [P.Cair.Masp.1.67045](https://papyri.info/hgv/18997)
-
-For undecipherable tachygraphy. Cf. `*unintelligible*`, for a single symbol or glyph.
+For slashes that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*dot*`, and are not interchangeable with `*slanting-stroke*`, which typically appears in-line amidst text.
 
 ***
 
@@ -247,7 +247,7 @@ _To create this XML:_ `<g type="high-punctus"/>`
 
 _Example PN Link:_ [P.Oxy.58.3920](https://papyri.info/hgv/17904)
 
-For scribal punctuation in the form of a high dot.
+For scribal punctuation in the form of a high dot. These will appear in the apparatus criticus.
 
 ***
 
@@ -261,7 +261,7 @@ _To create this XML:_ `<g type="middot"/>`
 
 _Example PN Link:_ [C.Ep.Lat.10](https://papyri.info/hgv/15965)
 
-For scribal punctuation in the form of a raised dot, including the Latin interpunct.
+For scribal punctuation in the form of a raised dot, including the Latin interpunct. These will appear in the apparatus criticus.
 
 ***
 
@@ -275,7 +275,7 @@ _To create this XML:_ `<g type="low-punctus"/>`
 
 _Example PN Link:_ [Stud.Pal.20.212](https://papyri.info/hgv/36613)
 
-For scribal punctuation in the form of a low dot.
+For scribal punctuation in the form of a low dot. These will appear in the apparatus criticus.
 
 ***
 
@@ -365,7 +365,7 @@ _Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
 For the antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content) or not. In papyri antisigma frequently marks revisions (esp. textual variants) and comments.
 
 ***
-#### Antisigma periestigmene (or 'dotted' antisigma)
+#### Antisigma periestigmene (or dotted antisigma)
 
 _To get this PN preview:_ ͽ
 
@@ -388,7 +388,7 @@ _To create this XML:_ `<g type="diple"/>`
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
-For the wedge-shaped diple, typically used in the left-hand margin to mark any number of interesting features about a passage.
+For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*diple(extension)*`.
 
 ***
 
@@ -460,7 +460,7 @@ _To create this XML:_ `<g type="dotted-obelos"/>`
 
 _Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
 
-For the dotted obelos, whether the obelos itself is horizontal or diagonal.
+For the dotted obelos, whether the obelos itself is horizontal or diagonal on the papyrus.
 
 ***
 
@@ -569,7 +569,7 @@ _To create this XML:_ `<g type="magical-symbol"/>`
 
 _Example PN Link:_ [TM 64757](https://papyri.info/dclp/64757)
 
-For magical symbols that are unsupported by Unicode and cannot be displayed.
+For magical symbols that are unsupported by Unicode and cannot be displayed in PN.
 
 ***
 #### Monogram
@@ -582,7 +582,7 @@ _To create this XML:_ `<g type="monogram"/>`
 
 _Example PN Link:_ [CPR.9.17](https://papyri.info/hgv/45311)
 
-Needs description added.
+For monograms that are unsupported by Unicode and cannot be displayed in PN.
 
 ***
 
@@ -626,13 +626,27 @@ _To create this XML:_ `<g type="xs"/>`
 
 _Example PN Link:_ [P.Brook.6](https://papyri.info/hgv/27388)
 
-For a series of Xs, added as adornment or space filler. NB: PN will display five Xs, regardless of the number on the papyrus
+For a series of Xs, added as adornment or space filler. NB: PN will display five Xs when `*xs*` is encoded, regardless of the number on the papyrus
 
 ***
 
 ## Unclear, Unintelligible, or Undefined <a id="unclear"></a>
 
 ### Unclear Symbols <a id="unclear-symbols"></a>([return to top](#top))
+
+#### Tachygraphic marks
+
+_To get this PN preview:_ tachygr. marks
+
+_Use this Leiden+:_ `*tachygraphic-marks*`
+
+_To create this XML:_ `<g type="tachygraphic-marks"/>`
+
+_Example PN Link:_ [P.Cair.Masp.1.67045](https://papyri.info/hgv/18997)
+
+For undecipherable tachygraphy. Cf. `*unintelligible*`, for a single symbol or glyph.
+
+***
 
 #### Unintelligible
 
@@ -672,7 +686,7 @@ _To create this XML:_ `<unclear><g type="chirho"/></unclear>` or `<unclear><g ty
 
 _Example PN Link:_ [SB.18.13762](https://papyri.info/hgv/36300)
 
-When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in the Leiden+ description. The Unicode character will appear either with an underdot, or with a question mark.
+When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in Leiden+. The Unicode character will appear either with an underdot, or with a question mark.
 
 ***
 
