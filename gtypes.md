@@ -388,7 +388,7 @@ _To create this XML:_ `<g type="diple"/>`
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
-For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*diple(extension)*`.
+For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*filler(diple)*`.
 
 ***
 
