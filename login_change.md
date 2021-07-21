@@ -1,5 +1,5 @@
 #<span style="font-family:sans-serif;font-size:36px;margin:.5em">New Google+ login method</span>
-On April 20th, Google will [cease support](https://developers.google.com/identity/sign-in/auth-migration) of the login mechanism that papyri.info uses to authenticate users for the Papyrological Editor (PE). When you sign in, you may notice the old Google button has been replaced with a new G+ (Google Plus) button. If you use Google as your login provider, you may be temporarily locked out of your account. 
+On April 20th, 2015, Google [ceased support](https://developers.google.com/identity/sign-in/auth-migration) of the login mechanism that papyri.info uses to authenticate users for the Papyrological Editor (PE). If you use Google as your login provider and we are unable to match your account with the new login method, you may be temporarily locked out of your PE account.
 
 **What do I need to do?**
 

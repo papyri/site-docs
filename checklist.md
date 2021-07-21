@@ -230,15 +230,15 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### <a id="P.Beatty">P.Beatty</a>
 = _Chester Beatty Biblical Papyri_, ed. F.G. Kenyon. London. [I—VIII, MF 1.84]
 
- * I, General Introduction. 1933. [HF]
- * II, The Gospels and Acts. 1933. Pt. 2, Plates. 1934. [text HF]
- * III, Pauline Epistles and Revelation. 1934. Pt. 2, Plates of Revelation. 1936. [HF]
-     * Suppl. Pauline Epistles. 1936. Plates, 1937. [HF]
- * IV, Genesis. 1934. Pt. 2, Genesis (Pap. IV) Plates. 1935. Pt. 3, Genesis (Pap. IV) Plates. 1936. [HF]
- * V, Numbers and Deuteronomy. 1935. [HF]
- * VI, Isaiah, Jeremiah, Ecclesiasticus. 1937. V and VI, Plates. 1958. [HF]
- * VII, Ezekiel, Daniel, Esther. 1937. Pt. 2, Plates. 1938. [HF]
- * VIII, Enoch and Melito. Plates, 1941. Texts published in The Last Chapters of Enoch in Greek, ed. C. Bonner with the collaboration of H.C. Youtie. London 1937. (Studies and Documents VIII). [plates HF]
+ * I, General Introduction. 1933. &#91;HF&#93; [Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-I-Opt.pdf)
+ * II, The Gospels and Acts. 1933. Pt. 2, Plates. 1934. &#91;text HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-II-text-Opt.pdf) [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-II-plates-Opt.pdf)
+ * III, Pauline Epistles and Revelation. 1934. Pt. 2, Plates of Revelation. 1936. &#91;HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Payprus-of-the-Greek-Bible-III-text-Opt.pdf) [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/The-Chester-Beatty-Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-Fasciculus-III.pdf)
+     * Suppl. Pauline Epistles. 1936. Plates, 1937. &#91;HF&#93; [Text Part 1 Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-the-Greek-Bible-III-Text-Opt_Part1.pdf) [Text Part 2 Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-the-Greek-Bible-III-Text-Opt_Part2.pdf) [Plates Part 1 Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Payprus-of-the-Greek-Bible-III-plates-Opt_Part1.pdf) [Plates Part 2 Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Payprus-of-the-Greek-Bible-III-plates-Opt_Part2.pdf)
+ * IV, Genesis. 1934. Pt. 2, Genesis (Pap. IV) Plates. 1935. Pt. 3, Genesis (Pap. IV) Plates. 1936. &#91;HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-IV-Text-Opt.pdf) [Pap. IV Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-IV-plates-Opt.pdf) [Pap. V Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-IV-V-Opt.pdf) See Also: [Am.Stud.Pap. XVI](#Am.Stud.Pap.)
+ * V, Numbers and Deuteronomy. 1935. &#91;HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-V-Opt.pdf) [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-V-VI-Opt.pdf)
+ * VI, Isaiah, Jeremiah, Ecclesiasticus. 1937. V and VI, Plates. 1958. &#91;HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-VI-Opt.pdf) [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-V-VI-Opt.pdf)
+ * VII, Ezekiel, Daniel, Esther. 1937. Pt. 2, Plates. 1938. &#91;HF&#93; [Text Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/The-Chester-Beatty-Biblical-Papyti-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Payprus-of-the-Greek-Bible.pdf) [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/The-Chester-Beatty-Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-Fasciculus-VII-second-copy.pdf)
+ * VIII, Enoch and Melito. Plates, 1941. Texts published in The Last Chapters of Enoch in Greek, ed. C. Bonner with the collaboration of H.C. Youtie. London 1937. (Studies and Documents VIII). &#91;plates HF&#93; [Plates Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/The-Chester-Beatty-Biblical-Papyri-Descriptions-and-Texts-of-Twelve-Manuscripts-on-Papyrus-of-The-Greek-Bible-Fasciculus-VIII.pdf)
 
 ### <a id="P.Benaki">P.Benaki</a>
 = _Greek Papyri in the Benaki Museum, from the Collections of the Historical Archive_, ed. E. Papapolychroniou. Athens 2000. Nos. 1—7; nos. 1—5 are papyri; nos. 6—7 are the texts on two sides of a wooden tablet. [Benaki Museum]. Reprinted in SB XXVI 16683—16689. {ddb:p.benaki}
@@ -721,7 +721,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### <a id="P.Giss.">P.Giss.</a>
 = _Griechische Papyri zu Giessen_. {ddb:p.giss}
 
- * I, Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss}
+ * I, Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, ed. O. Eger, E. Kornemann, and P.M. Meyer. Leipzig-Berlin 1910—1912. Pt. I, nos. 1—35 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581745); Pt. II, nos. 36—57 (1910) [Online: archive.org](https://archive.org/details/mdp.39015010581737); Pt. III, nos. 58—126 (1912) [Online: archive.org](https://archive.org/details/mdp.39015010581729). [Rp. CG] {ddb:p.giss;1}
  * II, A notebook roll and a fiscal codex from the Giessen Papyrus collection, ed. M. Kotyl. Berlin/Boston 2020. (ArchivBeih. 39). Nos. 127-128.
 
 ### <a id="P.Giss.Apoll.">P.Giss.Apoll.</a>
@@ -1404,7 +1404,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Urkunden aus Panopolis_, ed. L.C. Youtie, D. Hagedorn, H.C. Youtie. Bonn 1980. Nos. 1—31. Reprint without plates of original publication in three articles in ZPE 7 (1971) 1—40; 8 (1971) 207—234; and 10 (1973) 101—170, from which texts reprinted as SB XII 10968—10981, 10992—10996, 11213—11224. [RH] {ddb:p.panop}
 
 ### <a id="P.Panop.Beatty">P.Panop.Beatty</a>
-= _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. [HF] [Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Monographs-10-Papyri-From-Panopolis-Opt.pdf)
+= _Papyri from Panopolis in the Chester Beatty Library Dublin_, ed. T.C. Skeat. Dublin 1964. (Chester Beatty Monographs I). Nos. 1—2. &#91;HF&#93; [Online: chesterbeatty.ie](https://chesterbeatty.ie/assets/uploads/2018/11/Monographs-10-Papyri-From-Panopolis-Opt.pdf)
 
 ### <a id="P.Paramone">P.Paramone</a>
 = _Editionen und Aufsätze von Mitgleidern des heidelberger Instituts für Papyrologie zwischen 1982 und 2004_, ed. J.M.S. Cowey and B. Kramer. (Archiv Beih. 16) 19 texts are published; nos. 1–18 are Greek and 19 is Coptic. Munich and Leipzig 2004. [KGS] {ddb:p.paramone}
@@ -2473,6 +2473,8 @@ I.2 Galenus – Isocrates
 ### <a id="Pap.Graec.Mag.">Pap.Graec.Mag.</a>
 = _Papyri Graecae Magicae_, ed. K. Preisendanz. 2 vols. Leipzig-Berlin 1928, 1931. Photostatic copies of proofs of an unpublished third volume are to be found in some libraries. A reprint including texts from the projected third vol. with revisions by A. Henrichs was published in 1974. [KGS] See also The Magical Papyri in Translation, by H.D. Betz (esp. p. xliv), Chicago 1985. See also below [Suppl.Mag.](#Suppl.Mag.)
 
+ * I. [Online: digi.ub.uni-heidelberg.de](https://doi.org/10.11588/diglit.19671)
+ * II. [Online: digi.ub.uni-heidelberg.de](https://doi.org/10.11588/diglit.19672)
  * III. [Online: accademiafiorentina.it](http://www.accademiafiorentina.it/BbltOnLine/PGM_III.pdf)
  * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
 
@@ -2847,7 +2849,7 @@ I.2 Galenus – Isocrates
  * XIII, Greek Terms for Roman Institutions: A Lexicon and Analysis, by H.J. Mason. 1974. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/dbrv1b19)
  * XIV, see [P.Mich.](#P.Mich.) XII. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000014/1)
  * XV, see [O.Ont.Mus.](#O.Ont.Mus.) II. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000015/1)
- * XVI, Chester Beatty Biblical Papyri IV and V, by A. Pietersma. 1977. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/4tmpg8x0)
+ * XVI, [Chester Beatty Biblical Papyri](#P.Beatty) IV and V, by A. Pietersma. 1977. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/4tmpg8x0)
  * XVII, see [P.Wash.Univ.](#P.Wash.Univ.) I. [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_asp000017/1)
  * XVIII, Imperial Estates in Egypt, by G.M. Parássoglou. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/0gb5mrbr)
  * XIX, Status Declarations in Roman Egypt, by C.A. Nelson. 1978. &#91;AMH&#93; [Online: AWDL](http://hdl.handle.net/2333.1/rv15dxzp)
@@ -3225,7 +3227,7 @@ I.2 Galenus – Isocrates
  * 4, Die Schlußklauseln der altbabylonischen Kauf- und Tauschverträge, by M. San Nicolò. 1922. [Online: archive.org](https://archive.org/details/coo.31924006491090). 2nd ed. 1974.
  * 5, Das Asylwesen Ägyptens in der Ptolemäerzeit und die spätere Entwicklung: eine Einführung in das Rechtsleben Ägyptens besonders der Ptolemäerzeit, by F. von Woess. 1923. [Online: archive.org](https://archive.org/details/wu.89091842815)
  * 6, Untersuchungen über das Urkundenwesen und den Publizitätsschutz im römischen Ägypten, by F. von Woess. 1924.
- * 7, Die Landwirtschaft im hellenistischen Ägypten, by M. Schnebel. 1925. [Rp. CG]
+ * 7, Die Landwirtschaft im hellenistischen Ägypten, by M. Schnebel. 1925. &#91;Rp. CG&#93; [Online: HathiTrust](https://hdl.handle.net/2027/uc1.$b671404)
  * 8, Die Streitbeendigung durch Urteil, Schiedspruch und Vergleich nach griechischem Rechte, by A. Steinwenter. 1925. 2nd ed. 1971.
  * 9, Totenteil und Seelgerät im griechischen Recht, by F.E. Bruck. 1926. 2nd ed. 1976.
  * 10, Der römische Ritterstand: Ein Beitrag zur Sozial- und Personengeschichte des römischen Reiches, by A. Stein. 1927.
@@ -3455,14 +3457,16 @@ I.2 Galenus – Isocrates
  * XXXIII, Der koptische Kölner Papyruskodex 3221. Teil I, Das Testament des Iob, ed. G. Schenke. Paderborn, 2009.
  * XXXIV, Architectural orientation in the papyri, by R.W. Daniel. 2010.
  * XXXV, see [P.Herakl.Bank](#P.Herakl.Bank)
- * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni, 2012.
+ * XXXVI, Studien zur Verwaltung des Ptolemäischen Ägypten, by Ch.A. Armoni. 2012.
  * XXXVII, see [P.Tarich.](#P.Tarich.)
  * XXXVIII, see [P.ÄkNo.](#P.ÄkNo.)
- * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli, 2017. 2 v.
- * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete, 2017.
- * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer, 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
+ * XXXIX, Sapphostudien zu ausgewählten Fragmenten, by L. Benelli. 2017. 2 v.
+ * XL, Die Acta Alexandrinorum im Lichte neuerer und neuester Papyrusfunde, by N. Vega Navarrete. 2017.
+ * XLI, Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines, by C. Messerer. 2017-<2020>. 3 v. (but 4th v. projected in preface to v. 3).
  * XLII, see [P.Oxyrhyncha](#P.Oxyrhyncha)
- * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz, 2020.
+ * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
+ * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
+ * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
@@ -3550,6 +3554,7 @@ I.2 Galenus – Isocrates
  * VI, _Signes dans les textes, textes sur les signes : érudition, lecture et écriture dans le monde gréco-romain : actes du colloque international (Liège, 6-7 septembre 2013)_, ed. G. Nocchi Macedo, M. Chiara Scappaticcio. 2017.
  * VII, _En marge du Serment hippocratique : contrats et serments dans le monde greco-romain : actes de la Journée d'étude internationale (Liège, 20 Octobre 2014)_, ed. M.-H. Marganne, A. Ricciardetto. 2017.
  * VIII, _L'Hadrianus de Montserrat (P.Monts.Roca III, inv. 162-165)_, ed. T. Berg. 2018.
+ * IX, _Signes dans les textes : continuités et ruptures des pratiques scribales en Égypte pharaonique, gréco-romaine et byzantine : actes du colloque international de Liège (2-4 juin 2016)_, ed. N. Carlig, G. Lescuyer, A. Motte, N. Sojic. 2020.
 
 ### <a id="Pap.Lugd.Bat.">Pap.Lugd.Bat.</a>
  = _Papyrologica Lugduno-Batava_. Leiden 1941— .
@@ -3587,7 +3592,10 @@ I.2 Galenus – Isocrates
  * XXXII, see [P.Tebt.](#P.Tebt.) V.
  * XXXIII, see [P.Worp.](#P.Worp.)
  * XXXIV, Hieratic, Demotic and Greek studies and text editions : of making many books there is no end : Festschrift in honour of Sven P. Vleeming, ed. K. Donker van Heel, F.A.J. Hoogendijk, C.J. Martin. 2018.
-
+ * XXXV, The materiality of texts from ancient Egypt: new approaches to the study of textual material from the early pharaonic to the late antique period, ed. F.A.J. Hoogendijk, S.M.T. van Gompel. 2018.
+ * XXXVI, The Derveni papyrus: unearthing ancient mysteries. Ed. M.A. Santamaría. 2019.
+ * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
+  
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
 
@@ -4059,11 +4067,13 @@ I.2 Galenus – Isocrates
  * 1930: O.Camb.; O.Petr.
  * 1932: P.CLT
  * 1934: O.Buch.
+ * 1938: P.Schutzbriefe
  * 1939: O.CrumVC
  * 1942: P.(&O.)Mich.Copt.; O.Mich.Copt.Etmoulon
  * 1952: O.Medin.HabuCopt.
  * 1953: P.Apoll.
  * 1954: P.Bal.
+ * 1956: Pap.Arbeit.
  * 1958: CPR IV
  * 1959: P.HermitageCopt.; P.MoscowCopt.
  * 1960: O.Vind.Copt.
@@ -4097,6 +4107,7 @@ I.2 Galenus – Isocrates
  * 2016: P.KölnÄgypt. II
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
+ * 2021: P.Hoogendijk
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
