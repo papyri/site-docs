@@ -1,13 +1,13 @@
 # Sigla, Special Characters, Punctuation, and Glyphs
 
-- Scribes and users occasionally adorn a text with paratextual material or other lexical aids. This help file offers a guide to encoding them:
-- [Sigla](#sigla) <a id="top"></a>
-    - [Crosses](#crosses)
-    - [Strokes, Dots, and Checks](#strokes-and-checks)
-    - [Scribal Punctuation](#scribal-punctuation)
+- Scribes and users occasionally adorn a text with lexical aids and other paratextual material. This help file offers a guide to encoding them:
 - [Critical Symbols](#critical-symbols) <a id="top"></a>
     - [Aristarchan symbols](#aristarchan)
     - [Other symbols and marginalia](#other-symbols)
+- [Other Sigla](#sigla) <a id="top"></a>
+    - [Crosses](#crosses)
+    - [Strokes, Dots, and Checks](#strokes-and-checks)
+    - [Scribal Punctuation](#scribal-punctuation)
 - [Parentheses and Braces](#scribal-parentheses) <a id="top"></a>
     - [Scribal Parentheses](#parentheses)
     - [Scribal Braces](#braces)
@@ -17,7 +17,150 @@
 - [Unclear, Unintelligible, or Undefined](#unclear) <a id="top"></a>
     - [Unclear symbols](#unclear-symbols)
 
-## Sigla <a id="sigla"></a>
+## Critical Symbols <a id="critical-symbols"></a>
+
+### Aristarchan Symbols <a id="aristarchan"></a> ([return to top](#top))
+
+#### Asteriskos
+
+_To get this PN preview:_ ※
+
+_Use this Leiden+:_ `*asteriskos*`
+
+_To create this XML:_ `<g type="asteriskos"/>`
+
+_Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
+
+For the asteriskos, whether used according to Aristarchus' system (i.e., marking genuine lines found elsewhere) or not.
+
+***
+#### Antisigma
+
+_To get this PN preview:_ ͻ
+
+_Use this Leiden+:_ `*antisigma*`
+
+_To create this XML:_ `<g type="antisigma"/>`
+
+_Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
+
+For the antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content) or not. In papyri antisigma frequently marks revisions (esp. textual variants) and comments.
+
+***
+#### Antisigma periestigmene (or dotted antisigma)
+
+_To get this PN preview:_ ͽ
+
+_Use this Leiden+:_ `*antisigma-periestigmene*`
+
+_To create this XML:_ `<g type="antisigma-periestigmene"/>`
+
+_Example PN Link:_ 
+
+For the dotted antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content, or for transposition) or not.
+
+***
+#### Diple
+
+_To get this PN preview:_ ›
+
+_Use this Leiden+:_ `*diple*`
+
+_To create this XML:_ `<g type="diple"/>`
+
+_Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
+
+For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*filler(diple)*`.
+
+***
+
+#### Diple periestigmene (or 'dotted' diple)
+
+_To get this PN preview:_ ⸖
+
+_Use this Leiden+:_ `*diple-periestigmene*`
+
+_To create this XML:_ `<g type="diple-periestigmene"/>`
+
+_Example PN Link:_ 
+
+For the dotted diple, whether used according to Aristarchus' system (i.e., marking disagreement with Zenodotus) or not.
+
+***
+
+#### Obelos
+
+_To get this PN preview:_ ―
+
+_Use this Leiden+:_ `*obelos*`
+
+_To create this XML:_ `<g type="obelos"/>`
+
+_Example PN Link:_ 
+
+For the marginal obelos, whether used according to Aristarchus' system (i.e., marking a spurious line) or not.
+
+***
+
+### Other Symbols <a id="other-symbols"></a> ([return to top](#top))
+
+#### Downwards ancora
+
+_To get this PN preview:_ ⸔
+
+_Use this Leiden+:_ `*downwards-ancora*`
+
+_To create this XML:_ `<g type="downwards-ancora"/>`
+
+_Example PN Link:_ [P.Oxy.65.4452vo](https://papyri.info/dclp/60568)
+
+The downwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
+
+***
+
+#### Upwards ancora
+
+_To get this PN preview:_ ⸕
+
+_Use this Leiden+:_ `*upwards-ancora*`
+
+_To create this XML:_ `<g type="upwards-ancora"/>`
+
+_Example PN Link:_ [P.Amh.1.1](https://papyri.info/dclp/64754)
+
+The upwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
+
+***
+
+#### Dotted Obelos
+
+_To get this PN preview:_ ⸓
+
+_Use this Leiden+:_ `*dotted-obelos*`
+
+_To create this XML:_ `<g type="dotted-obelos"/>`
+
+_Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
+
+For the dotted obelos, whether the obelos itself is horizontal or diagonal on the papyrus.
+
+***
+
+#### Chi periestigmenon (or dotted chi)
+
+_To get this PN preview:_ Χ·
+
+_Use this Leiden+:_ `*chi-periestigmenon*`
+
+_To create this XML:_ `<g type="chi-periestigmenon"/>`
+
+_Example PN Link:_ 
+
+For the dotted chi.
+
+***
+
+## Other Sigla <a id="sigla"></a>
 
 ### Crosses <a id="crosses"></a> ([return to top](#top))
 
@@ -332,149 +475,6 @@ _To create this XML:_ `<g type="hypodiastole"/>`
 _Example PN Link:_ [PSI.16.1604](https://papyri.info/dclp/220506)
 
 For scribal punctuation in the form of a hypodiastole, which resembles a comma.
-
-***
-
-## Critical Symbols <a id="critical-symbols"></a>
-
-### Aristarchan Symbols <a id="aristarchan"></a> ([return to top](#top))
-
-#### Asteriskos
-
-_To get this PN preview:_ ※
-
-_Use this Leiden+:_ `*asteriskos*`
-
-_To create this XML:_ `<g type="asteriskos"/>`
-
-_Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
-
-For the asteriskos, whether used according to Aristarchus' system (i.e., marking genuine lines found elsewhere) or not.
-
-***
-#### Antisigma
-
-_To get this PN preview:_ ͻ
-
-_Use this Leiden+:_ `*antisigma*`
-
-_To create this XML:_ `<g type="antisigma"/>`
-
-_Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
-
-For the antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content) or not. In papyri antisigma frequently marks revisions (esp. textual variants) and comments.
-
-***
-#### Antisigma periestigmene (or dotted antisigma)
-
-_To get this PN preview:_ ͽ
-
-_Use this Leiden+:_ `*antisigma-periestigmene*`
-
-_To create this XML:_ `<g type="antisigma-periestigmene"/>`
-
-_Example PN Link:_ 
-
-For the dotted antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content, or for transposition) or not.
-
-***
-#### Diple
-
-_To get this PN preview:_ ›
-
-_Use this Leiden+:_ `*diple*`
-
-_To create this XML:_ `<g type="diple"/>`
-
-_Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
-
-For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*filler(diple)*`.
-
-***
-
-#### Diple periestigmene (or 'dotted' diple)
-
-_To get this PN preview:_ ⸖
-
-_Use this Leiden+:_ `*diple-periestigmene*`
-
-_To create this XML:_ `<g type="diple-periestigmene"/>`
-
-_Example PN Link:_ 
-
-For the dotted diple, whether used according to Aristarchus' system (i.e., marking disagreement with Zenodotus) or not.
-
-***
-
-#### Obelos
-
-_To get this PN preview:_ ―
-
-_Use this Leiden+:_ `*obelos*`
-
-_To create this XML:_ `<g type="obelos"/>`
-
-_Example PN Link:_ 
-
-For the marginal obelos, whether used according to Aristarchus' system (i.e., marking a spurious line) or not.
-
-***
-
-### Other Symbols <a id="other-symbols"></a> ([return to top](#top))
-
-#### Downwards ancora
-
-_To get this PN preview:_ ⸔
-
-_Use this Leiden+:_ `*downwards-ancora*`
-
-_To create this XML:_ `<g type="downwards-ancora"/>`
-
-_Example PN Link:_ [P.Oxy.65.4452vo](https://papyri.info/dclp/60568)
-
-The downwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
-
-***
-
-#### Upwards ancora
-
-_To get this PN preview:_ ⸕
-
-_Use this Leiden+:_ `*upwards-ancora*`
-
-_To create this XML:_ `<g type="upwards-ancora"/>`
-
-_Example PN Link:_ [P.Amh.1.1](https://papyri.info/dclp/64754)
-
-The upwards ancora typically indicates an omission, and points to the margin where the omitted text has been supplied.
-
-***
-
-#### Dotted Obelos
-
-_To get this PN preview:_ ⸓
-
-_Use this Leiden+:_ `*dotted-obelos*`
-
-_To create this XML:_ `<g type="dotted-obelos"/>`
-
-_Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
-
-For the dotted obelos, whether the obelos itself is horizontal or diagonal on the papyrus.
-
-***
-
-#### Chi periestigmenon (or dotted chi)
-
-_To get this PN preview:_ Χ·
-
-_Use this Leiden+:_ `*chi-periestigmenon*`
-
-_To create this XML:_ `<g type="chi-periestigmenon"/>`
-
-_Example PN Link:_ 
-
-For the dotted chi.
 
 ***
 
