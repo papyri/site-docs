@@ -1,6 +1,6 @@
 # Sigla, Special Characters, Punctuation, and Glyphs
 
-- Scribes and users occasionally adorn a text with lexical aids and other paratextual material. This help file offers a guide to encoding them:
+Ancient scribes and users occasionally adorn texts with lexical aids and other paratextual material. This help file illustrates how to encode them:
 - [Critical Symbols](#critical-symbols) <a id="top"></a>
     - [Aristarchan symbols](#aristarchan)
     - [Other symbols and marginalia](#other-symbols)
@@ -19,15 +19,17 @@
 
 ## Critical Symbols <a id="critical-symbols"></a>
 
+Critical symbols typically appear in margins, but the following entries illustrate only the symbol. For encoding marginalia, see the [Leiden+ help file](https://papyri.info/docs/leiden_plus#marginalia).
+
 ### Aristarchan Symbols <a id="aristarchan"></a> ([return to top](#top))
 
 #### Asteriskos
 
-_To get this PN preview:_ ※
+_To get this PN preview:_ ※ 
 
-_Use this Leiden+:_ `*asteriskos*`
+_Use this Leiden+:_ `*asteriskos*` 
 
-_To create this XML:_ `<g type="asteriskos"/>`
+_To create this XML:_ `<g type="asteriskos"/>` 
 
 _Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
 
@@ -36,11 +38,11 @@ For the asteriskos, whether used according to Aristarchus' system (i.e., marking
 ***
 #### Antisigma
 
-_To get this PN preview:_ ͻ
+_To get this PN preview:_ ͻ 
 
-_Use this Leiden+:_ `*antisigma*`
+_Use this Leiden+:_ `*antisigma*` 
 
-_To create this XML:_ `<g type="antisigma"/>`
+_To create this XML:_ `<g type="antisigma"/>` 
 
 _Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
 
@@ -49,11 +51,11 @@ For the antisigma, whether used according to Aristarchus' system (i.e., marking 
 ***
 #### Antisigma periestigmene (or dotted antisigma)
 
-_To get this PN preview:_ ͽ
+_To get this PN preview:_ ͽ 
 
-_Use this Leiden+:_ `*antisigma-periestigmene*`
+_Use this Leiden+:_ `*antisigma-periestigmene*` 
 
-_To create this XML:_ `<g type="antisigma-periestigmene"/>`
+_To create this XML:_ `<g type="antisigma-periestigmene"/>` 
 
 _Example PN Link:_ 
 
@@ -62,11 +64,11 @@ For the dotted antisigma, whether used according to Aristarchus' system (i.e., m
 ***
 #### Diple
 
-_To get this PN preview:_ ›
+_To get this PN preview:_ › 
 
 _Use this Leiden+:_ `*diple*`
 
-_To create this XML:_ `<g type="diple"/>`
+_To create this XML:_ `<g type="diple"/>` 
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
@@ -76,11 +78,11 @@ For the wedge-shaped diple, typically used in the left margin to mark any number
 
 #### Diple periestigmene (or 'dotted' diple)
 
-_To get this PN preview:_ ⸖
+_To get this PN preview:_ ⸖ 
 
-_Use this Leiden+:_ `*diple-periestigmene*`
+_Use this Leiden+:_ `*diple-periestigmene*` 
 
-_To create this XML:_ `<g type="diple-periestigmene"/>`
+_To create this XML:_ `<g type="diple-periestigmene"/>` 
 
 _Example PN Link:_ 
 
@@ -90,11 +92,11 @@ For the dotted diple, whether used according to Aristarchus' system (i.e., marki
 
 #### Obelos
 
-_To get this PN preview:_ ―
+_To get this PN preview:_ ― 
 
-_Use this Leiden+:_ `*obelos*`
+_Use this Leiden+:_ `*obelos*` 
 
-_To create this XML:_ `<g type="obelos"/>`
+_To create this XML:_ `<g type="obelos"/>` 
 
 _Example PN Link:_ 
 
@@ -106,11 +108,11 @@ For the marginal obelos, whether used according to Aristarchus' system (i.e., ma
 
 #### Downwards ancora
 
-_To get this PN preview:_ ⸔
+_To get this PN preview:_ ⸔ 
 
-_Use this Leiden+:_ `*downwards-ancora*`
+_Use this Leiden+:_ `*downwards-ancora*` 
 
-_To create this XML:_ `<g type="downwards-ancora"/>`
+_To create this XML:_ `<g type="downwards-ancora"/>` 
 
 _Example PN Link:_ [P.Oxy.65.4452vo](https://papyri.info/dclp/60568)
 
@@ -120,11 +122,11 @@ The downwards ancora typically indicates an omission, and points to the margin w
 
 #### Upwards ancora
 
-_To get this PN preview:_ ⸕
+_To get this PN preview:_ ⸕ 
 
-_Use this Leiden+:_ `*upwards-ancora*`
+_Use this Leiden+:_ `*upwards-ancora*` 
 
-_To create this XML:_ `<g type="upwards-ancora"/>`
+_To create this XML:_ `<g type="upwards-ancora"/>` 
 
 _Example PN Link:_ [P.Amh.1.1](https://papyri.info/dclp/64754)
 
@@ -134,11 +136,11 @@ The upwards ancora typically indicates an omission, and points to the margin whe
 
 #### Dotted Obelos
 
-_To get this PN preview:_ ⸓
+_To get this PN preview:_ ⸓ 
 
-_Use this Leiden+:_ `*dotted-obelos*`
+_Use this Leiden+:_ `*dotted-obelos*` 
 
-_To create this XML:_ `<g type="dotted-obelos"/>`
+_To create this XML:_ `<g type="dotted-obelos"/>` 
 
 _Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
 
@@ -148,11 +150,11 @@ For the dotted obelos, whether the obelos itself is horizontal or diagonal on th
 
 #### Chi periestigmenon (or dotted chi)
 
-_To get this PN preview:_ Χ·
+_To get this PN preview:_ Χ· 
 
-_Use this Leiden+:_ `*chi-periestigmenon*`
+_Use this Leiden+:_ `*chi-periestigmenon*` 
 
-_To create this XML:_ `<g type="chi-periestigmenon"/>`
+_To create this XML:_ `<g type="chi-periestigmenon"/>` 
 
 _Example PN Link:_ 
 
@@ -230,21 +232,21 @@ _Use this Leiden+:_ `*filler(extension)*`
 
 _To create this XML:_ `<g rend="extension" type="filler"/>`
 
-_Example PN Link:_ [P.Amst.1.12](https://papyri.info/DCLP/61329)
+_Example PN Link:_ [O.Did.97](https://papyri.info/hgv/144663)
 
 For a filler stroke or other space filler at the end of a line. For a horizontal stroke in-line amidst text, use `*dash*`.
 
 ***
 
-#### Wedge shaped space filler
+#### Wedge-shaped space filler
 
 _To get this PN preview:_ › PN does not yet support this character
 
-_Use this Leiden+:_ `*diple(extension)*`
+_Use this Leiden+:_ `*filler(diple)*`
 
 _To create this XML:_ `<g rend="extension" type="diple"/>`
 
-_Example PN Link:_ [P.Amst.1.12](https://papyri.info/DCLP/61329)
+_Example PN Link:_ [BKT.9.93](https://papyri.info/dclp/63021)
 
 For a space filler at the end of a line in the shape of a diple or wedge. For a horizontal filler stroke at the end of a line, use `*filler(extension)*`. Not yet supported by EpiDoc stylesheet.
 
@@ -346,7 +348,7 @@ _To create this XML:_ `<g type="dot"/>`
 
 _Example PN Link:_ [O.Heid.341](https://papyri.info/hgv/80547)
 
-For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (in which case, use `*middot*`). 
+For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (for which, use `*middot*`). 
 
 ***
 
