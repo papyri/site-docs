@@ -1,4 +1,4 @@
-# Sigla, Special Characters, Punctuation, and Glyphs
+# Sigla, Special Characters, Scribal Punctuation, and Glyphs
 
 Ancient scribes and users occasionally adorn texts with lexical aids and other paratextual material. This help file illustrates how to encode them:
 - [Critical Symbols](#critical-symbols) <a id="top"></a>
@@ -19,7 +19,7 @@ Ancient scribes and users occasionally adorn texts with lexical aids and other p
 
 ## Critical Symbols <a id="critical-symbols"></a>
 
-Critical symbols typically appear in margins, but the following entries illustrate only the symbol. For encoding marginalia, see the [Leiden+ help file](https://papyri.info/docs/leiden_plus#marginalia).
+Critical symbols typically appear in margins, but the following entries illustrate only how to encode the symbol. For encoding marginalia, see the [Leiden+ help file](https://papyri.info/docs/leiden_plus#marginalia).
 
 ### Aristarchan Symbols <a id="aristarchan"></a> ([return to top](#top))
 
@@ -72,7 +72,7 @@ _To create this XML:_ `<g type="diple"/>`
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
-For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage. For a space filler at line-end in the shape of a diple, use `*filler(diple)*`.
+For the wedge-shaped diple, typically used in the left margin to mark any number of interesting features about a passage or compounded with the obelos as `*diple-obelismene*`. For a space filler at line-end in the shape of a diple, use `*filler(diple)*`.
 
 ***
 
@@ -176,7 +176,7 @@ _To create this XML:_ `<g type="stauros"/>`
 
 _Example PN Link:_ [O.Ashm.Shelt.37](https://papyri.info/hgv/70589)
 
-For simple crosses or staurograms.
+For simple crosses or staurograms, as distinct from the `*chirho*` or `*rho-cross*`.
 
 ***
 
@@ -240,7 +240,7 @@ For a filler stroke or other space filler at the end of a line. For a horizontal
 
 #### Wedge-shaped space filler
 
-_To get this PN preview:_ › PN does not yet support this character
+_To get this PN preview:_ › (PN does not yet support this character)
 
 _Use this Leiden+:_ `*filler(diple)*`
 
@@ -326,7 +326,7 @@ For a short horizontal line that is wavy instead of straight.
 
 #### Guide-dot
 
-_To get this PN preview:_ PN does not yet support this character
+_To get this PN preview:_ (PN does not yet support this character)
 
 _Use this Leiden+:_ `*guide-dot*`
 
@@ -368,7 +368,7 @@ For slashes that appear in the left margin, as in a checklist. These are occasio
 
 ### Scribal Punctuation <a id="scribal-punctuation"></a> ([return to top](#top))
 
-#### Apostrophe or Diastole
+#### Apostrophe or diastole
 
 _To get this PN preview:_ ’
 
@@ -378,7 +378,7 @@ _To create this XML:_ `<g type="apostrophe"/>`
 
 _Example PN Link:_ [P.Brook.87](https://papyri.info/hgv/30806)
 
-For a scribal apostrophe, whether as a marker of elision, word-division, or as a separator of double consonants. These will appear in the apparatus criticus.
+For a scribal apostrophe or diastole, whether as a marker of elision, word-division, or as a separator of double consonants. These will appear in the apparatus criticus.
 
 ***
 
@@ -642,7 +642,7 @@ _To create this XML:_ `<figure><figDesc>drawing</figDesc></figure>`
 
 _Example PN Link:_ [TM 68861](https://papyri.info/dclp/68861)
 
-For figures on the papyrus. Describe the decoration in one or two words (e.g., drawing, seal, figure, decorated-border)
+For figures on the papyrus. Describe the decoration in one or two words (e.g., `#drawing`, `#seal`, `#figure`, `#decorated-border`)
 
 ***
 
@@ -688,7 +688,7 @@ _To create this XML:_ `<g type="undefined"/>`
 
 _Example PN Link:_ [TM 62479](https://papyri.info/dclp/62479)
 
-Needs description added. TM 62479 is the transcription with this type.
+Needs description added. TM 62479 is the transcription currently using this `@type`.
 
 ***
 
@@ -702,7 +702,7 @@ _To create this XML:_ `<unclear><g type="chirho"/></unclear>` or `<unclear><g ty
 
 _Example PN Link:_ [SB.18.13762](https://papyri.info/hgv/36300)
 
-When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in Leiden+. The Unicode character will appear either with an underdot, or with a question mark.
+When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in Leiden+. The Unicode character will appear with an underdot, or the description will appear with a question mark.
 
 ***
 
