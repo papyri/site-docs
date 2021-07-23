@@ -25,7 +25,7 @@ Critical symbols typically appear in margins, but the following entries illustra
 
 #### Asteriskos
 
-_To get this PN preview:_ ※ 
+_To get this PN preview:_ `※` 
 
 _Use this Leiden+:_ `*asteriskos*` 
 
@@ -38,7 +38,7 @@ For the asteriskos, whether used according to Aristarchus' system (i.e., marking
 ***
 #### Antisigma
 
-_To get this PN preview:_ ͻ 
+_To get this PN preview:_ `ͻ` 
 
 _Use this Leiden+:_ `*antisigma*` 
 
@@ -51,7 +51,7 @@ For the antisigma, whether used according to Aristarchus' system (i.e., marking 
 ***
 #### Antisigma periestigmene (or dotted antisigma)
 
-_To get this PN preview:_ ͽ 
+_To get this PN preview:_ `ͽ` 
 
 _Use this Leiden+:_ `*antisigma-periestigmene*` 
 
@@ -64,7 +64,7 @@ For the dotted antisigma, whether used according to Aristarchus' system (i.e., m
 ***
 #### Diple
 
-_To get this PN preview:_ › 
+_To get this PN preview:_ `›` 
 
 _Use this Leiden+:_ `*diple*`
 
@@ -78,7 +78,7 @@ For the wedge-shaped diple, typically used in the left margin to mark any number
 
 #### Diple periestigmene (or 'dotted' diple)
 
-_To get this PN preview:_ ⸖ 
+_To get this PN preview:_ `⸖` 
 
 _Use this Leiden+:_ `*diple-periestigmene*` 
 
@@ -92,7 +92,7 @@ For the dotted diple, whether used according to Aristarchus' system (i.e., marki
 
 #### Obelos
 
-_To get this PN preview:_ ― 
+_To get this PN preview:_ `―` 
 
 _Use this Leiden+:_ `*obelos*` 
 
@@ -108,7 +108,7 @@ For the marginal obelos, whether used according to Aristarchus' system (i.e., ma
 
 #### Downwards ancora
 
-_To get this PN preview:_ ⸔ 
+_To get this PN preview:_ `⸔` 
 
 _Use this Leiden+:_ `*downwards-ancora*` 
 
@@ -122,7 +122,7 @@ The downwards ancora typically indicates an omission, and points to the margin w
 
 #### Upwards ancora
 
-_To get this PN preview:_ ⸕ 
+_To get this PN preview:_ `⸕` 
 
 _Use this Leiden+:_ `*upwards-ancora*` 
 
@@ -136,7 +136,7 @@ The upwards ancora typically indicates an omission, and points to the margin whe
 
 #### Dotted Obelos
 
-_To get this PN preview:_ ⸓ 
+_To get this PN preview:_ `⸓` 
 
 _Use this Leiden+:_ `*dotted-obelos*` 
 
@@ -150,7 +150,7 @@ For the dotted obelos, whether the obelos itself is horizontal or diagonal on th
 
 #### Chi periestigmenon (or dotted chi)
 
-_To get this PN preview:_ Χ· 
+_To get this PN preview:_ `Χ·` 
 
 _Use this Leiden+:_ `*chi-periestigmenon*` 
 
@@ -168,7 +168,7 @@ For the dotted chi.
 
 #### Simple cross
 
-_To get this PN preview:_ †
+_To get this PN preview:_ `†`
 
 _Use this Leiden+:_ `*stauros*`
 
@@ -182,7 +182,7 @@ For simple crosses or staurograms, as distinct from the `*chirho*` or `*rho-cros
 
 #### Rho-cross
 
-_To get this PN preview:_ ⳨
+_To get this PN preview:_ `⳨`
 
 _Use this Leiden+:_ `*rho-cross*`
 
@@ -196,7 +196,7 @@ For staurograms of the tau-rho variety, as distinct from the `*chirho*` or `*sta
 
 #### Chi-rho cross
 
-_To get this PN preview:_ ☧
+_To get this PN preview:_ `☧`
 
 _Use this Leiden+:_ `*chirho*`
 
@@ -212,7 +212,7 @@ For staurograms of the chi-rho variety, as distinct from the `*rho-cross*` or `*
 
 #### Dash
 
-_To get this PN preview:_ —
+_To get this PN preview:_ `—`
 
 _Use this Leiden+:_ `*dash*`
 
@@ -226,7 +226,7 @@ For a horizontal or filler stroke that appears in-line amidst text, often (but n
 
 #### Filler stroke
 
-_To get this PN preview:_ —
+_To get this PN preview:_ `—`
 
 _Use this Leiden+:_ `*filler(extension)*`
 
@@ -240,7 +240,7 @@ For a filler stroke or other space filler at the end of a line. For a horizontal
 
 #### Wedge-shaped space filler
 
-_To get this PN preview:_ › (PN does not yet support this character)
+_To get this PN preview:_ `›` (PN does not yet support this character)
 
 _Use this Leiden+:_ `*filler(diple)*`
 
@@ -254,7 +254,7 @@ For a space filler at the end of a line in the shape of a diple or wedge. For a 
 
 #### Slanting stroke
 
-_To get this PN preview:_ /
+_To get this PN preview:_ `/`
 
 _Use this Leiden+:_ `*slanting-stroke*`
 
@@ -266,23 +266,36 @@ For a diagonal slash used in-line amidst text. For slashes which appear in the l
 
 ***
 
-#### Reverse slanting stroke
+#### Backslash or reverse slanting stroke
 
-_To get this PN preview:_ \ (PN does not yet support this character)
+_To get this PN preview:_ `\` (PN does not yet support this character)
 
-_Use this Leiden+:_ `*reverse-slanting-stroke*`
+_Use this Leiden+:_ `*backslash*`
 
-_To create this XML:_ `<g type="reverse-slanting-stroke"/>`
+_To create this XML:_ `<g type="backslash"/>`
 
 _Example PN Link:_ [SB.14.11692](https://papyri.info/hgv/30884)
 
-For a backslash or inverted diagonal stroke. Not yet supported by EpiDoc stylesheet (consolidate with `*backslash*` first?)
+For a backslash or inverted diagonal stroke. Not yet supported by EpiDoc stylesheet.
 
 ***
 
+#### Double slanting stroke
+
+_To get this PN preview:_ `⸗` (PN does not yet support this character)
+
+_Use this Leiden+:_ `*double-slanting-stroke*`
+
+_To create this XML:_ `<g type="double-slanting-stroke"/>`
+
+_Example PN Link:_ [P.Cair.Isid.32](https://papyri.info/hgv/10361)
+
+For a double slash or slanting stroke. Not yet supported by EpiDoc stylesheet.
+
+***
 #### Double vertical bar
 
-_To get this PN preview:_ ‖
+_To get this PN preview:_ `‖`
 
 _Use this Leiden+:_ `*double-vertical-bar*`
 
@@ -297,7 +310,7 @@ For twinned vertical bars.
 
 #### Long vertical bar
 
-_To get this PN preview:_ |
+_To get this PN preview:_ `|`
 
 _Use this Leiden+:_ `*long-vertical-bar*`
 
@@ -312,7 +325,7 @@ For a single vertical line occupying the height of a letter or more.
 
 #### Swungdash
 
-_To get this PN preview:_ ~
+_To get this PN preview:_ `~`
 
 _Use this Leiden+:_ `*swungdash*`
 
@@ -340,7 +353,7 @@ For in-line dot(s) that fill space or which coordinate entries in a register. En
 
 #### Dot
 
-_To get this PN preview:_ •
+_To get this PN preview:_ `•`
 
 _Use this Leiden+:_ `*dot*`
 
@@ -354,7 +367,7 @@ For dots that appear in the left margin, as in a checklist. These are occasional
 
 #### Check
 
-_To get this PN preview:_ ／
+_To get this PN preview:_ `／`
 
 _Use this Leiden+:_ `*check*`
 
@@ -370,7 +383,7 @@ For slashes that appear in the left margin, as in a checklist. These are occasio
 
 #### Apostrophe or diastole
 
-_To get this PN preview:_ ’
+_To get this PN preview:_ `’`
 
 _Use this Leiden+:_ `*apostrophe*`
 
@@ -384,7 +397,7 @@ For a scribal apostrophe or diastole, whether as a marker of elision, word-divis
 
 #### High point or ano-stigme
 
-_To get this PN preview:_ ˙
+_To get this PN preview:_ `˙`
 
 _Use this Leiden+:_ `*high-punctus*`
 
@@ -398,7 +411,7 @@ For scribal punctuation in the form of a high dot. These will appear in the appa
 
 #### Mid point, interpunct, or mese-stigme
 
-_To get this PN preview:_ ·
+_To get this PN preview:_ `·`
 
 _Use this Leiden+:_ `*middot*`
 
@@ -412,7 +425,7 @@ For scribal punctuation in the form of a raised dot, including the Latin interpu
 
 #### Low point, kato-stigme, or hypo-stigme
 
-_To get this PN preview:_ .
+_To get this PN preview:_ `.`
 
 _Use this Leiden+:_ `*low-punctus*`
 
@@ -426,7 +439,7 @@ For scribal punctuation in the form of a low dot. These will appear in the appar
 
 #### Dipunct or dicolon
 
-_To get this PN preview:_ ∶
+_To get this PN preview:_ `∶`
 
 _Use this Leiden+:_ `*dipunct*`
 
@@ -440,7 +453,7 @@ For scribal punctuation in the form of a dicolon or dipunct.
 
 #### Tripunct
 
-_To get this PN preview:_ ⋮
+_To get this PN preview:_ `⋮`
 
 _Use this Leiden+:_ `*tripunct*`
 
@@ -454,7 +467,7 @@ For scribal punctuation in the form of a tripunct.
 
 #### Tetrapunct
 
-_To get this PN preview:_ ⁞
+_To get this PN preview:_ `⁞`
 
 _Use this Leiden+:_ `*tetrapunct*`
 
@@ -468,7 +481,7 @@ For scribal punctuation in the form of a tetrapunct.
 
 #### Hypodiastole
 
-_To get this PN preview:_ ⸒
+_To get this PN preview:_ `⸒`
 
 _Use this Leiden+:_ `*hypodiastole*`
 
@@ -486,7 +499,7 @@ For scribal punctuation in the form of a hypodiastole, which resembles a comma.
 
 #### Scribal parenthesis (opening), for text on a single line
 
-_To get this PN preview:_ (
+_To get this PN preview:_ `(`
 
 _Use this Leiden+:_ `*parens-punctuation-opening*`
 
@@ -501,7 +514,7 @@ For text marked in antiquity with the opening of a parenthesis, bracketing somet
 
 #### Scribal parenthesis (closing), for text on a single line
 
-_To get this PN preview:_ )
+_To get this PN preview:_ `)`
 
 _Use this Leiden+:_ `*parens-punctuation-closing*`
 
@@ -515,7 +528,7 @@ For text marked in antiquity with the closing of a parenthesis, bracketing somet
 
 #### Multi-line scribal parenthesis (opening)
 
-_To get this PN preview:_ ⎛, ⎜, and ⎝
+_To get this PN preview:_ `⎛`, `⎜`, and `⎝`
 
 _Use this Leiden+:_ `*parens-upper-opening*`, `*parens-middle-opening*`, `*parens-lower-opening*`
 
@@ -529,7 +542,7 @@ For text marked in antiquity with the opening of a parenthesis, bracketing multi
 
 #### Multi-line scribal parenthesis (closing)
 
-_To get this PN preview:_ ⎞, ⎟, and ⎠
+_To get this PN preview:_ `⎞`, `⎟`, and `⎠`
 
 _Use this Leiden+:_ `*parens-upper-closing*`, `*parens-middle-closing*`, `*parens-lower-closing*`
 
@@ -563,7 +576,7 @@ Need to consult with James regarding this set, for which EpiDoc stylesheets alre
 
 #### Magical symbol
 
-_To get this PN preview:_ ((magical-symbol))
+_To get this PN preview:_ `((magical-symbol))`
 
 _Use this Leiden+:_ `*magical-symbol*`
 
@@ -576,7 +589,7 @@ For magical symbols that are unsupported by Unicode and cannot be displayed in P
 ***
 #### Monogram
 
-_To get this PN preview:_ monogr.
+_To get this PN preview:_ `monogr.`
 
 _Use this Leiden+:_ `*monogram*`
 
@@ -590,7 +603,7 @@ For monograms that are unsupported by Unicode and cannot be displayed in PN.
 
 #### Paraphe
 
-_To get this PN preview:_ ((paraphe))
+_To get this PN preview:_ `((paraphe))`
 
 _Use this Leiden+:_ `*paraphe*`
 
@@ -606,7 +619,7 @@ Needs description added.
 
 #### Decorative X
 
-_To get this PN preview:_ ☓
+_To get this PN preview:_ `☓`
 
 _Use this Leiden+:_ `*x*`
 
@@ -620,7 +633,7 @@ For a decorative X, as often appears on a document docket to separate entities.
 
 #### Series of Decorative Xs
 
-_To get this PN preview:_ ☓☓☓☓☓
+_To get this PN preview:_ `☓☓☓☓☓`
 
 _Use this Leiden+:_ `*xs*`
 
@@ -634,7 +647,7 @@ For a series of Xs, added as adornment or space filler. NB: PN will display five
 
 #### Drawings, Seals, Figures, Borders, etc.
 
-_To get this PN preview:_ (drawing)
+_To get this PN preview:_ `(drawing)`
 
 _Use this Leiden+:_ `#drawing`
 
@@ -652,7 +665,7 @@ For figures on the papyrus. Describe the decoration in one or two words (e.g., `
 
 #### Tachygraphic marks
 
-_To get this PN preview:_ tachygr. marks
+_To get this PN preview:_ `tachygr. marks`
 
 _Use this Leiden+:_ `*tachygraphic-marks*`
 
@@ -666,7 +679,7 @@ For undecipherable tachygraphy. Cf. `*unintelligible*`, for a single symbol or g
 
 #### Unintelligible
 
-_To get this PN preview:_ ((unintelligible))
+_To get this PN preview:_ `((unintelligible))`
 
 _Use this Leiden+:_ `*unintelligible*`
 
@@ -680,7 +693,7 @@ For an unintelligible or unidentifiable symbol. Cf. `*tachygraphic-marks*`, for 
 
 #### Undefined
 
-_To get this PN preview:_ ((undefined))
+_To get this PN preview:_ `((undefined))`
 
 _Use this Leiden+:_ `*undefined*`
 
@@ -694,7 +707,7 @@ Needs description added. TM 62479 is the transcription currently using this `@ty
 
 #### Unclear or uncertain symbol
 
-_To get this PN preview:_ ☧̣ or ((asteriskos?))
+_To get this PN preview:_ `☧̣` or `((asteriskos?))`
 
 _Use this Leiden+:_ `*chirho?*` or `*asteriskos?*`
 
