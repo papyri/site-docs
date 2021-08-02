@@ -148,6 +148,20 @@ For the dotted obelos, whether the obelos itself is horizontal or diagonal on th
 
 ***
 
+#### Reverse Dotted Obelos
+
+_To get this PN preview:_ (PN does not yet support this character)
+
+_Use this Leiden+:_ `*reverse-dotted-obelos*` 
+
+_To create this XML:_ `<g type="reverse-dotted-obelos"/>` 
+
+_Example PN Link:_ [TM 382543](https://papyri.info/dclp/382543)
+
+For the reverse dotted obelos, whether the obelos itself is horizontal or diagonal on the papyrus. The difference between the `*dotted-obelos` and the `reverse-dotted-obelos` is that the latter uses a backslash (\).
+
+***
+
 #### Chi periestigmenon (or dotted chi)
 
 _To get this PN preview:_ `Χ·` 
