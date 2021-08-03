@@ -395,7 +395,7 @@ For slashes that appear in the left margin, as in a checklist. These are occasio
 
 ### Scribal Punctuation <a id="scribal-punctuation"></a> ([return to top](#top))
 
-#### Apostrophe or diastole
+#### Apostrophe
 
 _To get this PN preview:_ `’`
 
@@ -405,7 +405,35 @@ _To create this XML:_ `<g type="apostrophe"/>`
 
 _Example PN Link:_ [P.Brook.87](https://papyri.info/hgv/30806)
 
-For a scribal apostrophe or diastole, whether as a marker of elision, word-division, or as a separator of double consonants. These will appear in the apparatus criticus.
+For a scribal apostrophe, used principally as a marker of elision at word-end or as a separator of double consonants. These will appear in the apparatus criticus.
+
+***
+
+#### Diastole
+
+_To get this PN preview:_ `’`
+
+_Use this Leiden+:_ `*diastole*`
+
+_To create this XML:_ `<g type="diastole"/>`
+
+_Example PN Link:_ [P.Amh. 1.1](https://papyri.info/dclp/64754)
+
+For a scribal diastole, which is easily confused with a scribal apostrophe but which differs from it principally in function: a diastole marks the end of proper names -- especially foreign words (e.g., [P.Ryl. 2.1, fr. 1-2 r.4](https://papyri.info/dclp/62145)) -- and can also be used to indicate word-end where disambiguation is required (e.g., [P.Oxy. 66 4517v.11](https://papyri.info/dclp/65915)). See also the hypodiastole. These will appear in the apparatus criticus.
+
+***
+
+#### Hypodiastole
+
+_To get this PN preview:_ `⸒`
+
+_Use this Leiden+:_ `*hypodiastole*`
+
+_To create this XML:_ `<g type="hypodiastole"/>`
+
+_Example PN Link:_ [PSI.16.1604](https://papyri.info/dclp/220506)
+
+For scribal punctuation in the form of a hypodiastole, which resembles a comma.
 
 ***
 
@@ -490,20 +518,6 @@ _To create this XML:_ `<g type="tetrapunct"/>`
 _Example PN Link:_ [TM 65258](https://papyri.info/dclp/65258)
 
 For scribal punctuation in the form of a tetrapunct.
-
-***
-
-#### Hypodiastole
-
-_To get this PN preview:_ `⸒`
-
-_Use this Leiden+:_ `*hypodiastole*`
-
-_To create this XML:_ `<g type="hypodiastole"/>`
-
-_Example PN Link:_ [PSI.16.1604](https://papyri.info/dclp/220506)
-
-For scribal punctuation in the form of a hypodiastole, which resembles a comma.
 
 ***
 
