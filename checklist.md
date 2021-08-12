@@ -2926,6 +2926,7 @@ I.2 Galenus – Isocrates
  * 38, see [P.Trier](#P.Trier) II
  * 39, see [P.Giss](#P.Giss.) II
  * 43, see [O.Lips.Copt.](#O.Lips.Copt.) II
+ * 45, see [P.Cair.Mich.](#P.Cair.Mich.) III
 
 ### <a id="BASP_Suppl.">BASP Suppl.</a>
  = _Bulletin of the American Society of Papyrologists_: Supplements. Published irregularly by the Society, 1973— . [Oxbow]
@@ -4042,7 +4043,7 @@ I.2 Galenus – Isocrates
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
- * 2021: P.Hoogendijk
+ * 2021: P.Hoogendij; P.Cair.Mich. III
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
