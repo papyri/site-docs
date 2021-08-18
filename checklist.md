@@ -1948,6 +1948,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Bawit">O.Bawit</a>
 = _Le Monastère et la nécropole de Baouit_, ed. from the notes of J. Clédat by D. Bénazeth and M.-H. Rutschowscaya, with contributions from A. Boud’hors, R.-G. Coquin and E. Gaillard. Cairo 1999. (MIFAO 111bis). 94 ostraca are published on pp. 245—343; of these 57 (or 58) are in the Louvre, the location of the others being unknown. On pp. 349—358 there are images of 75 Greek and Coptic papyri, all but three of which are unpublished. Those three can be found in A. Boud’hors, "Papyrus de Clédat au Musée du Louvre," Divitiae Aegypti. Koptologische und verwandte Studien zu Ehren von Martin Krause, ed. C. Fluck et al. (Wiesbaden 1995) 29—35. [SEVPO]
 
+### <a id="O.BawitFribourg">O.BawitFribourg</a>
+= _Les ostraca grecs et coptes du monastère de Baouît conservés à la Fondation Bible+Orient de l'université de Fribourg (Suisse)_, ed. S. Lopizzo. Cairo 2016. (Bibliothèque d'Études coptes 25). Nos. 1—68.
+
 ### <a id="O.BawitIFAO">O.BawitIFAO</a>
 = _Ostraca grecs et coptes de Baouit_, ed. A. Boud'hors. Cairo 2004. (Bibliothèque d'Études Coptes 17). Nos. 1—67 and O.Nancy. Nos. 1—11, 13, 28. 30. 31. 43. 47—49 and O.Nancy are Greek and Coptic; nos. 12, 27, 29, 32, 46, and 60—67 are Coptic; nos. 16—26, 33—42, 44, 45, 50—53, 58 and 59 are Greek.
 
@@ -4048,7 +4051,7 @@ I.2 Galenus – Isocrates
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
- * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini; P.Eirene IV
+ * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini; P.Eirene IV; O.BawitFribourg
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
@@ -4116,7 +4119,7 @@ I.2 Galenus – Isocrates
  * 2012: SB Kopt. IV
  * 2013: P.Macq.; O.Lips.Copt. I
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
- * 2016: P.KölnÄgypt. II
+ * 2016: P.KölnÄgypt. II; O.BawitFribourg
  * 2017: P.PalauRib.Copt.
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
