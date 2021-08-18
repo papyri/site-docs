@@ -444,6 +444,9 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * IV, 1931. (Cat. 90). Nos. 59532—59800. [MF 1.49; rp. GO] {ddb:p.cair.zen;4} [Online: archive.org](http://archive.org/details/EdgarZenonIV1931)
  * V, ed. from Edgar's notes posthumously by O. Guéraud and P. Jouguet. 1940. (Publ.Soc.Fouad V). Nos. 59801—59853. [MF 1.50; rp. GO] {ddb:p.cair.zen;5} [Online: archive.org](http://archive.org/details/EdgarZenonV1940)
 
+### <a id="P.Capasso">P.Capasso</a>
+= _Πολυμάθεια. Studi Classici offerti a Mario Capasso_, ed. P. Davoli and N. Pellé. Lecce 2018. Nos. 1—11.
+
 ### <a id="P.Carlsb.">P.Carlsb.</a>
 = _The Carlsberg Papyri_
 
@@ -4047,10 +4050,10 @@ I.2 Galenus – Isocrates
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini; P.Eirene IV
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
- * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V
+ * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
- * 2021: P.Hoogendij; P.Cair.Mich. III
+ * 2021: P.Hoogendijk; P.Cair.Mich. III
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
