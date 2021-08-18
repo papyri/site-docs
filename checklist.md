@@ -1393,7 +1393,11 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _P.Oxyrhyncha. Edition dokumentarischer Papyri aus der Kölner Sammlung_, ed. E. Skarsouli. Paderborn 2020. (Pap.Colon. XLII). Nos. 1—35.
 
 ### <a id="P.PalauRib.">P.PalauRib.</a>
-= _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.] {ddb:p.palaurib} [Online: academia.edu](http://www.academia.edu/8694497/S._Daris_Papiri_documentari_greci_del_fondo_Palau-Ribes_P._Palau_Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995)
+= _Papiri documentari greci del fondo Palau-Ribes_, ed. S. Daris. Barcelona 1995. (Estud.Pap. 4). Nos. 1-51. [Sem.Pap.Barc.] {ddb:p.palaurib} [Online: academia.edu](http://www.academia.edu/8694497/S._Daris_Papiri_documentari_greci_del_fondo_Palau-Ribes_P._Palau
+_Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995)
+
+### <a id="P.PalauRib.Copt.">P.PalauRib.Copt.</a>
+= _Coptica Barcinonensia. Textes et documents de la 5e université d'été de papyrologie copte (P.PalauRib.Copt. 1-29 et P.PalauRib.Arab. 1-2)_, ed. M.J. Albarrán Martínez, A. Boud'hors and A. Delattre in the Journal of Coptic Studies 19 (2017) 1—195. Nos. 1—29. Two Arabic texts are also published. [Sem.Pap.Barc.]
 
 ### <a id="P.PalauRib.Lit.">P.PalauRib.Lit.</a>
 = _Papiros literarios griegos dei fondo Palau-Ribes_, ed. J. O'Callaghan. Barcelona 1993. (Estud.Pap. 3). Nos. 1—40. [Sem.Pap.Barc.]
@@ -4107,6 +4111,7 @@ I.2 Galenus – Isocrates
  * 2013: P.Macq.; O.Lips.Copt. I
  * 2014: P.Kellis VII; P.Louvre Bawit; P.Stras.Copt.
  * 2016: P.KölnÄgypt. II
+ * 2017: P.PalauRib.Copt.
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
  * 2021: P.Hoogendijk
