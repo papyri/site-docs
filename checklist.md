@@ -1097,6 +1097,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Mallawi">P.Mallawi</a>
 = _Frühdemotische Urkunden aus Hermupolis_, ed. El-H.O.M. Zaghloul. Cairo 1985. (Bull.CPS 2). Nos. 1—6.
 
+### <a id="P.Marganne">P.Marganne</a>
+= _Le médecin et le livre. Hommages à Marie-Hélène Marganne_, ed. A. Ricciardetto, N. Carlig, G. Nocchi Macedo and M. de Haro Sanchez. Lecce 2021. Nos. 1—12.
+
 ### <a id="P.Marini">P.Marini</a>
 = _I papiri diplomatici raccolti ed illustrati_, ed. G. Marini. Rome 1805. Nos. 1—146. No. 146 is Greek, the others Latin; no. 146 republ. by R. Riedinger, AbhMünchen N.F. 85 (1979) 24—26; no. 124 republ. as P.Rain.Cent. 166. Cf. P.Ital. I pp. 69—72. [Online: archive.org](https://archive.org/details/gb_sh6yaMIlN4YC)
 
