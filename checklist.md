@@ -1964,6 +1964,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Berl.">O.Berl.</a>
 = _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in [O.Brux.](#O.Brux.) &#91;MF 2.72&#93; [Online: archive.org](https://archive.org/details/ostrakaausbrss00vieruoft/)
 
+### <a id="O.BirShawish">O.BirShawish</a>
+= _Ostraka and Other Inscribed Material from Bīr Shawīsh, Small Oasis. Excavation Seasons 2005 and 2007_, ed. M. Dospěl. Ann Arbor 2020. (American Studies in Papyrology 54). Nos. 1—50.
+
 ### <a id="O.Bodl.">O.Bodl.</a>
 = _Greek Ostraca in the Bodleian Library at Oxford and Various Other Collections_.
 
