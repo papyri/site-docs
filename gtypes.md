@@ -655,7 +655,8 @@ _To create this XML:_ `<g type="x"/>`
 
 _Example PN Link:_ [P.Sarap.92](https://papyri.info/hgv/17117)
 
-For a decorative X, as often appears on a document docket to separate entities.
+For a decorative X, as often appears on a document docket to separate entities. If there are three crosses on the papyrus then use the following Leiden+ mark up:
+*x**x**x*
 
 ***
 
