@@ -4099,6 +4099,7 @@ I.2 Galenus – Isocrates
  * 1967: (BKU III.1); P.Mil.Vogl. IV
  * 1968: BKU III.(1+)2
  * 1973: P.Freer
+ * 1974: P.Mil.Vogl. V
  * 1976: O.Amst.
  * 1979: P.Congr.XV; P.Laur. III
  * 1980: P.KölnÄgypt.
