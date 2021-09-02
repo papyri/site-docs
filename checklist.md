@@ -69,7 +69,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 
  * I, Griechische Texte I, Rechtsurkunden, ed. C. Wessely. 1895. Nos. 1—247. [MF 1.85; rp. CG] {ddb:cpr;1} [Online: archive.org](https://archive.org/details/corpuspapyrorum00natigoog)
  * II, Koptische Texte, ed. J. Krall. 1895. Nos. 1—255. Many texts are reedited in CPR IV; see concordance there p. xv; and in CPR XII; see concordance there p. 11. [MF 2.67] {ddb:cpr;2} [Online: archive.org](https://archive.org/details/corpuspapyrorumr02unse)
- * III, Series Arabica I, ed. A. Grohmann. 1924. 
+ * III, Series Arabica I, ed. A. Grohmann. 1924.
      * Pt. 1, Allgemeine Einführung in die arabischen Papyri [Online: archive.org](https://archive.org/details/mdp.39015020864834);
      * Pt. 2, Protokolle, Nos. 1—377, nos. 1—107 are bilingual, Arabic and Greek; Pt. 3, Protokolle, Tafeln. {ddb:cpr;3}
  * IV, Die koptischen Rechtsurkunden der Papyrussammlung der Oesterreichischen Nationalbibliothek, ed. W. Till. 1958. Nos. 1—212. No. 34 reedited in [P.Rain.Unterricht](#P.Rain.Unterricht) 112. [ÖNB] {ddb:cpr;4}
@@ -221,7 +221,10 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * I, _Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel: Pt. I, Urkunden in griechischer Sprache_, ed. E. Rabel. Nos. 1—26. Pt. II, Ein koptischer Vertrag, ed. W. Spiegelberg. Berlin 1917. (AbhGöttingen N.F. 16.3). [MF 1.86] See also [SB](#SB) XVIII 13752. {ddb:p.bas} [Online: archive.org](http://archive.org/details/papyrusurkundend00univ)
  * II, _Papyri of the University Library of Basel_, ed. S.R. Huebner, W.G. Claytor, I. Marthot-Santaniello and M. Müller. Berlin/Boston 2020. Nos. 1-70. All texts previously edited as P.Bas. 1-27 as well as P.Bas.Copt. 1 have been re-edited, but have received different numbering. The remainder are completely new texts.
 
-### <a id="P.Batav.">P.Batav.</a>
+ ### <a id="P.Bastianini">P.Bastianini</a>
+ = _E sì d'amici pieno: omaggio di studiosi italiani a Guido Bastianini per il suo settantesimo compleanno_, ed. A. Casanova, G. Messeri, R. Pintaudi. Florence 2016. ([Pap.Flor.](#Pap.Flor.) XLV). Nos. 1–27. {ddb:p.bastianini}
+
+ ### <a id="P.Batav.">P.Batav.</a>
 = _Textes grecs, démotiques et bilingues_, ed. E. Boswinkel and P.W. Pestman. Leiden 1978. (Pap.Lugd.Bat. XIX). Nos. 1—2, 26—28, 42—48 Demotic; 3, 5, 25, 29—32, 40—41 bilingual (Greek and Demotic); 4, 6—24, 33—39 Greek. Nos. 1—24 are papyri, 25—28 ostraca, 29—39 linen, 40—48 mummy labels. [EJB] {ddb:p.batav}
 
 ### <a id="P.Bawit_Clackson">P.Bawit Clackson</a>
@@ -866,7 +869,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, 2003. (Pap.Brux. XXXII). Nos. 39—45. Nos. 39—42 and 45 are ostraca; no. 43 is a inscribed figurine and no. 44 is an inscription. [FERE] {ddb:p.hombert;2}
 
 ### <a id="P.Hoogendijk">P.Hoogendijk</a>
-= _Text Editions of (Abnormal) Hieratic, Demotic, Greek, Latin and Coptic Papyri and Ostraca. Some people love their friends even when they are far away: Festschrift in Honour of Francisca A.J. Hoogendijk_, ed. J.V. Stolk & G.A.J.C. van Loon. Leiden - Boston: Brill, 2021. (P.L. Bat. 37) Nos. 1—56. 
+= _Text Editions of (Abnormal) Hieratic, Demotic, Greek, Latin and Coptic Papyri and Ostraca. Some people love their friends even when they are far away: Festschrift in Honour of Francisca A.J. Hoogendijk_, ed. J.V. Stolk & G.A.J.C. van Loon. Leiden - Boston: Brill, 2021. (P.L. Bat. 37) Nos. 1—56.
 
 ### <a id="P.Horak">P.Horak</a>
 = _Gedenkschrift Ulrike Horak_, ed. H. Harrauer and R. Pintaudi. 2004. ([Pap.Flor.](#Pap.Flor.) XXXIV). 2 volumes of texts and studies. Nos. 1–6, 8–14, 16–82 are Greek. No. 7 is a drawing. No. 83 is Demotic and no. 85 Arabic. No. 15 and no. 84 are Coptic. No.1 and 31–62 are ostraca; no. 14 is parchment; no. 18 is on wood; no. 28 is an inscription; nos. 68–79 are graffiti. [LGF] {ddb:p.horak}
@@ -2085,7 +2088,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="O.Lips.">O.Lips.</a> (see [P.Lips.](#P.Lips.))
 
 ### <a id="O.Lips.Copt.">O.Lips.Copt.</a>
- 
+
  * I, Coptica: koptische Ostraka und Papyri, koptische und griechische Grabstelen aus Ägypten und Nubien, spätantike Bauplastik, Textilien und Keramik, ed. S. Hodak, T.S. Richter, F. Steinmann. Berlin 2013. (Katalog Ägyptischer Sammlungen in Leipzig III). Nos. 1—54.
  * II, Andreas von Hermonthis und das Kloster des Apa Hesekiel. Mikrohistorische Untersuchungen zu Kirchengeschichte und Klosterwesen im Gebiet von Armant (Oberägypten) in byzantinischer Zeit anhand der koptischen Ostraka der Universitätsbibliothek Leipzig (O.Lips.Copt. II), ed. F. Krueger. Berlin/Boston 2020 (Archiv Beih. 43). Nos. 1-587, Appendix with reeditions of and corrections to numerous texts from [O.CrumST](#O.CrumST), [O.Vind.Copt.](#O.Vind.Copt.), [O.Brit.Mus.Copt.](#O.Brit.Mus.Copt.), and elsewhere).
 
@@ -3512,7 +3515,7 @@ I.2 Galenus – Isocrates
  * XLII, see [O.Petr.Mus.](#O.Petr.Mus.)
  * XLIII, Antologías de época helenística en papiro, by L. Pordomingo. 2013.
  * XLIV, Nel segno del testo: edizioni, materiali e studi per Oronzo Pecere. Ed. L. Del Corso, F. De Vivo, A. Stramaglia. 2015
- * XLV, E sì d'amici pieno: omaggio di studiosi italiani a Guido Bastianini per il suo settantesimo compleanno. Ed. A. Casanova, G. Messeri, R. Pintaudi. 2 volumes. 2016.
+ * XLV, see [P.Bastianini](#P.Bastianini)
  * XLVI, see [P.Genova](#P.Genova) IV
  * XLVII, Early Christian Gospels: their production and transmission, by S. Charlesworth. 2016.
 
