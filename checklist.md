@@ -1883,7 +1883,7 @@ A number of these texts had been published in translation in [PSI](#PSI) IX 1001
  * V, Heidelberg and Wiesbaden 1934—1955. Nos. 7515—8963 with index. [MF 1.37; fasc. 4 only, OH]
  * VI, Wiesbaden 1958—1963. Nos. 8964—9641. [OH]
  * VII, Wiesbaden 1964. Index to VI. [OH]
- * VIII, Wiesbaden 1965—1967. Nos. 9642—10208. [OH]
+ * VIII, Wiesbaden 1965—1967. Nos. 9642—10208. [OH]; [Online: archive.org](https://archive.org/details/sammelbuchgriech0000unse/page/n5/mode/2up)
  * IX, Wiesbaden 1969. Index to VIII. [OH]
  * X, Wiesbaden 1969—1971. Nos. 10209—10763. [OH]
  * XI, Wiesbaden 1973. Index to X. [OH]
