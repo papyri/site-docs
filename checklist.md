@@ -2533,7 +2533,7 @@ I.2 Galenus – Isocrates
  * I, ed. F. Preisigke. Berlin/Leipzig 1922. &#91;WdG&#93; [Online: archive.org](https://archive.org/details/pst.000010146934)
  * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
  * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
- * IV, ed. idem. Leiden 1964. [EJB]
+ * IV, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1964. [EJB]
  * V, ed. E. Boswinkel, M. David, B.A. van Groningen and E. Kiessling. Leiden 1969. [EJB]
  * VI, ed. E. Boswinkel, P.W. Pestman and H.-A. Rupprecht. Leiden 1976. [EJB]
  * VII, ed. E. Boswinkel, W. Clarysse, P.W. Pestman and H.-A. Rupprecht. Leiden 1986. [EJB]
