@@ -2531,7 +2531,9 @@ I.2 Galenus – Isocrates
  = Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten.
 
  * I, ed. F. Preisigke. Berlin/Leipzig 1922. &#91;WdG&#93; [Online: archive.org](https://archive.org/details/pst.000010146934)
- * II, ed. F. Bilabel, in 2 pts. Heidelberg 1929, 1933. [o.p.]
+ * II, ed. F. Bilabel, in 2 pts. Heidelberg 1931, 1933. [o.p.]
+     * Pt. 1, Zweiter Band. Erste Hälfte 1931.
+     * Pt. 2, Zweiter Band. Zweite Hälfte 1933. [Online: archive.org](https://archive.org/details/berichtigungslisv2_pt2unse_b4o6)
  * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
  * IV, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1964. [EJB]
  * V, ed. E. Boswinkel, M. David, B.A. van Groningen and E. Kiessling. Leiden 1969. [EJB]
