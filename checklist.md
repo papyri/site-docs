@@ -597,14 +597,14 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * III, Tell Edfou 1939, by K. Michalowski, Ch. Desroches, J. de Linage, J. Manteuffel, M. Zejmo-Zejmis. Cairo 1950. Chap. V, pp. 329—372, includes papyrus VIII; for ostraca nos. 326—483 see [O.Edfou](#O.Edfou) III. Papyrus IX ed. R. Rémondon, "Soldats de Byzance d'après un papyrus trouvé à Edfou," in RechPap 1 (1961) 41—93. Text reprinted as SB VI 9613. <ddb:p.edfou;3>
 
 ### <a id="P.Edg.">P.Edg.</a>
-= "Selected Papyri from the Archives of Zenon," ed. C.C. Edgar, in Annales du Service des Antiquités de l'Égypte. Cairo. &#91;MF 2.29&#93; [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
+= "Selected Papyri from the Archives of Zenon," ed. C.C. Edgar, in Annales du Service des Antiquités de l'Égypte. Cairo. &#91;MF 2.29&#93;
 
- * Nos. 1—10, ASAE 18 (1918) 159—182. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
- * Nos. 11—21, ASAE 18 (1918) 225—244. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
- * Nos. 22—36, ASAE 19 (1919) 13—36. [Online: archive.org](https://www.archive.org/details/annalesduservice19egypuoft)
- * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://www.archive.org/details/annalesduservice19egypuoft)
- * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](http://www.archive.org/details/annalesduservice20egypuoft)
- * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](http://www.archive.org/details/annalesduservice20egypuoft)
+ * Nos. 1—10, ASAE 18 (1918) 159—182. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp/page/158/mode/2up)
+ * Nos. 11—21, ASAE 18 (1918) 225—244. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp/page/224/mode/2up)
+ * Nos. 22—36, ASAE 19 (1919) 13—36. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/12/mode/2up)
+ * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/n97/mode/2up)
+ * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/18/mode/2up)
+ * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/180/mode/2up)
  * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](http://www.archive.org/details/annalesduservice21egypuoft)
  * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](http://www.archive.org/details/annalesduservice22egypuoft)
  * Nos. 73—76, ASAE 23 (1923) 73—98. 
