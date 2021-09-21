@@ -606,7 +606,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/18/mode/2up)
  * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/180/mode/2up)
  * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](http://www.archive.org/details/annalesduservice21egypuoft)
- * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](http://www.archive.org/details/annalesduservice22egypuoft)
+ * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](https://archive.org/details/annalesduservice22egypuoft/page/208/mode/2up)
  * Nos. 73—76, ASAE 23 (1923) 73—98. 
  * Nos. 77—88, ASAE 23 (1923) 187—209. 
  * Nos. 89—111, ASAE 24 (1924) 17—52. 
