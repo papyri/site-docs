@@ -599,6 +599,18 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### <a id="P.Edg.">P.Edg.</a>
 = "Selected Papyri from the Archives of Zenon," ed. C.C. Edgar, in Annales du Service des Antiquités de l'Égypte. Cairo. &#91;MF 2.29&#93; [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
 
+ * Nos. 1—10, ASAE 18 (1918) 159—182. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
+ * Nos. 11—21, ASAE 18 (1918) 225—244. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp)
+ * Nos. 22—36, ASAE 19 (1919) 13—36. [Online: archive.org](https://www.archive.org/details/annalesduservice19egypuoft)
+ * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://www.archive.org/details/annalesduservice19egypuoft)
+ * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](http://www.archive.org/details/annalesduservice20egypuoft)
+ * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](http://www.archive.org/details/annalesduservice20egypuoft)
+ * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](http://www.archive.org/details/annalesduservice21egypuoft)
+ * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](http://www.archive.org/details/annalesduservice22egypuoft)
+ * Nos. 73—76, ASAE 23 (1923) 73—98. 
+ * Nos. 77—88, ASAE 23 (1923) 187—209. 
+ * Nos. 89—111, ASAE 24 (1924) 17—52. 
+
 ### <a id="P.Egerton">P.Egerton</a>
 = _Fragments of an Unknown Gospel and Other Early Christian Papyri_, ed. H.I. Bell and T.C. Skeat. London 1935.
 
