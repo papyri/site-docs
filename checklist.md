@@ -601,8 +601,8 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
  * Nos. 1—10, ASAE 18 (1918) 159—182. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp/page/158/mode/2up)
  * Nos. 11—21, ASAE 18 (1918) 225—244. [Online: archive.org](https://archive.org/details/annalesduservice1718egyp/page/224/mode/2up)
- * Nos. 22—36, ASAE 19 (1919) 13—36. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/12/mode/2up)
- * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/n97/mode/2up)
+ * Nos. 22—36, ASAE 19 (1919) 13—36. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/12/mode/2up) [Online: Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5726293f/f21.item)
+ * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/n97/mode/2up) [Online: Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5726293f/f97.item)
  * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/18/mode/2up)
  * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/180/mode/2up)
  * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](http://www.archive.org/details/annalesduservice21egypuoft)
