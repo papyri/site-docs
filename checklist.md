@@ -834,7 +834,8 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * VII (= Pap.Heid. N.F. VIII), Fünfundzwanzig griechische Papyri aus den Sammlungen von Heidelberg, Wien und Kairo, ed. A. Papathomas. Heidelberg 1996. Nos. 387—411. [CWV] <ddb:p.heid;7>
  * VIII (= Pap.Heid. N.F. X), Dokumentarische Papyri des 2. Jh. v. Chr. aus dem Herakleopolites, ed. D. Kaltsas. Heidelberg 2001. Nos. 412-421. [CWV] <ddb:p.heid;8>
  * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. Ch. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV] <ddb:p.heid;9>
- * I, Die badischen Grabungen in Qarâra und El-Hibeh 1913 und 1914, ed. W. Habermann and others. 2014. (Pap.Heid. N.F. XIV). Nos. 446-458.
+ * X, Die badischen Grabungen in Qarâra und El-Hibeh 1913 und 1914, ed. W. Habermann and others. 2014. (Pap.Heid. N.F. XIV). Nos. 446-458.
+ * XI, Vom byzantinischen zum arabischen Ägypten. Neue dokumentarische Papyri aus dem 5. bis 8. Jh. (P.Heid. XI), ed. L. Berkes. 2021. (STHP I). Nos. 449-502. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/869)
 
 ### <a id="P.Heid.Kopt.">P.Heid.Kopt.</a>
 = _Coptica Palatina: koptische Texte aus der Heidelberger Papyrussammlung,_ ed. A. Boud'hors, A. Delattre, G. Schenke, T.S. Richter, G. Schmelz. 2018. (STHP I). Nos. 1-25. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/286)
@@ -4073,7 +4074,7 @@ I.2 Galenus – Isocrates
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
- * 2021: P.Hoogendijk; P.Cair.Mich. III
+ * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
