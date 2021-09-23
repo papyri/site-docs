@@ -835,7 +835,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * VIII (= Pap.Heid. N.F. X), Dokumentarische Papyri des 2. Jh. v. Chr. aus dem Herakleopolites, ed. D. Kaltsas. Heidelberg 2001. Nos. 412-421. [CWV] <ddb:p.heid;8>
  * IX, Papyri aus dem Archiv des Königlichen Schreibers Dionysios, ed. Ch. Armoni. 2006. (Pap.Heid. N.F. XII). Nos. 422-445. [CWV] <ddb:p.heid;9>
  * X, Die badischen Grabungen in Qarâra und El-Hibeh 1913 und 1914, ed. W. Habermann and others. 2014. (Pap.Heid. N.F. XIV). Nos. 446-458.
- * XI, Vom byzantinischen zum arabischen Ägypten. Neue dokumentarische Papyri aus dem 5. bis 8. Jh. (P.Heid. XI), ed. L. Berkes. 2021. (STHP I). Nos. 449-502. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/869)
+ * XI, Vom byzantinischen zum arabischen Ägypten. Neue dokumentarische Papyri aus dem 5. bis 8. Jh. (P.Heid. XI), ed. L. Berkes. 2021. (STHP II). Nos. 449-502. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/869)
 
 ### <a id="P.Heid.Kopt.">P.Heid.Kopt.</a>
 = _Coptica Palatina: koptische Texte aus der Heidelberger Papyrussammlung,_ ed. A. Boud'hors, A. Delattre, G. Schenke, T.S. Richter, G. Schmelz. 2018. (STHP I). Nos. 1-25. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/286)
