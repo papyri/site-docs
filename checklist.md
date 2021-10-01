@@ -967,6 +967,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
  * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
  * XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/16). Nos. 642-652.
+ * XVII, ed. Ch. Armoni, Th. Backhuys, S. Lippert, E. Love, E. Skarsouli, N. Vega Navarrete, R. Vecchiato, V. Fontanella, S. Hof, 2021. (Pap.Colon. VII/16). Nos. 653-652.
 
 ### <a id="P.KölnÄgypt.">P.KölnÄgypt.</a>
 = _Kölner ägyptische Papyri_
@@ -4074,7 +4075,7 @@ I.2 Galenus – Isocrates
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
- * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI
+ * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
