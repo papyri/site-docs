@@ -967,7 +967,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * XIV, ed. Ch. Armoni, J.-L. Fournet, M. Gronewald, S. Kovarik, K. Maresch. Paderborn et al. 2015. (Pap.Colon. VII/14). Nos. 551-593. [FS]
  * XV, ed. Ch. Armoni, T. Backhuys, R. W. Daniel, J. Korte, K. Maresch, G. Schenke, A.A. Spinou, W. Wenger, 2017. (Pap.Colon. VII/15). Nos. 594-641.
  * XVI, ed. T. Backhuys, 2018. (Pap.Colon. VII/16). Nos. 642-652.
- * XVII, ed. Ch. Armoni, Th. Backhuys, S. Lippert, E. Love, E. Skarsouli, N. Vega Navarrete, R. Vecchiato, V. Fontanella, S. Hof, 2021. (Pap.Colon. VII/16). Nos. 653-768.
+ * XVII, ed. Ch. Armoni, Th. Backhuys, S. Lippert, E. Love, E. Skarsouli, N. Vega Navarrete, R. Vecchiato, V. Fontanella, S. Hof, 2021. (Pap.Colon. VII/16). Nos. 653-678.
 
 ### <a id="P.KölnÄgypt.">P.KölnÄgypt.</a>
 = _Kölner ägyptische Papyri_
