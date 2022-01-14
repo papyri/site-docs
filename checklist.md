@@ -2385,6 +2385,14 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * XLIX, Concordanza. 1998
  * L, begins a new series devoted to Latin Charters of the 9th century. See the Introduction by editors, G. Cavallo and G. Nicolaj. These volumes are not papyrological in nature and are not listed here.
 
+### <a id="C.Clergé">C.Clergé</a>
+= _Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines_. Paderborn.
+
+ * 1, ed. C. Messerer. 2017. Nos. 1-61.
+ * 2, ed. C. Messerer. 2019. Nos. 62-118.
+ * 3, ed. C. Messerer. 2020. Nos. 119-156.
+ * 4, ed. C. Messerer. 2022. Nos. 157-182.
+
 ### <a id="C.Epist.Lat.">C.Epist.Lat.</a>
 = _Corpus Epistularum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. ([Pap.Flor.](#Pap.Flor.) XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
 
