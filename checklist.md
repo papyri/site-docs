@@ -1874,6 +1874,7 @@ B, The Bar Kokhba Letters with subheadings: Hebrew and Aramaic Letters, nos. 49�
  * I, ed. J.F. Oates, A.E. Samuel and C.B. Welles. New Haven and Toronto 1967. ([Am.Stud.Pap.](#Am.Stud.Pap.) II). Nos. 1—85. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/vdncjzkt)
  * II, ed. S.A. Stephens. Chico 1985. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXIV). Nos. 86—136. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/wdbrv5rf)
  * III, ed. P. Schubert. Oakville 2001. ([Am.Stud.Pap.](#Am.Stud.Pap.) XLI). No. 137. &#91;Oxbow&#93; [Online: AWDL](http://hdl.handle.net/2333.1/41ns1x42)
+ * IV, ed. H. Cuvigny, R. Duttenhöfer, A.E. Hansen. American Society of Papyrologists 2021. ([Am.Stud.Pap.](#Am.Stud.Pap.) LV). Nos. 137—191.
 
 ### <a id="P.YaleCopt.">P.YaleCopt.</a>
 = _Coptic Documentary Papyri from the Beinecke Library (Yale University)_, ed. L.S.B. MacCoull. Cairo 1986. (Textes et Documents 17). Nos. 1—39. The Greek sections of the codex, P.YaleCopt. 1, have been reedited in R. Duttenhöfer and K.A. Worp, "Die griechischen Paginae von P.Yale inv. 1804. Der revidierte Text," Tyche 11 (1996) 97—106.
@@ -4076,7 +4077,7 @@ I.2 Galenus – Isocrates
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
- * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII
+ * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
