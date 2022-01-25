@@ -345,7 +345,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Papyri Bononienses_, ed. O. Montevecchi. Milan 1953. (Pubblicazioni dell'Università Cattolica del Sacro Cuore, N.S. 42). Nos. 1—49; no. 50 contains a mummy ticket and a parchment. [VP] <ddb:p.bon>
 
 ### <a id="P.Bour.">P.Bour.</a>
-= _Les Papyrus Bouriant_, ed. P. Collart. Paris 1926. Nos. 1—63. [MF 1.87] <ddb:p.bour>
+= _Les Papyrus Bouriant_, ed. P. Collart. Paris 1926. Nos. 1—63. [MF 1.87] <ddb:p.bour> [Online: HathiTrust](https://hdl.handle.net/2027/mdp.39015010580929)
 
 ### <a id="P.Brem.">P.Brem.</a>
 = _Die Bremer Papyri_, ed. U. Wilcken. Berlin 1936. (AbhBerlin 1936,2; rp. in U. Wilcken, Berliner Akademieschriften zur alten Geschichte und Papyruskunde II 193—368. Leipzig 1970). Nos. 1—83 are Greek; no. 84, in Coptic, is briefly described. [DZA; MF 1.83] <ddb:p.brem> [Online: brema.suub.uni-bremen.de](https://brema.suub.uni-bremen.de/content/pageview/365931)
