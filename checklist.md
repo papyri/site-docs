@@ -1686,7 +1686,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 = _Papiri dell' Odissea_. Seminario papirologico 1977—78, ed. M. Manfredi. Florence 1979. Nos. 1—14.
 
 ### <a id="P.Siegesfeier">P.Siegesfeier</a>
-= _Eine Neue Urkunde zu der Siegesfeier des Ptolemaios IV_, ed. W. Spiegelberg. (SBMünchen 1926.2). Munich 1926.
+= _Eine Neue Urkunde zu der Siegesfeier des Ptolemaios IV_, ed. W. Spiegelberg. (SBMünchen 1926.2). Munich 1926. [Online: BAdW](https://publikationen.badw.de/de/003186412)
 
 ### <a id="P.Sijp.">P.Sijp.</a>
 = _Papyri in Memory of P. J. Sijpesteijn_, ed. A. J. B. Sirks and K. A. Worp. Oakville, Conn. 2007. ([Am.Stud.Pap.](#Am.Stud.Pap.) 40). Nos. 1-61 (no. 38a-y are ostraka). [Oxbow] <ddb:p.sijp> [Online: AWDL](http://hdl.handle.net/2333.1/qnk98z3x)
