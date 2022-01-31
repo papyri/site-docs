@@ -925,7 +925,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 
 ### <a id="P.Jena_<ddb:p.jena>">P.Jena</a>
 
- * I, Jenäer Papyrus-Urkunden, ed. F. Zucker and F. Schneider. Jena 1926. Nos. 1—4. Texts reprinted as SB III 7165—7168. [MF 2.101] <ddb:p.jena;1>
+ * I, Jenäer Papyrus-Urkunden, ed. F. Zucker and F. Schneider. Jena 1926. Nos. 1—4. Texts reprinted as SB III 7165—7168. [MF 2.101] <ddb:p.jena;1> [Online: archive.org](https://archive.org/details/jenaerpapyrusurk00zwic/page/)
  * II, Late Antique Greek Papyri in the Collection of the Friedrich-Schiller-Universität Jena, ed. R. Ast (Pap.Texte Abh. XLV). Bonn 2010. Nos. 1—39.  <ddb:p.jena;2>
 
 ### <a id="P.Jud.Des.Misc.">P.Jud.Des.Misc.</a>
