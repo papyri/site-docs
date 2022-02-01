@@ -2558,16 +2558,16 @@ I.2 Galenus – Isocrates
  * II, ed. F. Bilabel, in 2 pts. Heidelberg 1931, 1933. [o.p.]
      * Pt. 1, Zweiter Band. Erste Hälfte 1931.
      * Pt. 2, Zweiter Band. Zweite Hälfte 1933. [Online: archive.org](https://archive.org/details/berichtigungslisv2_pt2unse_b4o6)
- * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB]
- * IV, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1964. [EJB]
- * V, ed. E. Boswinkel, M. David, B.A. van Groningen and E. Kiessling. Leiden 1969. [EJB]
- * VI, ed. E. Boswinkel, P.W. Pestman and H.-A. Rupprecht. Leiden 1976. [EJB]
+ * III, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1958. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0003unse)
+ * IV, ed. M. David, B.A. van Groningen and E. Kiessling. Leiden 1964. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0004unse)
+ * V, ed. E. Boswinkel, M. David, B.A. van Groningen and E. Kiessling. Leiden 1969. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0005unse_y4f3)
+ * VI, ed. E. Boswinkel, P.W. Pestman and H.-A. Rupprecht. Leiden 1976. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0000unse_a0f8)
  * VII, ed. E. Boswinkel, W. Clarysse, P.W. Pestman and H.-A. Rupprecht. Leiden 1986. [EJB]
- * VIII, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1992. [EJB]
- * IX, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1995. [EJB]
- * X, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1998. [EJB]
- * XI, , ed. H.-A. Rupprecht and A.M.F.W Verhoogt. Leiden 2002. [EJB]
- * XII, ed. H.-A. Rupprecht and K.A. Worp. Leiden 2009. [EJB]
+ * VIII, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1992. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0000unse)
+ * IX, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1995. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0000unse_m5w7)
+ * X, ed. P.W. Pestman and H.-A. Rupprecht. Leiden 1998. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0000unse_h7h4)
+ * XI, , ed. H.-A. Rupprecht and A.M.F.W Verhoogt. Leiden 2002. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0001unse)
+ * XII, ed. H.-A. Rupprecht and K.A. Worp. Leiden 2009. [EJB] [Online: archive.org](https://archive.org/details/berichtigungslis0012unse)
  * XIII, ed. F.A.J. Hoogendijk and A. Joerdens. Leiden 2017. [EJB]
  * Vols. I-XI are available on CD-ROM. Leiden, 2009. [EJB]
 
