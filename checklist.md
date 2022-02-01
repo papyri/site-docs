@@ -2759,10 +2759,10 @@ I.2 Galenus – Isocrates
 
  * I, Laut und Wortlehre, 1906, rp. 1923. [Online: archive.org](https://archive.org/details/grammatikdergrie00maysuoft)
  * I 1, Einleitung und Lautlehre, 2nd ed. by H. Schmoll. Berlin 1970. [WdG] [Online: archive.org](https://archive.org/details/grammatikdergrie0000mays_d3s0)
- * I 2, Laut- und Wortlehre, pt. II Flexionslehre, 2nd ed. 1938.
+ * I 2, Laut- und Wortlehre, pt. II Flexionslehre, 2nd ed. 1938. [Online: archive.org](https://archive.org/details/grammatikdergrie0001mays)
  * I 3, Laut- und Wortlehre, pt. III Stammbildung, 2nd ed. 1936. [Online: archive.org](https://archive.org/details/grammatikdergrie0000mays_w9v3)
- * II 1—2, Satzlehre, Analytischer Teil. 1933—1934. [II.1 Online: archive.org](https://archive.org/details/p1grammatikder02maysuoft), [II.2 Online: archive.org](https://archive.org/details/p2n2grammatikder02maysuoft)
- * II 3, Satzlehre, Synthetischer Teil. 1934. [Online: archive.org](https://archive.org/details/p3grammatikder02maysuoft)
+ * II 1—2, Satzlehre, Analytischer Teil. 1933—1934. [II.1 Online: archive.org](https://archive.org/details/grammatikdergrie0000mays), [II.2 Online: archive.org](https://archive.org/details/grammatikdergrie0002mays)
+ * II 3, Satzlehre, Synthetischer Teil. 1934. [Online: archive.org](https://archive.org/details/grammatikdergrie0000mays_o6x6)
 
 ### <a id="Palmer,_Gram.">Palmer, Gram.</a>
  = A Grammar of the Post-Ptolemaic Papyri, by L.R. Palmer. Vol. I, Accidence and Word-formation, pt. 1, The Suffixes (no further parts published). London 1945. [OUP]
