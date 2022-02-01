@@ -2717,10 +2717,10 @@ I.2 Galenus – Isocrates
 ### <a id="WB">WB</a>
  = Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten, ed. F. Preisigke and E. Kiessling.
 
- * I, A-K, Berlin 1925.
- * II, Λ-Ω, Berlin 1927.
- * III, besondere Wörterliste, Berlin 1931.
- * IV, A-Z in 5 pts. Berlin 1944—.
+ * I, A-K, Berlin 1925. [Online: archive.org](https://archive.org/details/wrterbuchdergrie0001prei)
+ * II, Λ-Ω, Berlin 1927. [Online: archive.org](https://archive.org/details/wrterbuchdergrie0000prei_y4l3)
+ * III, besondere Wörterliste, Berlin 1931. [Online: archive.org](https://archive.org/details/wrterbuchdergrie0003prei)
+ * IV, A-Z in 5 pts. Berlin 1944—. [Online: archive.org](https://archive.org/details/wrterbuchdergrie0000prei_g6o7)
  * Supplement 1 (1940—1966), ed. E. Kiessling. Amsterdam 1969—1971. [AMH].
  * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH].
  * Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH].
