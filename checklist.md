@@ -2191,6 +2191,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * II, Ostraka demotici e ieratici dall’ archivio bilingue di Narmuthis, ed. P. Gallo. Pisa 1997. Nos. 34—99. [Edizione ETS]
  * III, Ostraka demotici e bilingui da Narmuthis (ODN 100-188) , ed. A. Menchetti. Pisa 2005. (Biblioteca di Studi Egittologici 5). Nos. 100-188.
 
+### <a id="O.NYU">O.NYU</a>
+= _Ostraka in the Collection of New York University_, by G. Baetens, R.B. Bagnall, C. Caputo, E. Mazy and D.M. Ratzan. New York 2022. Publishes 72 ostraca from the NYU Special Collections and 4 from the Los Angeles County Museum of Art and 1 now lost, but preserved by a photo. [ISAW/NYU Press]
+
 ### <a id="O.Oasis">O.Oasis</a>
 = _Les Oasis d’Égypte à l’époque grecque, romaine et byzantine d’après les documents grecs_, by G. Wagner. Cairo 1987. (Institut Français d’Archéologie Orientale du Caire, Bibliothèque d’Étude 100). In a study of published and unpublished papyri, ostraca, tablets, inscriptions and graffiti referring to the Oases the following ostraca are edited: O.Chams el Din (pp. 44-47) = SB XX 14821-14825; O.AinLabakha (p. 82) = SB XX 14883 <ddb:sb;20;14883>; O.Bahria 1—22 (pp. 88—95), O.Sarm. 1—16 (pp. 96—101), O.Dor. 1—5 (pp. 102—103) and O.Bahria div. 1—16 (pp. 104—109) = SB XX 14885-14938. There are tablets at pp. 47 (= SB XX 14826) and 83-85 (= SB XX 14484). [SEVPO]
 
