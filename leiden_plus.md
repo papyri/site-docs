@@ -1767,7 +1767,7 @@ _To create this XML:_ `<num value="1/16">ιϛ</num>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Fractions should be accompanied by their values, just as whole numbers.
-	
+
 Please note that papyri.info uses a _Greek delta_ (NOT a Latin "d") for 1/4: `<num value="1/4">δ</num>`
 
 ***
@@ -2092,6 +2092,32 @@ To indicate a forked paragraphos or diple obelismene between, say, lines 4 and 5
 
 
 Note: a diple obelismene should be entered 'between lines', as above, and not on its own line.
+
+***
+
+#### Coronis
+
+_To get this PN preview:_ `⸎`
+
+_Use this Leiden+:_ `-$$-`
+
+_To create this XML:_ `<milestone rend="coronis" unit="undefined"></>`
+
+_Example PN Link:_ [BKT.9.88](http://papyri.info/dclp/60216)
+
+To indicate a coronis between, say, lines 4 and 5, enter as follows:
+
+
+		3. text
+
+		4. text
+
+		-$$-
+
+		5. text
+
+
+Note: a coronis should be entered 'between lines', as above, and not on its own line.
 
 ***
 
