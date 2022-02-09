@@ -30,6 +30,7 @@
     - [Spelling Correction](#spelling-correction)
 - [Corrections to Published Texts](#corrections-to-published-texts)
     - [Berichtigungliste Corrections](#berichtigungliste-corrections)
+    - [Journal Article Corrections](#journal-article-corrections)
     - [Editorial Correction](#editorial-correction)
     - [PN/PE Correction](#pnpe-correction)
     - [Complicated Corrections](#complicated-corrections)
@@ -1648,6 +1649,20 @@ To indicate uncertain corrections that have been flagged in the Berichtigungslis
 
 ***
 
+### Journal Article Corrections <a id="journal-article-corrections"></a> ([return to top](#top))
+
+_To get this PN preview:_ `Text: N. Gonis, ZPE 166 (2008) 268 : Αὐρηλίου prev. ed.`
+
+_Use this Leiden+:_ `<:Ἀντωνίνου=N. Gonis, ZPE 166 (2008) 268|ed|Αὐρηλίου:>`
+
+_To create this XML:_ `<app type="editorial"><lem resp="N. Gonis, ZPE 166 (2008) 268">Ἀντωνίνου</lem><rdg>Αὐρηλίου</rdg></app>`
+
+_Example PN Link:_ [BGU.1.237](http://papyri.info/hgv/8998)
+
+To indicate corrections that have been flagged in a journal article, e.g. <:Ἀντωνίνου=N. Gonis, ZPE 166 (2008) 268|ed|Αὐρηλίου:>, where Ἀντωνίνου is the correction recorded by the article and Αὐρηλίου is the deprecated reading.
+
+***	    
+	    
 ### Editorial Correction <a id="editorial-correction"></a> ([return to top](#top))
 
 _To get this PN preview:_ `Text: κγ…App: bgu 1 p.357: κϛ Original ed.`
