@@ -186,7 +186,7 @@ _To create this XML:_ `<g type="diple-obelismene"/>`
 
 _Example PN Link:_ 
 
-For a diple obelismene used inline, i.e., not as a forked paragraphos between lines (for which use the Leiden+ >--- on its on line).
+For a diple obelismene used inline, i.e., not as a forked paragraphos between lines (for which use the Leiden+ `>---` on its on line).
 
 ***
 
