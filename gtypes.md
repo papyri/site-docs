@@ -176,6 +176,20 @@ For the dotted chi.
 
 ***
 
+#### Diple obelismene 
+
+_To get this PN preview:_ `⤚` 
+
+_Use this Leiden+:_ `*diple-obelismene*` 
+
+_To create this XML:_ `<g type="diple-obelismene"/>` 
+
+_Example PN Link:_ 
+
+For a diple obelismene used inline, i.e., not as a forked paragraphos between lines (for which use the Leiden+ >--- on its on line).
+
+***
+
 ## Other Sigla <a id="sigla"></a>
 
 ### Crosses <a id="crosses"></a> ([return to top](#top))
