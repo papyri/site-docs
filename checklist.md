@@ -3907,23 +3907,23 @@ I.2 Galenus – Isocrates
 
  * I, "Semaine Égyptologique et Papyrologique du 14 au 20 septembre 1930." Brussels. Published in CdÉ 6 (1931) 189—470. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1931/6/12)
  * II, "XVIIIe Congrès International des Orientalistes. Leyde, du 7 au 1 septembre 1931. Section Autonome des Papyrologues." Published in CdÉ 7 (1932) 127—348. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)
- * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934).
- * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936).
+ * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934). [Online: archive.org](https://archive.org/details/pap-cong-3)
+ * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936). [Online: archive.org](https://archive.org/details/pap-cong-4)
  * V, Actes du Ve Congrès International de Papyrologie, Oxford, 30 août—3 septembre 1937. Published by the Fondation Égyptologique Reine Élisabeth. (Brussels 1938). [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_aere000003/1)
  * VI, Paris, 29 August—4 September 1949. No proceedings published.
  * VII, L'Originalité de l'Égypte dans le monde gréco-romain, Septième Congrès International de Papyrologie, Genève, 1—6 septembre 1952. Museum Helveticum 10 (1953) 129—180. [Online: e-periodica.ch](http://www.e-periodica.ch/digbib/voltoc?pid=mhl-001:1953:10#137)
- * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956).
- * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961).
- * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964).
- * XI, Atti dell'XI Congresso Internazionale di Papirologia, Milano, 2—8 settembre 1965. Published by the Istituto Lombardo di Scienze e Lettere. (Milan 1966).
+ * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956). [Online: archive.org](https://archive.org/details/pap-cong-8)
+ * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961). [Online: archive.org](https://archive.org/details/pap-cong-9)
+ * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964). [Online: archive.org](https://archive.org/details/pap-cong-10)
+ * XI, Atti dell'XI Congresso Internazionale di Papirologia, Milano, 2—8 settembre 1965. Published by the Istituto Lombardo di Scienze e Lettere. (Milan 1966). [Online: archive.org](https://archive.org/details/pap-cong-11)
  * XII, Proceedings of the Twelfth International Congress of Papyrology, Ann Arbor, 13—17 August 1968. ([Am.Stud.Pap.](#Am.Stud.Pap.) VII, Toronto 1970). [Online: AWDL](http://hdl.handle.net/2333.1/rr4xh2z5)
- * XIII, Akten des XIII. Internationalen Papyrologenkongresses, Marburg/Lahn, 2—6 August 1971. (Münch.Beitr. 66, Munich 1974).
- * XIV, Proceedings of the XIV International Congress of Papyrologists, Oxford, 24—31 July 1974. (Egypt Exploration Society, Graeco-Roman Memoirs 61, London 1975).
- * XV, Actes du XVe Congrès International de Papyrologie, Brussels, 29 August—3 September 1977. (Pap.Brux. XVI—XIX, Brussels 1978).
- * XVI, Proceedings of the Sixteenth International Congress of Papyrology, New York, 24—31 July 1980. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXIII, Chico 1981).
+ * XIII, Akten des XIII. Internationalen Papyrologenkongresses, Marburg/Lahn, 2—6 August 1971. (Münch.Beitr. 66, Munich 1974). [Online: archive.org](https://archive.org/details/pap-cong-13)
+ * XIV, Proceedings of the XIV International Congress of Papyrologists, Oxford, 24—31 July 1974. (Egypt Exploration Society, Graeco-Roman Memoirs 61, London 1975). [Online: archive.org](https://archive.org/details/pap-cong-14)
+ * XV, Actes du XVe Congrès International de Papyrologie, Brussels, 29 August—3 September 1977. (Pap.Brux. XVI—XIX, Brussels 1978). [Online: archive.org](https://archive.org/details/pap-cong-15-1); [Online: archive.org](https://archive.org/details/pap-cong-15-2); [Online: archive.org](https://archive.org/details/pap-cong-15-3); [Online: archive.org](https://archive.org/details/pap-cong-15-4)
+ * XVI, Proceedings of the Sixteenth International Congress of Papyrology, New York, 24—31 July 1980. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXIII, Chico 1981). [Online: archive.org](https://archive.org/details/pap-cong-16)
  * XVII, Atti del XVII Congresso Internazionale di Papirologia (Napoli, 19—26 maggio 1983). 3 vols. (Centro Internazionale per lo Studio dei Papiri Ercolanesi, Naples 1984).
- * XVIII, Proceedings of the XVIII International Congress of Papyrology, Athens 25—31 May 1986, ed. B. Mandilaras. 2 vols. (Greek Papyrological Society, Athens 1988).
- * XIX, Proceedings of the XIX International Congress of Papyrology, Cairo 2—9 September 1989, ed. A.H.S. El-Mosallamy. 2 vols. (Center for Papyrological Studies, Cairo 1992).
+ * XVIII, Proceedings of the XVIII International Congress of Papyrology, Athens 25—31 May 1986, ed. B. Mandilaras. 2 vols. (Greek Papyrological Society, Athens 1988). [Online: archive.org](https://archive.org/details/pap-cong-18-1); [Online: archive.org](https://archive.org/details/pap-cong-18-2)
+ * XIX, Proceedings of the XIX International Congress of Papyrology, Cairo 2—9 September 1989, ed. A.H.S. El-Mosallamy. 2 vols. (Center for Papyrological Studies, Cairo 1992). [Online: archive.org](https://archive.org/details/pap-cong-19); [Online: archive.org](https://archive.org/details/pap-cong-19-2)
  * XX, Proceedings of the 20th International Congress of Papyrologists, Copenhagen 23—29 August 1992, ed. A. Bülow-Jacobsen. (Museum Tusculanum Press, Copenhagen 1994).
  * XXI, Akten des 21. Internationalen Papyrologenkongresses, Berlin, 13.—19. 8. 1995. 2 vols. ed. B. Kramer, W. Luppe, H. Maehler and G. Poethke. (Archiv Beiheft 3, Stuttgart and Leipzig 1997).
  * XXII, Atti del XXII Congresso Internazionale di Papirologia, Firenze, 23—29 agosto 1998. 2 vols. Separate vol. of plates. Ed. I. Andorlini, G. Bastianini, M. Manfredi and G. Menci. (Istituto Papirologico "G. Vitelli", Florence 2001).
