@@ -29,7 +29,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * V, Der Gnomon des Idios Logos. Erster Teil: Der Text, ed. W. Schubart. 1919. [Online: archive.org](https://archive.org/details/dergnomondesidio00berl). Zweiter Teil: Der Kommentar, by W. Graf von Uxkull-Gyllenband. 1934. No. 1210. [MF 1.5; rp. CG] <ddb:bgu;5> [Online: archive.org](https://archive.org/details/dergnomondesidio1934berl)
  * VI, Papyri und Ostraka der Ptolemäerzeit, ed. W. Schubart and E. Kühn. 1922. Nos. 1211—1303 are papyri; nos. 1304—1499 ostraca. [MF 1.6; rp. CG] <ddb:bgu;6> [Online: archive.org](http://archive.org/details/papyriundostraka00schu)
  * VII, Papyri, Ostraka und Wachstafeln aus Philadelphia im Fayûm, ed. P. Viereck and F. Zucker. 1926. Nos. 1563—1689 are papyri; nos. 1500—1562, 1697—1729 ostraca; nos. 1690—1696 wooden tablets. [MF 1.7; rp. CG] <ddb:bgu;7> [Online: HathiTrust](https://hdl.handle.net/2027/inu.30000011417783) [Online: archive.org](https://archive.org/details/bgu7_1926)
- * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] <ddb:bgu;8>
+ * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] <ddb:bgu;8> [Online: archive.org](https://archive.org/details/bgu8-1933)
  * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9>
  * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10>
  * XI, Urkunden römischer Zeit, ed. H. Maehler. Pt. I, 1966; Pt. II, 1968. Nos. 2012—2131. [BAM] <ddb:bgu;11>
