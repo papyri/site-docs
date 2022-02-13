@@ -407,6 +407,20 @@ For slashes that appear in the left margin, as in a checklist. These are occasio
 
 ***
 
+#### Filled circle
+
+_To get this PN preview:_ `⦿`
+
+_Use this Leiden+:_ `*filled-circle*`
+
+_To create this XML:_ `<g type="filled-circle"/>`
+
+_Example PN Link:_ [XXX](https://papyri.info/hgv/XXX)
+
+For ???? in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*` and `*dot*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (for which, use `*middot*`). 
+
+***
+
 ### Scribal Punctuation <a id="scribal-punctuation"></a> ([return to top](#top))
 
 #### Apostrophe
@@ -598,17 +612,31 @@ For text marked in antiquity with the opening of a parenthesis, bracketing multi
 
 ### Scribal Braces <a id="braces"></a>([return to top](#top))
 
-#### Scribal braces
+#### Multi-line scribal braces (opening)
 
-_To get this PN preview:_ 
+_To get this PN preview:_ `⎧`, `⎨`, and `⎩`
 
-_Use this Leiden+:_ 
+_Use this Leiden+:_ `*upper-brace-opening*`, `*center-brace-opening*`, `*lower-brace-opening*`
 
-_To create this XML:_ 
+_To create this XML:_ `<g type="upper-brace-opening"/>`, `<g type="center-brace-opening"/>`, and `<g type="lower-brace-opening"/>` 
 
 _Example PN Link:_ 
 
-Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`. 
+Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`. For scribal deletion indicated by parentheses, see under [Leiden Double Square Brackets](https://papyri.info/docs/leiden_plus#leiden-double-square-brackets--).
+
+***
+
+#### Multi-line scribal braces (closing)
+
+_To get this PN preview:_ `⎫`, `⎬`, and `⎭`
+
+_Use this Leiden+:_ `*upper-brace-closing*`, `*center-brace-closing*`, `*lower-brace-closing*`
+
+_To create this XML:_ `<g type="upper-brace-closing"/>`, `<g type="center-brace-closing"/>`, and `<g type="lower-brace-closing"/>` 
+
+_Example PN Link:_ 
+
+Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`. For scribal deletion indicated by parentheses, see under [Leiden Double Square Brackets](https://papyri.info/docs/leiden_plus#leiden-double-square-brackets--).
 
 ***
 
