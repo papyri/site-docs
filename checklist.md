@@ -2690,7 +2690,13 @@ I.2 Galenus – Isocrates
  = Koptisches Handwörterbuch, ed. W. Westendorf. Heidelberg 1965—1977.
 
 ### <a id="Kretschmer-Locker">Kretschmer-Locker</a>
- = Rücklaüfiges Wörterbuch der griechischen Sprache, ed. P. Kretschmer and E. Locker. 2nd ed. Göttingen 1963. (Supersedes O. Gradenwitz, Heidelberger Konträrindex der griechischen Papyrusurkunden [Berlin 1931]).
+ = Rücklaüfiges Wörterbuch der griechischen Sprache, ed. P. Kretschmer and E. Locker. 2nd ed. Göttingen 1963. (Supersedes O. Gradenwitz, Heidelberger Konträrindex der griechischen Papyrusurkunden [Berlin 1931]). [Online: archive.org](https://archive.org/details/rcklufigeswrterb0000kret)
+
+### <a id="Lampe">Lampe</a>
+ = A Patristic Greek Lexicon, ed. G.W.H. Lampe. Oxford 1969.
+ 
+### <a id="Lampe">LBG</a>
+ = Lexikon zur byzantinischen Gräzität, besonders des 9.–12. Jahrhunderts, ed. E. Trapp. Vienna 1994–2017.
 
 ### <a id="Lex.Lat.Lehnw.">Lex.Lat.Lehnw.</a>
  = Lexicon der lateinischen Lehnwörter in den griechischsprachigen dokumentarischen Texten Ägyptens mit Berücksichtigung koptischer Quellen, by I.-M. Cervenka-Ehrenstrasser with J. Diethart. Vienna 1996—. (MPER N.S. XXVII). Published to date are Fasc. 1, alpha (1996) and 2, beta—delta (2000). [VBH]
