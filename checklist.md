@@ -2695,7 +2695,7 @@ I.2 Galenus – Isocrates
 ### <a id="Lampe">Lampe</a>
  = A Patristic Greek Lexicon, ed. G.W.H. Lampe. Oxford 1969.
  
-### <a id="Lampe">LBG</a>
+### <a id="LBG">LBG</a>
  = Lexikon zur byzantinischen Gräzität, besonders des 9.–12. Jahrhunderts, ed. E. Trapp. Vienna 1994–2017.
 
 ### <a id="Lex.Lat.Lehnw.">Lex.Lat.Lehnw.</a>
