@@ -2075,7 +2075,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Ostraca grecs et coptes des fouilles franco-polonaises sur le site de Tell Edfou. O. EdfouCopte 1-145_, ed. S. Bacot. Cairo 2009. (Bibliothèque d'Études Coptes 19). Nos. 1—145. Nos. 36—43, 46—47, 55—57, 61—62 and 121 are Greek and Coptic; nos. 1—9, 11—35, 44—45, 58, 60, 63—87, 92—94, 104, 107—120 and 122—145 are Coptic; nos. 10, 48—54, 59, 88—91, 95—103 and 105—106 are Greek.
 
 ### <a id="O.Edgerton">O.Edgerton</a>
-= _The archive of Thotsutmis, son of Panouphis: early Ptolemaic ostraca from Deir el Bahari (O. Edgerton)_, ed. B.P. Muhs, F.D. Scalf, J.E. Jay/ Chicago 2021. (Oriental Insitute Publications 146). Nos. 1—42.
+= _The archive of Thotsutmis, son of Panouphis: early Ptolemaic ostraca from Deir el Bahari (O. Edgerton)_, ed. B.P. Muhs, F.D. Scalf, J.E. Jay. Chicago 2021. (Oriental Insitute Publications 146). Nos. 1—42.
 
 ### <a id="O.Eleph.Wagner">O.Eleph.Wagner</a> (see [P.Eleph.Wagner](#P.Eleph.Wagner)).
 
