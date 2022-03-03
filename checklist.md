@@ -2944,6 +2944,7 @@ I.2 Galenus – Isocrates
  * LI, see [P.Lond.Herm.](#P.Lond.Herm.)
  * LII, New epigrams of Palladas: a fragmentary papyrus codex (P. CtYBR inv. 4000), by K.W. Wilkinson. 2012.
  * LIII, see [P.Bagnall](#P.Bagnall)
+ * LIV, see [O.BirShawish](#O.BirShawish)
  * LV, see [P.Yale](#P.Yale) IV.
 
 ### <a id="ArchivBeih.">ArchivBeih.</a>
