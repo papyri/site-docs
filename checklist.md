@@ -494,7 +494,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Chrestomathie démotique_, ed. E. Revillout. Paris 1880.
 
 ### <a id="P.Christ.Musl.">P.Christ.Musl.</a>
-= _Christians and Muslims in early Islamic Egypt_, ed. L. Berkes. Durham 2022. ([Am.Stud.Pap.](#Am.Stud.Pap.) 56). Nos. 1–25. 
+= _Christians and Muslims in early Islamic Egypt_, ed. L. Berkes. Durham 2022. ([Am.Stud.Pap.](#Am.Stud.Pap.) 56). Nos. 1–25. Arabic, Greek, and Coptic texts.
 
 ### <a id="P.Christodote">P.Christodote</a>
 = _The property of a lady (P.Christodote)_, ed. T.M. Hickey, J.G. Keenan. Florence 2020. (Pap.Flor. XLVIII) (Recto is a reedition of PSI I 76; verso is first published here).
