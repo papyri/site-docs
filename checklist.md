@@ -2949,6 +2949,7 @@ I.2 Galenus – Isocrates
  * LIII, see [P.Bagnall](#P.Bagnall)
  * LIV, see [O.BirShawish](#O.BirShawish)
  * LV, see [P.Yale](#P.Yale) IV.
+ * LVI, see [P.Christ.Musl.](#P.Christ.Musl.)
 
 ### <a id="ArchivBeih.">ArchivBeih.</a>
  = _Archiv für Papyrusforschung und verwandte Gebiete_. Beiheften.
