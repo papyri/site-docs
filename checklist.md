@@ -4106,6 +4106,7 @@ I.2 Galenus – Isocrates
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
+ * 2022: P.Christ.Musl.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
@@ -4174,6 +4175,7 @@ I.2 Galenus – Isocrates
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
  * 2021: P.Hoogendijk; P.Heid. XI
+ * 2022: P.Christ.Musl.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
