@@ -3974,6 +3974,8 @@ I.2 Galenus – Isocrates
 
 ## <a id="Editions">Editions of Greek and Coptic Documentary Papyri by Year of Publication</a>
 
+Publications printed without an index are listed in parentheses, e.g., "1901: (Stud.Pal. I)." If an index to that volume appears in a later volume of the series this will be indicated in the entry for that later volume, e.g, "1901: (Stud.Pal. I); 1902: (Stud. Pal. II); 1905: Stud.Pal. (I+II+)IV" (This convention was especially useful before the emergence of the DDbDP). The dates of publication of fascicles of a volume are not taken into account, but those of separate parts are. All Greek editions before 1891 are omitted as superseded by later editions.
+
 ### <a id="Greek">Greek</a>
  * 1891: P.Petr. I
  * 1892: –––
