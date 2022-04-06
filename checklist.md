@@ -1710,7 +1710,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144. <ddb:p.sorb;3>
 
 ### <a id="P.Sorb.Copt.">P.Sorb.Copt.</a>
-= _Coptica Sorbonensia_, ed. A. Boud'hors, A. Delattre. Paris 2022. (Studia Papyrologica et Aegyptiaca Parisina 4). Nos. 1—45.
+= _Coptica Sorbonensia. Textes de la 6e école d’été de papyrologie copte, Paris, 2-11 juillet 2018 (P.Sorb.Copt.)_, ed. A. Boud'hors, A. Delattre. Paris 2022. (Studia Papyrologica et Aegyptiaca Parisina 4). Nos. 1—45.
 
 ### <a id="P.Soter.">P.Soter.</a>
 = _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS] <ddb:p.soter>
