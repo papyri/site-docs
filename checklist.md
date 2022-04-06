@@ -1709,6 +1709,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXII). No. 69. [Oxbow] <ddb:p.sorb;2> [Online: AWDL](http://hdl.handle.net/2333.1/0cfxprkx)
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144. <ddb:p.sorb;3>
 
+### <a id="P.Sorb.Copt.">P.Sorb.Copt.</a>
+= _Coptica Sorbonensia_, ed. A. Boud'hors, A. Delattre. Paris 2022. (Studia Papyrologica et Aegyptiaca Parisina 4). Nos. 1—45.
+
 ### <a id="P.Soter.">P.Soter.</a>
 = _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS] <ddb:p.soter>
 
@@ -4177,7 +4180,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
  * 2021: P.Hoogendijk; P.Heid. XI
- * 2022: P.Christ.Musl.
+ * 2022: P.Christ.Musl.; P.Sorb.Copt.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
