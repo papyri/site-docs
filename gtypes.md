@@ -25,11 +25,11 @@ Critical symbols typically appear in margins, but the following entries illustra
 
 #### Asteriskos
 
-_To get this PN preview:_ `※` 
+_To get this PN preview:_ `※`
 
-_Use this Leiden+:_ `*asteriskos*` 
+_Use this Leiden+:_ `*asteriskos*`
 
-_To create this XML:_ `<g type="asteriskos"/>` 
+_To create this XML:_ `<g type="asteriskos"/>`
 
 _Example PN Link:_ [P.Grenf.1.5](https://papyri.info/dclp/61986)
 
@@ -38,11 +38,11 @@ For the asteriskos, whether used according to Aristarchus' system (i.e., marking
 ***
 #### Antisigma
 
-_To get this PN preview:_ `ͻ` 
+_To get this PN preview:_ `ͻ`
 
-_Use this Leiden+:_ `*antisigma*` 
+_Use this Leiden+:_ `*antisigma*`
 
-_To create this XML:_ `<g type="antisigma"/>` 
+_To create this XML:_ `<g type="antisigma"/>`
 
 _Example PN Link:_ [TM 63850](https://papyri.info/dclp/63850)
 
@@ -51,24 +51,24 @@ For the antisigma, whether used according to Aristarchus' system (i.e., marking 
 ***
 #### Antisigma periestigmene (or dotted antisigma)
 
-_To get this PN preview:_ `ͽ` 
+_To get this PN preview:_ `ͽ`
 
-_Use this Leiden+:_ `*antisigma-periestigmene*` 
+_Use this Leiden+:_ `*antisigma-periestigmene*`
 
-_To create this XML:_ `<g type="antisigma-periestigmene"/>` 
+_To create this XML:_ `<g type="antisigma-periestigmene"/>`
 
-_Example PN Link:_ 
+_Example PN Link:_
 
 For the dotted antisigma, whether used according to Aristarchus' system (i.e., marking lines with comparable content, or for transposition) or not.
 
 ***
 #### Diple
 
-_To get this PN preview:_ `›` 
+_To get this PN preview:_ `›`
 
 _Use this Leiden+:_ `*diple*`
 
-_To create this XML:_ `<g type="diple"/>` 
+_To create this XML:_ `<g type="diple"/>`
 
 _Example PN Link:_ [BKT.10.1](https://papyri.info/dclp/175242)
 
@@ -78,13 +78,13 @@ For the wedge-shaped diple, typically used in the left margin to mark any number
 
 #### Diple periestigmene (or 'dotted' diple)
 
-_To get this PN preview:_ `⸖` 
+_To get this PN preview:_ `⸖`
 
-_Use this Leiden+:_ `*diple-periestigmene*` 
+_Use this Leiden+:_ `*diple-periestigmene*`
 
-_To create this XML:_ `<g type="diple-periestigmene"/>` 
+_To create this XML:_ `<g type="diple-periestigmene"/>`
 
-_Example PN Link:_ 
+_Example PN Link:_
 
 For the dotted diple, whether used according to Aristarchus' system (i.e., marking disagreement with Zenodotus) or not.
 
@@ -92,13 +92,13 @@ For the dotted diple, whether used according to Aristarchus' system (i.e., marki
 
 #### Obelos
 
-_To get this PN preview:_ `―` 
+_To get this PN preview:_ `―`
 
-_Use this Leiden+:_ `*obelos*` 
+_Use this Leiden+:_ `*obelos*`
 
-_To create this XML:_ `<g type="obelos"/>` 
+_To create this XML:_ `<g type="obelos"/>`
 
-_Example PN Link:_ 
+_Example PN Link:_
 
 For the marginal obelos, whether used according to Aristarchus' system (i.e., marking a spurious line) or not.
 
@@ -108,11 +108,11 @@ For the marginal obelos, whether used according to Aristarchus' system (i.e., ma
 
 #### Downwards ancora
 
-_To get this PN preview:_ `⸔` 
+_To get this PN preview:_ `⸔`
 
-_Use this Leiden+:_ `*downwards-ancora*` 
+_Use this Leiden+:_ `*downwards-ancora*`
 
-_To create this XML:_ `<g type="downwards-ancora"/>` 
+_To create this XML:_ `<g type="downwards-ancora"/>`
 
 _Example PN Link:_ [P.Oxy.65.4452vo](https://papyri.info/dclp/60568)
 
@@ -122,11 +122,11 @@ The downwards ancora typically indicates an omission, and points to the margin w
 
 #### Upwards ancora
 
-_To get this PN preview:_ `⸕` 
+_To get this PN preview:_ `⸕`
 
-_Use this Leiden+:_ `*upwards-ancora*` 
+_Use this Leiden+:_ `*upwards-ancora*`
 
-_To create this XML:_ `<g type="upwards-ancora"/>` 
+_To create this XML:_ `<g type="upwards-ancora"/>`
 
 _Example PN Link:_ [P.Amh.1.1](https://papyri.info/dclp/64754)
 
@@ -136,11 +136,11 @@ The upwards ancora typically indicates an omission, and points to the margin whe
 
 #### Dotted Obelos
 
-_To get this PN preview:_ `⸓` 
+_To get this PN preview:_ `⸓`
 
-_Use this Leiden+:_ `*dotted-obelos*` 
+_Use this Leiden+:_ `*dotted-obelos*`
 
-_To create this XML:_ `<g type="dotted-obelos"/>` 
+_To create this XML:_ `<g type="dotted-obelos"/>`
 
 _Example PN Link:_ [P.Ryl.3.467](https://papyri.info/dclp/65055)
 
@@ -152,9 +152,9 @@ For the dotted obelos, whether the obelos itself is horizontal or diagonal on th
 
 _To get this PN preview:_ (PN does not yet support this character)
 
-_Use this Leiden+:_ `*reverse-dotted-obelos*` 
+_Use this Leiden+:_ `*reverse-dotted-obelos*`
 
-_To create this XML:_ `<g type="reverse-dotted-obelos"/>` 
+_To create this XML:_ `<g type="reverse-dotted-obelos"/>`
 
 _Example PN Link:_ [TM 382543](https://papyri.info/dclp/382543)
 
@@ -164,13 +164,13 @@ For the reverse dotted obelos, whether the obelos itself is horizontal or diagon
 
 #### Chi periestigmenon (or dotted chi)
 
-_To get this PN preview:_ `Χ·` 
+_To get this PN preview:_ `Χ·`
 
-_Use this Leiden+:_ `*chi-periestigmenon*` 
+_Use this Leiden+:_ `*chi-periestigmenon*`
 
-_To create this XML:_ `<g type="chi-periestigmenon"/>` 
+_To create this XML:_ `<g type="chi-periestigmenon"/>`
 
-_Example PN Link:_ 
+_Example PN Link:_
 
 For the dotted chi.
 
@@ -361,7 +361,7 @@ _To create this XML:_ `<g type="guide-dot"/>`
 
 _Example PN Link:_ [P.Leid.Inst.79](https://papyri.info/hgv/38784/source)
 
-For in-line dot(s) that fill space or which coordinate entries in a register. Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`. Not yet supported by EpiDoc stylesheet.
+For in-line dot(s) that fill space or which coordinate entries in a register (not to be confused with `*middot*`, which is for punctuation). Enter the character separately for each dot. NB: For a dot in the left margin, use `*dot*`; for a horizontal line used to coordinate entries in a register, use `*dash*`. Not yet supported by EpiDoc stylesheet.
 
 ***
 
@@ -375,7 +375,7 @@ _To create this XML:_ `<g type="dot"/>`
 
 _Example PN Link:_ [O.Heid.341](https://papyri.info/hgv/80547)
 
-For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (for which, use `*middot*`). 
+For dots that appear in the left margin, as in a checklist. These are occasionally difficult to distinguish from `*check*`. For in-line dot(s) amidst text, use `*guide-dot*`, except in the case of punctuation (for which, use `*middot*`).
 
 ***
 
@@ -560,7 +560,7 @@ _To get this PN preview:_ `⎛`, `⎜`, and `⎝`
 
 _Use this Leiden+:_ `*parens-upper-opening*`, `*parens-middle-opening*`, `*parens-lower-opening*`
 
-_To create this XML:_ `<g type="parens-upper-opening"/>`, `<g type="parens-middle-opening"/>`, and `<g type="parens-lower-opening"/>` 
+_To create this XML:_ `<g type="parens-upper-opening"/>`, `<g type="parens-middle-opening"/>`, and `<g type="parens-lower-opening"/>`
 
 _Example PN Link:_ [CPR.7.8](https://papyri.info/hgv/26662)
 
@@ -574,7 +574,7 @@ _To get this PN preview:_ `⎞`, `⎟`, and `⎠`
 
 _Use this Leiden+:_ `*parens-upper-closing*`, `*parens-middle-closing*`, `*parens-lower-closing*`
 
-_To create this XML:_ `<g type="parens-upper-closing"/>`, `<g type="parens-middle-closing"/>`, and `<g type="parens-lower-closing"/>` 
+_To create this XML:_ `<g type="parens-upper-closing"/>`, `<g type="parens-middle-closing"/>`, and `<g type="parens-lower-closing"/>`
 
 _Example PN Link:_ [CPR.7.8](https://papyri.info/hgv/26662)
 
@@ -586,15 +586,15 @@ For text marked in antiquity with the opening of a parenthesis, bracketing multi
 
 #### Scribal braces
 
-_To get this PN preview:_ 
+_To get this PN preview:_
 
-_Use this Leiden+:_ 
+_Use this Leiden+:_
 
-_To create this XML:_ 
+_To create this XML:_
 
-_Example PN Link:_ 
+_Example PN Link:_
 
-Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`. 
+Need to consult with James regarding this set, for which EpiDoc stylesheets already support `*upper-brace-opening*`, `*upper-brace-closing*`, `*center-brace-opening*`, `*center-brace-closing*`, `*lower-brace-opening*`, `*lower-brace-closing*`, `*parens-deletion-opening*`, and `*parens-deletion-closing*`.
 
 ***
 
@@ -747,4 +747,3 @@ _Example PN Link:_ [SB.18.13762](https://papyri.info/hgv/36300)
 When a symbol is read but with doubt, add ? (i.e., a question mark) to the penultimate position in Leiden+. The Unicode character will appear with an underdot, or the description will appear with a question mark.
 
 ***
-

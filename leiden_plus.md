@@ -188,6 +188,31 @@ Note that the pair of tags inside the folio tags and directly adjacent to the te
 
 ***
 
+#### Document Div, convex / concave
+
+_To get this PN preview:_ `side convex/side concave`
+
+_Use this Leiden+:_ `<D=.convex.side<= 1. line of text 2. line of text =>=D> <D=.concave.side<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="convex" subtype="side" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="concave" subtype="side" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_ [o.krok;2;328](https://papyri.info/hgv/704613)
+
+Each side of the ostracon is indicated with closed pairs of tags as follows:
+
+		<D=.convex.side<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.concave.side<=
+		3. line of text
+		4. line of text
+		=>=D>
+
+Note that the pair of tags inside the division tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
+
 #### Document Div, nested
 
 _To get this PN preview:_ Divisions indicated variously
