@@ -17,7 +17,7 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
       <li><a href="docs/apis" title="learn about the Advanced Papyrological Information System">APIS</a></li>
       <li><a href="/docs/ddbdp" title="learn about the Duke Databank of Documentary Papyri">DDbDP</a></li>
       <li><a href="http://www.rzuser.uni-heidelberg.de/%7Egv0/" title="learn about the Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens">HGV</a></li>
-      <li><a href="http://www.ulb.ac.be/philo/cpeg/bp.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
+      <li><a href="http://www.aere-egke.be/BP_enligne.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
       <li><a href="http://www.trismegistos.org/" title="learn about the Trismegistos project">Trismegistos</a></li>
       <li><a href="http://www.ori.uzh.ch/apd" title="learn about the Arabic Papyrological Database">APD</a></li>
     </ul></td>

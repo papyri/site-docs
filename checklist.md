@@ -29,15 +29,17 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * V, Der Gnomon des Idios Logos. Erster Teil: Der Text, ed. W. Schubart. 1919. [Online: archive.org](https://archive.org/details/dergnomondesidio00berl). Zweiter Teil: Der Kommentar, by W. Graf von Uxkull-Gyllenband. 1934. No. 1210. [MF 1.5; rp. CG] <ddb:bgu;5> [Online: archive.org](https://archive.org/details/dergnomondesidio1934berl)
  * VI, Papyri und Ostraka der Ptolemäerzeit, ed. W. Schubart and E. Kühn. 1922. Nos. 1211—1303 are papyri; nos. 1304—1499 ostraca. [MF 1.6; rp. CG] <ddb:bgu;6> [Online: archive.org](http://archive.org/details/papyriundostraka00schu)
  * VII, Papyri, Ostraka und Wachstafeln aus Philadelphia im Fayûm, ed. P. Viereck and F. Zucker. 1926. Nos. 1563—1689 are papyri; nos. 1500—1562, 1697—1729 ostraca; nos. 1690—1696 wooden tablets. [MF 1.7; rp. CG] <ddb:bgu;7> [Online: HathiTrust](https://hdl.handle.net/2027/inu.30000011417783) [Online: archive.org](https://archive.org/details/bgu7_1926)
- * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] <ddb:bgu;8>
- * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9>
- * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10>
- * XI, Urkunden römischer Zeit, ed. H. Maehler. Pt. I, 1966; Pt. II, 1968. Nos. 2012—2131. [BAM] <ddb:bgu;11>
- * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] <ddb:bgu;12>
- * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM] <ddb:bgu;13>
- * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM] <ddb:bgu;14>
- * XV, Financial and Administrative Documents from Roman Egypt, ed. C.A. Nelson. 1983. Nos. 2458—2557. [BAM] <ddb:bgu;15>
- * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM] <ddb:bgu;16>
+ * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] <ddb:bgu;8> [Online: archive.org](https://archive.org/details/bgu8-1933)
+ * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9> [Online: archive.org](https://archive.org/details/bgu-9-1937)
+ * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10> [Online: archive.org](https://archive.org/details/bgu-10-1970)
+ * XI, Urkunden römischer Zeit, ed. H. Maehler. 
+     * Pt. I, 1966. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
+     * Pt. II, 1968. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
+ * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] <ddb:bgu;12> [Online: archive.org](https://archive.org/details/bgu-12-1974)
+ * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM] <ddb:bgu;13> [Online: archive.org](https://archive.org/details/bgu-13-1976)
+ * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM] <ddb:bgu;14> [Online: archive.org](https://archive.org/details/bgu-14-1-1981); [Online: archive.org](https://archive.org/details/bgu-14-2-plates-1981)
+ * XV, Financial and Administrative Documents from Roman Egypt, ed. C.A. Nelson. 1983. Nos. 2458—2557. [BAM] <ddb:bgu;15> [Online: archive.org](https://archive.org/details/bgu-15-1-1983); [Online: archive.org](https://archive.org/details/bgu-15-2-plates-1983)
+ * XVI, The Archive of Athenodoros, ed. W.M. Brashear. 1995. Nos. 2558—2674. [BAM] <ddb:bgu;16> [Online: archive.org](https://archive.org/details/bgu-16); [Online: archive.org](https://archive.org/details/bgu-16-plates)
  * XVII, Griechische Papyrusurkunden spätrömischer und byzantinischer Zeit aus Hermopolis Magna, ed. G. Poethke. Munich-Leipzig 2001. (Archiv Beih. 7) Nos. 2675—2730. [KGS] <ddb:bgu;17>
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM] <ddb:bgu;18>
  * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur] <ddb:bgu;19>
@@ -410,6 +412,9 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### <a id="P.Cair.Cat.">P.Cair.Cat.</a>
 = _Greek Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire, Nos. 10001—10869_, ed. B.P. Grenfell and A.S. Hunt. Oxford 1903. Not a publication of papyri, but a list and short description of papyri in the Cairo Museum. Texts are given only for Nos. 10696, 10735, and 10736. There is a concordance to those that have been published at ZPE 91 (1992) 95—98 and CdÉ 72 (1997) 305f.; HGV presents a current concordance: <http://www.rzuser.uni-heidelberg.de/~gv0/Texte/P.Cair./P.Cair._Cat.html>. &#91;MF 2.30; rp. AMH, OZ&#93; [Online: archive.org](https://archive.org/details/greekpapyri00gren)
 
+### <a id="P.Cair.Gad">P.Cair.Gad</a>
+= _Eine Edition griechischer Papyrusurkunden aus dem ägyptischen Museum in Kairo_, ed. U.A. Gad. Dissertation, Universität Heidelberg, 2016. Nos. 1—12. [Online: uni-heidelberg.de](https://archiv.ub.uni-heidelberg.de/volltextserver/31193/1/P.Cair.Gad.pdf)
+
 ### <a id="P.Cair.Goodsp.">P.Cair.Goodsp.</a>
 = _Greek Papyri from the Cairo Museum_, ed. E.J. Goodspeed. Chicago 1902. (University of Chicago, Decennial Publications, from vol. V). Includes twelve papyri from the collection of the Rev. J.R. Alexander (now in the collection of Westminster School, London) and three of Goodspeed's; all are numbered consecutively. Nos. 1—30. [MF 2.27; rp. CG] See also [P.Chic.](#P.Chic.) and [P.Kar.Goodsp.](#P.Kar.Goodsp.) For the Goodspeed papyrus collection see ZPE 16 (1975) 27—32. <ddb:p.cair.goodsp> [Online: archive.org](http://archive.org/details/greekpapyrifromc00goodrich)
 
@@ -493,6 +498,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 
 ### <a id="P.Chrest.Revillout">P.Chrest.Revillout</a>
 = _Chrestomathie démotique_, ed. E. Revillout. Paris 1880.
+
+### <a id="P.Christ.Musl.">P.Christ.Musl.</a>
+= _Christians and Muslims in early Islamic Egypt_, ed. L. Berkes. Durham 2022. ([Am.Stud.Pap.](#Am.Stud.Pap.) 56). Nos. 1–25. Arabic, Greek, and Coptic texts.
 
 ### <a id="P.Christodote">P.Christodote</a>
 = _The property of a lady (P.Christodote)_, ed. T.M. Hickey, J.G. Keenan. Florence 2020. (Pap.Flor. XLVIII) (Recto is a reedition of PSI I 76; verso is first published here).
@@ -1293,7 +1301,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 = _Greek Papyri in the Collection of New York University_.
 
  * I, Fourth Century Documents from Karanis, ed. N. Lewis. Leiden 1967. (New York Univ., Department of Classics, Monographs on Mediterranean Antiquity I). Nos. 1—25. [NYU or EJB]
- * II, Papyri from the New York University Collection II, ed. B. Nielsen and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: ZPE 133 (2000) 163—186: I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; ZPE 140 (2002) 129—150: III, nos. 23—37; ZPE 149 (2004) 103—124: IV, nos. 38—53.] For the indices see <http://www.papy.uni-hd.de/WL/PNYU_II_Indices.pdf>.
+ * II, Papyri from the New York University Collection II, ed. B. Nielsen and K. A. Worp. Wiesbaden 2010. Nos. 1—53 [originally in: [ZPE 133 (2000) 163—186](https://www.jstor.org/stable/20190757): I, nos. 1 - 10; [ZPE 136 (2001) 125—144](http://www.jstor.org/stable/20190891): II, nos. 11 - 22; [ZPE 140 (2002) 129—150](https://www.jstor.org/stable/20191485): III, nos. 23—37; [ZPE 149 (2004) 103—124](https://www.jstor.org/stable/20191895): IV, nos. 38—53.] For the indices see <http://www.papy.uni-hd.de/WL/PNYU_II_Indices.pdf>; they are also available through <https://papyri.uni-koeln.de/papyri-woerterlisten/index.html>.
 
 ### <a id="P.Oslo">P.Oslo</a>
 = _Papyri Osloenses_. Oslo.
@@ -1707,6 +1715,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXII). No. 69. [Oxbow] <ddb:p.sorb;2> [Online: AWDL](http://hdl.handle.net/2333.1/0cfxprkx)
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144. <ddb:p.sorb;3>
 
+### <a id="P.Sorb.Copt.">P.Sorb.Copt.</a>
+= _Coptica Sorbonensia. Textes de la 6e école d’été de papyrologie copte, Paris, 2-11 juillet 2018 (P.Sorb.Copt.)_, ed. A. Boud'hors and A. Delattre. Paris 2022. (Studia Papyrologica et Aegyptiaca Parisina 4). Nos. 1—45.
+
 ### <a id="P.Soter.">P.Soter.</a>
 = _Das Archiv des Soterichos_, ed. S. Omar. Opladen 1979. (Pap.Colon. VIII). Nos. 1—28. [FS] <ddb:p.soter>
 
@@ -2074,6 +2085,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ### <a id="O.EdfouIFAO.">O.EdfouIFAO.</a>
 = _Ostraca grecs et coptes des fouilles franco-polonaises sur le site de Tell Edfou. O. EdfouCopte 1-145_, ed. S. Bacot. Cairo 2009. (Bibliothèque d'Études Coptes 19). Nos. 1—145. Nos. 36—43, 46—47, 55—57, 61—62 and 121 are Greek and Coptic; nos. 1—9, 11—35, 44—45, 58, 60, 63—87, 92—94, 104, 107—120 and 122—145 are Coptic; nos. 10, 48—54, 59, 88—91, 95—103 and 105—106 are Greek.
+
+### <a id="O.Edgerton">O.Edgerton</a>
+= _The archive of Thotsutmis, son of Panouphis: early Ptolemaic ostraca from Deir el Bahari (O. Edgerton)_, ed. B.P. Muhs, F.D. Scalf, J.E. Jay. Chicago 2021. (Oriental Insitute Publications 146). Nos. 1—42.
 
 ### <a id="O.Eleph.Wagner">O.Eleph.Wagner</a> (see [P.Eleph.Wagner](#P.Eleph.Wagner)).
 
@@ -2691,7 +2705,13 @@ I.2 Galenus – Isocrates
  = Koptisches Handwörterbuch, ed. W. Westendorf. Heidelberg 1965—1977.
 
 ### <a id="Kretschmer-Locker">Kretschmer-Locker</a>
- = Rücklaüfiges Wörterbuch der griechischen Sprache, ed. P. Kretschmer and E. Locker. 2nd ed. Göttingen 1963. (Supersedes O. Gradenwitz, Heidelberger Konträrindex der griechischen Papyrusurkunden [Berlin 1931]).
+ = Rücklaüfiges Wörterbuch der griechischen Sprache, ed. P. Kretschmer and E. Locker. 2nd ed. Göttingen 1963. (Supersedes O. Gradenwitz, Heidelberger Konträrindex der griechischen Papyrusurkunden [Berlin 1931]). [Online: archive.org](https://archive.org/details/rcklufigeswrterb0000kret)
+
+### <a id="Lampe">Lampe</a>
+ = A Patristic Greek Lexicon, ed. G.W.H. Lampe. Oxford 1969.
+ 
+### <a id="LBG">LBG</a>
+ = Lexikon zur byzantinischen Gräzität, besonders des 9.–12. Jahrhunderts, ed. E. Trapp. Vienna 1994–2017.
 
 ### <a id="Lex.Lat.Lehnw.">Lex.Lat.Lehnw.</a>
  = Lexicon der lateinischen Lehnwörter in den griechischsprachigen dokumentarischen Texten Ägyptens mit Berücksichtigung koptischer Quellen, by I.-M. Cervenka-Ehrenstrasser with J. Diethart. Vienna 1996—. (MPER N.S. XXVII). Published to date are Fasc. 1, alpha (1996) and 2, beta—delta (2000). [VBH]
@@ -2700,7 +2720,7 @@ I.2 Galenus – Isocrates
  = Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw) Ägyptens sich vorfinden, ed. F. Preisigke. Heidelberg 1922, repr. Amsterdam 1967.
 
 ### <a id="NB_Copt.">NB Copt.</a>
- = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf> (<http://www.onb.ac.at/sammlungen/papyrus/papyrus_bestandsrecherche.htm>)
+ = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf> 
 
 ### <a id="NB_Dem.">NB Dem.</a>
  = Demotisches Namenbuch, ed. E. Lüddeckens and H.J. Thissen. Wiesbaden 1980—. To date, vol. 1 in 16 fascicles, covering the entire alphabet. [Dr. Ludwig Reichert Verlag]
@@ -2936,6 +2956,9 @@ I.2 Galenus – Isocrates
  * LI, see [P.Lond.Herm.](#P.Lond.Herm.)
  * LII, New epigrams of Palladas: a fragmentary papyrus codex (P. CtYBR inv. 4000), by K.W. Wilkinson. 2012.
  * LIII, see [P.Bagnall](#P.Bagnall)
+ * LIV, see [O.BirShawish](#O.BirShawish)
+ * LV, see [P.Yale](#P.Yale) IV.
+ * LVI, see [P.Christ.Musl.](#P.Christ.Musl.)
 
 ### <a id="ArchivBeih.">ArchivBeih.</a>
  = _Archiv für Papyrusforschung und verwandte Gebiete_. Beiheften.
@@ -3908,23 +3931,23 @@ I.2 Galenus – Isocrates
 
  * I, "Semaine Égyptologique et Papyrologique du 14 au 20 septembre 1930." Brussels. Published in CdÉ 6 (1931) 189—470. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1931/6/12)
  * II, "XVIIIe Congrès International des Orientalistes. Leyde, du 7 au 1 septembre 1931. Section Autonome des Papyrologues." Published in CdÉ 7 (1932) 127—348. [Online: BREPOLS](https://www.brepolsonline.net/toc/cde/1932/7/13-14)
- * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934).
- * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936).
+ * III, Papyri und Altertumswissenschaft. Vorträge des 3. Internationalen Papyrologentages in München vom 4. bis 7. September 1933. (Münch.Beitr. 19, Munich 1934). [Online: archive.org](https://archive.org/details/pap-cong-3)
+ * IV, Atti del IV Congresso Internazionale di Papirologia, Firenze, 28 aprile—2 maggio 1935. (Aegyptus, Serie scientifica 5, Milan 1936). [Online: archive.org](https://archive.org/details/pap-cong-4)
  * V, Actes du Ve Congrès International de Papyrologie, Oxford, 30 août—3 septembre 1937. Published by the Fondation Égyptologique Reine Élisabeth. (Brussels 1938). [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_aere000003/1)
  * VI, Paris, 29 August—4 September 1949. No proceedings published.
  * VII, L'Originalité de l'Égypte dans le monde gréco-romain, Septième Congrès International de Papyrologie, Genève, 1—6 septembre 1952. Museum Helveticum 10 (1953) 129—180. [Online: e-periodica.ch](http://www.e-periodica.ch/digbib/voltoc?pid=mhl-001:1953:10#137)
- * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956).
- * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961).
- * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964).
- * XI, Atti dell'XI Congresso Internazionale di Papirologia, Milano, 2—8 settembre 1965. Published by the Istituto Lombardo di Scienze e Lettere. (Milan 1966).
+ * VIII, Akten des VIII. Internationalen Kongresses für Papyrologie, Wien 1955. (29 August—3 September). (MPER N.S. V, Vienna 1956). [Online: archive.org](https://archive.org/details/pap-cong-8)
+ * IX, Proceedings of the IX International Congress of Papyrology, Oslo, 19—22 August 1958. Published by the Norwegian Research Council for Science and the Humanities (Hertford, England 1961). [Online: archive.org](https://archive.org/details/pap-cong-9)
+ * X, Actes du Xe Congrès International de Papyrologie, Varsovie-Cracovie, 3—9 septembre 1961. Published by the Comité des Sciences de la Culture Antique, Académie Polonaise des Sciences. (Warsaw 1964). [Online: archive.org](https://archive.org/details/pap-cong-10)
+ * XI, Atti dell'XI Congresso Internazionale di Papirologia, Milano, 2—8 settembre 1965. Published by the Istituto Lombardo di Scienze e Lettere. (Milan 1966). [Online: archive.org](https://archive.org/details/pap-cong-11)
  * XII, Proceedings of the Twelfth International Congress of Papyrology, Ann Arbor, 13—17 August 1968. ([Am.Stud.Pap.](#Am.Stud.Pap.) VII, Toronto 1970). [Online: AWDL](http://hdl.handle.net/2333.1/rr4xh2z5)
- * XIII, Akten des XIII. Internationalen Papyrologenkongresses, Marburg/Lahn, 2—6 August 1971. (Münch.Beitr. 66, Munich 1974).
- * XIV, Proceedings of the XIV International Congress of Papyrologists, Oxford, 24—31 July 1974. (Egypt Exploration Society, Graeco-Roman Memoirs 61, London 1975).
- * XV, Actes du XVe Congrès International de Papyrologie, Brussels, 29 August—3 September 1977. (Pap.Brux. XVI—XIX, Brussels 1978).
- * XVI, Proceedings of the Sixteenth International Congress of Papyrology, New York, 24—31 July 1980. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXIII, Chico 1981).
+ * XIII, Akten des XIII. Internationalen Papyrologenkongresses, Marburg/Lahn, 2—6 August 1971. (Münch.Beitr. 66, Munich 1974). [Online: archive.org](https://archive.org/details/pap-cong-13)
+ * XIV, Proceedings of the XIV International Congress of Papyrologists, Oxford, 24—31 July 1974. (Egypt Exploration Society, Graeco-Roman Memoirs 61, London 1975). [Online: archive.org](https://archive.org/details/pap-cong-14)
+ * XV, Actes du XVe Congrès International de Papyrologie, Brussels, 29 August—3 September 1977. (Pap.Brux. XVI—XIX, Brussels 1978). [Online: archive.org](https://archive.org/details/pap-cong-15-1); [Online: archive.org](https://archive.org/details/pap-cong-15-2); [Online: archive.org](https://archive.org/details/pap-cong-15-3); [Online: archive.org](https://archive.org/details/pap-cong-15-4)
+ * XVI, Proceedings of the Sixteenth International Congress of Papyrology, New York, 24—31 July 1980. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXIII, Chico 1981). [Online: archive.org](https://archive.org/details/pap-cong-16)
  * XVII, Atti del XVII Congresso Internazionale di Papirologia (Napoli, 19—26 maggio 1983). 3 vols. (Centro Internazionale per lo Studio dei Papiri Ercolanesi, Naples 1984).
- * XVIII, Proceedings of the XVIII International Congress of Papyrology, Athens 25—31 May 1986, ed. B. Mandilaras. 2 vols. (Greek Papyrological Society, Athens 1988).
- * XIX, Proceedings of the XIX International Congress of Papyrology, Cairo 2—9 September 1989, ed. A.H.S. El-Mosallamy. 2 vols. (Center for Papyrological Studies, Cairo 1992).
+ * XVIII, Proceedings of the XVIII International Congress of Papyrology, Athens 25—31 May 1986, ed. B. Mandilaras. 2 vols. (Greek Papyrological Society, Athens 1988). [Online: archive.org](https://archive.org/details/pap-cong-18-1); [Online: archive.org](https://archive.org/details/pap-cong-18-2)
+ * XIX, Proceedings of the XIX International Congress of Papyrology, Cairo 2—9 September 1989, ed. A.H.S. El-Mosallamy. 2 vols. (Center for Papyrological Studies, Cairo 1992). [Online: archive.org](https://archive.org/details/pap-cong-19); [Online: archive.org](https://archive.org/details/pap-cong-19-2)
  * XX, Proceedings of the 20th International Congress of Papyrologists, Copenhagen 23—29 August 1992, ed. A. Bülow-Jacobsen. (Museum Tusculanum Press, Copenhagen 1994).
  * XXI, Akten des 21. Internationalen Papyrologenkongresses, Berlin, 13.—19. 8. 1995. 2 vols. ed. B. Kramer, W. Luppe, H. Maehler and G. Poethke. (Archiv Beiheft 3, Stuttgart and Leipzig 1997).
  * XXII, Atti del XXII Congresso Internazionale di Papirologia, Firenze, 23—29 agosto 1998. 2 vols. Separate vol. of plates. Ed. I. Andorlini, G. Bastianini, M. Manfredi and G. Menci. (Istituto Papirologico "G. Vitelli", Florence 2001).
@@ -3934,6 +3957,7 @@ I.2 Galenus – Isocrates
  * XXVI, Actes du 26e Congrès international de papyrologie. Genève 16-21 août 2010, ed. P. Schubert. Geneva, 2012. [Online: réro](http://doc.rero.ch/record/258239)
  * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, 3 vols. ed. T. Derda, A. Łajtar and J. Urbanik, in cooperation with A. Mirończuk and T. Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
  * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online: upf.edu](http://hdl.handle.net/10230/41902).
+ * XXIX, Proceedings of the 29th International Congress of Papyrology, Lecce, 28th July-3rd August 2019, ed. M. Capasso, P. Davoli, N. Pellé. Lecce, 2022 (Quaderni dell'Istituto superiore universitario di formazione interdisciplinare 2) [Online: unisalento.it](http://siba-ese.unisalento.it/index.php/29th_ICP/issue/view/1881)
 
 ### <a id="CoptCongr.">CoptCongr.</a>
 
@@ -3959,6 +3983,8 @@ I.2 Galenus – Isocrates
  * XIII, New Approaches in Demotic Studies : Acts of the 13th International Conference of Demotic Studies [Leipzig, September 4-8, 2017], ed. F. Naether. Berlin 2019.
 
 ## <a id="Editions">Editions of Greek and Coptic Documentary Papyri by Year of Publication</a>
+
+Publications printed without an index are listed in parentheses, e.g., "1901: (Stud.Pal. I)." If an index to that volume appears in a later volume of the series this will be indicated in the entry for that later volume, e.g, "1901: (Stud.Pal. I); 1902: (Stud. Pal. II); 1905: Stud.Pal. (I+II+)IV" (This convention was especially useful before the emergence of the DDbDP). The dates of publication of fascicles of a volume are not taken into account, but those of separate parts are. All Greek editions before 1891 are omitted as superseded by later editions.
 
 ### <a id="Greek">Greek</a>
  * 1891: P.Petr. I
@@ -4092,6 +4118,7 @@ I.2 Galenus – Isocrates
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
+ * 2022: P.Christ.Musl.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
@@ -4160,6 +4187,7 @@ I.2 Galenus – Isocrates
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
  * 2021: P.Hoogendijk; P.Heid. XI
+ * 2022: P.Christ.Musl.; P.Sorb.Copt.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
