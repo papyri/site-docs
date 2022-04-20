@@ -189,6 +189,31 @@ Note that the pair of tags inside the folio tags and directly adjacent to the te
 
 ***
 
+#### Document Div, convex / concave
+
+_To get this PN preview:_ `side convex/side concave`
+
+_Use this Leiden+:_ `<D=.convex.side<= 1. line of text 2. line of text =>=D> <D=.concave.side<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="convex" subtype="side" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="concave" subtype="side" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_ [o.krok;2;328](https://papyri.info/hgv/704613)
+
+Each side of the ostracon is indicated with closed pairs of tags as follows:
+
+		<D=.convex.side<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.concave.side<=
+		3. line of text
+		4. line of text
+		=>=D>
+
+Note that the pair of tags inside the division tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
+
 #### Document Div, nested
 
 _To get this PN preview:_ Divisions indicated variously
@@ -1782,7 +1807,7 @@ _To create this XML:_ `<num value="1/16">ιϛ</num>`
 _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Fractions should be accompanied by their values, just as whole numbers.
-	
+
 Please note that papyri.info uses a _Greek delta_ (NOT a Latin "d") for 1/4: `<num value="1/4">δ</num>`
 
 ***
@@ -2107,6 +2132,32 @@ To indicate a forked paragraphos or diple obelismene between, say, lines 4 and 5
 
 
 Note: a diple obelismene should be entered 'between lines', as above, and not on its own line.
+
+***
+
+#### Coronis
+
+_To get this PN preview:_ `⸎`
+
+_Use this Leiden+:_ `-$$-`
+
+_To create this XML:_ `<milestone rend="coronis" unit="undefined"></>`
+
+_Example PN Link:_ [BKT.9.88](http://papyri.info/dclp/60216)
+
+To indicate a coronis between, say, lines 4 and 5, enter as follows:
+
+
+		3. text
+
+		4. text
+
+		-$$-
+
+		5. text
+
+
+Note: a coronis should be entered 'between lines', as above, and not on its own line.
 
 ***
 
