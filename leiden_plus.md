@@ -224,7 +224,7 @@ _To create this XML:_ `<div n="flesh" subtype="side" type="textpart"><ab> <lb n=
 
 _Example PN Link:_ [p.oxy;11;1389](https://papyri.info/dclp/61002)
 
-Each side of the ostracon is indicated with closed pairs of tags as follows:
+Each side of the parchment is indicated with closed pairs of tags as follows:
 
 		<D=.flesh.side<=
 		1. line of text
