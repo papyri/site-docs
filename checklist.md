@@ -3466,6 +3466,10 @@ I.2 Galenus – Isocrates
  * XXXV, see [P.Cair.Preis.](#P.Cair.Preis.) (2nd ed.)
  * XXXVI, see [O.Berenike](#O.Berenike) III
  * XXXVII, La "Bonne Nouvelle" : la nouvelle de l'avènement d'un empereur et de la mort de son prédécesseur en Égypte, by J.-Y. Strasser. 2017.
+ * XXXVIII, Apprendre à conjuguer dans l'Égypte byzantine : un manuel de conjugaison grecque de la bibliothèque, by J.-L. Fournet. 2019
+ * XXXIX, Iaô sabaôth : pratiques magiques dans la cité des Tongres : une tablette de défixion mise en contexte , by Roxanne Bélanger Sarrazin, Alain Delattre, Daniel Demaiffe, Natasja De Winter, Alain Martin, Georges Raepsaet, Marie-Thérèse Raepsaet-Charlier, avec la collaboration de Cecilia Melaerts-Saerens & Frank Scheppers. 2019
+ * XL, Papyrus littéraires et tradition textuelle : le cas d'Eschine, by J. Lenaerts. 2020
+ * XLI, The bearers of business letters in Roman Egypt, by P. Schubert. 2021
 
 ### <a id="Pap.Castr.">Pap.Castr.</a>
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
