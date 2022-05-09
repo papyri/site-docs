@@ -1355,7 +1355,7 @@ Known range of characters lost in lacuna.
 
 #### Lost character gap unknown quantity
 
-_To get this PN preview:_ `[ - ca. ? - ]`
+_To get this PN preview:_ `[ -ca.?- ]`
 
 _Use this Leiden+:_ `[.?]`
 
@@ -1383,7 +1383,7 @@ Letters lost in lacuna, restored by modern editor.
 
 #### Supplied lost cert low
 
-_To get this PN preview:_ `ἡμετέρ[α μήτηρ (?) - ca. ? - ]`
+_To get this PN preview:_ `ἡμετέρ[α μήτηρ (?) -ca.?- ]`
 
 _Use this Leiden+:_ `ἡμετέρ[α μήτηρ (?)] [.?]`
 
