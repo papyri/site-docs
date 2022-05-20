@@ -1257,7 +1257,7 @@ Note: leave two spaces between the last character and the closing parens.
 
 ***
 
-#### Abbreviation, `στρατηγ( )`
+#### Abbreviation, `ομυο( )`
 
 _To get this PN preview:_ `ομυο( )`
 
@@ -1277,7 +1277,7 @@ but enter
 
 ***
 
-#### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
+#### Abbreviation with markup `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
 
 _To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
 
