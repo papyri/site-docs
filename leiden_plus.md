@@ -2092,7 +2092,7 @@ _To create this XML:_ `<milestone rend="horizontal-rule" unit="undefined"/>`
 
 _Example PN Link:_ [BGU.7.1526](http://papyri.info/hgv/4776)
 
-To indicate horizontal rule on papyrus. To indicate paragraphos between, say, lines 4 and 5, enter as follows:
+To indicate horizontal rule on papyrus. To indicate horizontal rule between, say, lines 4 and 5, enter as follows:
 
 
 		3. text
