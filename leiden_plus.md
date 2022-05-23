@@ -2058,7 +2058,7 @@ Ancient diacritical written atop character that is now lost in lacuna. Note: the
 
 #### Paragraphos
 
-_To get this PN preview:_ `——`
+_To get this PN preview:_ `—— ——`
 
 _Use this Leiden+:_ `----`
 
