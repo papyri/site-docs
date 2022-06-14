@@ -4131,7 +4131,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
- * 2022: P.Christ.Musl.
+ * 2022: P.Christ.Musl.; P.KölnLüddeckens; P.KölnSarapion
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
