@@ -992,7 +992,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 = _Demotische und Koptische Texte, Teil 1_, ed. E. Lüddeckens; Teil 2, ed. A. Kropp, A. Hermann and M. Weber. Opladen 1968. (Pap.Colon. II). Teil 1 contains 2 Demotic texts, Teil 2, 3 non-documentary Coptic texts. [FS]
 
 ### <a id="P.KölnSarapion">P.KölnSarapion</a>
-=_Edition griechischer Papyri aus der Kölner Papyrussammlung. Das Archiv des Sarapion (P. Köln Sarapion)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/1). Nos. 1-15.
+=_Edition griechischer Papyri aus der Kölner Papyrussammlung. Das Archiv des Sarapion (P. Köln Sarapion)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/2). Nos. 1-15.
 
 ### <a id="P.Kramer">P.Kramer</a>
 = "...vor dem Papyrus sind alle gleich!". Papyrologische Beiträge zu Ehren von Bärbel Kramer, ed. R. Eberhard and others; Berlin and New York 2009 (Archiv Beiheft 27). Nos. 1—20; no. 21 is Coptic, no. 22 Demotic, no. 2 magical, no. 4 parchment (Daniel 7.11—18). <ddb:p.kramer>
@@ -3550,6 +3550,8 @@ I.2 Galenus – Isocrates
  * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
  * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
  * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
+ * XLVI/1, see [P.KölnLüddeckens](#P.KölnLüddeckens)
+ * XLII, see [P.KölnSarapion](#P.KölnSarapion)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
