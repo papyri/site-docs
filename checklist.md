@@ -3550,7 +3550,7 @@ I.2 Galenus – Isocrates
  * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
  * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
  * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
- * XLVI/1, see [P.KölnLüddeckens](#P.KölnLüddeckens)
+ * XLVI/1, see [P.KölnLexikon](#P.KölnLexikon)
  * XLII, see [P.KölnSarapion](#P.KölnSarapion)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
@@ -4131,7 +4131,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
- * 2022: P.Christ.Musl.; P.KölnLüddeckens; P.KölnSarapion
+ * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
