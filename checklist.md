@@ -33,8 +33,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9> [Online: archive.org](https://archive.org/details/bgu-9-1937)
  * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10> [Online: archive.org](https://archive.org/details/bgu-10-1970)
  * XI, Urkunden römischer Zeit, ed. H. Maehler. 
-     * Pt. I, 1966. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
-     * Pt. II, 1968. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
+     * Pt. I, 1966. Nos. 2012—2054. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
+     * Pt. II, 1968. Nos. 2055—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
  * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] <ddb:bgu;12> [Online: archive.org](https://archive.org/details/bgu-12-1974)
  * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM] <ddb:bgu;13> [Online: archive.org](https://archive.org/details/bgu-13-1976)
  * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM] <ddb:bgu;14> [Online: archive.org](https://archive.org/details/bgu-14-1-1981); [Online: archive.org](https://archive.org/details/bgu-14-2-plates-1981)
