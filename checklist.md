@@ -1996,6 +1996,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * I, Greek Ostraka from the 1996—1998 Seasons, ed. R.S. Bagnall, C. Helms and A.M.F.W. Verhoogt. Brussels 2000. (Pap.Brux. XXXI). Nos. 1—117.
  * II, Texts from the 1999-2001 Seasons, ed. R. S. Bagnall, C. Helms, and A. M. F. W. Verhoogt. Brussels 2005. (Pap.Brux. 33). Nos. 118-260 (nos. 118-120 are inscriptions, 123-135 papyri, 136-257 ostraka, 258 a wooden tag, 259-260 instrumenta).
  * III, Texts from the 2009-2013 Seasons, ed. R. Ast and R. S. Bagnall. Brussels 2016. (Pap.Brux. 36). Nos. 261-511 (nos. 261-273 are papyri, 274-511 ostraka).
+ * IV, Texts from the 2014–2015 and 2018–2020 Seasons, ed. R. Ast, R. S. Bagnall, with a contribution by L Vanderheyden. 2022. Nos. 512-538. [Online: pylon](https://doi.org/10.48631/pylon.2022.1.89358)
+
 
 ### <a id="O.Berl.">O.Berl.</a>
 = _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in [O.Brux.](#O.Brux.) &#91;MF 2.72&#93; [Online: archive.org](https://archive.org/details/ostrakaausbrss00vieruoft/)
