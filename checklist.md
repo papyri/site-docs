@@ -2547,6 +2547,10 @@ I.2 Galenus – Isocrates
  * III. [Online: accademiafiorentina.it](http://www.accademiafiorentina.it/BbltOnLine/PGM_III.pdf)
  * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
 
+### <a id="Pap.Mag.Formularies">Pap.Mag.Formularies</a>
+= _Greek and Egyptian Magical Formularies: Text and Translation_, ed. C. A. Faraone and S. Toralla Tovar, with many contributors. California Classical Studies. Berkeley.
+
+ * I, 2022. Nos. 1-54 (California Classical Studies 9) [Online: https://escholarship.org/uc/item/9650x69r](https://escholarship.org/uc/item/9650x69r)
 
 ### <a id="Rom.Mil.Rec.">Rom.Mil.Rec.</a>
 = _Roman Military Records on Papyrus_, ed. R.O. Fink. Cleveland 1971. (American Philological Association, Philological Monograph 26). Nos. 1—134. [OUP]
