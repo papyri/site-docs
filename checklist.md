@@ -2549,7 +2549,7 @@ I.2 Galenus – Isocrates
  * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
 
 ### <a id="Pap.Mag.Formularies">Pap.Mag.Formularies</a>
-= _Greek and Egyptian Magical Formularies: Text and Translation_, ed. C. A. Faraone and S. Toralla Tovar, with many contributors. California Classical Studies. Berkeley.
+= _Greek and Egyptian Magical Formularies: Text and Translation_, ed. C. A. Faraone and S. Torallas Tovar, with many contributors. California Classical Studies. Berkeley.
 
  * I, 2022. Nos. 1-54 (California Classical Studies 9) [Online: https://escholarship.org/uc/item/9650x69r](https://escholarship.org/uc/item/9650x69r)
 
@@ -4228,6 +4228,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="DJD">DJD</a> (see [P.Murabba'ât](#P.Murabba'ât))
  * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
  * <a id="Erbstreit">Erbstreit</a> (text in [SB I 4512](http://papyri.info/ddbdp/sb;1;4512))
+ * <a id="GEMF">GEMF</a> (see [Pap.Mag.Formularies](#Pap.Mag.Formularies))
  * <a id="GMP">GMP</a> (see [Gr.Med.Pap.](#Gr.Med.Pap.))
  * <a id="G.S.M.">G.S.M.</a> (see [Shorthand Manuals](#Shorthand_Manuals))
  * <a id="Hall">Hall</a> (see [O.Brit.Mus.Copt.](#O.Brit.Mus.Copt.))
