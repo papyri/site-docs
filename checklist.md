@@ -4313,6 +4313,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="P.Grey">P.Grey</a> (texts in [UPZ II 165](http://papyri.info/ddbdp/upz;2;165), [UPZ II 166](http://papyri.info/ddbdp/upz;2;166) and [UPZ II 167](http://papyri.info/ddbdp/upz;2;167))
  * <a id="P.Gr.Texte">P.Gr.Texte</a> (see [P.Meyer](#P.Meyer))
  * <a id="P.Heid. 1280">P.Heid. 1280</a> (text in [SB I 4638](http://papyri.info/ddbdp/sb;1;4638))
+ * <a id="P.Herm.Boul.">P.Herm.Boul.</a> (see [CPR XXXV](#CPR))
  * <a id="P.Hernals">P.Hernals</a> (see [listing in SB II p.93.](https://archive.org/details/sammelbuchgriech02wissuoft/page/93/mode/2up))
  * <a id="P.Hess.">P.Hess.</a> (see [P.Giss.](#P.Giss.))
  * <a id="P.Ibscher">P.Ibscher</a> (see [P.Hamb. II](#P.Hamb.) and Montevecchi, La Papirologia p.418.)
