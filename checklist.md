@@ -33,8 +33,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9> [Online: archive.org](https://archive.org/details/bgu-9-1937)
  * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10> [Online: archive.org](https://archive.org/details/bgu-10-1970)
  * XI, Urkunden römischer Zeit, ed. H. Maehler. 
-     * Pt. I, 1966. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
-     * Pt. II, 1968. Nos. 2012—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
+     * Pt. I, 1966. Nos. 2012—2054. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
+     * Pt. II, 1968. Nos. 2055—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
  * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] <ddb:bgu;12> [Online: archive.org](https://archive.org/details/bgu-12-1974)
  * XIII, Greek Papyri from Roman Egypt, ed. W.M. Brashear. 1976. Nos. 2211—2366. [BAM] <ddb:bgu;13> [Online: archive.org](https://archive.org/details/bgu-13-1976)
  * XIV, Ptolemäische Urkunden aus Mumienkartonage, ed. W.M. Brashear. 1981. Nos. 2367—2450 are papyri; nos. 2451—2457 ostraca. [BAM] <ddb:bgu;14> [Online: archive.org](https://archive.org/details/bgu-14-1-1981); [Online: archive.org](https://archive.org/details/bgu-14-2-plates-1981)
@@ -108,6 +108,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXXIII, The Vienna epigrams papyrus, ed. P.J. Parsons, H. Maehler, F. Maltomini. Berlin, 2015.
  * XXXIV, Koptische dokumentarische Texte aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed. M.R.M. Hasitzka. Berlin, 2018.
  * XXXV, Les archives du conseil municipal d'Hermoupolis Magna, ed. M. Drew-Bear, with collaboration of F. Chausson and H. Maehler, Berlin-Boston 2020.
+ * XXXVI, Documenti del primo periodo arabo dall'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-Boston 2022. Nos. 1-62.
 
 ### <a id="P.Aberd.">P.Aberd.</a>
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] <ddb:p.aberd>; [Full BP bibliographic record](http://papyri.info/biblio/3909)
@@ -985,8 +986,14 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * I, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
  * II, _Koptische Urkunden der früharabischen Zeit_, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64.
 
+### <a id="P.KölnLexikon">P.KölnLexikon</a>
+=_Edition griechischer Papyri aus der Kölner Papyrussammlung. Ein frühhellenistisches Lexikon poetischer und dialektaler Wörter (P. Köln Lexikon)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/1).
+
 ### <a id="P.KölnLüddeckens">P.KölnLüddeckens</a>
 = _Demotische und Koptische Texte, Teil 1_, ed. E. Lüddeckens; Teil 2, ed. A. Kropp, A. Hermann and M. Weber. Opladen 1968. (Pap.Colon. II). Teil 1 contains 2 Demotic texts, Teil 2, 3 non-documentary Coptic texts. [FS]
+
+### <a id="P.KölnSarapion">P.KölnSarapion</a>
+=_Edition griechischer Papyri aus der Kölner Papyrussammlung. Das Archiv des Sarapion (P. Köln Sarapion)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/2). Nos. 1-15.
 
 ### <a id="P.Kramer">P.Kramer</a>
 = "...vor dem Papyrus sind alle gleich!". Papyrologische Beiträge zu Ehren von Bärbel Kramer, ed. R. Eberhard and others; Berlin and New York 2009 (Archiv Beiheft 27). Nos. 1—20; no. 21 is Coptic, no. 22 Demotic, no. 2 magical, no. 4 parchment (Daniel 7.11—18). <ddb:p.kramer>
@@ -1990,6 +1997,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
  * I, Greek Ostraka from the 1996—1998 Seasons, ed. R.S. Bagnall, C. Helms and A.M.F.W. Verhoogt. Brussels 2000. (Pap.Brux. XXXI). Nos. 1—117.
  * II, Texts from the 1999-2001 Seasons, ed. R. S. Bagnall, C. Helms, and A. M. F. W. Verhoogt. Brussels 2005. (Pap.Brux. 33). Nos. 118-260 (nos. 118-120 are inscriptions, 123-135 papyri, 136-257 ostraka, 258 a wooden tag, 259-260 instrumenta).
  * III, Texts from the 2009-2013 Seasons, ed. R. Ast and R. S. Bagnall. Brussels 2016. (Pap.Brux. 36). Nos. 261-511 (nos. 261-273 are papyri, 274-511 ostraka).
+ * IV, Texts from the 2014–2015 and 2018–2020 Seasons, ed. R. Ast, R. S. Bagnall, with a contribution by L Vanderheyden. 2022. Nos. 512-538. [Online: pylon](https://doi.org/10.48631/pylon.2022.1.89358)
+
 
 ### <a id="O.Berl.">O.Berl.</a>
 = _Ostraka aus Brussel und Berlin_, ed. P. Viereck. Berlin-Leipzig 1922. (Schr.Heid. IV). Nos. 1—99; nos. 1—20 (Brussels ostraca) are republished in [O.Brux.](#O.Brux.) &#91;MF 2.72&#93; [Online: archive.org](https://archive.org/details/ostrakaausbrss00vieruoft/)
@@ -2539,6 +2548,10 @@ I.2 Galenus – Isocrates
  * III. [Online: accademiafiorentina.it](http://www.accademiafiorentina.it/BbltOnLine/PGM_III.pdf)
  * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
 
+### <a id="Pap.Mag.Formularies">Pap.Mag.Formularies</a>
+= _Greek and Egyptian Magical Formularies: Text and Translation_, ed. C.A. Faraone and S. Torallas Tovar, with many contributors. California Classical Studies. Berkeley.
+
+ * I, 2022. Nos. 1-54 (California Classical Studies 9) [Online: https://escholarship.org/uc/item/9650x69r](https://escholarship.org/uc/item/9650x69r)
 
 ### <a id="Rom.Mil.Rec.">Rom.Mil.Rec.</a>
 = _Roman Military Records on Papyrus_, ed. R.O. Fink. Cleveland 1971. (American Philological Association, Philological Monograph 26). Nos. 1—134. [OUP]
@@ -3466,6 +3479,10 @@ I.2 Galenus – Isocrates
  * XXXV, see [P.Cair.Preis.](#P.Cair.Preis.) (2nd ed.)
  * XXXVI, see [O.Berenike](#O.Berenike) III
  * XXXVII, La "Bonne Nouvelle" : la nouvelle de l'avènement d'un empereur et de la mort de son prédécesseur en Égypte, by J.-Y. Strasser. 2017.
+ * XXXVIII, Apprendre à conjuguer dans l'Égypte byzantine : un manuel de conjugaison grecque de la bibliothèque, by J.-L. Fournet. 2019
+ * XXXIX, Iaô sabaôth : pratiques magiques dans la cité des Tongres : une tablette de défixion mise en contexte , by R. Bélanger Sarrazin, A. Delattre, D. Demaiffe, N. De Winter, A. Martin, G. Raepsaet, M.-T. Raepsaet-Charlier, avec la collaboration de C. Melaerts-Saerens & F. Scheppers. 2019
+ * XL, Papyrus littéraires et tradition textuelle : le cas d'Eschine, by J. Lenaerts. 2020
+ * XLI, The bearers of business letters in Roman Egypt, by P. Schubert. 2021
 
 ### <a id="Pap.Castr.">Pap.Castr.</a>
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
@@ -3540,6 +3557,8 @@ I.2 Galenus – Isocrates
  * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
  * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
  * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
+ * XLVI/1, see [P.KölnLexikon](#P.KölnLexikon)
+ * XLII, see [P.KölnSarapion](#P.KölnSarapion)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
@@ -3796,6 +3815,7 @@ I.2 Galenus – Isocrates
  = _Studien und Texte aus der Heidelberger Papyrussammlung_. Heidelberg 2018—
 
  * I, see [P.Heid.Kopt.](#P.Heid.Kopt.)
+ * II, see [P.Heid.XI](#P.Heid.)
 
 ### <a id="Stud.Amst.">Stud.Amst.</a>
  = _Studia Amstelodamensia ad epigraphicam, ius antiquum et papyrologicam pertinentia_. Amsterdam 1972—1976, 1989— , Zutphen 1976—86.
@@ -4118,7 +4138,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
- * 2022: P.Christ.Musl.
+ * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
@@ -4208,6 +4228,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="DJD">DJD</a> (see [P.Murabba'ât](#P.Murabba'ât))
  * <a id="Ep.">Ep.</a> (see [P.Mon.Epiph.](#P.Mon.Epiph.))
  * <a id="Erbstreit">Erbstreit</a> (text in [SB I 4512](http://papyri.info/ddbdp/sb;1;4512))
+ * <a id="GEMF">GEMF</a> (see [Pap.Mag.Formularies](#Pap.Mag.Formularies))
  * <a id="GMP">GMP</a> (see [Gr.Med.Pap.](#Gr.Med.Pap.))
  * <a id="G.S.M.">G.S.M.</a> (see [Shorthand Manuals](#Shorthand_Manuals))
  * <a id="Hall">Hall</a> (see [O.Brit.Mus.Copt.](#O.Brit.Mus.Copt.))
@@ -4292,6 +4313,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="P.Grey">P.Grey</a> (texts in [UPZ II 165](http://papyri.info/ddbdp/upz;2;165), [UPZ II 166](http://papyri.info/ddbdp/upz;2;166) and [UPZ II 167](http://papyri.info/ddbdp/upz;2;167))
  * <a id="P.Gr.Texte">P.Gr.Texte</a> (see [P.Meyer](#P.Meyer))
  * <a id="P.Heid. 1280">P.Heid. 1280</a> (text in [SB I 4638](http://papyri.info/ddbdp/sb;1;4638))
+ * <a id="P.Herm.Boul.">P.Herm.Boul.</a> (see [CPR XXXV](#CPR))
  * <a id="P.Hernals">P.Hernals</a> (see [listing in SB II p.93.](https://archive.org/details/sammelbuchgriech02wissuoft/page/93/mode/2up))
  * <a id="P.Hess.">P.Hess.</a> (see [P.Giss.](#P.Giss.))
  * <a id="P.Ibscher">P.Ibscher</a> (see [P.Hamb. II](#P.Hamb.) and Montevecchi, La Papirologia p.418.)

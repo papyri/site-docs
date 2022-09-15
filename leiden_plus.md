@@ -64,7 +64,7 @@ Every block of text must be enclosed in a `<= ... =>` pair.
 
 #### Document Div, recto/verso
 
-_To get this PN preview:_ `recto/verso`
+_To get this PN preview:_ `recto` / `verso`
 
 _Use this Leiden+:_ `<D=.r<= 1. line of text 2. line of text =>=D> <D=.v<= 3. line of text 4. line of text =>=D>`
 
@@ -92,7 +92,7 @@ Please note that the sequence "<S=.grc" must always be present at the very top o
 
 #### Document Div, fragment
 
-_To get this PN preview:_ `fragment 1/fragment 2`
+_To get this PN preview:_ `fragment 1` / `fragment 2`
 
 _Use this Leiden+:_ `<D=.1.fragment<= 1. line of text 2. line of text =>=D> <D=.2.fragment<= 3. line of text 4. line of text =>=D>`
 
@@ -117,7 +117,7 @@ Note that the pair of tags inside the fragment tags and directly adjacent to the
 
 #### Document Div, part
 
-_To get this PN preview:_ `part A/part B`
+_To get this PN preview:_ `part A` / `part B`
 
 _Use this Leiden+:_ `<D=.A.part<= 1. line of text 2. line of text =>=D> <D=.B.part<= 3. line of text 4. line of text =>=D>`
 
@@ -142,7 +142,7 @@ Note that the pair of tags inside the part tags and directly adjacent to the tex
 
 #### Document Div, column
 
-_To get this PN preview:_ `column i / column ii`
+_To get this PN preview:_ `column i` / `column ii`
 
 _Use this Leiden+:_ `<D=.i.column<= 1. line of text 2. line of text =>=D> <D=.ii.column<= 3. line of text 4. line of text =>=D>`
 
@@ -167,7 +167,7 @@ Note that the pair of tags inside the column tags and directly adjacent to the t
 
 #### Document Div, folio
 
-_To get this PN preview:_ `folio a / folio b`
+_To get this PN preview:_ `folio a` / `folio b`
 
 _Use this Leiden+:_ `<D=.a.folio<= 1. line of text 2. line of text =>=D> <D=.b.folio<= 3. line of text 4. line of text =>=D>`
 
@@ -192,7 +192,7 @@ Note that the pair of tags inside the folio tags and directly adjacent to the te
 
 #### Document Div, convex / concave
 
-_To get this PN preview:_ `side convex/side concave`
+_To get this PN preview:_ `side convex` / `side concave`
 
 _Use this Leiden+:_ `<D=.convex.side<= 1. line of text 2. line of text =>=D> <D=.concave.side<= 3. line of text 4. line of text =>=D>`
 
@@ -215,13 +215,38 @@ Note that the pair of tags inside the division tags and directly adjacent to the
 
 ***
 
+#### Document Div, flesh / hair
+
+_To get this PN preview:_ `side flesh` / `side hair `
+
+_Use this Leiden+:_ `<D=.flesh.side<= 1. line of text 2. line of text =>=D> <D=.hair.side<= 3. line of text 4. line of text =>=D>`
+
+_To create this XML:_ `<div n="flesh" subtype="side" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="hair" subtype="side" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+
+_Example PN Link:_ [p.oxy;11;1389](https://papyri.info/dclp/61002)
+
+Each side of the parchment is indicated with closed pairs of tags as follows:
+
+		<D=.flesh.side<=
+		1. line of text
+		2. line of text
+		=>=D>
+		<D=.hair.side<=
+		3. line of text
+		4. line of text
+		=>=D>
+
+Note that the pair of tags inside the division tags and directly adjacent to the text is the `<= =>` pair (see Document Division, ab)
+
+***
+
 #### Document Div, nested
 
 _To get this PN preview:_ Divisions indicated variously
 
-_Use this Leiden+:_ `<D=.a.folio<= 1. line of text 2. line of text =>=D> <D=.b.folio<= 3. line of text 4. line of text =>=D>`
+_Use this Leiden+:_ `<D=.r<D=.a.folio<= 1. line of text 2. line of text =>=D> <D=.b.folio<= 3. line of text 4. line of text =>=D>=D>`
 
-_To create this XML:_ `<div n="a" subtype="folio" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="b" subtype="folio" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+_To create this XML:_ `<div n="r" type="textpart"><div n="a" subtype="folio" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="b" subtype="folio" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div></div>`
 
 _Example PN Link:_
 
@@ -1319,7 +1344,7 @@ Note: leave two spaces between the last character and the closing parens.
 
 ***
 
-#### Abbreviation, `στρατηγ( )`
+#### Abbreviation, `ομυο( )`
 
 _To get this PN preview:_ `ομυο( )`
 
@@ -1339,7 +1364,7 @@ but enter
 
 ***
 
-#### Abbreviation with markup `σ[τρ]α̣τ̣ηγ( )`
+#### Abbreviation with markup `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
 
 _To get this PN preview:_ `[  ̣  ̣  ̣  ̣  ̣  ̣  ̣  ̣]χυρι̣ο( )`
 
@@ -1417,7 +1442,7 @@ Known range of characters lost in lacuna.
 
 #### Lost character gap unknown quantity
 
-_To get this PN preview:_ `[ - ca. ? - ]`
+_To get this PN preview:_ `[ -ca.?- ]`
 
 _Use this Leiden+:_ `[.?]`
 
@@ -1445,7 +1470,7 @@ Letters lost in lacuna, restored by modern editor.
 
 #### Supplied lost cert low
 
-_To get this PN preview:_ `ἡμετέρ[α μήτηρ (?) - ca. ? - ]`
+_To get this PN preview:_ `ἡμετέρ[α μήτηρ (?) -ca.?- ]`
 
 _Use this Leiden+:_ `ἡμετέρ[α μήτηρ (?)] [.?]`
 
@@ -2120,7 +2145,7 @@ Ancient diacritical written atop character that is now lost in lacuna. Note: the
 
 #### Paragraphos
 
-_To get this PN preview:_ `——`
+_To get this PN preview:_ `—— ——`
 
 _Use this Leiden+:_ `----`
 
@@ -2154,7 +2179,7 @@ _To create this XML:_ `<milestone rend="horizontal-rule" unit="undefined"/>`
 
 _Example PN Link:_ [BGU.7.1526](http://papyri.info/hgv/4776)
 
-To indicate horizontal rule on papyrus. To indicate paragraphos between, say, lines 4 and 5, enter as follows:
+To indicate horizontal rule on papyrus. To indicate horizontal rule between, say, lines 4 and 5, enter as follows:
 
 
 		3. text
