@@ -3,10 +3,11 @@
 - For a briefer introduction one can also use: [Guide to SoSOL](https://docs.google.com/document/d/184yKsyRCRtrxW3rK5pfyokr-U9uc0cALrm3k0IQu-gE/edit)
 - [Formatting - Word and Document](#formatting---word-and-document) <a id="top"></a>
     - [Document Division](#document-division)
-    - [Line Number](#line-number)
+    - [Line Numbers](#line-number)
+	- [Non-standard Line Formats](#non-standard)
     - [Vacat](#vacat)
-    - [Marginalia](#marginalia)
-    - [Special Formatting](#special-formatting)
+    - [Insertions and Marginalia](#marginalia)
+    - [Special Text Formatting](#special-formatting)
 - [Preservation](#preservation)
     - [Letters Lost](#letters-lost)
     - [Lines Lost](#lines-lost)
@@ -288,6 +289,22 @@ In the PN the hyphen will be displayed in the expected location:
 
 ***
 
+#### Line 5 to 6
+
+_To get this PN preview:_ `5/6`
+
+_Use this Leiden+:_ `5/6.`
+
+_To create this XML:_ `<lb n="5/6"/>`
+
+_Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
+
+For use in rare cases in which lines are presented so as not to indicate break; not recommended.
+
+***
+
+### Non-standard Line Position <a id="non-standard"></a> ([return to top](#top))
+
 #### Line rendered perpendicular to the main body of text
 
 _To get this PN preview:_ `ø --> 2. (perpendicular)`
@@ -330,6 +347,48 @@ For lines written inverse / perpendicular to main text and containing a word-wra
 
 ***
 
+#### Line indented (i.e., in eisthesis) relative to the main body of text 
+
+_To get this PN preview:_ `ø --> 2. 	κτλ.`
+
+_Use this Leiden+:_ `(2, indent) κτλ.`
+
+_To create this XML:_ `<lb n="2" rend="indent"/>`
+
+_Example PN Link:_ [BASP 54 (2017) 120](http://papyri.info/hgv/704970)
+
+Numbered line indented (i.e., in eisthesis) relative to the main text. Where the beginning of a line is deliberately left blank, it is preferable to encode an indent instead of using vac.?
+
+***
+
+#### Line outdented (i.e., in ekthesis) relative to the main body of text
+
+_To get this PN preview:_ `ø --> 2. κτλ.`
+
+_Use this Leiden+:_ `(2, outdent) κτλ.`
+
+_To create this XML:_ `<lb n="2" rend="outdent"/>`
+
+_Example PN Link:_ [BGU I 52](http://papyri.info/hgv/9097)
+
+Numbered line outdented (i.e., in ekthesis) relative to the main text.
+
+***
+
+#### Line with word-wrap indented or outdented (i.e., in eisthesis or ekthesis) relative to the main body of text
+
+_To get this PN preview:_ `ø --> 2. 	κτλ. (with hyphen at end of previous line`
+
+_Use this Leiden+:_ `(2.-, indent) κτλ.` or `(2.-, outdent) κτλ.`
+
+_To create this XML:_ `<lb n="2" rend="indent" break="no"/>` or `<lb n="2" rend="outdent" break="no"/>`
+
+_Example PN Link:_ [BASP 58 (2021) 130 No. 41](http://papyri.info/hgv/971690)
+
+Words that wrap from the end of one line to the beginning of the next, when the next line is in eisthesis or ekthesis. 
+
+***
+
 #### Line written in left margin
 
 _To get this PN preview:_ `3,ms`
@@ -344,23 +403,65 @@ Numbered line written in left margin.
 
 ***
 
-#### Line rendered perpendicular to the main body of text in left margin
+#### Line written in right margin
 
-_To get this PN preview:_ `8,ms --> 8,ms (perpendicular)`
+_To get this PN preview:_ `3,md`
 
-_Use this Leiden+:_ `(8,ms, perpendicular)`
+_Use this Leiden+:_ `3,md.`
 
-_To create this XML:_ `<lb n="8,ms" rend="perpendicular"/>`
+_To create this XML:_ `<lb n="3,md"/>`
+
+_Example PN Link:_ [O.Berenike 2.231](http://papyri.info/hgv/89257)
+
+Numbered line written in right margin.
+
+***
+
+#### Line written in upper margin
+
+_To get this PN preview:_ `1,msup`
+
+_Use this Leiden+:_ `1,msup.`
+
+_To create this XML:_ `<lb n="1,msup"/>`
+
+_Example PN Link:_ [P.Alex. inv. 239](http://papyri.info/hgv/36891)
+
+Numbered line written in upper margin.
+
+***
+
+#### Line written in lower margin
+
+_To get this PN preview:_ `1,minf`
+
+_Use this Leiden+:_ `1,minf.`
+
+_To create this XML:_ `<lb n="1,minf"/>`
+
+_Example PN Link:_ [O.Camb. 3](http://papyri.info/hgv/44242)
+
+Numbered line written in lower margin.
+
+***
+
+#### Line rendered perpendicular to the main body of text in margin
+
+_To get this PN preview:_ `8,ms --> 8,ms (perpendicular)` (for left margin) or `8,md --> 8,md (perpendicular)` (for right margin)
+
+_Use this Leiden+:_ `(8,ms, perpendicular)` or `(8,md, perpendicular)`
+
+_To create this XML:_ `<lb n="8,ms" rend="perpendicular"/>` or `<lb n="8,md" rend="perpendicular"/>`
 
 _Example PN Link:_ [P.Harr.1.161](http://papyri.info/hgv/37268)
 
-Numbered line written in left margin and perpendicular to main text.
+Numbered line written in a margin and perpendicular to main text. The designations `ms` and `md` specify which margin contains the text (sinistra/left, and dextra/right, respectively).
 
 ***
 
 #### Line rendered inverse to the main body of text in lower margin
 
-_To get this PN preview:_ `16,minf --> 16,minf (inverse) NOTE: getting cut off at left`
+_To get this PN preview:_ `16,minf --> 16,minf (inverse)` NOTE: getting cut off at left
 
 _Use this Leiden+:_ `(16,minf, inverse)`
 
@@ -369,20 +470,6 @@ _To create this XML:_ `<lb n="16,minf" rend="inverse"/>`
 _Example PN Link:_ [P.Cair.Zen.5.59838](http://papyri.info/hgv/1462)
 
 Numbered line written in lower margin and inverse to main text.
-
-***
-
-#### Line 5 to 6
-
-_To get this PN preview:_ `5/6`
-
-_Use this Leiden+:_ `5/6.`
-
-_To create this XML:_ `<lb n="5/6"/>`
-
-_Example PN Link:_ [P.Oxy.1.117](http://papyri.info/hgv/28409)
-
-For use in rare cases in which lines are presented so as not to indicate break; not recommended.
 
 ***
 
@@ -500,7 +587,7 @@ Vacat of estimated number of lines.
 
 ***
 
-### Marginalia <a id="marginalia"></a> ([return to top](#top))
+### Insertions and Marginalia <a id="marginalia"></a> ([return to top](#top))
 
 #### Text inserted / added above line
 
@@ -614,7 +701,7 @@ Need to create detailed instructions and explanation
 
 ***
 
-### Special Formatting <a id="special-formatting"></a> ([return to top](#top))
+### Special Text Formatting <a id="special-formatting"></a> ([return to top](#top))
 
 #### Text in box
 
@@ -1808,7 +1895,7 @@ _Example PN Link:_ [bgu;1;154](http://papyri.info/ddbdp/bgu;1;154)
 
 Fractions should be accompanied by their values, just as whole numbers.
 
-Please note that papyri.info uses a _Greek delta_ (NOT a Latin "d") for 1/4: `<num value="1/4">δ</num>`
+Please note that papyri.info uses a _Greek delta_ (NOT a Latin "d") for 1/4: `<num value="1/4">δ</num>`. Other notable Unicode characters are 𐅵 for 1/2 `<num value="1/2">𐅵</num>` and 𐅷 for 2/3 `<num value="2/3">𐅷</num>`.
 
 ***
 
