@@ -3760,6 +3760,7 @@ I.2 Galenus – Isocrates
  * XLIII, see [P.Louvre](#P.Louvre) I.
  * XLIV, see [P.Louvre](#P.Louvre) II.
  * XLV, see [P.Jena](#P.Jena)
+ * XLVII, [P.Louvre](#P.Louvre) III. 
 
 ### <a id="Princ.Stud.Pap.">Princ.Stud.Pap.</a>
  = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
@@ -4139,7 +4140,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
- * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV
+ * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
@@ -4208,7 +4209,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2018: CPR XXXIV; P.Heid.Kopt.
  * 2020: SB Kopt. V; O.Lips.Copt. II
  * 2021: P.Hoogendijk; P.Heid. XI
- * 2022: P.Christ.Musl.; P.Sorb.Copt.; P.Louvre III
+ * 2022: P.Christ.Musl.; P.Sorb.Copt.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
