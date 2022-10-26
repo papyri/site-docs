@@ -3615,6 +3615,7 @@ I.2 Galenus – Isocrates
  * XLV, see [P.Bastianini](#P.Bastianini)
  * XLVI, see [P.Genova](#P.Genova) IV
  * XLVII, Early Christian Gospels: their production and transmission, by S. Charlesworth. 2016.
+ * XLVIII, see [P.Christodote](#P.Christodote)
 
 ### <a id="Pap.Heid.">Pap.Heid.</a>
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
