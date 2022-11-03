@@ -2318,6 +2318,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="T.Dacia">T.Dacia</a>
 = _Tablitele Cerate Dacice_, ed. I.I. Russu. Bucharest 1975. (Inscriptiile Daciei Romane I; Inscriptiones Daciae Romanae I) Nos. 1—25 on pages 192—256. Index includes the tablets.
 
+### <a id="T.Herc.">T.Herc.</a>
+= _Tabulae Herculanenses_, ed. G. Camodeca. Roma 2017- . (Vetera 20)
+
 ### <a id="T.Jucundus">T.Jucundus</a>
 = _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887. [Online: archive.org](https://archive.org/details/umn.31951p00109614s)
 
