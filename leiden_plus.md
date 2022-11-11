@@ -934,7 +934,7 @@ To indicate a known number of illegible characters. Note: all strings of illegib
 
 #### Range of illegible characters
 
-_To get this PN preview:_ `- ca. 9-10 -`
+_To get this PN preview:_ `-9-10-`
 
 _Use this Leiden+:_ `.9-10`
 
