@@ -128,6 +128,9 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### <a id="P.Äg.Handschrift.">P.Äg.Handschrift.</a>
 = _Ägyptische Handschriften (Teil 2)_, ed. E. Lüddeckens and K.-Th. Zauzich. Wiesbaden 1971. (Verzeichnis der orientalischen Handschriften in Deutschland XIX 2). This volume lists (nos. 1—333) the Demotic papyri in Berlin.
 
+### <a id="P.Aegyptus Cent.">P.Aegyptus Cent.</a>
+= These are texts published in Aegyptus 100 (2020) and Aegyptus 101 (2021) with continuous numbering from 1-52.
+
 ### <a id="P.Agri">P.Agri.</a>
 = _Agriculture and taxation in early Ptolemaic Egypt : Demotic land surveys and accounts_, ed. A. Monson. Bonn 2012. (Pap.Texte Abh. XLVI). Nos. 1—12.
 
@@ -2011,7 +2014,7 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 = _Ostraka and Other Inscribed Material from Bīr Shawīsh, Small Oasis. Excavation Seasons 2005 and 2007_, ed. M. Dospěl. Ann Arbor 2020. (American Studies in Papyrology 54). Nos. 1—50.
 
 ### <a id="O.Blemmyes">O.Blemmyes</a>
-= _Blemmyes. New Documents and New Perspectives_ ed. H. Cuvigny. Cairo 2022. (Documents De Fouilles De L'institut Francais D'archeologie Orientale).
+= _Blemmyes. New Documents and New Perspectives_, ed. H. Cuvigny. Cairo 2022. (Documents De Fouilles De L'institut Francais D'archeologie Orientale).
 Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Greek.
 
 ### <a id="O.Bodl.">O.Bodl.</a>
@@ -4153,7 +4156,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
- * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes
+ * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
