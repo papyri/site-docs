@@ -620,7 +620,7 @@ To indicate text inserted or added below a line, as 'afterthought' or self-corre
 
 #### Text inserted / added to the left margin
 
-_To get this PN preview:_ `(added at left: αβγ)`
+_To get this PN preview:_ `(added at left: καὶ)`
 
 _Use this Leiden+:_ `||left:καὶ||`
 
@@ -634,7 +634,7 @@ To indicate text inserted / added to the left of a line
 
 #### Text inserted / added to the right margin
 
-_To get this PN preview:_ `(added at right: αβγ)`
+_To get this PN preview:_ `(added at right: καὶ)`
 
 _Use this Leiden+:_ `||right:καὶ||`
 
