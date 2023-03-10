@@ -1773,6 +1773,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 
  * I, ed. A. Soldati. 2015. (Philippika. Altertumswissenschaftliche Abhandlungen. Contributions to the Study of Ancient World Cultures 85,1). Nos. 1-25.
 
+### <a id="P.Tebt.Pad.Cat.">P.Tebt.Pad.Cat.</a>
+= _Catalogo dei papiri greci del Museo di Scienze Archeologiche e d’Arte dell’Università di Padova (P.Tebt.Pad. invv. 1-615)_. [Online: Padova University Press](http://www.padovauniversitypress.it/system/files/attachments_field/9788869383229_0.pdf)
+
 ### <a id="P.Tebt.Tait">P.Tebt.Tait</a>
 = _Papyri from Tebtunis in Egyptian and Greek_, ed. W.J. Tait. London 1977. (Egypt Exploration Society, Texts from Excavations III). Nos. 1—23 Demotic; 24—34 Hieratic; 35—37 Hieroglyphic; 38—53 Greek. Only nos. 47—53 are documentary in nature. [EES]
 
