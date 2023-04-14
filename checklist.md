@@ -1039,7 +1039,10 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 = _Papyrus Égyptiens démotiques I. 373—382 du Musée d'Antiquités des Pays-Bas à Leide, publiées d'après les ordres du gouvernement par le Dr. C. Leemans_. Leiden 1863. (Publiés dans la 22e Livraison, ou la 15e de la IIe Partie des Monuments Égyptiens du Musée). This volume has descriptions and plates only, no texts.
 
 ### <a id="P.Leid.Inst.">P.Leid.Inst.</a>
-= _Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute_, ed. F.A.J. Hoogendijk and P. van Minnen. Leiden 1991. (Pap.Lugd.Bat. XXV). Nos. 1—107; nos. 11-12 and 24 are ostraca; nos. 15—18 wax tablets; the rest papyri. Nos. 81—107 are descripta. [EJB] <ddb:p.leid.inst>
+= _Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute_. Leiden 1991. 
+
+ * I, Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute, ed. F.A.J. Hoogendijk and P. van Minnen. Leiden 1991. (Pap.Lugd.Bat. XXV). Nos. 1—107; nos. 11-12 and 24 are ostraca; nos. 15—18 wax tablets; the rest papyri. Nos. 81—107 are descripta. [EJB] <ddb:p.leid.inst>
+ * II, Greek, Demotic and Coptic Papyri and Ostraca in the Leiden Papyrological Institute, ed. F.A.J. Hoogendijk and J.V. Stolk. Leiden 2023. (Pap.Lugd.Bat. XL). Nos. 1—66; nos. 3-21 are ostraca; the rest papyri. [EJB]
 
 ### <a id="P.Leipz.">P.Leipz.</a>
 = _Die griechischen Papyri der Leipziger Universitätsbibliothek_, ed. C. Wessely. Leipzig 1885. (Verhandlungen der Königlichen Sächsischen Gesellschaft der Wissenschaften 37: 237—275). Nos. 1—35. (See also [P.Lips.](#P.Lips.)) <ddb:p.leipz> [Online: archive.org](https://archive.org/stream/berichteberdie3637berluoft#page/n629/mode/2up)
@@ -3693,7 +3696,7 @@ I.2 Galenus – Isocrates
  * XXII, see [P.Dion.](#P.Dion.)
  * XXIII, Textes et études de papyrologie grecque, démotique et copte, ed. P.W. Pestman. 1985. Besides studies, this volume publishes one ostracon in Greek (pp.7—8), 10 in Demotic. [EJB]
  * XXIV, The Eponymous Priests of Ptolemaic Egypt, by W. Clarysse and G. van der Veken, with S.P. Vleeming. 1983. [EJB]
- * XXV, see [P.Leid.Inst.](#P.Leid.Inst.)
+ * XXV, see [P.Leid.Inst.](#P.Leid.Inst.) I
  * XXVI, see [O.Vleem.](#O.Vleem.)
  * XXVII, Hundred-Gated Thebes, Acts of a Colloquium on Thebes and the Theban Area during the Graeco-Roman Period, ed. S.P. Vleeming. 1995. [EJB]
  * XXIX, Menches, Komogrammateus of Kerkeosiris, by A.M.F.W. Verhoogt. 1998. [EJB]
@@ -3705,6 +3708,7 @@ I.2 Galenus – Isocrates
  * XXXV, The materiality of texts from ancient Egypt: new approaches to the study of textual material from the early pharaonic to the late antique period, ed. F.A.J. Hoogendijk, S.M.T. van Gompel. 2018.
  * XXXVI, The Derveni papyrus: unearthing ancient mysteries. Ed. M.A. Santamaría. 2019.
  * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
+ * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
 
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
@@ -4128,7 +4132,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 1988: P.Oxy. LV; P.Prag. I; (P.Stras. IX 861–880); (SB XVI.3); O.Ashm.Shelt.; O.Douch II; Ch.L.A. XXVIII
  * 1989: CPR XIV; P.Yadin I = P.Babatha; P.Bub. I; P.Masada; P.Mil.Congr.XIX; P.Oxy. LVI; (P.Stras. IX 881–900); O.Elkab; O.Masada; T.Varie
  * 1990: CPR XV; P.Col. VIII; P.Diog.; P.Heid. V; P.Matr.; P.Oxy. LVII; P.Wash.Univ. II
- * 1991: CPR XVIIA, XVIIB, XVIII; P.Erasm. II; P.Genova III; P.Köln VII; P.Leid.Inst.; P.Oxy. LVIII; P.Petr.2 I
+ * 1991: CPR XVIIA, XVIIB, XVIII; P.Erasm. II; P.Genova III; P.Köln VII; P.Leid.Inst. I; P.Oxy. LVIII; P.Petr.2 I
  * 1992: P.Brookl.; P.Oxy. LIX; PSI XX Congr.; P.Tor.Choach.; O.Claud. I; O.Douch III
  * 1993: P.Athen.Xyla; P.Pher.; O.Narm. I; O.WadiHamm.; O.Waqfa; (SB XVIII); Ch.L.A. XXIX
  * 1994: P.Heid. VI; P.Mich.Aphrod.; P.Oxy. LX; P.Oxy.Descr.; P.Sorb. II;(SB XIV 1, 2+) XV; (SB XIX.1); O.Vleem.; Ch.L.A. XLI, XLII;T.Vindol. II
@@ -4160,6 +4164,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV
  * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
+ * 2023: P.Leid.Inst. II
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
