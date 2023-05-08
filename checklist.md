@@ -3726,6 +3726,7 @@ I.2 Galenus – Isocrates
  * XI, Dal Restauro dei materiali allo studio dei testi: Aspetti della ricerca papirologica, ed. M. Capasso. 2002.
  * XII, Da Ercolano all'Egitto. IV. Ricerche varie di Papirologia, ed. M.Capasso. 2003.
  * XIII, Papiri e ostraka greci, ed. M. Capasso. 2004.
+ * XIV, New archaeological and papyrological researches on the Fayyum. Proceedings of the International meeting of Egyptology and Papyrology. Lecce, June 8th - 10th 2005, ed. M. Capasso and P. Davoli. 2005.
 
 ### <a id="Pap.Paris.">Pap.Paris.</a>
  = _Papyrologica Parisina_. Paris 2011— .
