@@ -389,7 +389,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * II, Le poème élégiaque hellénistique P.Brux.inv. E 8934 et P.Sorb.inv. 2254. Édition, commentaire et analyse stylistique, ed. M. Huys. Brussels 1991. No. 22. [FERE] There are also Brussels texts at SB I 4325; V 8025, 8027, 8035 a—c, 8263—8264; VI 8982—8985, 9051, 9161, 9163, 9199, 9206—9210, 9216, 9360; VIII 10163; X 10274, 10556—10557; XIV 11337, 1140, 11845—11849; XVI 12493; XVIII 13367; XX 14393, 14399, 14663.
 
 ### <a id="P.Brux.Bawit">P.Brux.Bawit</a>
-= _Papyrus coptes et grecs du monastère d'apa Apollô de Baouît conservés aux Musées royaux d'Art et d'Histoire de Bruxelles_, ed. A. Delattre. (Académie royale de Belgique. Mémoires de la Classe des Lettres. Collection in-8°. 3e série. Tome XLIII, No. 2045.) <ddb:p.brux.bawit> [Online: Académie Royale](https://www.academieroyale.be/academie/documents/DelattrePapyrus12021.pdf)
+= _Papyrus coptes et grecs du monastère d'apa Apollô de Baouît conservés aux Musées royaux d'Art et d'Histoire de Bruxelles_, ed. A. Delattre. Brussels 2007 (Académie royale de Belgique. Mémoires de la Classe des Lettres. Collection in-8°. 3e série. Tome XLIII, No. 2045.) <ddb:p.brux.bawit> [Online: Académie Royale](https://www.academieroyale.be/academie/documents/DelattrePapyrus12021.pdf)
 
 ### <a id="P.Brux.Dem.">P.Brux.Dem.</a>
 = _Die demotischen Papyrus der Musées Royaux du Cinquantenaire_, ed. W. Spiegelberg. Brussels 1909. Nos. 1— 7. [Online: archive.org](https://archive.org/details/njp.32101073420851)
@@ -4149,7 +4149,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2004: CPR XIX; P.Eirene II; P.Graux IV; P.Horak; P.Paramone; P.Zauzich; O.BawitIFAO; O.Kellis
  * 2005: BGU XIX; P.Louvre II; PSI Com. 6; P.Oxy. LXIX; P.Schøyen I;   P.Tebt. V; O.Berenike II; O.Heid.; O.Krok.
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P. Dime II; P.Heid. IX; P.Oxy. LXX; SB XXVI; O.Dime
- * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5
+ * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5; P.Brux.Bawit
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina; O.Cret.Chers.
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO; PSI Com. 8; C.Palmomanticum
  * 2010: CPR ΧΧΧ; P.Dime III; P.Eirene III; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
@@ -4221,7 +4221,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2000: P.Bingen; P.Mon.Apollo; O.Ashm.Copt.; O.Brit.Mus.Copt. II.
  * 2004: P.Horak; P.Paramone; O.BawitIFAO; SB Kopt. II
  * 2006: SB Kopt. III
- * 2007: P.Kellis VI
+ * 2007: P.Kellis VI; P.Brux.Bawit
  * 2008: P.Bawit Clackson
  * 2009: P.Clackson; O.EdfouIFAO
  * 2010: O.Frangé
