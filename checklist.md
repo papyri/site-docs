@@ -3891,7 +3891,7 @@ I.2 Galenus – Isocrates
  * IV, see [P.Tsenhor](#P.Tsenhor).
  * V, Some Coins of Artaxerxes and other Short Texts in the Demotic Script Found on Various Objects and Gathered from Many Publications, ed. S.P. Vleeming. 2001.
  * VI, see [P.Zauzich](#P.Zauzich).
- * VII, A Berichtigungsliste of Demotic Documents, ed. A.A. Den Brinker, B.P. Muhs, S.P. Vleeming. 2005.
+ * VII, see [BL Dem.](#BL Dem.).
  * VIII, see [O.Taxes.](#O.Taxes.)
  * IX, see [Short Texts](#Short_Texts) II.
  * X, see [T.BM Arlt.](#T.BM_Arlt.)
