@@ -947,7 +947,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, Late Antique Greek Papyri in the Collection of the Friedrich-Schiller-Universität Jena, ed. R. Ast (Pap.Texte Abh. XLV). Bonn 2010. Nos. 1—39.  <ddb:p.jena;2>
 
 ### <a id="P.Jördens">P.Jördens</a>
-= __Papyrologische und althistorische Studien zum 65. Geburtstag von Andrea Jördens_, ed. L. Berkes, W.G. Claytor, M. Nowak. Wiesbaden 2023. (Philippika 167) Nos. 1—44 + 3 inscriptions.
+= _Papyrologische und althistorische Studien zum 65. Geburtstag von Andrea Jördens_, ed. L. Berkes, W.G. Claytor, M. Nowak. Wiesbaden 2023. (Philippika 167) Nos. 1—44 + 3 inscriptions.
 
 ### <a id="P.Jud.Des.Misc.">P.Jud.Des.Misc.</a>
 = _Miscellaneous Texts from the Judaean Desert_, multiple editors. Oxford 2000. (Discoveries in the Judaean Desert XXXVIII) There are a number of mostly very fragmentary Greek texts along with Hebrew and Aramaic texts, all on papyrus. The texts are published according to site (cave) where found. From Jericho nos. 4—6 and 16—19; from Nahal Hever no. 4; from Nahal Mishmar no. 2; from Nahal Se'elim nos. 4 and 5. [OUP] <ddb:p.jud.des.misc>
