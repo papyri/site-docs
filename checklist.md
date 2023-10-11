@@ -44,7 +44,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM] <ddb:bgu;18>
  * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur] <ddb:bgu;19>
  * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876.  <ddb:bgu;20>
-
+ * XXII, Des pittakia de Théadelphie, ed. S. Kambitsis. Berlin 2018. Nos. 2905—2913.
+   
 ### <a id="BKT">BKT</a>
 = _Berliner Klassikertexte_. Berlin.
 
