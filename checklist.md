@@ -2439,7 +2439,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * L, begins a new series devoted to Latin Charters of the 9th century. See the Introduction by editors, G. Cavallo and G. Nicolaj. These volumes are not papyrological in nature and are not listed here.
 
 ### <a id="C.Clergé">C.Clergé</a>
-= _Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines_. Paderborn.
+= _Corpus des papyrus grecs sur les relations administratives entre le clergé égyptien et les autorités romaines_. Paderborn (Pap.Colon. XLI)
 
  * 1, ed. C. Messerer. 2017. Nos. 1-61.
  * 2, ed. C. Messerer. 2019. Nos. 62-118.
