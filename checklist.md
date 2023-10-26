@@ -1819,6 +1819,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Tor.Botti">P.Tor.Botti</a>
 = _L'Archivio demotico da Deir el-Medineh_, ed. G. Botti. Part 1, Testo; Part 2, Tavole. Florence 1967. (Mus.Tor. I). Nos. 1—45. The versos of nos. 1 and 9 have been reversed in the publication. [FLM]
 
+### <a id="P.Tor.Cat.">P.Tor.Cat.</a>
+= _The Coptic codices of the Museo Egizio, Turin: historical, literary and codicological features_, ed. P. Buzi and T. Orlandi. Modena 2023. (Studi del Museo egizio 4). [Online: museoegizio.it](https://shop.museoegizio.it/media/fcp/pdf/The-Coptic-Codices-eBook.pdf)
+
 ### <a id="P.Tor.Choach.">P.Tor.Choach.</a>
 = _Il Processo di Hermias e altri documenti dell'archivio dei choachiti, papiri greci e demotici conservati a Torino e in altre collezioni d'Italia_, ed. P.W. Pestman. Turin 1992. (Mus.Tor. VI). Nos. 3—5, 8—9 and 11—12 are Greek; 1—2, 6—7, 10 and 13—14 Demotic. There are Greek receipts and dockets to nos. 2 and 10; a Greek docket to no. 13. A few Demotic signs are found on no. 9.
 
