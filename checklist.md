@@ -3585,7 +3585,8 @@ I.2 Galenus – Isocrates
  * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
  * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
  * XLVI/1, see [P.KölnLexikon](#P.KölnLexikon)
- * XLII, see [P.KölnSarapion](#P.KölnSarapion)
+ * XLVI/II, see [P.KölnSarapion](#P.KölnSarapion)
+ * XLVII, Die Iliasglossare auf Papyrus: Untersuchungen zu einer Textkategorie, by V. Fontanella. 2023.
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
