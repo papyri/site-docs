@@ -2570,6 +2570,11 @@ I.2 Galenus – Isocrates
 ### <a id="Pap.Eleph.Eng.">Pap.Eleph.Eng.</a>
 = _The Elephantine Papyri in English: Three Millennia of Cross-Cultural Continuity and Change_, ed. B. Porten with J.J. Farber, C.J. Martin, G. Vittman, L.S.B. MacCoull, and S. Clackson. Leiden 1996. (Documenta et Monumenta Orientis Antiqui, Studies in Near Eastern Archaeology and Civilization XXII). Texts in English translation from various languages: Egyptian Hieratic, nos. A1—10; Aramaic, nos. B1—52; Egyptian Demotic, nos. C1—37; Greek, nos. D1—52; Coptic, nos. E1—20; Arabic, nos. F1—2; Latin, nos. G1—2. &#91;EJB&#93; [Online: AWDL](http://hdl.handle.net/2333.1/q573n7pr/)
 
+### <a id="Pap.Copt.Mag.">Pap.Copt.Mag.</a>
+= _Papyri Copticae Magicae_, ed. K. Dosoo and M. Preininger, together with: R. Bélanger Sarrazin, E.O.D. Love, S. Schuster and Julia Schwarzer
+
+ * 1, 2023: Formularies
+
 ### <a id="Pap.Graec.Mag.">Pap.Graec.Mag.</a>
 = _Papyri Graecae Magicae_, ed. K. Preisendanz. 2 vols. Leipzig-Berlin 1928, 1931. Photostatic copies of proofs of an unpublished third volume are to be found in some libraries. A reprint including texts from the projected third vol. with revisions by A. Henrichs was published in 1974. [KGS] See also The Magical Papyri in Translation, by H.D. Betz (esp. p. xliv), Chicago 1985. See also below [Suppl.Mag.](#Suppl.Mag.)
 
