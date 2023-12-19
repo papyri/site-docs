@@ -1984,6 +1984,9 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 
 ## <a id="Ostraca">Ostraca</a>
 
+### <a id="O.Abraham">O.Abraham</a>
+= _Apa Abraham von Hermonthis. Ein oberägyptischer Bischof um 600_, ed. M. Krause. Berlin 1956. (Diss. unpublished). Nos. 1—114.
+
 ### <a id="O.AbuMina">O.AbuMina</a>
 = _Greek Ostraka from Abu Mina_, ed. N. Litinas. Berlin and New York 2008. (Archiv Beih. 25). Nos. 1—1088; nos. 1089—1446 are decripta. [KGS]
 
