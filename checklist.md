@@ -1479,7 +1479,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Petr.">P.Petr.</a>
 = _The Flinders Petrie Papyri_. Dublin. (Royal Irish Academy, Cunningham Memoirs). <ddb:p.petr>
 
- * I, ed. J.P. Mahaffy. 1891. (Memoirs VIII), and pt. II, plates. Nos. 1—30. [MF 1.29; rp. CG] <ddb:p.petr;1> [Online: archive.org](https://archive.org/details/mdp.39015009011126)
+ * I, ed. J.P. Mahaffy. 1891. (Memoirs VIII), and pt. II, plates. Nos. 1—30. [MF 1.29; rp. CG] <ddb:p.petr;1> [Online: archive.org](https://archive.org/details/flinderspetriepa01maha/)
  * II, ed. J.P. Mahaffy. 1893. (Memoirs IX), and plates. Nos. 1—50. [MF 1.30; rp. CG] <ddb:p.petr;2> [Online: archive.org](https://archive.org/details/coo.31924032402228)
  * III, ed. J.P. Mahaffy and J.G. Smyly. 1905. (Memoirs XI), and plates. Nos. 1—146. There are notices of Demotic material at no. 59(c) on p. 175; at no. 69(b) on p. 195 and at no. 110 on p. 275. [MF 1.31] <ddb:p.petr;3> [Online: archive.org](https://archive.org/details/coo.31924032402236)
 
