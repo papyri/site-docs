@@ -2861,7 +2861,7 @@ I.2 Galenus – Isocrates
 ### <a id="El-Aguizy">El-Aguizy</a>
  = A Palaeographical Study of Demotic Papyri in the Cairo Museum from the Reign of King Taharka to the End of the Ptolemaic Period (684-30 B.C.), by O. el-Aguizy. Cairo 1998. (MIFAO 113). [SEVPO]
 
-### <a id="Harrauer">Harauer</a>
+### <a id="Harrauer">Harrauer</a>
  = Handbuch der griechischen Paläographie, by H. Harrauer. Bd. I Textband, Bd. II Tafelband, with a CD-ROM. Stuttgart 2010. (Bibliothek des Buchwesens 20). [A. Hiersemman]
 
 ### <a id="Hyvernat">Hyvernat</a>
