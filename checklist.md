@@ -1935,16 +1935,16 @@ A number of these texts had been published in translation in [PSI](#PSI) IX 1001
 
  * I, Strassburg and Berlin 1913—1915. Nos. 1—6000. &#91;MF 1.33; rp. WdG&#93; [Online: archive.org](https://archive.org/details/sammelbuchgriech00stra)
  * II, Berlin and Leipzig 1918—1922. Index to I. &#91;MF 1.34; rp. WdG&#93; [Online: archive.org](https://archive.org/details/sammelbuchgriech02wissuoft)
- * III, Berlin and Leipzig 1926—1927. Nos. 6001—7269. [MF 1.35; rp. WdG]
+ * III, Berlin and Leipzig 1926—1927. Nos. 6001—7269. [MF 1.35; rp. WdG]; [Online: archive.org](https://archive.org/details/sammelbuchgriech03unse)
  * IV, Heidelberg 1931. Nos. 7270—7514 with index. &#91;MF 1.36&#93; [Online: archive.org](https://archive.org/details/ldpd_6352579_000)
  * V, Heidelberg and Wiesbaden 1934—1955. Nos. 7515—8963 with index. [MF 1.37; fasc. 4 only, OH]
  * VI, Wiesbaden 1958—1963. Nos. 8964—9641. [OH]
  * VII, Wiesbaden 1964. Index to VI. [OH]
- * VIII, Wiesbaden 1965—1967. Nos. 9642—10208. [OH]; [Online: archive.org](https://archive.org/details/sammelbuchgriech0000unse/)
+ * VIII, Wiesbaden 1965—1967. Nos. 9642—10208. [OH]; [Online: archive.org](https://archive.org/details/sammelbuchgriech0000unse)
  * IX, Wiesbaden 1969. Index to VIII. [OH]
  * X, Wiesbaden 1969—1971. Nos. 10209—10763. [OH]
  * XI, Wiesbaden 1973. Index to X. [OH]
- * XII, Wiesbaden 1976—1977. Nos. 10764—11263. [OH]; [Online: archive.org](https://archive.org/details/sammelbuchgriech1213unse/)
+ * XII, Wiesbaden 1976—1977. Nos. 10764—11263. [OH]; [Online: archive.org](https://archive.org/details/sammelbuchgriech1213unse)
  * XIII, Wiesbaden 1979. Index to XII. [OH]
  * XIV, Wiesbaden 1981—1983. Nos. 11264—12219. [OH]
  * XV, Wiesbaden 1994. Index to XIV. [OH]
