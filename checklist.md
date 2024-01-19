@@ -1357,7 +1357,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * XV, Nos. 1778—1828, ed. B.P. Grenfell and A.S. Hunt. 1922. (18) <ddb:p.oxy;15> [Online: archive.org](https://archive.org/details/oxyrhynchuspapyr15gren)
  * XVI, Nos. 1829—2063, ed. B.P. Grenfell, A.S. Hunt, and H.I. Bell. 1924. (19) <ddb:p.oxy;16> [Online: archive.org](https://archive.org/details/poxy16)
  * No. 2064 was published in Two Theocritus Papyri, ed. A.S. Hunt and J. Johnson. London 1930. (22)
- * XVII, Nos. 2065—2156, ed. A.S. Hunt. 1927. (20) <ddb:p.oxy;17>
+ * XVII, Nos. 2065—2156, ed. A.S. Hunt. 1927. (20) <ddb:p.oxy;17> [Online: archive.org](https://archive.org/details/oxyrhynchuspapyr0000arth)
  * XVIII, Nos. 2157—2207, ed. E. Lobel, C.H. Roberts and E.P. Wegener. 1941. (26) <ddb:p.oxy;18>
  * XIX, Nos. 2208—2244, ed. E. Lobel, E.P. Wegener, C.H. Roberts and H.I. Bell. 1948. (27) <ddb:p.oxy;19>
  * XX, Nos. 2245—2287, ed. E. Lobel, E.P. Wegener, C.H. Roberts. 1952. (29) <ddb:p.oxy;20>
