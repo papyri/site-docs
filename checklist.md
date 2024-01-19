@@ -1978,8 +1978,8 @@ Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800
 ### <a id="UPZ">UPZ</a>
 = _Urkunden der Ptolemäerzeit (ältere Funde)_, ed. U. Wilcken. (Re-publication of texts published in the nineteenth century, up to but not including the Petrie papyri. There is a concordance at BL IV, pp. 118—123.)
 
- * I, Papyri aus Unterägypten. Berlin—Leipzig 1927. Nos. 1—150. [MF 2.14; rp. WdG]
- * II, Papyri aus Oberägypten. Berlin 1935—1957. Nos. 151—229. [Rp. WdG]
+ * I, Papyri aus Unterägypten. Berlin—Leipzig 1927. Nos. 1—150. [MF 2.14; rp. WdG]; [Online: archive.org](https://archive.org/details/urkundenderptole0000wilc)
+ * II, Papyri aus Oberägypten. Berlin 1935—1957. Nos. 151—229. [Rp. WdG]; [Online: archive.org](https://archive.org/details/urkundenderptole0002wilc)
 
 
 ## <a id="Ostraca">Ostraca</a>
