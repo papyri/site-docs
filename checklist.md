@@ -578,7 +578,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### <a id="P.Demotica">P.Demotica</a>
 = _Demotica_, ed. W. Spiegelberg
 
- * I, 1925. (SBMünchen 1925, Abh. 6); II, 1928. (SBMünchen 1928, Abh. 2). These two volumes are collections of comments on various matters Demotic. In vol. I no. 2 is a papyrus; no. 14 is a mummy wrapping with writing; nos. 15—18 are ostraca. No. 2 was republished in Mitt. Inst. Orientforschung 1 (1953) 234 (F. Hintze) and no. 18 = O.Tempeleide 180. In vol. II there are texts on cloth on pp. 17—23, names on linen mummy wrapping; two mummy labels on wood are published on pp. 29—32; and an ostrakon on pp. 49—52. Other texts noted in this volume are inscriptions.
+ * I, 1925. (SBMünchen 1925, Abh. 6); II, 1928. (SBMünchen 1928, Abh. 2). [Online: HathiTrust](https://hdl.handle.net/2027/osu.32435020433496). These two volumes are collections of comments on various matters Demotic. In vol. I no. 2 is a papyrus; no. 14 is a mummy wrapping with writing; nos. 15—18 are ostraca. No. 2 was republished in Mitt. Inst. Orientforschung 1 (1953) 234 (F. Hintze) and no. 18 = O.Tempeleide 180. In vol. II there are texts on cloth on pp. 17—23, names on linen mummy wrapping; two mummy labels on wood are published on pp. 29—32; and an ostrakon on pp. 49—52. Other texts noted in this volume are inscriptions.
 
 ### <a id="P.Dime">P.Dime</a>
 = _Demotische Dokumente aus Dime_ <ddb:p.dime>
