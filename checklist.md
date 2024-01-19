@@ -1672,7 +1672,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * V, 1917. Nos. 446—550. No. 460 is an ostracon. [MF 1.69] <ddb:psi;5> [Online: archive.org](https://archive.org/details/papirigrecielati05sociuoft)
  * VI, 1920. Nos. 551—730. [MF 1.70] <ddb:psi;6> [Online: archive.org](http://archive.org/details/papirigrecielati06soci)
  * VII, 1925. Nos. 731—870. [MF 1.71; rp. Bd'E] <ddb:psi;7> [Online: archive.org](http://archive.org/details/papirigrecielati07sociuoft)
- * VIII, 1927. Nos. 871—1000. Nos. 983—1000 are ostraca. [MF 1.72] <ddb:psi;8>
+ * VIII, 1927. Nos. 871—1000. Nos. 983—1000 are ostraca. [MF 1.72] <ddb:psi;8> [Online: HathiTrust](https://hdl.handle.net/2027/inu.30000011416173)
  * IX, 1929. Nos. 1001—1096. [MF 1.74; rp. Bd'E] <ddb:psi;9>
  * X, 1932. Nos. 1097—1181. [MF 1.75; rp. Bd'E] <ddb:psi;10>
  * XI, 1935. Nos. 1182—1222. [MF 1.76; rp. Bd'E] <ddb:psi;11>
