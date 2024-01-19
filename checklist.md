@@ -1597,7 +1597,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 = _Papyrus coptes. Actes et contrats des museés de Boulaq et du Louvre_, ed. E. Revillout. Paris 1876. Nos. 1—14, 11 bis and 12 bis from the Bulaq Museum and nos. 1—10 from the Louvre. No. 1 from the Louvre was republished in [P.KRU](#P.KRU) 40; nos. 3—10 from the Louvre were also published by Revillout in the Comptes Rendus of the First International Congress of Orientalists. Paris 1873, III 55—68. [Online: archive.org](https://archive.org/details/umn.319510016716448)
 
 ### <a id="P.Ross.Georg.">P.Ross.Georg.</a>
-= _Papyri russischer und georgischer Sammlungen_. Tiflis. [Rp. AMH]
+= _Papyri russischer und georgischer Sammlungen_. Tiflis. [Rp. AMH]; [Online: archive.org](https://archive.org/details/papyrirussischer15unse)
 
  * I, Literarische Texte, ed. G. Zereteli. 1925. Nos. 1—24. [MF 2.1]
  * II, Ptolemäische und frührömische Texte, ed. O. Krüger. 1929. Nos. 1—43. [MF 2.2] <ddb:p.ross.georg;2>
