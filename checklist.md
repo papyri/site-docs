@@ -3595,6 +3595,7 @@ I.2 Galenus – Isocrates
  * XLVI/1, see [P.KölnLexikon](#P.KölnLexikon)
  * XLVI/II, see [P.KölnSarapion](#P.KölnSarapion)
  * XLVII, Die Iliasglossare auf Papyrus: Untersuchungen zu einer Textkategorie, by V. Fontanella. 2023.
+ * XLVIII, Honigsüsse Briefe und lastende Worte : Studien zur Äusserung von Emotionen durch metaphorischen Sprachgebrauch im Altgriechischen, by Eleni Skarsouli. 2023.
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
