@@ -1229,7 +1229,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Mil.">P.Mil.</a>
 = _Papiri Milanesi_ <ddb:p.mil>
 
- * I, fasc. I, ed. A. Calderini. Milan 1928. 2nd ed. S. Daris, 1967. (Second ed. is Vol. I of Pubblicazioni dell'Università Cattolica del Sacro Cuore, Contributi, Serie Terza, Pubbl. di "Aegyptus," I). Nos. 1—12. [VP] <ddb:p.mil;1>
+ * I, fasc. I, ed. A. Calderini. Milan 1928. 2nd ed. S. Daris, 1967. (Second ed. is Vol. I of Pubblicazioni dell'Università Cattolica del Sacro Cuore, Contributi, Serie Terza, Pubbl. di "Aegyptus," I). Nos. 1—12. [VP] <ddb:p.mil;1> [Online: HathiTrust](https://hdl.handle.net/2027/mdp.39015010705252)
  * II, ed. S. Daris. Milan 1966. (Pubbl. II). Nos. 13—87. [VP] <ddb:p.mil;2>
 
 ### <a id="P.Mil.Congr.XIV">P.Mil.Congr.XIV</a>
