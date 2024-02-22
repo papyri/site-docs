@@ -997,7 +997,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, _Koptische Urkunden der früharabischen Zeit_, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64.
 
 ### <a id="P.KölnLand.">P.KölnLand.</a>
-=_Ein Beitrag zur hellenistischen Wirtschafts- und Verwaltungsgeschichte: fragmentarische Landregister aus der Kölner Papyrussammlung (P. Köln Land.)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVIII).
+=_Ein Beitrag zur hellenistischen Wirtschafts- und Verwaltungsgeschichte: fragmentarische Landregister aus der Kölner Papyrussammlung (P. Köln Land.)_. ed. R. Vecchiato. Paderborn 2023. (Pap.Colon. XLVIII).
 
 ### <a id="P.KölnLexikon">P.KölnLexikon</a>
 =_Edition griechischer Papyri aus der Kölner Papyrussammlung. Ein frühhellenistisches Lexikon poetischer und dialektaler Wörter (P. Köln Lexikon)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/1).
