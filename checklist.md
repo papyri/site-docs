@@ -1426,6 +1426,8 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
  * LXXXIII, Nos. 5344-5403, ed. P.J. Parsons and N. Gonis with contributions by 11 others. 2018 (104).
  * LXXXIV, Nos. 5404-5476, ed. A. Benaissa, N. Gonis, W.B. Henry and M. Langellotti with contributions by 14 others. 2019 (105).
  * LXXXV, Nos. 5477-5531, ed. N. Gonis, P.J. Parsons, W.B. Henry. 2020 (106).
+ * LXXXVI, Nos. 5532-5572, ed. A. Benaissa, M. Zellmann-Rohrer. 2021 (107).
+ * LXXXVII, Nos. 5573-5631, ed. N. Gonis, P.J. Parsons. 2023 (108).
 
 ### <a id="P.Oxy.Astr.">P.Oxy.Astr.</a>
 = _The Astronomical Papyri from Oxyrhynchus_, ed. A. Jones. Philadelphia 1999. (Memoirs of the American Philosophical Society 233). Nos. P.Oxy. 4133—4300a. [APS]
