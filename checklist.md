@@ -996,6 +996,9 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * I, ed. D. Kurth, H.-J. Thissen and M. Weber. Opladen 1980. (Pap.Colon. IX). Nos. 4—7 are Demotic documents; nos. 12—17 Coptic documents. [FS]
  * II, _Koptische Urkunden der früharabischen Zeit_, ed. G. Schenke. Paderborn 2016. (Pap.colon. IX/2). Nos. 18-64.
 
+### <a id="P.KölnLand.">P.KölnLand.</a>
+=_Ein Beitrag zur hellenistischen Wirtschafts- und Verwaltungsgeschichte: fragmentarische Landregister aus der Kölner Papyrussammlung (P. Köln Land.)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVIII).
+
 ### <a id="P.KölnLexikon">P.KölnLexikon</a>
 =_Edition griechischer Papyri aus der Kölner Papyrussammlung. Ein frühhellenistisches Lexikon poetischer und dialektaler Wörter (P. Köln Lexikon)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/1).
 
@@ -4186,7 +4189,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri; P.Oxy. LXXXV
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
- * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII
+ * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
