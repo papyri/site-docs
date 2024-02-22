@@ -421,7 +421,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Greek Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire, Nos. 10001—10869_, ed. B.P. Grenfell and A.S. Hunt. Oxford 1903. Not a publication of papyri, but a list and short description of papyri in the Cairo Museum. Texts are given only for Nos. 10696, 10735, and 10736. There is a concordance to those that have been published at ZPE 91 (1992) 95—98 and CdÉ 72 (1997) 305f.; HGV presents a current concordance: <http://www.rzuser.uni-heidelberg.de/~gv0/Texte/P.Cair./P.Cair._Cat.html>. &#91;MF 2.30; rp. AMH, OZ&#93; [Online: archive.org](https://archive.org/details/greekpapyri00gren)
 
 ### <a id="P.Cair.Gad">P.Cair.Gad</a>
-= _Eine Edition griechischer Papyrusurkunden aus dem ägyptischen Museum in Kairo_, ed. U.A. Gad. Dissertation, Universität Heidelberg, 2016. Nos. 1—12. [Online: uni-heidelberg.de](https://archiv.ub.uni-heidelberg.de/volltextserver/31193/1/P.Cair.Gad.pdf)
+= _Eine Edition griechischer Papyrusurkunden aus dem ägyptischen Museum in Kairo_, ed. U.A. Gad. Dissertation, Universität Heidelberg, 2022. Nos. 1—12. [Online: uni-heidelberg.de](https://archiv.ub.uni-heidelberg.de/volltextserver/31193/1/P.Cair.Gad.pdf)
 
 ### <a id="P.Cair.Goodsp.">P.Cair.Goodsp.</a>
 = _Greek Papyri from the Cairo Museum_, ed. E.J. Goodspeed. Chicago 1902. (University of Chicago, Decennial Publications, from vol. V). Includes twelve papyri from the collection of the Rev. J.R. Alexander (now in the collection of Westminster School, London) and three of Goodspeed's; all are numbered consecutively. Nos. 1—30. [MF 2.27; rp. CG] See also [P.Chic.](#P.Chic.) and [P.Kar.Goodsp.](#P.Kar.Goodsp.) For the Goodspeed papyrus collection see ZPE 16 (1975) 27—32. <ddb:p.cair.goodsp> [Online: archive.org](http://archive.org/details/greekpapyrifromc00goodrich)
@@ -4188,7 +4188,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri; P.Oxy. LXXXV
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
- * 2022: P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
+ * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
 
 ### <a id="Coptic">Coptic</a>
