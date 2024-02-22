@@ -1788,6 +1788,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Tebt.Pad.Cat.">P.Tebt.Pad.Cat.</a>
 = _Catalogo dei papiri greci del Museo di Scienze Archeologiche e d’Arte dell’Università di Padova (P.Tebt.Pad. invv. 1-615)_. [Online: Padova University Press](http://www.padovauniversitypress.it/system/files/attachments_field/9788869383229_0.pdf)
 
+### <a id="P.Tebt.Quen.">P.Tebt.Quen.</a>
+= _Edition und Kommentar neuer Papyri aus den französisch-italienischen Grabungen in Tebtynis (Ägypten)_, ed. N. Quenouille. Trier 2012. Nos. 1—27.
+
 ### <a id="P.Tebt.Tait">P.Tebt.Tait</a>
 = _Papyri from Tebtunis in Egyptian and Greek_, ed. W.J. Tait. London 1977. (Egypt Exploration Society, Texts from Excavations III). Nos. 1—23 Demotic; 24—34 Hieratic; 35—37 Hieroglyphic; 38—53 Greek. Only nos. 47—53 are documentary in nature. [EES]
 
@@ -4178,7 +4181,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO; PSI Com. 8; C.Palmomanticum
  * 2010: CPR ΧΧΧ; P.Dime III; P.Eirene III; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
  * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. 9; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
- * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Philammon; P.Pintaudi; P.Scholl; O.Did.; O.Petr.Mus.; O.Trim. I
+ * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Tebt.Quen.; P.Philammon; P.Pintaudi; P.Scholl; O.Did.; O.Petr.Mus.; O.Trim. I
  * 2013: P.Bagnall; P.Köln XIII; P.Petra II; PSI XVI; PSI Com. 11; P.Tarich.; SB XXVIII
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
