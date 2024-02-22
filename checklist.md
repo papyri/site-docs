@@ -1963,6 +1963,7 @@ A number of these texts had been published in translation in [PSI](#PSI) IX 1001
  * XXVI, ed. H.A. Rupprecht. Wiesbaden 2006. Nos. 16341- 16831. [OH]
  * XXVII, Index to XXVI. Pt. 1, Abschn. 1–8, Wiesbaden 2007. Pt. 2, Abschn. 9, Wiesbaden 2012.
  * XXVIII, ed. A. Jördens. Wiesbaden 2013. Nos. 16832-17270. [OH]
+ * XXX, ed. A. Jördens. Wiesbaden 2023. Nos. 17271-17905. [OH]
  * Beihefte, see [P.Rev.](#P.Rev.) (Bh. 1), [P.Kar.Goodsp.](#P.Kar.Goodsp.) and [P.Mil.Vogl.](#P.Mil.Vogl.) I (Bh. 2).
 Note: SB VIII 9802 = SB Kopt. I 303; SB XVI 12346 = SB Kopt. I 236; SB XVI 12800—12801 = SB Kopt. I 224—225
 
