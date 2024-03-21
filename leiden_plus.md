@@ -2389,12 +2389,13 @@ _Example PN Link:_ [SB.20.14688](http://papyri.info/hgv/23792)
 
 Indicate text strings written in a language/script other than the document's default as follows:
 
-		Greek = ~|γενήσεται|~grc
-		Latin = ~|comes|~la
+		Arabic = ~|الى ابو علي|~ar 
 		Coptic = ~|ⲁⲛⲟⲕ|~cop 
 		Demotic = ~|ı͗bd|~egy-Egyd 
-		Ancient Greek in Latin script = ~|di emu|~grc-Latn
-		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek
+  		Greek = ~|γενήσεται|~grc 
+  		Latin = ~|comes|~la 
+		Ancient Greek in Latin script = ~|di emu|~grc-Latn 
+		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek 
 
 NOTE: You must enter a space after the language designator; so, not `"~la"`, but `"~la "`.
 
