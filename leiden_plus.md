@@ -2391,6 +2391,8 @@ Indicate text strings written in a language/script other than the document's def
 
 		Greek = ~|γενήσεται|~grc
 		Latin = ~|comes|~la
+                Coptic = ~|ⲁⲛⲟⲕ|~cop 
+		Demotic = ~|ı͗bd|~egy-Egyd 
 		Ancient Greek in Latin script = ~|di emu|~grc-Latn
 		Latin in Greek script = ~|σουσκριβερεντ|~la-Grek
 
