@@ -44,6 +44,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XVIII, Pt. 1, Spätptolemäische Urkunden aus dem Herakleopolites, ed. P. Sarischouli. 2000. Nos. 2731—2759. [BAM] <ddb:bgu;18>
  * XIX, Urkunden aus Hermupolis, ed. H. Maehler mit Beiträgen von R.L. Chang, J.-L. Fournet, J. Gascou, A. Jördens. Munich-Leipzig 2005. (Archiv Beih. 19). Nos. 2760—2839, mostly in Greek (2760 in Latin). [K.G. Saur] <ddb:bgu;19>
  * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876.  <ddb:bgu;20>
+ * XXI, Dokumentarische Texte der Berliner Papyrussammlung aus byzantinischer und früharabischer Zeit, ed. F. Reiter. Berlin 2024. Nos. 2877-2904.
  * XXII, Des pittakia de Théadelphie, ed. S. Kambitsis. Berlin 2018. Nos. 2905—2913.
    
 ### <a id="BKT">BKT</a>
@@ -706,7 +707,8 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _Description of the Greek Papyri in the British Museum_, by J. Forshall. London 1839. Nos. 1—44. All reprinted, mostly in [P.Lond.](#P.Lond.) I (see the concordance at [SB](#SB) II pp. 84—85). The London texts republished in UPZ are listed there in vol. I, page v. Nos. II-XV and XVIII were reprinted but not reedited by B. Peyron in "Papyri greci del Museo di Londra e della Bibliotheca Vaticana' in Reale Accademia di Torino, Classe di Scienze Morali, Storiche e Filologiche, Memorie, Serie II 3 (1841). [Online: archive.org](https://archive.org/details/bub_gb_TY8B9hoyYY4C)
 
 ### <a id="P.Fouad">P.Fouad</a>
-= _Les Papyrus Fouad I_, ed. A. Bataille, O. Guéraud, P. Jouguet, N. Lewis, H. Marrou, J. Scherer and W.G. Waddell. Cairo 1939. (Publ.Soc. Fouad III). Nos. 1—89; no. 45 is Latin. [MF 2.91] <ddb:p.fouad>
+* I, _Les Papyrus Fouad I_, ed. A. Bataille, O. Guéraud, P. Jouguet, N. Lewis, H. Marrou, J. Scherer and W.G. Waddell. Cairo 1939. (Publ.Soc. Fouad III). Nos. 1—89; no. 45 is Latin. [MF 2.91] <ddb:p.fouad>
+* II, _Documentary Papyri from the Fouad Collection at the Institut Français dʼArchéologie Orientale (P.Fouad II 90–100)_, ed. M.G. Elmaghrabi. Cairo 2024 (Institut Français d'Archéologie Orientale. Bibliothèque d'Étude 186). Nos. 90-100.
 
 ### <a id="P.Fouad_Astr.">P.Fouad Astr.</a>
 = _Conformément aux observations d'Hipparque : le Papyrus Fouad inv. 267A_, ed. J.-L. Fournet, A. Tihon. Louvain-la-Neuve 2014 (Publications de l'Institut orientaliste de Louvain 67) [Online: HAL](https://halshs.archives-ouvertes.fr/hal-01597507/document)
@@ -1908,7 +1910,10 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 = _Sixty-Five Papyrological Texts Presented to Klaas A. Worp on the Occasion of his 65th Birthday_, ed. F. A. J. Hoogendijk and B. P. Muhs. Leiden 2008. nos. 1—4 are Greek semi-literary papyri; no. 5 is a Coptic semi-literary parchment; nos. 6—11, 53 Greek and Latin subliterary texts (53 an ostrakon); no. 12 is a Demotic text on a wooden board; nos. 13—37 are Greek documentary papyri (no. 27 is Greek/Latin); nos. 38—52, 54—61 are Greek documentary ostraka; nos. 62—64 are Coptic documents (62 an ostrakon); no. 65 is an Arabic papyrus. (Pap.Lugd.Bat. XXXIII). [EJB]
 
 ### <a id="P.Würzb.">P.Würzb.</a>
-= _Mitteilungen aus der Würzburger Papyrussammlung_, ed. U. Wilcken. Berlin 1934. (AbhBerlin 1933, 6; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde II [Leipzig 1970] 43—164). Nos. 1—22. [MF 2.28]
+= _Mitteilungen aus der Würzburger Papyrussammlung_
+
+* I, ed. U. Wilcken. Berlin 1934. (AbhBerlin 1933, 6; rp. in U. Wilcken, Berliner Akademieschriften zur Alten Geschichte und Papyruskunde II [Leipzig 1970] 43—164). Nos. 1—22. [MF 2.28]
+* II, ed. H. Essler. Berlin 2024. (ArchBeih. 49). Nos. 23-57.
 
 ### <a id="P.Yadin">P.Yadin</a>
 = _The Documents from the Bar Kochba Period in the Cave of Letters_.
@@ -4193,6 +4198,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
