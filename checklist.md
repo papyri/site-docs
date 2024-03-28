@@ -3737,8 +3737,10 @@ I.2 Galenus – Isocrates
  * XXXIII, see [P.Worp.](#P.Worp.)
  * XXXIV, Hieratic, Demotic and Greek studies and text editions : of making many books there is no end : Festschrift in honour of Sven P. Vleeming, ed. K. Donker van Heel, F.A.J. Hoogendijk, C.J. Martin. 2018.
  * XXXV, The materiality of texts from ancient Egypt: new approaches to the study of textual material from the early pharaonic to the late antique period, ed. F.A.J. Hoogendijk, S.M.T. van Gompel. 2018.
- * XXXVI, The Derveni papyrus: unearthing ancient mysteries. Ed. M.A. Santamaría. 2019.
+ * XXXVI, The Derveni papyrus: unearthing ancient mysteries, ed. M.A. Santamaría. 2019.
  * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
+ * XXXVIII, The Archive of the Theban Choachyte Petebaste Son of Peteamunip (Floruit 7th Century BCE). Abnormal Hieratic Papyrus Louvre E 3228 A-H, ed. K. Donker Van Heel. 2018.
+ * XXXIX, Palladas and the Yale Papyrus Codex (P. CtYBR inv. 4000), ed. M. Kanellou and C. Carey. 2019.
  * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
  * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022. 
 
