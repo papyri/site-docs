@@ -3740,6 +3740,8 @@ I.2 Galenus – Isocrates
  * XXXVI, The Derveni papyrus: unearthing ancient mysteries. Ed. M.A. Santamaría. 2019.
  * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
  * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
+ * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022. 
+
 
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
