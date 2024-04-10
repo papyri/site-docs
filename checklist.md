@@ -999,7 +999,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
  * II, _Koptische Urkunden der früharabischen Zeit_, ed. G. Schenke. Paderborn 2016. (Pap.Colon. IX/2). Nos. 18-64.
 
 ### <a id="P.KölnLand.">P.KölnLand.</a>
-=_Ein Beitrag zur hellenistischen Wirtschafts- und Verwaltungsgeschichte: fragmentarische Landregister aus der Kölner Papyrussammlung (P. Köln Land.)_. ed. R. Vecchiato. Paderborn 2023. (Pap.Colon. XLVIII).
+=_Ein Beitrag zur hellenistischen Wirtschafts- und Verwaltungsgeschichte: fragmentarische Landregister aus der Kölner Papyrussammlung (P. Köln Land.)_. ed. R. Vecchiato. Paderborn 2023. (Pap.Texte Abh. XLVIII).
 
 ### <a id="P.KölnLexikon">P.KölnLexikon</a>
 =_Edition griechischer Papyri aus der Kölner Papyrussammlung. Ein frühhellenistisches Lexikon poetischer und dialektaler Wörter (P. Köln Lexikon)_. ed. R. Vecchiato. Paderborn 2022. (Pap.Colon. XLVI/1).
@@ -3818,7 +3818,8 @@ I.2 Galenus – Isocrates
  * XLIV, see [P.Louvre](#P.Louvre) II.
  * XLV, see [P.Jena](#P.Jena)
  * XLVI, see [P.Agri](#P.Agri)
- * XLVII, [P.Louvre](#P.Louvre) III. 
+ * XLVII, see [P.Louvre](#P.Louvre) III.
+ * XLVIII, see [P.KölnLand](#P.KölnLand) 
 
 ### <a id="Princ.Stud.Pap.">Princ.Stud.Pap.</a>
  = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
