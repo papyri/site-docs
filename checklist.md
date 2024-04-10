@@ -3819,7 +3819,7 @@ I.2 Galenus – Isocrates
  * XLV, see [P.Jena](#P.Jena)
  * XLVI, see [P.Agri](#P.Agri)
  * XLVII, see [P.Louvre](#P.Louvre) III.
- * XLVIII, see [P.KölnLand](#P.KölnLand) 
+ * XLVIII, see [P.KölnLand.](#P.KölnLand.) 
 
 ### <a id="Princ.Stud.Pap.">Princ.Stud.Pap.</a>
  = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
