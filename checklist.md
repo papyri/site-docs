@@ -3940,7 +3940,7 @@ I.2 Galenus – Isocrates
  * XII, see [Short Texts](#Short_Texts) III.
 
 ### <a id="Stud.Heid.">Stud.Heid.</a>
- = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
+ = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studien were published, as follows:
 
  * I 1, Die lateinischen Wörter und Namen in den griechischen Papyri, by B. Meinersmann, 1927.
  * I 2, Die Personennamen der Kopten: I (Untersuchungen), by G. Heuser. 1929. (The proposed Part II, Namenbuch, was never published except for a single fascicle in 1938).
