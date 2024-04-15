@@ -4103,8 +4103,8 @@ Although individual and small groups of papyri occasionally receive their first 
 ### <a id="BACPS">BACPS</a>
  = Bulletin of the Center of Papyrological Studies. Published annually by Ain Shams University, Cairo 1985— .
 
-### <a id="BACPS">BACPS</a>
-    CdÉ = Chronique d'Égypte, Bulletin périodique de la Fondation Égyptologique Reine Élisabeth. Published by the Fondation, Brussels 1925— .
+### <a id="CdÉ">CdÉ</a>
+ = Chronique d'Égypte, Bulletin périodique de la Fondation Égyptologique Reine Élisabeth. Published by the Fondation, Brussels 1925— .
 
 ### <a id="Enchoria">Enchoria</a>
  = Enchoria, Zeitschrift für Demotistik und Koptologie. Published irregularly by Harrassowitz, Wiesbaden 1971— .
