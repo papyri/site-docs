@@ -2813,7 +2813,7 @@ I.2 Galenus – Isocrates
  * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH].
  * Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH].
 
-### <a id="Grammars">Grammars</a>
+### <a id="Grammars">Grammars</a> 
 
 ### <a id="Bresciani,_Nozioni">Bresciani, Nozioni</a>
  = Nozioni elementari di grammatica demotica, by E. Bresciani. Milan 1969. (Testi e documenti per lo studio dell’antichità 29). [CG]
