@@ -4075,6 +4075,15 @@ I.2 Galenus – Isocrates
  * XII, 12. Internationale Konferenz fur demotische Studien, Wurzburg, 31. August bis 4. September 2014: Abstracts der Vorträge, ed. M.A. Stadler et al., in Enchoria 35 (2016/2017), p. 17-32.
  * XIII, New Approaches in Demotic Studies : Acts of the 13th International Conference of Demotic Studies [Leipzig, September 4-8, 2017], ed. F. Naether. Berlin 2019.
 
+## <a id="Periodicals">Periodicals</a>
+
+Although individual and small groups of papyri occasionally receive their first or revised edition in any of numerous journals concerned more broadly with classical studies or Egyptology, a list is given here of those journals expressly embracing the publication of papyrological texts.
+
+### <a id="Journals Published Currently">A. Journals Published Currently</a>
+
+### <a id="Aegyptus">Aegyptus</a>
+ = Aegyptus, Rivista italiana di egittologia e papirologia. Published annually by the Scuola di Papirologia dell'Università Cattolica del Sacro Cuore, Milan 1920—.
+
 ## <a id="Editions">Editions of Greek and Coptic Documentary Papyri by Year of Publication</a>
 
 Publications printed without an index are listed in parentheses, e.g., "1901: (Stud.Pal. I)." If an index to that volume appears in a later volume of the series this will be indicated in the entry for that later volume, e.g, "1901: (Stud.Pal. I); 1902: (Stud. Pal. II); 1905: Stud.Pal. (I+II+)IV" (This convention was especially useful before the emergence of the DDbDP). The dates of publication of fascicles of a volume are not taken into account, but those of separate parts are. All Greek editions before 1891 are omitted as superseded by later editions.
