@@ -3075,12 +3075,17 @@ I.2 Galenus – Isocrates
  * 9, Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets, 5th ed., by J.F. Oates, R.S. Bagnall, S.J. Clackson, A.A. O’Brien, J.D. Sosin, T.G. Wilfong and K.A. Worp. 2001.
 
 ### <a id="Coll.Hellen.">Coll.Hellen.</a>
- = _Collectanea Hellenistica_. Brussels 1989—. (Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van België, Klassieke Studies, Hellenisme). [ARB]
+ = _Collectanea Hellenistica_. Brussels 1989—. (KVAB, Klassieke Studies, Hellenisme), Leuven 2015— (Peeters-KVAB).
 
  * I, see [C.Jud.Syr.Eg.](#C.Jud.Syr.Eg.) (III Corpora).
  * II, see [P.Petr.](#P.Petr.) 2
- * III, not yet published.
+ * III, Reconstructing Pathyris’ Archives. A Multicultural Community in Hellenistic Egypt, by K. Vandorpe and S. Waebens. Brussels 2009.
  * IV, see [P.Dryton](#P.Dryton).
+ * V, Bilingual Notaries in Hellenistic Egypt. A Study of Greek as a Second Language, by M. Vierros, Brussels 2012.
+ * VI, Graeco-Roman Archives from the Fayum, by K. Vandorpe, W. Clarysse and H. Verreth. Leuven 2015.
+ * VII, see [P.Petr.Kleon](#P.Petr.Kleon).
+ * VIII, The Fayoum Survey Project: The Themistou Meris. Volume A. The Archaeological and Papyrological Survey, by C.E. Römer et al. Leuven 2019.
+ * IX, The Fayoum Survey Project: The Themistou Meris. Volume B. The Ceramological Survey, by D.M. Bailey et al. Leuven 2019.
 
 ### <a id="ComunicazioniVitelli">ComunicazioniVitelli</a>
  = Comunicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
@@ -3931,6 +3936,8 @@ I.2 Galenus – Isocrates
  * VIII, see [O.Taxes.](#O.Taxes.)
  * IX, see [Short Texts](#Short_Texts) II.
  * X, see [T.BM Arlt.](#T.BM_Arlt.)
+ * XI, Aspects of Demotic Orthography. Acts of an International Colloquium held in Trier, 8 November 2010, ed. S.P. Vleeming. 2013.
+ * XII, see [Short Texts](#Short_Texts) III.
 
 ### <a id="Stud.Heid.">Stud.Heid.</a>
  = _Studien zur Epigraphik und Papyruskunde_, ed. F. Bilabel, vol. I—II 1. Leipzig, Dieterich’sche Verlagsbuchhandlung, 1927—1931. Planned as a resumption of Schr.Heid. (see above) but only four Studienwere published, as follows:
