@@ -4127,8 +4127,8 @@ Although individual and small groups of papyri occasionally receive their first 
 ### <a id="Orientalia">Orientalia</a>
  = Orientalia, commentarii trimestres a Facultate Studiorum Orientis Antiqui Pontificii Instituti Biblici in lucem editi. Published semiannually by the Pontificio Istituto Biblico, Rome, N.S. 1932—.
 
-### <a id="JJP">JJP</a>
-    Rev.d'Ég. = Revue d'Égyptologie. Published by La Société Française de l'Égypte, 1933— . A successor of Revue de l'Égypte ancienne which was the successor of both the discontinued journals Revue égyptologique and Recueil de travaux relatifs à la philologie et à l'archéologie égyptiennes et assyriennes.
+### <a id="Rev.d'Ég.">Rev.d'Ég.</a>
+ = Revue d'Égyptologie. Published by La Société Française de l'Égypte, 1933— . A successor of Revue de l'Égypte ancienne which was the successor of both the discontinued journals Revue égyptologique and Recueil de travaux relatifs à la philologie et à l'archéologie égyptiennes et assyriennes.
 
 ### <a id="Tyche">Tyche</a>
  = Tyche, Beiträge zur Alten Geschichte, Papyrologie und Epigraphik. Published annually for the Institut für Alte Geschichte, Universität Wien by Verlag Adolf Holzhausen, Vienna 1986— .
