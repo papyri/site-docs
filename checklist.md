@@ -11,6 +11,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * [Corpora](#Corpora)
  * [Instrumenta](#Instrumenta)
  * [Series](#Series)
+ * [Periodicals](#Periodicals)
  * [Congresses](#Congresses)
  * [Editions of Greek and Coptic Documentary Papyri by Year of Publication](#Editions)
  * [Appendix: Other citations sometimes used for editions of papyri](#Appendix)
@@ -4083,6 +4084,96 @@ Although individual and small groups of papyri occasionally receive their first 
 
 ### <a id="Aegyptus">Aegyptus</a>
  = Aegyptus, Rivista italiana di egittologia e papirologia. Published annually by the Scuola di Papirologia dell'Università Cattolica del Sacro Cuore, Milan 1920—.
+
+### <a id="AnalPap">AnalPap</a>
+ =  Analecta Papyrologica. Published annually by Editrice Sicania, Messina 1989—.
+
+### <a id="APF">APF</a>
+ = Archiv für Papyrusforschung und verwandte Gebiete. Published semiannually by K.G. Saur (succeeding B.G. Teubner), München/Leipzig 1901— . [KGS]
+
+### <a id="BASP">BASP</a>
+ = The Bulletin of the American Society of Papyrologists. Published quarterly by the Society, 1963— . [Oxbow]
+
+### <a id="BIFAO">BIFAO</a>
+ = Bulletin de l'Institut Français d'Archéologie Orientale du Caire. Published by the Institut Français, Cairo 1901—.
+
+### <a id="BSAC">BSAC</a>
+ = Bulletin de la Société d'Archéologie Copte. Published by the Société, Cairo 1935—.
+
+### <a id="BACPS">BACPS</a>
+ = Bulletin of the Center of Papyrological Studies. Published annually by Ain Shams University, Cairo 1985— .
+
+### <a id="BACPS">BACPS</a>
+    CdÉ = Chronique d'Égypte, Bulletin périodique de la Fondation Égyptologique Reine Élisabeth. Published by the Fondation, Brussels 1925— .
+
+### <a id="Enchoria">Enchoria</a>
+ = Enchoria, Zeitschrift für Demotistik und Koptologie. Published irregularly by Harrassowitz, Wiesbaden 1971— .
+
+### <a id="EVO">EVO</a>
+ = Egitto e vicino oriente. Published annually by the Sezione orientalistica dell'Istituto di storia antica, Università degli Studi di Pisa, 1978—.
+
+### <a id="JCoptStud">JCoptStud</a>
+ = Journal of Coptic Studies. Published irregularly by Peeters for the International Association for Coptic Studies, Leuven 1990— .
+
+### <a id="JEA">JEA</a>
+ = The Journal of Egyptian Archaeology. Published annually by the Egypt Exploration Society, London 1914—.
+
+### <a id="JJP">JJP</a>
+ = The Journal of Juristic Papyrology. Published by the Institute of Papyrology and Ancient Law, University of Warsaw, 1946— .
+
+### <a id="MDAI (Kairo)">MDAI (Kairo)</a>
+ = Mitteilungen des Deutschen Archäologischen Instituts. Abteilung Kairo. Published annually for the DAI by von Zabern, Mainz 1930—. [PvZ]
+
+### <a id="Orientalia">Orientalia</a>
+ = Orientalia, commentarii trimestres a Facultate Studiorum Orientis Antiqui Pontificii Instituti Biblici in lucem editi. Published semiannually by the Pontificio Istituto Biblico, Rome, N.S. 1932—.
+
+### <a id="JJP">JJP</a>
+    Rev.d'Ég. = Revue d'Égyptologie. Published by La Société Française de l'Égypte, 1933— . A successor of Revue de l'Égypte ancienne which was the successor of both the discontinued journals Revue égyptologique and Recueil de travaux relatifs à la philologie et à l'archéologie égyptiennes et assyriennes.
+
+### <a id="Tyche">Tyche</a>
+ = Tyche, Beiträge zur Alten Geschichte, Papyrologie und Epigraphik. Published annually for the Institut für Alte Geschichte, Universität Wien by Verlag Adolf Holzhausen, Vienna 1986— .
+
+### <a id="ZÄS">ZÄS</a>
+ = Zeitschrift für ägyptische Sprache und Altertumskunde. Leipzig/Berlin 1863—. [Rp. vols. 1—39 DZA; vols. 40—78 OZ]
+
+### <a id="ZPE">ZPE</a>
+ = Zeitschrift für Papyrologie und Epigraphik. Published currently in four or five issues a year by Dr Rudolf Habelt, Bonn 1967— . Separate indexes for vols. 1—30 (1978), 31—50 (1983) and 51—75 (1989); index for vols. 1-100 in Autoren- und Titelverzeichnis Band 1 (1967) — Band 100 (1994) (1995).
+
+### <a id="Discontinued Journals and Series">B. Discontinued Journals and Series</a>
+
+### <a id="Anagennesis">Anagennesis</a>
+ = Anagennesis, a Papyrological Journal. Published semiannually by F. Farid. Athens 1981—1986 (vols. 1—4).
+
+### <a id="ÉdP">ÉdP</a>
+ = Études de papyrologie. Published by the Société Égyptienne de Papyrologie. Cairo 1932—1974 (vols. 1—9).
+
+### <a id="Kêmi">Kêmi</a>
+ = Kêmi, Revue de philologie et d'archéologie égyptiennes et coptes. Paris 1928—1971 (vols. 1—21).
+
+### <a id="Mizraim">Mizraim</a>
+ = Mizraim, Journal of Papyrology, Egyptology, History of Ancient Laws, and their Relations to the Civilizations of Bible Lands. Published by Stechert, New York 1933—1938 (vols. 1—9).
+
+### <a id="RechPap">RechPap</a>
+ = Recherches de Papyrologie. Published by the Institut de Papyrologie de Paris, 1961—1967 (vols. 1—4).
+
+### <a id="RecueilTrav.">RecueilTrav.</a>
+ = Recueil de travaux relatifs à la philologie et à l'archéologie égyptiennes et assyriennes. Paris 1870—1923 (vols.1—40).
+
+### <a id="Revue de l'Égypte ancienne">Revue de l'Égypte ancienne</a>
+ = Revue de l'Égypte ancienne. Published by La Société Française de l'Égypte ancienne. Vol. 1, 1925; vol. 2, 1928; vol. 3, 1931. A successor of RecueilTrav. and in turn succeeded by Rev.d'Ég.
+
+### <a id="Rev.égyptologique">Rev.égyptologique</a>
+ = Revue égyptologique. Published in Paris, 1880—1920 (vols. 1—16).
+
+### <a id="Serapis">Serapis</a>
+ = Serapis. (Some volumes titled Sarapis.) Published by the Oriental Institute of the University of Chicago, 1969—1986 (vols. 1—8).
+
+### <a id="Studî">Studî</a>
+ = Studî della Scuola Papirologica. Published by the Accademia Scientifico-Letteraria in Milano, 1915—1926 (vols. 1—4). [Rp. CG]
+
+### <a id="StudPap">StudPap</a>
+ = Studia Papyrologica, Rivista española de papirología. Published semiannually by Facultades de Filosofía y Teología, San Cugat del Vallés. Barcelona 1962—1983 (vols. 1—22).
+
 
 ## <a id="Editions">Editions of Greek and Coptic Documentary Papyri by Year of Publication</a>
 
