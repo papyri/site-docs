@@ -4137,7 +4137,7 @@ Although individual and small groups of papyri occasionally receive their first 
  = Zeitschrift für ägyptische Sprache und Altertumskunde. Leipzig/Berlin 1863—. [Rp. vols. 1—39 DZA; vols. 40—78 OZ]
 
 ### <a id="ZPE">ZPE</a>
- = Zeitschrift für Papyrologie und Epigraphik. Published currently in four or five issues a year by Dr Rudolf Habelt, Bonn 1967— . Separate indexes for vols. 1—30 (1978), 31—50 (1983) and 51—75 (1989); index for vols. 1-100 in Autoren- und Titelverzeichnis Band 1 (1967) — Band 100 (1994) (1995).
+ = Zeitschrift für Papyrologie und Epigraphik. Published currently in four or five issues a year by Dr Rudolf Habelt, Bonn 1967— . Separate indexes for vols. 1—30 (1978), 31—50 (1983) and 51—75 (1989); index for vols. 1-100 in Autoren- und Titelverzeichnis Band 1 (1967) — Band 100 (1994) (1995). [Online: jstor](https://www.jstor.org/journal/zeitpapyepig)
 
 ### <a id="Discontinued Journals and Series">B. Discontinued Journals and Series</a>
 
