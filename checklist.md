@@ -1270,6 +1270,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Mon.Epiph.">P.Mon.Epiph.</a>
 = _The Monastery of Epiphanius at Thebes, Part II, ed. W.E. Crum and H.G. Evelyn White_. New York 1926. (The Metropolitan Museum of Art Egyptian Expedition). Nos. 1—575 are Coptic papyri, ostraca, and parchment; nos. 579—634 Greek papyri, ostraca, limestone and wood; nos. 635—675 Coptic graffiti; nos. 676—702 Greek graffiti. The texts are found on pp. 1—119; the metadata and the translations on pp. 153—348. Some Greek texts have been reprinted: SB IV 7436 = no. 624; 7477 = 623 and 7478—7487 = 625—634. The Greek graffiti, nos. 676—702, are reprinted as SB IV 7488—7514. [Online: The Met](https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/166634)
 
+### <a id="P.Mon.Phoib.Test.">P.Mon.Phoib.Test.</a>
+= _Héritage et transmission dans le monachisme égyptien_, ed. E. Garel. Cairo 2020. (Institut Français d’Archéologie Orientale, Bibliothèque d’études coptes 27).
+
 ### <a id="P.Monac.">P.Monac.</a>
 = _Byzantinische Papyri in der Königlichen Hof- und Staatsbibliothek zu München_, ed. A. Heisenberg and L. Wenger. Leipzig-Berlin 1914. (Veröffentlichungen aus der Papyrussammlung der K. Hof- und Staatsbibliothek zu München I). Nos. 1—18. [MF 1.42; atlas, MF 2.80] Reprinted as P.Münch. I. [Online: archive.org](https://archive.org/details/mdp.39015010705187)
 
@@ -4380,7 +4383,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2016: P.KölnÄgypt. II; O.BawitFribourg
  * 2017: P.PalauRib.Copt.
  * 2018: CPR XXXIV; P.Heid.Kopt.
- * 2020: SB Kopt. V; O.Lips.Copt. II
+ * 2020: SB Kopt. V; O.Lips.Copt. II; P.Mon.Phoib.Test.
  * 2021: P.Hoogendijk; P.Heid. XI
  * 2022: P.Christ.Musl.; P.Sorb.Copt.
  * 2023: P.Tor.Cat.
