@@ -4086,7 +4086,7 @@ Although individual and small groups of papyri occasionally receive their first 
 ### <a id="Journals Published Currently">A. Journals Published Currently</a>
 
 ### <a id="Aegyptus">Aegyptus</a>
- = Aegyptus, Rivista italiana di egittologia e papirologia. Published annually by the Scuola di Papirologia dell'Università Cattolica del Sacro Cuore, Milan 1920—.
+ = Aegyptus, Rivista italiana di egittologia e papirologia. Published annually by the Scuola di Papirologia dell'Università Cattolica del Sacro Cuore, Milan 1920—. [Online: jstor](https://www.jstor.org/journal/aegy)
 
 ### <a id="AnalPap">AnalPap</a>
  =  Analecta Papyrologica. Published annually by Editrice Sicania, Messina 1989—.
