@@ -1865,7 +1865,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Ups.Frid">P.Ups.Frid</a>
 = _Ten Uppsala Papyri_, ed. B. Frid. Bonn 1981. (Pap.Texte Abh. XXVIII). Nos. 1—10. [RH]
 
-### <a id="P.Van Minnen">P.Van Minnen</a>
+### <a id="P.Van_Minnen">P.Van Minnen</a>
 = _Unending Variety: Papyrological Texts and Studies in Honour of Peter van Minnen_, ed. A.J. Connor, J. Dijkstra, F.A.J. Hoogendijk. Leiden - Boston: Brill, 2024. (P.L. Bat. 42) Nos. 1—52.
 
 ### <a id="P.Vars.">P.Vars.</a>
@@ -3755,7 +3755,7 @@ I.2 Galenus – Isocrates
  * XXXIX, Palladas and the Yale Papyrus Codex (P. CtYBR inv. 4000), ed. M. Kanellou and C. Carey. 2019.
  * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
  * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022.
- * XLII, see [P.Van Minnen](#P.Van Minnen)
+ * XLII, see [P.Van Minnen](#P.Van_Minnen)
 
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
