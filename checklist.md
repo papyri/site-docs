@@ -1865,6 +1865,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Ups.Frid">P.Ups.Frid</a>
 = _Ten Uppsala Papyri_, ed. B. Frid. Bonn 1981. (Pap.Texte Abh. XXVIII). Nos. 1—10. [RH]
 
+### <a id="P.Van Minnen">P.Van Minnen</a>
+= _Unending Variety: Papyrological Texts and Studies in Honour of Peter van Minnen_, ed. A.J. Connor, J. Dijkstra, F.A.J. Hoogendijk. Leiden - Boston: Brill, 2024. (P.L. Bat. 42) Nos. 1—52.
+
 ### <a id="P.Vars.">P.Vars.</a>
 = _Papyri Varsovienses_, ed. G. Manteuffel, L. Zawadowski and C. Rozenberg. Warsaw 1935. (Universitas Varsoviensis, Acta Facultatis Litterarum I). Nos. 1—49 papyri; 50—53 ostraca. [Rp. CG 1974 with addendum by Z. Borkowski]. Second series in "Papyri e collectione Varsoviensi. Series nova," ed. G. Manteuffel in JJurPap 2 (1948) 81—110. Nos. 1—8. Texts reprinted as SB VI 9372—9375. [Online: MHP](http://bazhum.muzhp.pl/media/files/The_Journal_of_Juristic_Papyrology/The_Journal_of_Juristic_Papyrology-r1948-t2/The_Journal_of_Juristic_Papyrology-r1948-t2-s81-110/The_Journal_of_Juristic_Papyrology-r1948-t2-s81-110.pdf)
 
@@ -3751,8 +3754,8 @@ I.2 Galenus – Isocrates
  * XXXVIII, The Archive of the Theban Choachyte Petebaste Son of Peteamunip (Floruit 7th Century BCE). Abnormal Hieratic Papyrus Louvre E 3228 A-H, ed. K. Donker Van Heel. 2018.
  * XXXIX, Palladas and the Yale Papyrus Codex (P. CtYBR inv. 4000), ed. M. Kanellou and C. Carey. 2019.
  * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
- * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022. 
-
+ * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022.
+ * XLII, see [P.Van Minnen](#P.Van Minnen)
 
 ### <a id="Pap.Lup.">Pap.Lup.</a>
  = _Papyrologica Lupiensia_, Published by the Dipartmento di Filologia Classica e Medioevale, Università degli Studi di Lecce.
@@ -4316,7 +4319,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
