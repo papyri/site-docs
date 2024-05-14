@@ -4313,7 +4313,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini; P.Eirene IV; O.BawitFribourg
  * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
- * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
+ * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; BGU XXII; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri; P.Oxy. LXXXV
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
