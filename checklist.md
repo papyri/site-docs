@@ -1497,6 +1497,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Petr.2_I">P.Petr.² I</a>
 = _The Petrie Papyri, Second Edition 1, The Wills_, ed. W. Clarysse. Brussels 1991. (Coll.Hellen. II). Nos. 1—31. <ddb:p.petr.2>
 
+### <a id="P.Petr.Cahier">P.Petr.Cahier</a>
+= _Fragmentary Greek Papyri from Gurob in Trinity College Dublin Volume 1. P. Petrie Cahier 3231_, ed. J. Gilbart Smyly (†) and Willy Clarysse. Leuven 2024. (Coll.Hellen. VII). [Online: Trismegistos Online Publications](https://www.trismegistos.org/dl.php?id=21)
+
 ### <a id="P.Petr.Kleon">P.Petr.Kleon</a>
 = _The archive of the architektones Kleon and Theodoros (P.Petrie Kleon)_, ed. B. Van Beek. Brussels 2017. (Coll.Hellen. VII).
 
@@ -4319,7 +4322,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
