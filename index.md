@@ -1,4 +1,5 @@
 <p style="font-size: 1.5em; text-align:center"><a href="https://www.supportpapyri.info/">Support the future of papyri.info!</a></p>
+
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The <strong>Papyrological Navigator</strong> (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the <strong>Papyrological Editor</strong> (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
@@ -16,8 +17,8 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
     <ul class="about">
       <li><a href="docs/apis" title="learn about the Advanced Papyrological Information System">APIS</a></li>
       <li><a href="/docs/ddbdp" title="learn about the Duke Databank of Documentary Papyri">DDbDP</a></li>
-      <li><a href="http://www.rzuser.uni-heidelberg.de/%7Egv0/" title="learn about the Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens">HGV</a></li>
-      <li><a href="http://www.aere-egke.be/BP_enligne.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
+      <li><a href="https://aquila.zaw.uni-heidelberg.de/start" title="learn about the Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens">HGV</a></li>
+      <li><a href="https://web.archive.org/web/20220308011812/http://www.aere-egke.be/BP_enligne.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
       <li><a href="http://www.trismegistos.org/" title="learn about the Trismegistos project">Trismegistos</a></li>
       <li><a href="http://www.ori.uzh.ch/apd" title="learn about the Arabic Papyrological Database">APD</a></li>
     </ul></td>
