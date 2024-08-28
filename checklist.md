@@ -4395,6 +4395,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Heid. XI
  * 2022: P.Christ.Musl.; P.Sorb.Copt.
  * 2023: P.Tor.Cat.
+ * 2024: P.Lips.Copt. I
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
