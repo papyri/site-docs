@@ -112,6 +112,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XXXIV, Koptische dokumentarische Texte aus der Papyrussammlung der Österreichischen Nationalbibliothek, ed. M.R.M. Hasitzka. Berlin, 2018.
  * XXXV, Les archives du conseil municipal d'Hermoupolis Magna, ed. M. Drew-Bear, with collaboration of F. Chausson and H. Maehler, Berlin-Boston 2020.
  * XXXVI, Documenti del primo periodo arabo dall'archivio di Senouthios anystes e testi connessi, ed. F. Morelli, Berlin-Boston 2022. Nos. 1-62.
+ * XXXVII, Arabische Briefe des 8. bis 10. Jahrhunderts aus der Österreichischen Nationalbibliothek in Wien, ed. A. Kaplony.2024. Nos. 1-13.
 
 ### <a id="P.Aberd.">P.Aberd.</a>
 = _Catalogue of Greek and Latin Papyri and Ostraca in the Possession of the University of Aberdeen_, ed. E.G. Turner. Aberdeen 1939. (Aberdeen Univ. Studies 116). Nos. 1—2, 7—72, 104—197 are papyri; nos. 3—6, 73—103 ostraca. [MF 2.104] <ddb:p.aberd>; [Full BP bibliographic record](http://papyri.info/biblio/3909)
