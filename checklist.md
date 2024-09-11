@@ -3550,6 +3550,7 @@ I.2 Galenus – Isocrates
  * XXXIX, Iaô sabaôth : pratiques magiques dans la cité des Tongres : une tablette de défixion mise en contexte , by R. Bélanger Sarrazin, A. Delattre, D. Demaiffe, N. De Winter, A. Martin, G. Raepsaet, M.-T. Raepsaet-Charlier, avec la collaboration de C. Melaerts-Saerens & F. Scheppers. 2019
  * XL, Papyrus littéraires et tradition textuelle : le cas d'Eschine, by J. Lenaerts. 2020
  * XLI, The bearers of business letters in Roman Egypt, by P. Schubert. 2021
+ * XLII, TCoptica fennica : catalog of the Coptic manuscripts from the Ilves collection exhibited at the National Archives of Finland (16 June-14 August 2020), by A. Marjanen, I. Miroshnikov, E. Salmenkivi, A.T. Mihálykó. 2023
 
 ### <a id="Pap.Castr.">Pap.Castr.</a>
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
