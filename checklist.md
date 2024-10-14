@@ -3071,6 +3071,7 @@ I.2 Galenus – Isocrates
  * 37, Il lessico dei vasi e dei contenitori greci nei papiri, by I. Bonati. Berlin, 2016.
  * 38, see [P.Trier](#P.Trier) II
  * 39, see [P.Giss](#P.Giss.) II
+ * 40, Greek medical papyri: text, context, hypertext, ed. by N. Reggiani. Berlin, 2019. (Papers presented at the International Conference "Greek Medical Papyri - Text, Context, Hypertext" held at the University of Parma on November 2-4, 2016)
  * 43, see [O.Lips.Copt.](#O.Lips.Copt.) II
  * 45, see [P.Cair.Mich.](#P.Cair.Mich.) III
 
