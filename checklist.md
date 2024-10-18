@@ -611,6 +611,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 ### <a id="P.Dura">P.Dura</a>
 = _The Excavations at Dura-Europos conducted by Yale University and the French Academy of Inscriptions and Letters, Final Report V, Part I, The Parchments and Papyri_, ed. C.B. Welles, R.O. Fink, and J.F. Gilliam. New Haven 1959. Nos. 1—155 (no. 1—11 are literary or subliterary; nos. 3, 10—24, 28, 33, 35—38, 47—50, 109—112, 119, 149, 152—154 are parchment; no. 53 is a waxed tablet and no. 131 is leather). Greek, nos. 1—10, 12—25, 29, 31—53, 123, 126—127, 129, 132, 137, 140—141, 144, 146—150; Latin, nos. 54, 56—65, 67—122, 124—125, 130—131, 133—136, 138, 142—143, 145; Greek and Latin, nos. 26, 30, 55, 66, 128, 139; Greek and Aramaic, no. 27; Greek and Syriac, no. 28; Hebrew, no. 11; Aramaic, nos. 151, 152; Parthian, no. 153; Persian, nos. 154, 155. [MF 1.62] <ddb:p.dura> [Online: archive.org](https://archive.org/details/excavationsatdur00newh/)
 
+### <a id="P.Dura Lat.">P.Dura Lat.</a>
+= _Latin military papyri of Dura-Europos (P.Dura 55-145)_, ed. G. Iovine. Cambridge 2023.
+
 ### <a id="P.Edfou">P.Edfou</a>
 = _Papyri published in Fouilles Franco-Polonaises I—III_, a series issued by the Institut Français d'Archéologie Orientale du Caire and the University of Warsaw. [MF 1.63] <ddb:p.edfou>
 
