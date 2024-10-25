@@ -3633,6 +3633,8 @@ I.2 Galenus – Isocrates
  * XLVI/II, see [P.KölnSarapion](#P.KölnSarapion)
  * XLVII, Die Iliasglossare auf Papyrus: Untersuchungen zu einer Textkategorie, by V. Fontanella. 2023.
  * XLVIII, Honigsüsse Briefe und lastende Worte : Studien zur Äusserung von Emotionen durch metaphorischen Sprachgebrauch im Altgriechischen, by Eleni Skarsouli. 2023.
+ * XLIX, The office of the Epimeletes: studies in the administration of Ptolemaic Egypt, by Haytham Qandeil. 2024.
+ * L,  Die Papyrusbriefe zwischen Eltern und Kindern: eine generationsübergreifende Beziehung, by N.V. Navarrete. 2024.
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
