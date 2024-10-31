@@ -478,6 +478,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * VII, Hieratic Texts from the Collection, ed. K. Ryholt. Copenhagen 2006. (Carsten Niebuhr Publications 30). [MTP]
  * VIII, Grundriss des Laufes der Sterne: das sogenannte Nutbuch, ed. A. von Lieven. Copenhagen 2007. (Carsten Niebuhr Publications 31). [MTP]
  * IX, Aus der Buchhaltung des Weinmagazins im Edfu-Tempel: der demotische P. Carlsberg 409, ed. M. Schentuleit. Copenhagen 2006. (Carsten Niebuhr Publications 32). [MTP]
+ * XVIII, Two medical manuscripts : the hieratic P. Carlsberg 8 and the Coptic codex P. Carlsberg 500, ed. S. Schiødt, A. Grons. Copenhagen, 2024. (Carsten Niebuhr Publications 48)
 
 ### <a id="P.CattleDocs.">P.CattleDocs.</a>
 = _Saite and Persian Demotic Cattle Documents_, ed. E. Cruz-Uribe. Chico 1985. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXVI). Nos. 1—18.
@@ -4403,7 +4404,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Heid. XI
  * 2022: P.Christ.Musl.; P.Sorb.Copt.
  * 2023: P.Tor.Cat.
- * 2024: P.Lips.Copt. I
+ * 2024: P.Lips.Copt. I, P.Carlsb. XVIII
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
