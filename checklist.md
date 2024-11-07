@@ -150,7 +150,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
 ### <a id="P.Amh.">P.Amh.</a>
 = _The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk_, ed. B.P. Grenfell and A.S. Hunt. London. <ddb:p.amh>
 
- * I, The Ascension of Isaiah and Other Theological Fragments. 1900. Nos. 1—9. [MF 1.43; rp. CG] <ddb:p.amh;1> [Online: archive.org](https://www.archive.org/details/amherstpapyribei01grenuoft)
+ * I, The Ascension of Isaiah and Other Theological Fragments. 1900. Nos. 1—9. [MF 1.43; rp. CG] <ddb:p.amh;1> [Online: archive.org](https://archive.org/details/amherstpapyribei01grenuoft)
  * II, Classical Fragments and Documents of the Ptolemaic, Roman and Byzantine Periods. 1901. Nos. 10—201. No. 145 has a Coptic greeting at the end. [MF 1.44; rp. CG] <ddb:p.amh;2> [Online: archive.org](https://archive.org/details/cu31924022695062)
 
 ### <a id="P.Amh.Eg.">P.Amh.Eg.</a>
@@ -631,7 +631,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * Nos. 37—48, ASAE 19 (1920) 81—104. [Online: archive.org](https://archive.org/details/annalesduservice19egypuoft/page/n97/mode/2up) [Online: Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5726293f/f97.item)
  * Nos. 49—54, ASAE 20 (1920) 19—40. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/18/mode/2up)
  * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/180/mode/2up)
- * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](http://www.archive.org/details/annalesduservice21egypuoft)
+ * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](https://archive.org/details/annalesduservice21egypuoft)
  * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](https://archive.org/details/annalesduservice22egypuoft/page/208/mode/2up)
  * Nos. 73—76, ASAE 23 (1923) 73—98. 
  * Nos. 77—88, ASAE 23 (1923) 187—209. 
@@ -1629,7 +1629,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Ryl.">P.Ryl.</a>
 = _Catalogue of the Greek and Latin Papyri in the John Rylands Library, Manchester_. Manchester.
 
- * I, Literary Texts, ed. A.S. Hunt. 1911. Nos. 1—61. [JRL] <ddb:p.ryl;1> [Online: archive.org](https://www.archive.org/details/catalogueofgreek01johnuoft)
+ * I, Literary Texts, ed. A.S. Hunt. 1911. Nos. 1—61. [JRL] <ddb:p.ryl;1> [Online: archive.org](https://archive.org/details/catalogueofgreek01johnuoft)
  * II, Documents of the Ptolemaic and Roman Periods, ed. J. de M. Johnson, V. Martin and A.S. Hunt. 1915. Nos. 62—456. [JRL] <ddb:p.ryl;2> [Online: archive.org](https://archive.org/details/catalogueofgreek02john)
  * III, Theological and Literary Texts, ed. C.H. Roberts. 1938. Nos. 457—551. &#91;JRL&#93; [Online: archive.org](https://archive.org/details/catalogueofgreek03john)
  * IV, Documents of the Ptolemaic, Roman and Byzantine Periods, ed. C.H. Roberts and E.G. Turner. 1952. Nos. 552—717. [JRL] <ddb:p.ryl;4> [Online: archive.org](https://archive.org/details/catalogueofgreek04johnuoft)
