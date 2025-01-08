@@ -11,8 +11,8 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * [Corpora](#Corpora)
  * [Instrumenta](#Instrumenta)
  * [Series](#Series)
- * [Periodicals](#Periodicals)
  * [Congresses](#Congresses)
+ * [Periodicals](#Periodicals)
  * [Editions of Greek and Coptic Documentary Papyri by Year of Publication](#Editions)
  * [Appendix: Other citations sometimes used for editions of papyri](#Appendix)
 
