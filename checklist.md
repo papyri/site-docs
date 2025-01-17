@@ -2519,7 +2519,8 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * I, ed. V.A. Tcherikover. 1957. Nos. 1—141.
  * II, ed. V.A. Tcherikover and A. Fuks. 1960. Nos. 142—450.
  * III, ed. V.A. Tcherikover, A. Fuks and M. Stern. 1964. Nos. 451—520.
- * IV, ed. N. Hacham und T. Ilan, in collaboration with M.M. Piotrkowski und Z. Szántó. 2020.
+ * IV, ed. N. Hacham und T. Ilan, in collaboration with M.M. Piotrkowski und Z. Szántó. Berlin, 2020. Nos. 521-619.
+ * V, The early Roman period (30 BCE-117 CE), ed. N. Hacham and T. Ilan, in collaboration with D. Jacobs, M.M. Iiotrkowsk and Z. Szántó. Berlin, 2022. Nos. 620-682.
 
 ### <a id="C.Pap.Lat.">C.Pap.Lat.</a>
 = _Corpus Papyrorum Latinarum_, ed. R. Cavenaile. Wiesbaden 1958. Nos. 1—345 plus Annexe nos. 1—28. &#91;OH&#93; [Online: CeDoPaL](http://web.philo.ulg.ac.be/cedopal/wp-content/uploads/sites/29/pdf/cavenaile.pdf)
