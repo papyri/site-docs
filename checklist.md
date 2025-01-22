@@ -1022,6 +1022,9 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### <a id="P.Kroll">P.Kroll</a>
 = _Eine ptolemäische Königsurkunde_, ed. L. Koenen. Wiesbaden 1957. (Klassisch-philologische Studien 19). Text reprinted as SB VI 9316. New fragment of col. i (also an unplaced fragment) added in Stud.Pap. 21 (1982) 73—82, and combined col. i alone reprinted as SB XVI 12540; reedited as P.Köln VII 313. <ddb:p.kroll> [Online: AWDL](http://hdl.handle.net/2333.1/v41ns67r)
 
+### <a id="P.Kynopolites">P.Kynopolites</a>
+= _An undertaker's archive from the Kynopolite Nome_, ed. G. Baetens and W. Clarysse. Leuven 2024. (Coll.Hellen. 10). 
+
 ### <a id="P.Kron.">P.Kron.</a>
 = _L'Archivio di Kronion_, ed. D. Foraboschi. Milan 1971. (Collana di testi e documenti per lo studio dell' antichità 36). Nos. 1—69. Includes many documents previously published in [P.Mil.Vogl.](#P.Mil.Vogl.) [CG] <ddb:p.kron>
 
