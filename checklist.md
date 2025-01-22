@@ -3108,6 +3108,7 @@ I.2 Galenus – Isocrates
  * VII, see [P.Petr.Kleon](#P.Petr.Kleon).
  * VIII, The Fayoum Survey Project: The Themistou Meris. Volume A. The Archaeological and Papyrological Survey, by C.E. Römer et al. Leuven 2019.
  * IX, The Fayoum Survey Project: The Themistou Meris. Volume B. The Ceramological Survey, by D.M. Bailey et al. Leuven 2019.
+ * X, see [P.Kynoplites](#P.Kynoplites)
 
 ### <a id="ComunicazioniVitelli">ComunicazioniVitelli</a>
  = Comunicazioni issued by the Istituto papirologico "G. Vitelli." Florence.
@@ -4337,7 +4338,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynoplites
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
