@@ -1896,6 +1896,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Vet.Aelii">P.Vet.Aelii</a>
 = _Veteranen unter den Severern und frühen Soldatenkaisern: Die Dokumentensammlungen der Veteranen Aelius Sarapammon und Aelius Syrion_, ed. P. Sänger. Stuttgart 2011. (Heidelberger Althistorische Beiträge und Epigraphische Studien 48). Nos. 1–19.
 
+### <a id="P.Vic.">P.Vic.</a>
+= _Il papiro di Vicenza (P.Vic.) : un nuovo papiro latino del VI secolo_, ed. T. De Robertis, A. Ghignoli, S. Zamponi. Firenze 2024. (Edizioni dell' Istituto Papyrologico "G. Vitelli" 15).
+
 ### <a id="P.Vind.Bosw.">P.Vind.Bosw.</a>
 = _Einige Wiener Papyri_, ed. E. Boswinkel. Leiden 1942. (Pap.Lugd.Bat. II). Nos. 1—17. [MF 2.56]
 
