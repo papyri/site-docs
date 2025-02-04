@@ -1494,6 +1494,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Petaus">P.Petaus</a>
 = _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS] <ddb:p.petaus>
 
+### <a id="P.Petebaste">P.Petebaste</a>
+= _The archive of the Theban choachyte Petebaste son of Peteamunip (floruit 7th century BCE) :|babnormal hieratic papyrus Louvre E 3228 A-H (P. L. Bat. 38)_, ed. K. Donker Van Heel. Leiden 2021. (P.L. Bat. 38)
+
 ### <a id="P.Petersb.">P.Petersb.</a>
 = _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in [P.Ross.Georg.](#P.Ross.Georg.); cf. SB II p. 61. [Online: archive.org](https://archive.org/details/hvd.32044031543440)
 
@@ -3773,7 +3776,7 @@ I.2 Galenus – Isocrates
  * XXXV, The materiality of texts from ancient Egypt: new approaches to the study of textual material from the early pharaonic to the late antique period, ed. F.A.J. Hoogendijk, S.M.T. van Gompel. 2018.
  * XXXVI, The Derveni papyrus: unearthing ancient mysteries, ed. M.A. Santamaría. 2019.
  * XXXVII, see [P.Hoogendijk](#P.Hoogendijk)
- * XXXVIII, The Archive of the Theban Choachyte Petebaste Son of Peteamunip (Floruit 7th Century BCE). Abnormal Hieratic Papyrus Louvre E 3228 A-H, ed. K. Donker Van Heel. 2018.
+ * XXXVIII, see [P.Petebaste](#P.Petebaste)
  * XXXIX, Palladas and the Yale Papyrus Codex (P. CtYBR inv. 4000), ed. M. Kanellou and C. Carey. 2019.
  * XL, see [P.Leid.Inst.](#P.Leid.Inst.) II.
  * XLI, Novel Perspectives on Communication Practices in Antiquity. Towards a Historical Social-Semiotic Approach, ed. K. Bentein and Y. Amory. 2022.
