@@ -1495,7 +1495,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 = _Das Archiv des Petaus_, ed. U. Hagedorn, D. Hagedorn, L.C. Youtie and H.C. Youtie. Opladen 1969. (Pap.Colon. IV). Nos. 1—127. [FS] <ddb:p.petaus>
 
 ### <a id="P.Petebaste">P.Petebaste</a>
-= _The archive of the Theban choachyte Petebaste son of Peteamunip (floruit 7th century BCE) :|babnormal hieratic papyrus Louvre E 3228 A-H (P. L. Bat. 38)_, ed. K. Donker Van Heel. Leiden 2021. (P.L. Bat. 38)
+= _The archive of the Theban choachyte Petebaste son of Peteamunip (floruit 7th century BCE) : abnormal hieratic papyrus Louvre E 3228 A-H_, ed. K. Donker Van Heel. Leiden 2021. (P.L. Bat. 38)
 
 ### <a id="P.Petersb.">P.Petersb.</a>
 = _Catalogue des manuscrits grecs de la Bibliothèque Impériale Publique_, ed. E. de Muralt. St. Petersburg 1864. Some texts now in [P.Ross.Georg.](#P.Ross.Georg.); cf. SB II p. 61. [Online: archive.org](https://archive.org/details/hvd.32044031543440)
