@@ -1404,7 +1404,7 @@ To indicate an approximate number of lost characters inside lacuna, enter `[ca.5
 
 #### Lost character gap range
 
-_To get this PN preview:_ `[ -ca.11-15- ]`
+_To get this PN preview:_ `[ -11-15- ]`
 
 _Use this Leiden+:_ `[.11-15]`
 
