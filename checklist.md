@@ -3701,6 +3701,7 @@ I.2 Galenus – Isocrates
  * XLVI, see [P.Genova](#P.Genova) IV
  * XLVII, Early Christian Gospels: their production and transmission, by S. Charlesworth. 2016.
  * XLVIII, see [P.Christodote](#P.Christodote)
+ * XLIX, _La scrittura "barocca otrantina" nei codici profani della Biblioteca Medicea Laurenziana : note per uno studio morfologico ed evolutivo della grafia_, by S. Maleci. 2024
 
 ### <a id="Pap.Heid.">Pap.Heid.</a>
  = _Veröffentlichungen aus der Heidelberger Papyrussammlung_.
