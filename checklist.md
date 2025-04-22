@@ -1100,6 +1100,9 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 
  * I, Coptica Lipsiensia: koptische Texte aus der Papyrus- und Ostrakasammlung der Universitätsbibliothek Leipzig (P.Lips.Copt. I), ed. A. Boud'hors, F. Krueger, A. Märker und T.S. Richter; mit Beiträgen von D. Atanassova, María Jesús Albarrán, D. Colomo, J. Cromwell, E. Penland, V. Walter und J. Westerfeld. Berlin 2024. (Archiv Beih. 52).
 
+### <a id="P.Lit.Var.">P.Lit.Var</a>
+= _Literary papyri from the Bodleian Library and other collections (P.Lit.Var.)_, ed. L. Del Corso, R. Luiselli, A. Benaissa, N. Gonis, R. Hatzilambrou, M. Zellmann-Rohrer. Florence 2024. (Edizioni dell' Istituto Papyrologico "G. Vitelli" 18) Nos. 1—20. [Online: Firenze University Press](https://media.fupress.com/files/pdf/24/15128/44484)
+
 ### <a id="P.Loeb">P.Loeb</a>
 = _Die Demotischen Papyri Loeb_, ed. W. Spiegelberg. Munich 1931. Nos. 1—73.
 
