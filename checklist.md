@@ -4349,7 +4349,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites ; P.Lit.Var.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
