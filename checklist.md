@@ -2593,6 +2593,9 @@ I.2 Galenus – Isocrates
 ### <a id="Jur.Pap.">Jur.Pap.</a>
 = _Juristische Papyri_, ed. P.M. Meyer. Berlin 1920. Nos. 1—93. &#91;MF 2.45; rp. ARES&#93; [Online: archive.org](https://archive.org/details/juristischepapry00meyeuoft)
 
+### <a id="Mag.Lev.">Mag.Lev.</a>
+= _Magica Levantina_, ed. R.W. DAniel, A. Hollmann. Paderborn. 2025. (Pap.Colon. LII) Nos. 1-34.
+
 ### <a id="New_Docs.">New Docs.</a>
 = _New Documents Illustrating Early Christianity_. Various editors. North Ryde, NSW, and Grand Rapids, Mich.1981—. 8 vols. to date.
 
@@ -3651,6 +3654,7 @@ I.2 Galenus – Isocrates
  * XLVIII, Honigsüsse Briefe und lastende Worte : Studien zur Äusserung von Emotionen durch metaphorischen Sprachgebrauch im Altgriechischen, by Eleni Skarsouli. 2023.
  * XLIX, The office of the Epimeletes: studies in the administration of Ptolemaic Egypt, by Haytham Qandeil. 2024.
  * L,  Die Papyrusbriefe zwischen Eltern und Kindern: eine generationsübergreifende Beziehung, by N.V. Navarrete. 2024.
+ * LII, see [Mag.Lev.](#Mag.Lev.)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
  = _Papyrologica Florentina_. Florence. 1976— .
@@ -4351,6 +4355,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites ; P.Lit.Var.
+ * 2025: Mag.Lev.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
