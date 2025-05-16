@@ -2594,7 +2594,7 @@ I.2 Galenus – Isocrates
 = _Juristische Papyri_, ed. P.M. Meyer. Berlin 1920. Nos. 1—93. &#91;MF 2.45; rp. ARES&#93; [Online: archive.org](https://archive.org/details/juristischepapry00meyeuoft)
 
 ### <a id="Mag.Lev.">Mag.Lev.</a>
-= _Magica Levantina_, ed. R.W. DAniel, A. Hollmann. Paderborn. 2025. (Pap.Colon. LII) Nos. 1-34.
+= _Magica Levantina_, ed. R.W. Daniel, A. Hollmann. Paderborn. 2025. (Pap.Colon. LII) Nos. 1-34.
 
 ### <a id="New_Docs.">New Docs.</a>
 = _New Documents Illustrating Early Christianity_. Various editors. North Ryde, NSW, and Grand Rapids, Mich.1981—. 8 vols. to date.
