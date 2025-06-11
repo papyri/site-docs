@@ -1804,6 +1804,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * III, pt. II, ed. A.S. Hunt, J.G. Smyly and C.C. Edgar. 1938. (Univ. of California Publications, Graeco-Roman Archaeology IV; Egypt Exploration Society, Graeco-Roman Memoirs 25). Nos. 826—1093. [EES]
  * IV, ed. J.G. Keenan and J.C. Shelton. 1976. (Egypt Exploration Society, Graeco-Roman Memoirs 64). Nos. 1094—1150. [EES]
  * V, Regaling Officials in Ptolemaic Egypt, ed. A. Verhoogt. Leiden and Boston 2005. (Pap.Lugd.Bat. XXXII). Nos 1—5 are P.Tebt. V 1151—1155. [EJB]
+ * VI, Papiri da Tebtynis pubblicati dal Seminario di Papirologia dell'Università di Parma, ed. N. Reggiani. Berkeley 2025. (California classical studies 10). Nos 1156-1224. Appendix: Cartonnage papyri nos. 1-7. [Online: escholarship.org](https://escholarship.org/content/qt1w9926nr/qt1w9926nr_noSplash_e2745a2128ec7dd0b80a420790c21aca.pdf)
 
 ### <a id="P.Tebt.Pad.">P.Tebt.Pad.</a>
 = _Papiri Greci da Tebtynis della Università di Padova_.
@@ -4355,7 +4356,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites ; P.Lit.Var.
- * 2025: Mag.Lev.
+ * 2025: Mag.Lev.; P.Tebt. VI
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
