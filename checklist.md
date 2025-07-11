@@ -4090,6 +4090,7 @@ I.2 Galenus – Isocrates
  * XXVII, Proceedings of the 27th International Congress of Papyrology Warsaw, 29 July - 3 August 2013, 3 vols. ed. T. Derda, A. Łajtar and J. Urbanik, in cooperation with A. Mirończuk and T. Ochała. (The Journal of Juristic Papyrology. Supplements. Volume XXVIII). Warsaw 2016.
  * XXVIII, Proceedings of the 28th Congress of Papyrology; 2016 August 1-6; Barcelona, ed. A. Nodar and S. Torallas Tovar (Barcelona: Publicacions de l'Abadia de Montserrat, Universitat Pompeu Fabra). Barcelona 2019. [Online: upf.edu](http://hdl.handle.net/10230/41902).
  * XXIX, Proceedings of the 29th International Congress of Papyrology, Lecce, 28th July-3rd August 2019, ed. M. Capasso, P. Davoli, N. Pellé. Lecce, 2022 (Quaderni dell'Istituto superiore universitario di formazione interdisciplinare 2) [Online: unisalento.it](http://siba-ese.unisalento.it/index.php/29th_ICP/issue/view/1881)
+ * XXX, Actes du XXXe congrès international de papyrologie, Paris, 25-30 juillet 2022, ed. J.-L. Fournet, Y. Amory. Lecce, 2025 (Studia papyrologica et Aegyptiaca parisina 7) [Online: college-de-france.fr](https://www.college-de-france.fr/sites/default/files/media/document/2025-07/studpap7-hd.pdf))
 
 ### <a id="CoptCongr.">CoptCongr.</a>
 
