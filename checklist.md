@@ -175,6 +175,9 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * II, ed. J.W.B. Barns and H. Zilliacus. 1960. (Egypt Exploration Society, Graeco-Roman Memoirs 37). Nos. 51—110. [EES] <ddb:p.ant;2>
  * III, ed. J.W.B. Barns and H. Zilliacus. 1967. (Egypt Exploration Society, Graeco-Roman Memoirs 47). Nos. 111—214. [EES] <ddb:p.ant;3>
 
+### <a id="P.Aphrod.Let.Copt.">P.Aphrod.Let.Copt.</a>
+ *I, _Correspondre en copte dans l'Egypte du VIe siècle : les lettres coptes des archives de Dioscore d'Aphroditê (P. Aphrod. Let. Copt. I)_, ed. L Vanderheyden. Paris, 2025 (Studia papyrologica et Aegyptiaca parisina 6). Nos. 1-21.
+
 ### <a id="P.Aphrod.Lit.">P.Aphrod.Lit.</a>
 = _Hellénisme dans l'Égypte du VIe siècle. La bibliothèque et l'oeuvre de Dioscore d'Aphrodité_, ed. J.-L. Fournet. Cairo 1999. (MIFAO 115). Nos. 1-51. [SEVPO]
 
@@ -4429,6 +4432,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2022: P.Christ.Musl.; P.Sorb.Copt.
  * 2023: P.Tor.Cat.
  * 2024: P.Lips.Copt. I, P.Carlsb. XVIII
+ * 2025: P.Aphrod.Let.Copt.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
 
