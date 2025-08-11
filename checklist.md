@@ -176,7 +176,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * III, ed. J.W.B. Barns and H. Zilliacus. 1967. (Egypt Exploration Society, Graeco-Roman Memoirs 47). Nos. 111—214. [EES] <ddb:p.ant;3>
 
 ### <a id="P.Aphrod.Let.Copt.">P.Aphrod.Let.Copt.</a>
-  * I, _Correspondre en copte dans l'Egypte du VIe siècle : les lettres coptes des archives de Dioscore d'Aphroditê (P.Aphrod.Let.Copt. I)_, ed. L. Vanderheyden. Paris, 2025 (Studia papyrologica et Aegyptiaca parisina 6). Nos. 1-21.
+  * I, _Correspondre en copte dans l'Egypte du VIe siècle : les lettres coptes des archives de Dioscore d'Aphroditê (P.Aphrod.Let.Copt. I)_, ed. L. Vanderheyden. Paris, 2025. (Studia papyrologica et Aegyptiaca parisina 6). Nos. 1-21.
 
 ### <a id="P.Aphrod.Lit.">P.Aphrod.Lit.</a>
 = _Hellénisme dans l'Égypte du VIe siècle. La bibliothèque et l'oeuvre de Dioscore d'Aphrodité_, ed. J.-L. Fournet. Cairo 1999. (MIFAO 115). Nos. 1-51. [SEVPO]
