@@ -1,9 +1,5 @@
-<h1>
-Translation Leiden+ Documentation
-</h1>
+# Translation Leiden+ Documentation
 <!--?xml version='1.0' encoding='utf-8' ?-->
-
-
 
 <style type="text/css">
 .intro {
@@ -408,9 +404,9 @@ Example PN Link:
 </div>
 <hr>
 <div class="note">
-To insert a link to the (in progress) glossary. Suppose you are translating the Greek word ἄβροχος and want to link to the glossary entry. From the translation window mouse over 'Helpers', select 'Terms'; find the desired term in the glossary, click on the red transcription of the Greek word. This will insert into your translation window a sample-filled tag: <place word="" here="abrochos">. 
+To insert a link to the (in progress) glossary. Suppose you are translating the Greek word ἄβροχος and want to link to the glossary entry. From the translation window mouse over 'Helpers', select 'Terms'; find the desired term in the glossary, click on the red transcription of the Greek word. This will insert into your translation window a sample-filled tag: <place word="" here="abrochos">.
 <br>
-<br>Then, depending on what you want to appear in your translation, enter as follows: 
+<br>Then, depending on what you want to appear in your translation, enter as follows:
 <br>
 <br>&lt;unwatered land=abrochos&gt;
 <br>
@@ -830,9 +826,9 @@ Example PN Link:
 </div>
 <hr>
 <div class="note">
-To insert a link to the (in progress) glossary. Suppose you are translating the Greek word ἄβροχος and want to link to the glossary entry. From the translation window mouse over 'Helpers', select 'Terms'; find the desired term in the glossary, click on the red transcription of the Greek word. This will insert into your translation window a sample-filled tag: <place word="" here="abrochos">. 
+To insert a link to the (in progress) glossary. Suppose you are translating the Greek word ἄβροχος and want to link to the glossary entry. From the translation window mouse over 'Helpers', select 'Terms'; find the desired term in the glossary, click on the red transcription of the Greek word. This will insert into your translation window a sample-filled tag: <place word="" here="abrochos">.
 <br>
-<br>Then, depending on what you want to appear in your translation, enter as follows: 
+<br>Then, depending on what you want to appear in your translation, enter as follows:
 <br>
 <br>&lt;unwatered land=abrochos&gt;
 <br>

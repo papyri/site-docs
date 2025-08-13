@@ -1,10 +1,12 @@
-<span class="papyriDotInfo">Papyri.info</span> has two primary components. The <strong>Papyrological Navigator</strong> (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the <strong>Papyrological Editor</strong> (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
+<h1 class="visually-hidden">Papyri.info</h1>
 
-Papyri.info aggregates material from the Advanced Papyrological Information System 
+<span class="papyriDotInfo">Papyri.info</span> has two primary components. The <strong>Papyrological Navigator</strong> (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the <strong>Papyrological Editor</strong> (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images.
+
+Papyri.info aggregates material from the Advanced Papyrological Information System
 (APIS), [Duke Databank of Documentary Papyri](ddbdp) (DDbDP), [Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens](http://www.rzuser.uni-heidelberg.de/~gv0/) (HGV), [Bibliographie Papyrologique](http://www.ulb.ac.be/philo/cpeg/bp.htm) (BP), and depends on close collaboration with  [Trismegistos](http://www.trismegistos.org/), for rigorous maintenance of relationship mapping and unique identifiers.
 
 
-<div id="search" style="display:grid; grid-template-columns: repeat(6, 1fr);"> 
+<div id="search" style="display:grid; grid-template-columns: repeat(6, 1fr);">
   <div style="grid-column: 1 / 4; text-align: right; margin-right: 2vw">
     <a href="/search" id="searchbutton">Search the navigator</a>
   </div>
