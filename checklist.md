@@ -1,5 +1,7 @@
 # Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets
-##### Founding Editors: John F. Oates and William H. Willis
+<p class="h5">Founding Editors: John F. Oates and William H. Willis</p>
+
+---
 
 This new instance of the Checklist is a work in progress. Most of the data already supersede those of the [previous site](http://library.duke.edu/rubenstein/scriptorium/papyrus/texts/clist.html). Previous print and online editions were curated by a board of Editors, founded by the late Professors John F. Oates and William H. Willis. This latest carries forward the spirit of openness and collaboration that they championed. Abbreviations are arrived at after discussion by a variety of stakeholders, including Joshua D. Sosin (Duke), Rodney Ast (Heidelberg), Roger S. Bagnall (NYU), James M.S. Cowey (Heidelberg), Mark Depauw (Leuven), Alain Delattre (Brussels), Robert L. Maxwell (BYU), Paul Heilporn (Strasbourg), volume editors, and others, sometimes including the wider papyrological community (via [papylist](http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy)). The quickest way to initiate discussion of updates and abbreviations is to write the papylist, or any one of the individuals named above. Editors are strongly urged to let us know when new volumes are published. Links to digitized volumes available online have been made by Ryan Baumann (Duke), with the help of [a list](https://www.college-de-france.fr/media/culture-ecrite-antiquite-papyrologie-byzantine/UPL1136838564638901641_Checklist_avec_url_des_pdf__9XII17_.pdf) made by Loreleï Vanderheyden and Jean-Luc Fournet.
 
@@ -33,7 +35,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * VIII, Spätptolemäische Papyri aus amtlichen Büros des Herakleopolites, ed. W. Schubart and D. Schäfer. 1933. Nos. 1730—1890. [MF 1.8; rp. CG] <ddb:bgu;8> [Online: archive.org](https://archive.org/details/bgu8-1933)
  * IX, Steuerlisten römischer Zeit aus Theadelphia, ed. H. Kortenbeutel. 1937. Nos. 1891—1900. [MF 1.9; rp. CG] <ddb:bgu;9> [Online: archive.org](https://archive.org/details/bgu-9-1937)
  * X, Papyrusurkunden aus ptolemäischer Zeit, ed. W. Müller. 1970. Nos. 1901—2011. [AV] <ddb:bgu;10> [Online: archive.org](https://archive.org/details/bgu-10-1970)
- * XI, Urkunden römischer Zeit, ed. H. Maehler. 
+ * XI, Urkunden römischer Zeit, ed. H. Maehler.
      * Pt. I, 1966. Nos. 2012—2054. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-1-1966)
      * Pt. II, 1968. Nos. 2055—2131. [BAM] <ddb:bgu;11> [Online: archive.org](https://archive.org/details/bgu-11-2-1968)
  * XII, Papyri aus Hermupolis, ed. H. Maehler. 1974. Nos. 2132—2210. [BAM] <ddb:bgu;12> [Online: archive.org](https://archive.org/details/bgu-12-1974)
@@ -47,7 +49,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XX, Dokumentarische Texte der Berliner Papyrussammlung aus ptolemäischer und römischer Zeit, ed. F. Reiter. Berlin 2014. Nos. 2840—2876.  <ddb:bgu;20>
  * XXI, Dokumentarische Texte der Berliner Papyrussammlung aus byzantinischer und früharabischer Zeit, ed. F. Reiter. Berlin 2024. Nos. 2877-2904.
  * XXII, Des pittakia de Théadelphie, ed. S. Kambitsis. Berlin 2018. Nos. 2905—2913.
-   
+
 ### <a id="BKT">BKT</a>
 = _Berliner Klassikertexte_. Berlin.
 
@@ -649,9 +651,9 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * Nos. 55—64, ASAE 20 (1920) 181—206. [Online: archive.org](https://archive.org/details/annalesduservice20egypuoft/page/180/mode/2up)
  * Nos. 65—66, ASAE 21 (1921) 89—109. [Online: archive.org](https://archive.org/details/annalesduservice21egypuoft)
  * Nos. 67—72, ASAE 22 (1922) 209—231. [Online: archive.org](https://archive.org/details/annalesduservice22egypuoft/page/208/mode/2up)
- * Nos. 73—76, ASAE 23 (1923) 73—98. 
- * Nos. 77—88, ASAE 23 (1923) 187—209. 
- * Nos. 89—111, ASAE 24 (1924) 17—52. 
+ * Nos. 73—76, ASAE 23 (1923) 73—98.
+ * Nos. 77—88, ASAE 23 (1923) 187—209.
+ * Nos. 89—111, ASAE 24 (1924) 17—52.
 
 ### <a id="P.Egerton">P.Egerton</a>
 = _Fragments of an Unknown Gospel and Other Early Christian Papyri_, ed. H.I. Bell and T.C. Skeat. London 1935.
@@ -863,7 +865,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 = _The Hauswaldt Papyri_, ed. J. Manning. Sommerhausen 1997. (Dem.Stud. XII). Nos. 1—25. There are Greek dockets to nos. 2a and b, 8a and b, and 9a and b. This edition replaces a quasi-edition of the same texts, Die Hauswaldt-Papyri, ed. W. Spiegelberg with "Rechtsgeschichtliche Beiträge" by J. Partsch (Leipzig 1913), with a separate elephant-folio volume of plates. While the Spiegelberg edition does not transcribe or translate many of the texts, the plates volume is essential. Manning provides plates of nos. 10, 16, and 17; nos. 4 and 6 are no longer extant. The numbering of the texts is the same in both volumes. [Gisela Zauzich Verlag]
 
 ### <a id="P.Hawara">P.Hawara</a>
-= _Demotische Urkunden aus Hawara_, ed. E. Lüddeckens, with R. Wassermann and for the Greek, R.W. Daniel. Stuttgart 1998. (Verzeichnis der orientalischen Handschriften in Deutschland. Supplementband 28). Nos. I—XXIV, some with multiple texts. There are Greek subscriptions at nos. 1—3, X, XII—XV, XVIa, XVIb, XVIIa, XVIIb, XIXa, XXIa/b, XXIII. [Franz Steiner Verlag] There are also Greek texts from Hawara. Some were published on pp. 24—36 [Online: Heidelberg digital library](https://digi.ub.uni-heidelberg.de/diglit/petrie1889/0029/image) in Hawara, Biahmu and Arsinoe, by W.M. Flinders Petrie. London 1889. [MF 2.73] Further publication of some texts by J.G. Milne, Archiv 5 (1913) 378—397 [Online: de Gruyter](https://doi.org/10.1515/apf.1913.1913.5.378). Some of the texts were republished in SB I. There is a concordance at SB II, pp. 126—27. Most of the documentary texts from Archiv are republished in SB XVIII 13219—13245. 
+= _Demotische Urkunden aus Hawara_, ed. E. Lüddeckens, with R. Wassermann and for the Greek, R.W. Daniel. Stuttgart 1998. (Verzeichnis der orientalischen Handschriften in Deutschland. Supplementband 28). Nos. I—XXIV, some with multiple texts. There are Greek subscriptions at nos. 1—3, X, XII—XV, XVIa, XVIb, XVIIa, XVIIb, XIXa, XXIa/b, XXIII. [Franz Steiner Verlag] There are also Greek texts from Hawara. Some were published on pp. 24—36 [Online: Heidelberg digital library](https://digi.ub.uni-heidelberg.de/diglit/petrie1889/0029/image) in Hawara, Biahmu and Arsinoe, by W.M. Flinders Petrie. London 1889. [MF 2.73] Further publication of some texts by J.G. Milne, Archiv 5 (1913) 378—397 [Online: de Gruyter](https://doi.org/10.1515/apf.1913.1913.5.378). Some of the texts were republished in SB I. There is a concordance at SB II, pp. 126—27. Most of the documentary texts from Archiv are republished in SB XVIII 13219—13245.
 
 ### <a id="P.Heid.">P.Heid.</a>
 = _Veröffentlichungen aus der Heidelberger Papyrussammlung_. See also [Pap.Heid.](#Pap.Heid.) <ddb:p.heid>
@@ -1046,7 +1048,7 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 = _Eine ptolemäische Königsurkunde_, ed. L. Koenen. Wiesbaden 1957. (Klassisch-philologische Studien 19). Text reprinted as SB VI 9316. New fragment of col. i (also an unplaced fragment) added in Stud.Pap. 21 (1982) 73—82, and combined col. i alone reprinted as SB XVI 12540; reedited as P.Köln VII 313. <ddb:p.kroll> [Online: AWDL](http://hdl.handle.net/2333.1/v41ns67r)
 
 ### <a id="P.Kynopolites">P.Kynopolites</a>
-= _An undertaker's archive from the Kynopolite Nome_, ed. G. Baetens and W. Clarysse. Leuven 2024. (Coll.Hellen. 10). 
+= _An undertaker's archive from the Kynopolite Nome_, ed. G. Baetens and W. Clarysse. Leuven 2024. (Coll.Hellen. 10).
 
 ### <a id="P.Kron.">P.Kron.</a>
 = _L'Archivio di Kronion_, ed. D. Foraboschi. Milan 1971. (Collana di testi e documenti per lo studio dell' antichità 36). Nos. 1—69. Includes many documents previously published in [P.Mil.Vogl.](#P.Mil.Vogl.) [CG] <ddb:p.kron>
@@ -1080,7 +1082,7 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
 = _Papyrus Égyptiens démotiques I. 373—382 du Musée d'Antiquités des Pays-Bas à Leide, publiées d'après les ordres du gouvernement par le Dr. C. Leemans_. Leiden 1863. (Publiés dans la 22e Livraison, ou la 15e de la IIe Partie des Monuments Égyptiens du Musée). This volume has descriptions and plates only, no texts.
 
 ### <a id="P.Leid.Inst.">P.Leid.Inst.</a>
-= _Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute_. Leiden 1991. 
+= _Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute_. Leiden 1991.
 
  * I, Papyri, Ostraca, Parchments and Waxed Tablets in the Leiden Papyrological Institute, ed. F.A.J. Hoogendijk and P. van Minnen. Leiden 1991. (Pap.Lugd.Bat. XXV). Nos. 1—107; nos. 11-12 and 24 are ostraca; nos. 15—18 wax tablets; the rest papyri. Nos. 81—107 are descripta. [EJB] <ddb:p.leid.inst>
  * II, Greek, Demotic and Coptic Papyri and Ostraca in the Leiden Papyrological Institute, ed. F.A.J. Hoogendijk and J.V. Stolk. Leiden 2023. (Pap.Lugd.Bat. XL). Nos. 1—66; nos. 3-21 are ostraca; the rest papyri. [EJB]
@@ -2855,7 +2857,7 @@ I.2 Galenus – Isocrates
 
 ### <a id="Lampe">Lampe</a>
  = A Patristic Greek Lexicon, ed. G.W.H. Lampe. Oxford 1969.
- 
+
 ### <a id="LBG">LBG</a>
  = Lexikon zur byzantinischen Gräzität, besonders des 9.–12. Jahrhunderts, ed. E. Trapp. Vienna 1994–2017.
 
@@ -2866,7 +2868,7 @@ I.2 Galenus – Isocrates
  = Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw) Ägyptens sich vorfinden, ed. F. Preisigke. Heidelberg 1922, repr. Amsterdam 1967.
 
 ### <a id="NB_Copt.">NB Copt.</a>
- = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf> 
+ = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf>
 
 ### <a id="NB_Dem.">NB Dem.</a>
  = Demotisches Namenbuch, ed. E. Lüddeckens and H.J. Thissen. Wiesbaden 1980—. To date, vol. 1 in 16 fascicles, covering the entire alphabet. [Dr. Ludwig Reichert Verlag]
@@ -2897,7 +2899,7 @@ I.2 Galenus – Isocrates
  * Supplement 2 (1967—1976), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 1991. [OH].
  * Supplement 3 (1977-1988), ed. H.-A. Rupprecht and A. Jördens. Wiesbaden 2000. [OH].
 
-### <a id="Grammars">Grammars</a> 
+### <a id="Grammars">Grammars</a>
 
 ### <a id="Bresciani,_Nozioni">Bresciani, Nozioni</a>
  = Nozioni elementari di grammatica demotica, by E. Bresciani. Milan 1969. (Testi e documenti per lo studio dell’antichità 29). [CG]
@@ -3918,7 +3920,7 @@ I.2 Galenus – Isocrates
  * XLV, see [P.Jena](#P.Jena)
  * XLVI, see [P.Agri](#P.Agri)
  * XLVII, see [P.Louvre](#P.Louvre) III.
- * XLVIII, see [P.KölnLand.](#P.KölnLand.) 
+ * XLVIII, see [P.KölnLand.](#P.KölnLand.)
 
 ### <a id="Princ.Stud.Pap.">Princ.Stud.Pap.</a>
  = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
