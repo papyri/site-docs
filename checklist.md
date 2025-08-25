@@ -1280,6 +1280,9 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 ### <a id="P.Minnesota">P.Minnesota</a>
 = _Back to Oegstgeest. The von Scherling Papyrus Collection. Some von Scherling Texts in Minnesota_, ed. M. Bakker, A. Bakkers and K. Worp. Cincinnati 2007. (BASP 44 [2007] pages 41–73). Nos. 1–11. [Online: BASP](https://quod.lib.umich.edu/b/basp/0599796.0044.001/43:6). Indices, ed. A. V. Bakkers. [http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf](http://media.leidenuniv.nl/legacy/minnesota-indices-pdf.pdf).
 
+### <a id="P.Minutoli">P.Minutoli</a>
+= _Τέχνῃ καὶ σπουδῇ. In ricordo di Diletta Minutoli_, ed. E. Calini, C. Meliadò, G. Ucciardello. A.M. Urso. Messina 2024. (Pelorias 29). Nos. 1—12. [Oxbow] <ddb:p.minutoli>
+
 ### <a id="P.Mon.Apollo">P.Mon.Apollo</a>
 = _Coptic and Greek texts relating to the Hermopolite Monastery of Apa Apollo_, ed. S.J. Clackson. Oxford 2000. (Griffith Institute Monographs). Nos. 1—66. Nos. 27, 31, 48 are Greek; the rest Coptic. [Oxbow] <ddb:p.mon.apollo>
 
