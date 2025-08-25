@@ -1556,7 +1556,9 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 = "Textes coptes. Extraits de la correspondence de St. Pésunthius, évêque de Coptos, et de plusieurs documents analogues (juridiques et économiques)," ed. E. Revillout in three issues of the RevÉgypt 9 (1900) 133—177 [Online: archive.org](https://archive.org/details/revuegyptologi09pari/page/132/mode/2up); 10 (1902) 34—47 [Online: archive.org](https://archive.org/details/revuegyptologi10pari/page/34/mode/2up); and 14 (1914) 22—32 [Online: archive.org](https://archive.org/details/revuegyptologi14pari/page/22/mode/2up). Republication of some texts: 64 = BKU I 78; 65 = P.KRU 115; 67 = BKU I 48; 72 = P.KRU 109; 73 = P.KRU 111; and 83 = P.KRU 40.
 
 ### <a id="P.Poethke">P.Poethke</a>
-= _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40. <ddb:p.poethke>
+
+ * I, _Festschrift für Günter Poethke zum 70. Geburtstag_ (Archiv 55 [2009]). Nos. 1—40. <ddb:p.poethke>
+ * II, _Studien zum antiken Ägypten und verwandten Gebieten. Gedenkschrift für Günter Poethke_ ed. S. Prignitz and V. Vaelske. Berlin 2024. (ArchBeih. 53). Nos. 4-18.
 
 ### <a id="P.Polit.Jud.">P.Polit.Jud.</a>
 = _Urkunden des Politeuma der Juden von Herakleopolis (144/3 ‚ 133/2 v. Chr.)_, ed. K. Maresch and J.M.S. Cowey. Wiesbaden 2001. (Pap.Colon. XXIX). Nos. 1-20. [FS] <ddb:p.polit.iud>
@@ -4349,7 +4351,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2006: CPR XXV, P.Ammon II; P.Cair.Salem; P.Count, P. Dime II; P.Heid. IX; P.Oxy. LXX; SB XXVI; O.Dime
  * 2007: P.Berl. Cohen; P.Iand.Zen.; P.Köln XI; P.Oxy. LXXI; P.Petra III, P.Sijp.; Stud.Pal. III2.1, 2, 5; P.Brux.Bawit
  * 2008: P.Naqlun II; P.Oxy. LXXII; PSI XV; P.Worp; O.Abu Mina; O.Cret.Chers.
- * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke; O.EdfouIFAO; PSI Com. 8; C.Palmomanticum
+ * 2009: P.Clackson; P.Kramer; P.Oxy. LXXIII, LXXIV; P.Poethke I; O.EdfouIFAO; PSI Com. 8; C.Palmomanticum
  * 2010: CPR ΧΧΧ; P.Dime III; P.Eirene III; P.Gen. IV; P.Jena II; P.Köln XII; P.Narm. I; P.NYU II; P.Oxy. LXXV; P.Schøyen II
  * 2011: CPR XXXII; P.Lond.Herm.; P.Mich. XX; P.Oxy. LXXVI, LXXVII; P.Petra IV; P.Prag. III; PSI Com. 9; P.Sorb. III; P.Vet.Aelii; O.Taxes II; T.Vindol. IV
  * 2012: P.Herakl.Bank; P.Oxy. LXXVIII; P.Tebt.Quen.; P.Philammon; P.Pintaudi; P.Scholl; O.Did.; O.Petr.Mus.; O.Trim. I
@@ -4364,7 +4366,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites ; P.Lit.Var.
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Lit.Var.; P.Poethke II; P.Minutoli
  * 2025: Mag.Lev.; P.Tebt. VI
 
 ### <a id="Coptic">Coptic</a>
