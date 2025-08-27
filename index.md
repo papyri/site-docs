@@ -15,27 +15,27 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
     <h2 class="h4">Partners</h2>
     <div class="row">
       <div class="col-4">
-        <a href="/docs/apis" class="fw-semibold text-decoration-none">APIS</a><br/>
+        <a href="/docs/apis" class="fw-semibold">APIS</a><br/>
         <div class="text-muted">Advanced Papyrological Information System</div>
       </div>
       <div class="col-4 mb-3">
-        <a href="/docs/ddbdp" class="fw-semibold text-decoration-none">DDbDP</a><br/>
+        <a href="/docs/ddbdp" class="fw-semibold">DDbDP</a><br/>
         <div class="text-muted">Duke Databank of Documentary Papyri</div>
       </div>
       <div class="col-4 mb-3">
-        <a href="https://aquila.zaw.uni-heidelberg.de/start" class="fw-semibold text-decoration-none">HGV</a><br/>
+        <a href="https://aquila.zaw.uni-heidelberg.de/start" class="fw-semibold">HGV</a><br/>
         <div class="text-muted">Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</div>
       </div>
       <div class="col-4 mb-3">
-        <a href="https://web.archive.org/web/20220308011812/http://www.aere-egke.be/BP_enligne.htm" class="fw-semibold text-decoration-none">BP</a><br/>
+        <a href="https://web.archive.org/web/20220308011812/http://www.aere-egke.be/BP_enligne.htm" class="fw-semibold">BP</a><br/>
         <div class="text-muted">Bibliographie Papyrologique</div>
       </div>
       <div class="col-4 mb-3">
-        <a href="http://www.trismegistos.org/" class="fw-semibold text-decoration-none">Trismegistos</a><br/>
+        <a href="http://www.trismegistos.org/" class="fw-semibold">Trismegistos</a><br/>
         <div class="text-muted">Trismegistos Project</div>
       </div>
       <div class="col-4 mb-3">
-        <a href="http://www.ori.uzh.ch/apd" class="fw-semibold text-decoration-none">APD</a><br/>
+        <a href="http://www.ori.uzh.ch/apd" class="fw-semibold">APD</a><br/>
         <div class="text-muted">Arabic Papyrological Database</div>
       </div>
     </div>
@@ -45,10 +45,10 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
   </div>
   <div class="col-md-3">
     <h2 class="h4">More information</h2>
-    <ul class="list-unstyled">
-      <li><a href="/docs/checklist" class="text-decoration-none">Checklist of Editions</a></li>
-      <li><a href="/docs/resources" class="text-decoration-none">Papyrological Resources</a></li>
-      <li><a href="feedback.html" class="text-decoration-none">Send Feedback</a></li>
+    <ul class="list-unstyled no-link-underline">
+      <li><a href="/docs/checklist">Checklist of Editions</a></li>
+      <li><a href="/docs/resources">Papyrological Resources</a></li>
+      <li><a href="feedback.html">Send Feedback</a></li>
     </ul>
   </div>
 </div>
