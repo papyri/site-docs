@@ -12,7 +12,7 @@
 </button>
 
 <div class="accordion">
-  <div class="accordion-item">
+  <div id="Deletion" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#deletion-panel" aria-expanded="false" aria-controls="deletion-panel">
         Deletion
@@ -40,7 +40,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div id="Div" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#div-panel" aria-expanded="false" aria-controls="div-panel">
         Div
@@ -70,7 +70,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div id="Gap" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#gap-panel" aria-expanded="false" aria-controls="gap-panel">
         Gap
@@ -117,7 +117,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div id="Line-Numbering" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#line-numbering-panel" aria-expanded="false" aria-controls="line-numbering-panel">
         Line numbering
@@ -164,7 +164,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div id="Note" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#note-panel" aria-expanded="false" aria-controls="note-panel">
         Note
@@ -193,7 +193,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div id="Term" class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#term-panel" aria-expanded="false" aria-controls="term-panel">
         Term
@@ -248,3 +248,34 @@
     </div>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Function to open panel based on hash
+    function openPanelFromHash() {
+      const hash = window.location.hash;
+      if (hash) {
+        const panelId = hash.substring(1).toLowerCase() + '-panel';
+        const targetPanel = document.getElementById(panelId);
+
+        if (targetPanel) {
+          // Use Bootstrap's Collapse API to show the panel
+          const collapse = bootstrap.Collapse.getOrCreateInstance(targetPanel);
+
+          // Listen for the panel to finish opening, then scroll
+          targetPanel.addEventListener('shown.bs.collapse', function() {
+            document.querySelector(hash).scrollIntoView();
+          }, { once: true });
+
+          collapse.show();
+        }
+      }
+    }
+
+    // Open panel on initial load
+    openPanelFromHash();
+
+    // Listen for hash changes (when user clicks browser back/forward or changes URL)
+    window.addEventListener('hashchange', openPanelFromHash);
+  });
+</script>
