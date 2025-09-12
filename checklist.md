@@ -1579,16 +1579,16 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Prag.Varcl">P.Prag.Varcl</a>
 = _Papyri Wessely Pragenses_, ed. L. Varcl, in Listy Filologické (texts, translations, notes, but no indexes). &#91;Before 1988 known as P.Prag.&#93; [MF 2.70]
 
- * I, nos. 1—13, LF 70 (1946) 273—286 (SB VI 9052—9064).
-     * nos. 14—25, LF 71 (1947) 177—185 (SB VI 9072—9083).
- * II, nos. 1—3, LF (Suppl. Eunomia) 80 (1957) 16—31 and 56—80 (SB VI 9406—9408).
-     * nos. 4—8, LF (Eun.) 81 (1958) 6—27 (SB VI 9409).
-     * nos. 9—10, LF (Eun.) 81 (1958) 69—77 (SB VI 9409).
-     * nos. 11—17, LF (Eun.) 82 (1959) 3—18 (SB VI 9410).
-     * nos. 18—21, LF (Eun.) 82 (1959) 81—86 (SB VI 9411—9414).
-     * nos. 22—33, LF (Eun.) 83 (1960) 16—25 (SB VI 9415).
-     * nos. 34—39, LF (Eun.) 83 (1960) 50—55 (SB VI 9415).
-     * nos. 40—53, LF (Eun.) 84 (1961) 37—46 (SB VI 9415).
+ * I, nos. 1—13, LF 70 (1946) 273—286 (SB VI 9052—9064). [Online: jstor](https://www.jstor.org/stable/23457562)
+     * nos. 14—25, LF 71 (1947) 177—185 (SB VI 9072—9083). [Online: jstor](https://www.jstor.org/stable/23457506)
+ * II, nos. 1—3, LF (Suppl. Eunomia) 80 (1957) 16—31 and 56—80 (SB VI 9406—9408). [Online: jstor](https://www.jstor.org/stable/23460491);  [Online: jstor](https://www.jstor.org/stable/23460330)
+     * nos. 4—8, LF (Eun.) 81 (1958) 6—27 (SB VI 9409). [Online: jstor](https://www.jstor.org/stable/23460920)
+     * nos. 9—10, LF (Eun.) 81 (1958) 69—77 (SB VI 9409). [Online: jstor](https://www.jstor.org/stable/23460545)
+     * nos. 11—17, LF (Eun.) 82 (1959) 3—18 (SB VI 9410). [Online: jstor](https://www.jstor.org/stable/23463263)
+     * nos. 18—21, LF (Eun.) 82 (1959) 81—86 (SB VI 9411—9414). [Online: jstor](https://www.jstor.org/stable/23462967)
+     * nos. 22—33, LF (Eun.) 83 (1960) 16—25 (SB VI 9415). [Online: jstor](https://www.jstor.org/stable/23463123)
+     * nos. 34—39, LF (Eun.) 83 (1960) 50—55 (SB VI 9415). [Online: jstor](https://www.jstor.org/stable/23463489)
+     * nos. 40—53, LF (Eun.) 84 (1961) 37—46 (SB VI 9415). [Online: jstor](https://www.jstor.org/stable/23463056)
 
 ### <a id="P.Princ.">P.Princ.</a>
 = _Papyri in the Princeton University Collections_.
