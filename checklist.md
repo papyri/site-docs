@@ -2525,7 +2525,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 = _The Judaean-Syrian-Egyptian Conflict of 103—101 B.C.: A Multilingual Dossier Concerning a "War of Sceptres,"_ ed. E. van 't Dack, W. Clarysse, G. Cohen, J. Quaegebeur and J.K. Winnicki. Brussels 1989. (Coll.Hellen. I).
 
 ### <a id="CLTP">CLTP</a>
-= _Corpus of Latin texts on papyrus_, ed. M.C. Scappaticcio, E. Dickey, L.C. Colella. Cambridge 2025.
+= _Corpus of Latin texts on papyrus_, ed. M.C. Scappaticcio, E. Dickey, L.C. Colella. Cambridge 2025. 6 vols.
 
 ### <a id="C.Ord.Ptol.">C.Ord.Ptol.</a>
 = _Corpus des Ordonnances des Ptolémées_, ed. M.-Th. Lenger. Brussels 1964. (Acad. Roy. de Belgique, Cl. des Lettres, Mémoires, coll. in 8�, 57, 1). 2nd ed., corrected and updated, 1980. (Mémoires 64, 2). &#91;ARB]. See also Corpus des Ordonnances des Ptolémées: Bilan des additions et corrections (1964—1988); Compléments à la bibliographie by M.-Th. Lenger. Brussels 1990. (Pap.Brux. XXIV). [FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/37pvmjmv)
