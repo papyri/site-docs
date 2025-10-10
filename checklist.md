@@ -97,7 +97,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * XIX, Griechische Texte XVIII, ed. H. Harrauer et alii. 2004. Nos. 1-69; separate fascicle of plates. [ÖNB] <ddb:cpr;19>
  * XX, Ein neues Archiv koptischer Ostraka, ed. M.R.M. Hasitzka. 1995. [ÖNB] <ddb:cpr;20>
  * XXI, Arabic Agricultural Leases and Tax Receipts from Egypt, 148-427 A.H./ 765-1035 A.D., ed. G. Frantz-Murphy. 2001. Nos. 1-90. [ÖNB]
- * XXII, Griechische Texte XV, Documenti greci per la fiscalità e la amministrazione dell'Egitto arabo,, ed. F. Morelli. 2001. Nos. 1—60[ÖNB] <ddb:cpr;22>
+ * XXII, Griechische Texte XV, Documenti greci per la fiscalità e la amministrazione dell'Egitto arabo, ed. F. Morelli. 2001. Nos. 1—60[ÖNB] <ddb:cpr;22>
  * XXIII, Griechische Texte XVI, Neue Dokumente aus römischen und spätantiken Ägypten zu Verwaltung und Reichsgeschichte, ed. F. Mitthof. 2002. Nos. 1—35. [ÖNB] <ddb:cpr;23>
  * XXIV, Griechische Texte XVII, Dokumente zu Verwaltung und Militär aus dem spätantiken Ägypten, ed. B. Palme. 2002. Nos. 1—33. [ÖNB;] <ddb:cpr;24>
  * XXV, Fünfunddreissig griechische Papyrusbriefe aus der Spätantike, ed . A. Papathomas, München - Leipzig 2006. Nos . 1-35. [K. G . Saur] <ddb:cpr;25>
