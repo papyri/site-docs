@@ -2534,7 +2534,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="C.Jud.Syr.Eg.">C.Jud.Syr.Eg.</a>
 = _The Judaean-Syrian-Egyptian Conflict of 103—101 B.C.: A Multilingual Dossier Concerning a "War of Sceptres,"_ ed. E. van 't Dack, W. Clarysse, G. Cohen, J. Quaegebeur and J.K. Winnicki. Brussels 1989. (Coll.Hellen. I).
 
-### <a id="CLTP">CLTP</a>
+### <a id="CLTP">C.Lat.Text.Pap.</a>
 = _Corpus of Latin texts on papyrus_, ed. M.C. Scappaticcio, E. Dickey, L.C. Colella. Cambridge 2025. 6 vols. [Online: CUP](https://doi.org/10.1017/9781108868686)
 
 ### <a id="C.Ord.Ptol.">C.Ord.Ptol.</a>
