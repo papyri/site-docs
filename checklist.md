@@ -2536,8 +2536,12 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
 ### <a id="CLTP">C.Lat.Text.Pap.</a>
 = _Corpus of Latin texts on papyrus_, ed. M.C. Scappaticcio, E. Dickey, L.C. Colella. Cambridge 2025. 6 vols. [Online: CUP](https://doi.org/10.1017/9781108868686)
- * I, pt. IA. I BC to I BC-I AD. Nos. IA.1-34. Pt. IB. Nos. IB.1-130.
- * II, II AD-II-III AD. Nos. II.1-194.
+ * I, pt. IA. I BC/I BC-I AD. Nos. IA.1-34. Pt. IB. I AD-I/II AD. Nos. IB.1-130.
+ * II, II AD-II/III AD. Nos. II.1-194.
+ * III, III AD-III/IV AD. Nos. III.1-318.
+ * IV, IV AD-IV/V AD. Nos. IV.1-222.
+ * V, V AD-V/VI AD. Nos. V.1-187.
+ * VI, pt. VI. VI AD-VI/VII AD. Nos. VI.1-274. Pt. VII. VII AD-VIII AD. Nos. VII.1-124. Appendix. Latin texts on tablets from Egypt. Nos. 1-40.
 
 ### <a id="C.Ord.Ptol.">C.Ord.Ptol.</a>
 = _Corpus des Ordonnances des Ptolémées_, ed. M.-Th. Lenger. Brussels 1964. (Acad. Roy. de Belgique, Cl. des Lettres, Mémoires, coll. in 8�, 57, 1). 2nd ed., corrected and updated, 1980. (Mémoires 64, 2). &#91;ARB]. See also Corpus des Ordonnances des Ptolémées: Bilan des additions et corrections (1964—1988); Compléments à la bibliographie by M.-Th. Lenger. Brussels 1990. (Pap.Brux. XXIV). [FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/37pvmjmv)
