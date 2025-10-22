@@ -1770,7 +1770,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Sok.Nes.">P.Sok.Nes.</a>
 = _Soknopaiou Nesos Project II._ 
 
- * I, Greek and Egyptian Texts I (2003-2014), ed. M. Capasso and P. Davoli. Lecce, 2024. Greek papyri: P.Sok.Nes. G 1-13. Greek inscriptions: 1-8. <ddb:p.sok.nes> [Online: pensamultimedia](http://hdl.handle.net/2333.1/qnk98z3x)
+ * I, Greek and Egyptian Texts I (2003-2014), ed. M. Capasso and P. Davoli. Lecce, 2024. Greek papyri: P.Sok.Nes. G 1-13. Greek inscriptions: 1-8. <ddb:p.sok.nes> [Online: pensamultimedia](https://www.pensamultimedia.it/download/2701/26fc74525e51/soknopaiou-nesos-x-sito_e-book_new.pdf)
 
 ### <a id="P.Sorb.">P.Sorb.</a>
 = _Papyrus de la Sorbonne_
@@ -2331,6 +2331,11 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 = _Ostraca et papyrus coptes du topos de Saint-Marc à Thèbes_, ed. A. Boud’hors and C. Heurtel. Cairo 2015. (Bibliothèque d’Etudes Coptes 24.1).
 
 ### <a id="O.Sarga">O.Sarga</a> (see [P.Sarga](#P.Sarga))
+
+### <a id="O.Sok.Nes.">O.Sok.Nes.</a>
+= _Soknopaiou Nesos Project II._ 
+
+ * I, Greek and Egyptian Texts I (2003-2014), ed. M. Capasso and P. Davoli. Lecce, 2024. Greek ostraca: O.Sok.Nes. G 1-26. Demotic ostraca: O.Sok.Nes. D 1-502. <ddb:o.sok.nes> [Online: pensamultimedia](https://www.pensamultimedia.it/download/2701/26fc74525e51/soknopaiou-nesos-x-sito_e-book_new.pdf)
 
 ### <a id="O.Stras.">O.Stras.</a>
 
