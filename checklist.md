@@ -1767,6 +1767,11 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.SlaveryDem.">P.SlaveryDem.</a>
 = _Slavery in Pharaonic Egypt_, by A. El-M. Bakir. Cairo 1952, repr. 1978. (Supplément aux Annales du Service des Antiquités de l'Égypte, Cahier 18). There are plates (drawings and one photo) of Abnormal Hieratic and Demotic texts which are not transcribed in this volume.
 
+### <a id="P.Sok.Nes.">P.Sok.Nes.</a>
+= _Soknopaiou Nesos Project II._ 
+
+ * I, Greek and Egyptian Texts I (2003-2014), ed. M. Capasso and P. Davoli. Lecce, 2024. Greek papyri: P.Sok.Nes. G 1-13. Greek inscriptions: 1-8. <ddb:p.sok.nes> [Online: pensamultimedia](http://hdl.handle.net/2333.1/qnk98z3x)
+
 ### <a id="P.Sorb.">P.Sorb.</a>
 = _Papyrus de la Sorbonne_
 
