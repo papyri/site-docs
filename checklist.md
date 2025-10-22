@@ -2536,7 +2536,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
 ### <a id="CLTP">C.Lat.Text.Pap.</a>
 = _Corpus of Latin texts on papyrus_, ed. M.C. Scappaticcio, E. Dickey, L.C. Colella. Cambridge 2025. 6 vols. [Online: CUP](https://doi.org/10.1017/9781108868686)
- * I, pt. IA. I BC/I BC-I AD. Nos. IA.1-34. Pt. IB. I AD-I/II AD. Nos. IB.1-130.
+ * I, pt. IA. I BC-I BC/I AD. Nos. IA.1-34. Pt. IB. I AD-I/II AD. Nos. IB.1-130.
  * II, II AD-II/III AD. Nos. II.1-194.
  * III, III AD-III/IV AD. Nos. III.1-318.
  * IV, IV AD-IV/V AD. Nos. IV.1-222.
