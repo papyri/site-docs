@@ -4385,7 +4385,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Lit.Var.; P.Poethke II; P.Minutoli
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
  * 2025: Mag.Lev.; P.Tebt. VI
 
 ### <a id="Coptic">Coptic</a>
@@ -4457,7 +4457,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Heid. XI
  * 2022: P.Christ.Musl.; P.Sorb.Copt.
  * 2023: P.Tor.Cat.
- * 2024: P.Lips.Copt. I, P.Carlsb. XVIII
+ * 2024: P.Lips.Copt. I; P.Carlsb. XVIII; P.Sok.Nes.; O.Sok.Nes.
  * 2025: P.Aphrod.Let.Copt.
 
 ## <a id="Appendix">Appendix: Other citations sometimes used for editions of papyri</a>
