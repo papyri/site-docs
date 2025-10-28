@@ -834,6 +834,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 
  * I, ed. J.E. Powell. Cambridge 1936. Nos. 1—165. [Rp. CG] <ddb:p.harr;1>
  * II, ed. R.A. Coles, M. Manfredi, P.J. Sijpesteijn, A.S. Brown et al. Zutphen 1985. (Stud.Amst. XXVI). Nos. 166—240. [TPC] <ddb:p.harr;2>
+ * III, ed. N. Gonis. Berlin 2024. (Archiv Beih. 51). Nos. 241—321. <ddb:p.harr;3>
 
 ### <a id="P.Harrauer">P.Harrauer</a>
 = _Wiener Papyri als Festgabe zum 60. Geburtstag von Hermann Harrauer_, ed. B. Palme. Vienna 2001. Nos. 1-62. Nos. 1-3, 28-36, 38-45, 47-56 and 58-60 are Greek. Nos. 4 and 57 are Coptic. Nos. 5-11, 12-15 and 32-33 are Demotic. No. 37 is Latin. No. 61 is Arabic. Nos. 26-27 are Demotic and Greek. No. 46 is Greek and Latin. No. 62 is a medieval bilingual glossary (Latin/Greek). Nos. 1-2, 4, 12-36, 38-61 are papyri; nos. 5-11, 26-27 and 37 are ostraca. No. 3 is a tablet. [Holzhausen]  <ddb:p.harrauer>
@@ -4385,7 +4386,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
- * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
+ * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Harr. III; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
  * 2025: Mag.Lev.; P.Tebt. VI
 
 ### <a id="Coptic">Coptic</a>
