@@ -268,11 +268,11 @@ For a filler stroke or other space filler at the end of a line. For a horizontal
 
 #### Wedge-shaped space filler
 
-_To get this PN preview:_ `›` (PN does not yet support this character)
+_To get this PN preview:_ `›`
 
 _Use this Leiden+:_ `*filler(diple)*`
 
-_To create this XML:_ `<g rend="extension" type="diple"/>`
+_To create this XML:_ `<g rend="diple" type="filler"/>`
 
 _Example PN Link:_ [BKT.9.93](https://papyri.info/dclp/63021)
 
