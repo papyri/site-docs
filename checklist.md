@@ -598,7 +598,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
 = _Les archives de Marcus Lucretius Diogenes et textes apparentés,_ ed. P. Schubert. Bonn 1990. (Pap.Texte Abh. XXXIX). Nos. 1—68; nos. 1, 10—11 are Latin, the remainder Greek. [RH] <ddb:p.diog>
 
 ### <a id="P.Dion.">P.Dion.</a>
-= _Les archives privés de Dionysios, fils de Kephalas_, ed. E. Boswinkel and P.W. Pestman. Leiden 1982; with a separate fascicle of plates. (Pap.Lugd.Bat. XXII). Nos. 1—8 Demotic, nos. 9—41 and appendix A—B Greek. [EJB] <ddb:p.dion>
+= _Les archives privées de Dionysios, fils de Kephalas_, ed. E. Boswinkel and P.W. Pestman. Leiden 1982; with a separate fascicle of plates. (Pap.Lugd.Bat. XXII). Nos. 1—8 Demotic, nos. 9—41 and appendix A—B Greek. [EJB] <ddb:p.dion>
 
 ### <a id="P.Dion.Herm.">P.Dion.Herm.</a>
 = _Greek Papyrus Documents from Dionysias and from the Cairo Museum_, ed. M.A.I. Aly. Cairo 2001 (BullCPS 18) Nos. 1—13. Reprinted in SB XXVI 16554—16565 <ddb:p.dion.herm>
