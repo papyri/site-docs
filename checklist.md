@@ -4388,7 +4388,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Harr. III; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
- * 2025: Mag.Lev.; P.Tebt. VI
+ * 2025: Mag.Lev.; P.Tebt. VI; C.Lat.Text.Pap.
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
