@@ -454,8 +454,11 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 
  * 2nd ed., ed. R. P. Salomons. Bruxelles 2014. (Pap.Brux. 35). Nos. 1-48.
 
+### <a id="P.Cair.Reggiani">P.Cair.Reggiani</a>
+= _Greek Papyri from the Fayum in the Cairo Egyptian Museum_, ed. N. Reggiani. Parma 2023. <ddb:p.cair.reggiani>
+
 ### <a id="P.Cair.Salem">P.Cair.Salem</a>
-= _Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian Museum_, ed. N. A. Salem. Cairo 2006. <ddb:p.cair.salem>
+= _Graeco-Roman and Byzantine Documents. Ten Unpublished Papyri from the Egyptian Museum_, ed. N.A. Salem. Cairo 2006. <ddb:p.cair.salem>
 
 ### <a id="P.Cair.Zen.">P.Cair.Zen.</a>
 = _Zenon Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire_, ed. C.C. Edgar. Cairo. <ddb:p.cair.zen>
@@ -4386,7 +4389,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri; P.Oxy. LXXXV; C.Pap.Jud. IV
  * 2021: P.Hoogendijk; P.Cair.Mich. III; P.Heid. XI; P.Köln XVII; P.Yale IV; P.Oxy. LXXXVI
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V
- * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.
+ * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.; P.Cair.Reggiani
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Harr. III; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
  * 2025: Mag.Lev.; P.Tebt. VI; C.Lat.Text.Pap.
 
