@@ -2365,7 +2365,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
  * I, _Amheida I: Ostraka from Trimithis Volume 1: Texts from the 2004–2007 Seasons_, ed. R.S. Bagnall and G.R. Ruffini, with contributions by R. Cribiore and G. Vittmann. 2012. [Online: AWDL](http://dlib.nyu.edu/awdl/isaw/amheida-i-otrim-1). Nos. 1–454.
  * II, _Amheida III: Ostraka from Trimithis Volume 2: Greek Texts from the 2008–2013 Seasons_, ed. R. Ast and R.S. Bagnall, with contributions by C. Caputo and R. Cribiore. 2012. Nos. 455–846.
- * III, _Amheida VIII: Ostraka from Trimithis Volume 3: Texts mainly from the 2014 and 2015 Seasons_, ed. R. Ast, R.S. Bagnall, C. Caputo, R. Cassagrande-Kim, G.R. Ruffini and G. Vittmann. 2025. Nos. 847–1078.
+ * III, _Amheida VIII: Ostraka from Trimithis Volume 3: Texts mainly from the 2014 and 2015 Seasons_, ed. R. Ast, R.S. Bagnall, C. Caputo, R. Casagrande-Kim, G.R. Ruffini and G. Vittmann. 2025. Nos. 847–1078.
 
 ### <a id="O.Vind.Copt.">O.Vind.Copt.</a>
 = Die koptischen Ostraka der Papyrussammlung der Österreichischen Nationalbibliothek, ed. W. C. Till. Vienna 1960. (Denkschrift Wien 78.1). Nos. 1—473. [Online: coptica](https://www.coptica.ch/TILL-Ostraka.pdf)
