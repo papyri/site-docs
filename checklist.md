@@ -2686,7 +2686,8 @@ I.2 Galenus – Isocrates
  * I, Some Coins of Artaxerxes and other short texts in the Demotic Script found on various objects and gathered from many publications, ed. S.P. Vleeming. 2001. Nos. 1-277. (Stud.Demotica 5)
  * II, Demotic and Greek-Demotic Mummy Labels and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Walpole, MA 2011. Nos. 278—1200.  (Stud.Demotica 9)
  * III, Demotic Graffiti and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Bristol, CT 2015. Nos. 1201—2350. (Stud.Demotica 12)
-
+ * IV, Demotic funerary stelae and other short texts gathered from many publications, ed. S.P. Vleeming. Leuven - Paris - Bristol, CT 2024. Nos. 2351-2880. (Stud.Demotica 14)
+ 
 ### <a id="Shorthand_Manuals">Shorthand Manuals</a>
 = _Greek Shorthand Manuals_, ed. H.J.M. Milne. London 1934. (Egypt Exploration Society, Graeco-Roman Memoirs 24). Includes nos. 1—6 of P.Ant. [EES]
 
