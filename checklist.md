@@ -1484,7 +1484,7 @@ Indexes to Parts I—IV by E.J. Knudtzon. 1946—1947, pp. 89—110.
 _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995)
 
 ### <a id="P.PalauRib.Copt.">P.PalauRib.Copt.</a>
-= _Coptica Barcinonensia. Textes et documents de la 5e université d'été de papyrologie copte (P.PalauRib.Copt. 1-29 et P.PalauRib.Arab. 1-2)_, ed. M.J. Albarrán Martínez, A. Boud'hors and A. Delattre in the Journal of Coptic Studies 19 (2017) 1—195. Nos. 1—29. Two Arabic texts are also published. [Sem.Pap.Barc.]
+= _Coptica Barcinonensia. Textes et documents de la 5e université d'été de papyrologie copte (P.PalauRib.Copt. 1-29 et P.PalauRib.Arab. 1-2)_, ed. M.J. Albarrán Martínez, A. Boud'hors and A. Delattre in the Journal of Coptic Studies 19 (2017) 1—195. Nos. 1—29. Two Arabic texts are also published. [Sem.Pap.Barc.] [Online: Peeters online journals](https://poj.peeters-leuven.be/content.php?url=issue&journal_code=JCS&issue=0&vol=19)
 
 ### <a id="P.PalauRib.Lit.">P.PalauRib.Lit.</a>
 = _Papiros literarios griegos dei fondo Palau-Ribes_, ed. J. O'Callaghan. Barcelona 1993. (Estud.Pap. 3). Nos. 1—40. [Sem.Pap.Barc.]
