@@ -4167,6 +4167,9 @@ Although individual and small groups of papyri occasionally receive their first 
 ### <a id="AnalPap">AnalPap</a>
  =  Analecta Papyrologica. Published annually by Editrice Sicania, Messina 1989—.
 
+### <a id="AncSoc">AncSoc</a>
+ =  Ancient Society. Published annually by Kotholieke Universiteit te Leuven, Leuven 1970—. [Online: jstor](https://www.jstor.org/journal/ancientsociety)
+
 ### <a id="APF">APF</a>
  = Archiv für Papyrusforschung und verwandte Gebiete. Published semiannually by K.G. Saur (succeeding B.G. Teubner), München/Leipzig 1901— . [KGS]
 
