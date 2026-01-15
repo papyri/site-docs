@@ -162,7 +162,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * I, The Legacy of Harpocration, ed. W.H. Willis and K. Maresch. Opladen 1997. (Pap.Colon. XXVI/1). Nos. 1—25. [FS] <ddb:p.ammon;1>
  * II, Das Archiv des Aurelius Ammon (P.Ammon): Papyri aus den Sammlungen des Istituto Papirologico "G. Vitelli" (Università di Firenze), der Duke University, Durham N.C., und der Universität zu Köln, ed. K. Maresch and I. Andorlini. Paderborn 2006. (Pap.Colon. 26, 2). Nos. 26-56; separate fascicle of plates. [Verlag Ferdinand Schöningh] <ddb:p.ammon;2>
 
-### <a id="P.Amst._I">P.Amst. I</a>
+### <a id="P.Amst.">P.Amst.</a>
 = _Die Amsterdamer Papyri I_, ed. R.P. Salomons, P.J. Sijpesteijn, K.A. Worp. Zutphen 1980. (Stud.Amst. XIV). Nos. 1—100. [TPC] Cf. also P.Gron.Amst. <ddb:p.amst;1> [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9201)
 
 ### <a id="P.Anag.">P.Anag.</a>
@@ -320,7 +320,7 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 ### <a id="P.Bingen">P.Bingen</a>
 = _Papyri in Honorem Johannis Bingen Octogenarii_, ed. H. Melaerts. Leuven 2000. (Studia Varia Bruxellensia ad Orbem Graeco-Latinum Pertinentia 5). Nos. 1—151. Nos. 27—36 and 39—147 are Greek documents; nos. 38 and 39 Demotic and nos. 149—151 Coptic documents. No. 116 is a clay tablet. [Peeters] <ddb:p.bingen>
 
-### <a id="P.Bodl._I">P.Bodl. I</a>
+### <a id="P.Bodl.">P.Bodl.</a>
 = _Papyri Bodleianae I_, ed. R.P. Salomons. Amsterdam 1996. (Stud.Amst. XXXIV). Nos. 1—171. An appendix inventories part of the Greek papyri in the Bodleian. [JCG] <ddb:p.bodl;1>
 
 ### <a id="P.Bodm.">P.Bodm.</a>
@@ -1750,7 +1750,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="PSI_Congr.XXI">PSI Congr.XXI</a>
 = _Dai papiri della Società Italiana: Omaggio al XXI Congresso Internazionale di Papirologia_. Florence 1995. Nos. 1—19.
 
-### <a id="PSI_Corr._I">PSI Corr. I</a>
+### <a id="PSI_Corr.">PSI Corr.</a>
 = _Correzioni e riedizioni di papiri della Società Italiana I_, ed. M. Manfredi. Florence 1977. A reedition of PSI 240, 835, 1148, 1150, 1156 and 1244.
 
 ### <a id="PSI_Il.">PSI Il.</a>
@@ -2533,7 +2533,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * I, Bonn 1983. (Pap.Texte Abh. XXX). [RH]
  * II, Munich-Leipzig 2001. (Archiv Beih. 8). [KGS]
 
-### <a id="C.Illum.Pap._I">C.Illum.Pap. I</a>
+### <a id="C.Illum.Pap.">C.Illum.Pap.</a>
 = _Illuminierte Papyri, Pergamente und Papiere I_, ed. U. Horak. Vienna 1992. (Pegasus Oriens I). Nos. 1, 28, 31, 34, 38, 45, 49, 54 and 59 include Greek documentary texts. [Verlag Holzhausen]
 
 ### <a id="C.Jud.Syr.Eg.">C.Jud.Syr.Eg.</a>
