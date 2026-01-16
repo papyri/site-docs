@@ -4271,7 +4271,7 @@ Although individual and small groups of papyri occasionally receive their first 
  = Serapis. (Some volumes titled Sarapis.) Published by the Oriental Institute of the University of Chicago, 1969—1986 (vols. 1—8).
 
 ### <a id="Studî">Studî</a>
- = Studî della Scuola Papirologica. Published by the Accademia Scientifico-Letteraria in Milano, 1915—1926 (vols. 1—4). [Rp. CG]
+ = Studî della Scuola Papirologica. Published by the Accademia Scientifico-Letteraria in Milano, 1915—1926 (vols. 1—4). [Rp. CG] [Online: jstor](https://www.jstor.org/journal/studscuopapi)
 
 ### <a id="StudPap">StudPap</a>
  = Studia Papyrologica, Rivista española de papirología. Published semiannually by Facultades de Filosofía y Teología, San Cugat del Vallés. Barcelona 1962—1983 (vols. 1—22).
