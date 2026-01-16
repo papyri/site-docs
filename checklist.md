@@ -4190,6 +4190,9 @@ Although individual and small groups of papyri occasionally receive their first 
 ### <a id="APF">APF</a>
  = Archiv für Papyrusforschung und verwandte Gebiete. Published semiannually by K.G. Saur (succeeding B.G. Teubner), München/Leipzig 1901— . [KGS]
 
+### <a id="BACPS">BACPS</a>
+ = Bulletin of the Center of Papyrological Studies. Published annually by Ain Shams University, Cairo 1985— .
+
 ### <a id="BASP">BASP</a>
  = The Bulletin of the American Society of Papyrologists. Published quarterly by the Society, 1963— . [Oxbow]
 
@@ -4198,9 +4201,6 @@ Although individual and small groups of papyri occasionally receive their first 
 
 ### <a id="BSAC">BSAC</a>
  = Bulletin de la Société d'Archéologie Copte. Published by the Société, Cairo 1935—.
-
-### <a id="BACPS">BACPS</a>
- = Bulletin of the Center of Papyrological Studies. Published annually by Ain Shams University, Cairo 1985— .
 
 ### <a id="CdÉ">CdÉ</a>
  = Chronique d'Égypte, Bulletin périodique de la Fondation Égyptologique Reine Élisabeth. Published by the Fondation, Brussels 1925— .
