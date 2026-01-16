@@ -749,7 +749,7 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * III, Juristische Urkunden der Ptolemäerzeit, ed. J. Partsch. Heidelberg 1927. (AbhHeidelberg 1927, Abh. 7). Nos. 12—38. [MF 1.82; rp. CG] <ddb:p.freib;3> [Online: digitale-sammlungen.de](https://daten.digitale-sammlungen.de/%7Edb/0011/bsb00113603/images/index.html?seite=00001&l=de)
  * IV, Griechische und demotische Papyri der Universitätsbibliothek Freiburg, ed. R.W. Daniel, M. Gronewald, H.-J. Thissen. Bonn 1986. (Pap.Texte Abh. XXXVIII). Nos. 39—44 are listed in P.Freib. IV as follows: 39 = SB V 7600; 40—41 = SB III 6094—6095; 42 = SB IV 7351; 43 = SB VI 9562; 44 = P.Customs 266. Nos. 45—71 Greek; nos. 72—75 Demotic. There are two additional Demotic texts, P.Berlin P.15791 and P.Berlin P.23742, published here. [RH] <ddb:p.freib;4>
 
-### <a id="P.FuadUniv.">P.FuadUniv.</a> (or <a id="P.FuadCrawford">P.FuadCrawford</a>)
+### <a id="P.Fuad I Univ.">P.Fuad I Univ.</a> (or <a id="P.Fuad Crawford">P.Fuad Crawford</a>)
 = _Fuad I University Papyri_, ed. D.S. Crawford. Alexandria 1949. (Publ.Soc.Fouad VIII). Nos. 1—43. See under [P.Grad.](#P.Grad.) for further information on these papyri. [MF 2.95; rp.CG] <ddb:p.fuad.i.univ>
 
 ### <a id="P.Gascou">P.Gascou</a>
@@ -4340,7 +4340,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 1946: (P.Lund IV); (P.Prag.Varcl I)
  * 1947: P.Bacch.; P.Lund (II+III+IV+)V; P.Mich. VII; P.Phil.; (P.Prag.Varcl II)
  * 1948: P.Mert. I; P.Oxy. XIX; (P.Stras. III)
- * 1949: P.FuadUniv.
+ * 1949: P.Fuad I Univ.
  * 1950: P.Ant. I; P.Edfou III; P.Fam.Tebt.; O.Edfou III
  * 1951: P.Mich. VIII; PSI XII; O.Mich. III
  * 1952: (P.Lund VI); P.Oxy. XX; P.Ryl. IV; SB Bh. 1; T.Alb.
