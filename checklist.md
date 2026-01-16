@@ -4568,6 +4568,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="P.Chrestomathie">P.Chrestomathie</a> (see [P.Chrest.Revillout](#P.Chrest.Revillout))
  * <a id="P.Col.123">P.Col.123</a> (see [P.Col. VI.](#P.Col.))
  * <a id="P.Col.480">P.Col.480</a> (see [P.Col. I.](#P.Col.))
+ * <a id="P.Col.Teeter">P.Col.Teeter</a> (see [P.Col. XI 293-302](#P.Col.))
  * <a id="P.Col.Zen.">P.Col.Zen.</a> (see [P.Col. III and IV.](#P.Col.))
  * <a id="P.Coll. Hell. I">P.Coll. Hell. I</a> (see [C.Jud.Syr.Eg.](#C.Jud.Syr.Eg.))
  * <a id="P.Colon.">P.Colon.</a> (see [P.Köln](#P.Köln))
