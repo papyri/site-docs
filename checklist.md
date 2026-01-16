@@ -423,6 +423,16 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * II, Die Demotischen Papyrus, ed. W. Spiegelberg. Part 1, Text. Strassburg 1908. [Online: archive.org](https://archive.org/details/diedemotischende39spie). Part 2, Plates. Strassburg 1906. Nos. 30601—31270 and 50001—50022. [Online: archive.org](https://archive.org/details/SpiegelbergII)
  * III, Demotische Inschriften und Papyri, ed. W. Spiegelberg. Berlin 1932. Stelae etc. nos. 50023-50057; papyri nos. 50058—50165. [Online: archive.org](https://archive.org/details/SpiegelbergIII)
 
+### <a id="P.Cair.Arab.">P.Cair.Arab.</a>
+= _Arabic Papyri in the Egyptian Library, ed. A. Grohmann. Cairo_.
+
+ * I, 1934. Nos. 1-72.
+ * II, 1936. Nos. 73-145.
+ * III, 1938. Nos. 146-214.
+ * IV, 1952. Nos. 215-287.
+ * V, 1955. Nos. 288-361.
+ * VI, 1962. Nos. 362-444.
+
 ### <a id="P.Cair.Cat.">P.Cair.Cat.</a>
 = _Greek Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire, Nos. 10001—10869_, ed. B.P. Grenfell and A.S. Hunt. Oxford 1903. Not a publication of papyri, but a list and short description of papyri in the Cairo Museum. Texts are given only for Nos. 10696, 10735, and 10736. There is a concordance to those that have been published at ZPE 91 (1992) 95—98 and CdÉ 72 (1997) 305f.; HGV presents a current concordance: <http://www.rzuser.uni-heidelberg.de/~gv0/Texte/P.Cair./P.Cair._Cat.html>. &#91;MF 2.30; rp. AMH, OZ&#93; [Online: archive.org](https://archive.org/details/greekpapyri00gren)
 
