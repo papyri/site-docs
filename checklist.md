@@ -881,6 +881,13 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
  * X, Die badischen Grabungen in Qarâra und El-Hibeh 1913 und 1914, ed. W. Habermann and others. 2014. (Pap.Heid. N.F. XIV). Nos. 446-458.
  * XI, Vom byzantinischen zum arabischen Ägypten. Neue dokumentarische Papyri aus dem 5. bis 8. Jh. (P.Heid. XI), ed. L. Berkes. 2021. (STHP II). Nos. 449-502. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/869)
 
+### <a id="P.Heid.Arab.">P.Heid.Arab.</a>
+= _Veröffentlichungen aus der Heidelberger Papyrussammlung_. See also [Pap.Heid.](#Pap.Heid.)
+
+ * I = Papyri Schott-Reinhardt I, ed. C.H. Becker, Heidelberg 1906. Nos. 1-22 with an appendix of 12 Strasbourg texts.
+ * II = Arabische Briefe auf Papyrus und Papier aus der Heidelberger Papyrus-Sammlung, ed. W. Diem. Wiesbaden 1991. Nos. 1-70.
+ * III = Arabische Briefe auf Papier aus der Heidelberger Papyrus-Sammlung, ed. W. Diem. Heidelberg 2013. Nos. 1-52.
+
 ### <a id="P.Heid.Kopt.">P.Heid.Kopt.</a>
 = _Coptica Palatina: koptische Texte aus der Heidelberger Papyrussammlung,_ ed. A. Boud'hors, A. Delattre, G. Schenke, T.S. Richter, G. Schmelz. 2018. (STHP I). Nos. 1-25. [Online: uni-heidelberg.de](https://heiup.uni-heidelberg.de/catalog/book/286)
 
