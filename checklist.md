@@ -670,7 +670,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * III, ed. J. Bazant, H. Harrauer and R. Pinaudi with many others. Prague 2010. (Eirene 46 [2010] pages 1–149). Nos. 1–37. <ddb:p.eirene;3>
  * IV, ed. H. Harrauer and R. Pinaudi with many others. Prague 2016. (Eirene 52 [2016] pages 1–290). Nos. 1–50. <ddb:p.eirene;4>
 
-### <a id="P.Eleph.">P.Eleph.</a> (see [O.Eleph.Wagner](#O.Eleph.Wagner)).
+### <a id="P.Eleph.">P.Eleph.</a> (see [O.Eleph.Wagner](#O.Eleph.Wagner))
 
 ### <a id="P.Eleph.Dem.">P.Eleph.Dem.</a>
 = _Demotische Papyrus von der Insel Elephantine_, ed. W. Spiegelberg. Leipzig 1908. (Dem.Stud. 2). Nos. 1—13; nos. 5—7 and 12 have Greek subscriptions. [Online: archive.org](https://archive.org/details/bub_gb_jyHgAAAAMAAJ)
@@ -1687,8 +1687,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Sarap.">P.Sarap.</a>
 = _Les archives de Sarapion et de ses fils: une exploitation agricole aux environs d'Hermoupolis Magna (de 90 à 133 p.C.)_, ed. J. Schwartz. Cairo 1961. (Institut Français d'Archéologie Orientale, Bibliothèque d'Étude 29). Nos. 1—103. [SEVPO] <ddb:p.sarap>
 
-### <a id="P.Sarga">P.Sarga</a>
-= _Wadi Sarga, Coptic and Greek Texts_, ed. W.E. Crum and H.I. Bell, with an introduction by R. Campbell Thompson. Copenhagen 1922. (Coptica III). The Greek and Coptic texts are listed on p. xv; no. 9 is on vellum, no. 12 on papyrus, the remainder on ostraca (= O.Sarga). All the documentary texts listed in [P.Sarga](#P.Sarga) on page xv as Greek, nos. 121—127, 147, 150—151, 155—156, 159—160, 195, 199—201, 205—374, 380—385 are reprinted in SB XVIII. There is a concordance in SB XIX, Abschnitt 7. Many of these texts contain a word or more in Coptic. [Online: archive.org](https://archive.org/details/cu31924026887616)
+### <a id="P.Sarga">P.Sarga</a> (see [P.Sarga](#P.Sarga))
 
 ### <a id="P.Schenkung.">P.Schenkung.</a>
 = _Eine demotische Schenkungsurkunde aus der Zeit des Darius_, ed. W. Erichsen. Wiesbaden 1963. (Akad.Wiss.Mainz, Abh. geistes- und sozialwissenschaftlichen Klasse 1962, 6).
@@ -2351,7 +2350,8 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="O.Saint-Marc">O.Saint-Marc</a>
 = _Ostraca et papyrus coptes du topos de Saint-Marc à Thèbes_, ed. A. Boud’hors and C. Heurtel. Cairo 2015. (Bibliothèque d’Etudes Coptes 24.1).
 
-### <a id="O.Sarga">O.Sarga</a> (see [P.Sarga](#P.Sarga))
+### <a id="O.Sarga">O.Sarga</a>
+= _Wadi Sarga, Coptic and Greek Texts_, ed. W.E. Crum and H.I. Bell, with an introduction by R. Campbell Thompson. Copenhagen 1922. (Coptica III). The Greek and Coptic texts are listed on p. xv; no. 9 is on vellum, no. 12 on papyrus, the remainder on ostraca (= O.Sarga). All the documentary texts listed in [P.Sarga](#P.Sarga) on page xv as Greek, nos. 121—127, 147, 150—151, 155—156, 159—160, 195, 199—201, 205—374, 380—385 are reprinted in SB XVIII. There is a concordance in SB XIX, Abschnitt 7. Many of these texts contain a word or more in Coptic. [Online: archive.org](https://archive.org/details/cu31924026887616)
 
 ### <a id="O.Sok.Nes.">O.Sok.Nes.</a>
 = _Soknopaiou Nesos Project II._ 
