@@ -1687,7 +1687,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
 ### <a id="P.Sarap.">P.Sarap.</a>
 = _Les archives de Sarapion et de ses fils: une exploitation agricole aux environs d'Hermoupolis Magna (de 90 à 133 p.C.)_, ed. J. Schwartz. Cairo 1961. (Institut Français d'Archéologie Orientale, Bibliothèque d'Étude 29). Nos. 1—103. [SEVPO] <ddb:p.sarap>
 
-### <a id="P.Sarga">P.Sarga</a> (see [P.Sarga](#P.Sarga))
+### <a id="P.Sarga">P.Sarga</a> (see [O.Sarga](#O.Sarga))
 
 ### <a id="P.Schenkung.">P.Schenkung.</a>
 = _Eine demotische Schenkungsurkunde aus der Zeit des Darius_, ed. W. Erichsen. Wiesbaden 1963. (Akad.Wiss.Mainz, Abh. geistes- und sozialwissenschaftlichen Klasse 1962, 6).
