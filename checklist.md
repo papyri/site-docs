@@ -2148,9 +2148,6 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="O.Camb.">O.Camb.</a>
 = "Ostraca in the Cambridge University Library," in [O.Bodl.](#O.Bodl.) I, pp. 153—173, nos. 1—141. Greek texts except nos. 124, 125(?), 127—128, 134—135 and 138, which contain Coptic items, and no. 136, which contains Demotic.
 
-### <a id="O.Chic.Muhs">O.Chic.Muhs</a>
-= _Tax Receipts, Taxpayers, and Taxes in Early Ptolemaic Thebes_, ed. B. P. Muhs. Chicago 2005. (Oriental Institute Publications 126). Nos. 1-61.&#91;OI&#93; [Online: Oriental Institute](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/OIP126.pdf)
-
 ### <a id="O.Claud.">O.Claud.</a>
 = _Mons Claudianus. Ostraca graeca et latina_. [SEVPO]
 
@@ -2363,10 +2360,6 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * I, Griechische und griechisch-demotische Ostraka der Universitäts- und Landesbibliothek zu Strassburg im Elsass, ed. P. Viereck. Berlin 1923. Nos. 1—812; a few are Demotic or bilingual. There is an index to the Demotic material. [MF 1.79]
  * II, Thèbes et ses taxes: Recherches sur la fiscalité en Égypte romaine, ed. P. Heilporn. Paris 2009. Nos. 813—906. There is an index to the Demotic material. [De Boccard]
 
-### <a id="O.Taxes">O.Taxes</a>
-
- * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B. P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
-
 ### <a id="O.Tebt.">O.Tebt.</a> (Nos. 1—20, see [P.Tebt. II](#P.Tebt._II))
 
 ### <a id="O.Tebt.Pad.">O.Tebt.Pad.</a>
@@ -2377,6 +2370,11 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
 ### <a id="O.Theb.">O.Theb.</a>
 = _Theban Ostraca_. London 1913. (Univ. of Toronto Studies, Philological Series I). Part I, Hieratic Texts, ed. A.H. Gardiner; 31 texts on pp. 1—16 with an additional text in an appendix on pp. 16a—16o. Part II, Demotic Texts, ed. H. Thompson; 44 texts not numbered serially on pp. 23—65. Part III, Greek Texts, ed. J.G. Milne; nos. 1—146 on pp. 71—161 with Demotic in nos. 16, 21—26, 28 and 31. Part IV, Coptic Texts, ed. H. Thompson; nos. 1—48 on pp. 179—212. [Online: archive.org](https://archive.org/details/cu31924026873889)
+
+### <a id="O.Theb.Taxes">O.Theb.Taxes</a>
+
+ * I, _Tax Receipts, Taxpayers, and Taxes in Early Ptolemaic Thebes_, ed. B.P. Muhs. Chicago 2005. (Oriental Institute Publications 126). Nos. 1-61.&#91;OI&#93; [Online: Oriental Institute](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/OIP126.pdf)
+ * II, Receipts, Scribes, and Collectors in Early Ptolemaic Thebes (O. Taxes 2), ed. B.P. Muhs. Leuven, Paris and Walpole, MA 2011. (Stud.Demotica 8). Nos. 1–157.
 
 ### <a id="O.Trim.">O.Trim.</a>
 
@@ -4530,10 +4528,12 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="O.Bruss.Berl.">O.Bruss.Berl.</a> (see [O.Berl.](#O.Berl.) and [O.Brux.](#O.Brux.))
  * <a id="O.Cair.">O.Cair.</a> (see [O.Cair.Cat.](#O.Cair.Cat.))
  * <a id="O.Cair.GPW">O.Cair.GPW</a> (see [O.Cair.](#O.Cair.))
+ * <a id="O.Chic.Muhs">O.Chic.Muhs</a> (see [O.Theb.Taxes](#O.Theb.Taxes))
  * <a id="O.LeidenInsinger">O.LeidenInsinger</a> (see [O.Leid.](#O.Leid.))
  * <a id="OMH">OMH</a> (see [O.Medin.HabuCopt.](#O.Medin.HabuCopt.))
  * <a id="O.Rom.">O.Rom.</a> (see [O.Ont.Mus.](#O.Ont.Mus.))
  * <a id="O.Tait">O.Tait</a> (see [O.Bodl.](#O.Bodl.))
+ * <a id="O.Taxess">O.Taxes</a> (see [O.Theb.Taxes](#O.Theb.Taxes))
  * <a id="O.Viereck">O.Viereck</a> (see [O.Stras.](#O.Stras.))
  * <a id="O.Zereteli">O.Zereteli</a> (see [O.Erem.](#O.Erem.))
  * <a id="P.Amst.">P.Amst.</a> (see [P.Gron.](#P.Gron.))
