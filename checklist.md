@@ -3233,7 +3233,7 @@ I.2 Galenus – Isocrates
  * IX, Le Mythe de l’oeil du soleil, ed. F. de Cenival. 1988. [Gisela Zauzich Verlag]
  * X, Die demotischen Graffiti von Medinet Habu, ed. H.J. Thissen. 1989. [Gisela Zauzich Verlag]
  * XI, Der verkommene Harfenspieler, ed. H.J. Thissen. 1992. [Gisela Zauzich Verlag]
- * XII, see [P.Hausw.](#P.Hausw.)
+ * XII, see [P.Hausw.Manning](#P.Hausw.Manning)
  * XIII, Der verblendete Gelehrte: der erste Setna-Roman (P. Kairo 30646), ed. S. Goldbrunner. 2006. [Gisela Zauzich Verlag]
  * XIV, The demotic letter: a study of epistolographic scribal traditions against their intra- and intercultural background, by M. Depauw. 2006. [Gisela Zauzich Verlag]
 
