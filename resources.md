@@ -1,4 +1,4 @@
-**Papyrological Tools and Resources**
+# Papyrological Tools and Resources
 
  * [The Arabic Papyrology Database](http://www.naher-osten.lmu.de/apd) (APD): Searchable database of Arabic documents on parchment, papyrus and paper from the 7th to 16th c. A.D. (full text and metadata).
  * [Arabic Papyrology School](http://www.naher-osten.lmu.de/aps) (APS): Interactive introduction to Arabic papyrology. 
@@ -14,7 +14,7 @@
  * [TYCHE](http://tyche-journal.at/tyche/index.php/tyche): A peer-reviewed journal based in the Department of Ancient History, Papyrology and Epigraphy at the University of Vienna. Special emphasis on the edition and interpretation of epigraphic and papyrological sources.
  * [WörterListen](https://papyri.uni-koeln.de/papyri-woerterlisten/index.html) (WL): Index (PDF) of Greek and Latin terms from documents published since 1996.
 
-**Organizations**
+## Organizations
 
  * [American Society of Papyrologists](https://papyrology.org) (ASP)
  * [Association Internationale de Papyrologues](http://www.ulb.ac.be/assoc/aip) (AIP) 
