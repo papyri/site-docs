@@ -3699,12 +3699,13 @@ I.2 Galenus – Isocrates
  * XLIII, Materielle Studien an Papier-, Papyrus- und Pergamentkodizes des 2. bis 13. Jahrhunderts n. Chr. aus der Kölner Papyrussammlung, by S.-E. Breternitz. 2020.
  * XLIV, Studien zur griechischen Syntax dokumentarischer Papyri der römischen Zeit, by Giuseppina di Bartolo. 2021.
  * XLV, Die Prostagmata der Ptolemäer, by Eva Christina Käppel. 2021.
- * XLVI/1, see [P.KölnLexikon](#P.KölnLexikon)
- * XLVI/II, see [P.KölnSarapion](#P.KölnSarapion)
+ * XLVI/1, see [P.Köln Lexikon](#P.Köln Lexikon)
+ * XLVI/II, see [P.Köln Sarapion](#P.Köln Sarapion)
  * XLVII, Die Iliasglossare auf Papyrus: Untersuchungen zu einer Textkategorie, by V. Fontanella. 2023.
  * XLVIII, Honigsüsse Briefe und lastende Worte : Studien zur Äusserung von Emotionen durch metaphorischen Sprachgebrauch im Altgriechischen, by Eleni Skarsouli. 2023.
  * XLIX, The office of the Epimeletes: studies in the administration of Ptolemaic Egypt, by Haytham Qandeil. 2024.
  * L,  Die Papyrusbriefe zwischen Eltern und Kindern: eine generationsübergreifende Beziehung, by N.V. Navarrete. 2024.
+ * LI, The Alexandrian Edition of Alcaeus, by T. Ford. 2026.
  * LII, see [Mag.Lev.](#Mag.Lev.)
 
 ### <a id="Pap.Flor.">Pap.Flor.</a>
