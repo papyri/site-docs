@@ -924,14 +924,14 @@ See _Catalogo dei Papiri Ercolanesi_, compiled under the direction of M. Gigante
 ### <a id="P.Iand.">P.Iand.</a>
 = _Papyri Iandanae_, ed. C. Kalbfleisch et al. Leipzig. <ddb:p.iand>
 
- * I, Voluminum codicumque fragmenta Graeca cum amuleto christiano, ed. E. Schaefer. 1912. Nos. 1—7.  &#91;MF 2.6&#93; [Online: archive.org](https://archive.org/details/papyriiandanaecv01kalb)
- * II, Epistulae privatae Graecae, ed. L. Eisner. 1913. Nos. 8—25. [MF 2.7] <ddb:p.iand;2> [Online: archive.org](https://archive.org/details/papyriiandanaecv01kalb)
- * III, Instrumenta Graeca publica et privata, pt. I, ed. L. Spohr. 1913. Nos. 26—51. [MF 2.8] <ddb:p.iand;3> [Online: archive.org](https://archive.org/details/papyriiandanaecv01kalb)
- * IV, Instrumenta Graeca publica et privata, pt. II, ed. G. Spiess. 1914. Nos. 52—68b. Nos. 68, 68a, and 68b are Latin. [MF 2.9] <ddb:p.iand;4> [Online: archive.org](https://archive.org/details/papyriiandanaecv01kalb)
- * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1931. Nos. 69—90. [MF 2.19] [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv5/papiandv5_-_meta.html)
- * VI, Griechische Privatbriefe, ed. G. Rosenberger. 1934. Nos. 91—133. [MF 2.11] <ddb:p.iand;6> [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv6/papiandv6_-_meta.html)
- * VII, Griechische Verwaltungsurkunden, ed. D. Curschmann. 1934. Nos. 134—145. [MF 2.12] <ddb:p.iand;7> [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv7/papiandv7_-_meta.html)
- * VIII, Griechische Wirtschaftsrechnungen und Verwandtes, ed. J. Hummel. 1938. Nos. 146—155. [MF 2.13] <ddb:p.iand;8> [Online: uni-giessen.de](https://bibd.uni-giessen.de/pub/iand/piandv8/papiandv8_-_meta.html)
+ * I, Voluminum codicumque fragmenta Graeca cum amuleto christiano, ed. E. Schaefer. 1912. Nos. 1—7.  &#91;MF 2.6&#93; [Online: uni.giessen.de](http://dx.doi.org/10.22029/jlupub-17698)
+ * II, Epistulae privatae Graecae, ed. L. Eisner. 1913. Nos. 8—25. [MF 2.7] <ddb:p.iand;2> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17699)
+ * III, Instrumenta Graeca publica et privata, pt. I, ed. L. Spohr. 1913. Nos. 26—51. [MF 2.8] <ddb:p.iand;3> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17700)
+ * IV, Instrumenta Graeca publica et privata, pt. II, ed. G. Spiess. 1914. Nos. 52—68b. Nos. 68, 68a, and 68b are Latin. [MF 2.9] <ddb:p.iand;4> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17701)
+ * V, Literarische Stücke und Verwandtes, ed. J. Sprey. 1931. Nos. 69—90. [MF 2.19] [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17702)
+ * VI, Griechische Privatbriefe, ed. G. Rosenberger. 1934. Nos. 91—133. [MF 2.11] <ddb:p.iand;6> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17703)
+ * VII, Griechische Verwaltungsurkunden, ed. D. Curschmann. 1934. Nos. 134—145. [MF 2.12] <ddb:p.iand;7> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17704)
+ * VIII, Griechische Wirtschaftsrechnungen und Verwandtes, ed. J. Hummel. 1938. Nos. 146—155. [MF 2.13] <ddb:p.iand;8> [Online: uni-giessen.de](http://dx.doi.org/10.22029/jlupub-17705)
 
 ### <a id="P.Iand.inv._653">P.Iand.inv. 653</a>
 = _A Sixth Century Account of Hay_, ed. T. Reekmans. Brussels 1962. (Pap.Brux. I). Text reprinted as SB VIII 9920. [FERE] <ddb:p.iand.inv.653> [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000001/1)
