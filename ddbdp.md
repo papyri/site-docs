@@ -1,3 +1,5 @@
+# About DDbDP
+
 **The Duke Databank of Documentary Papyri** (DDbDP) is an electronic corpus of published Greek and Latin documents written on papyrus, ostraca, or wooden tablets. The project began in in 1982 as a collaboration between Professors William H. Willis and John F. Oates, both of Duke University, and Dr. David R. Packard. The [David and Lucile Packard Foundation](http://www.packard.org/) and the [Packard Humanities Institute](http://www.packhum.org/) (PHI) funded the project from its inception through 1996; the [National Endowment for the Humanities](http://www.neh.gov/) (NEH) provided additional financial support. [Duke University Libraries](http://library.duke.edu/) in general and the Special Collections Library (now [David M. Rubenstein Rare Book and Manuscript Library](http://library.duke.edu/rubenstein/)) in particular have offered invaluable material support since the project’s birth, and continue to do so.
 
 In 1996/7 the DDbDP migrated its authoritative version from the PHI CD to the web-based Perseus Project (now [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)), from [Beta Code](http://stephanus.tlg.uci.edu/encoding/BCM.pdf) to [TEI](https://tei-c.org/) SGML with Beta Code text. For the next decade the DDbDP was funded as part of the Advanced Papyrological Information System (APIS), supported by the NEH, with technical support generously provided by Perseus.
@@ -17,4 +19,3 @@ The current public version is available via [papyri.info](http://papyri.info).
 In July 2013 [papyri.info](http://papyri.info), including the DDbDP, came under the stewardship of the [Duke Collaboratory for Classics Computing](https://blogs.library.duke.edu/dcthree/) (DC3), a digital classics R&D unit within the Duke University Libraries which was merged into [Digital Strategies and Technology](https://library.duke.edu/about/depts/dst) in July 2020.
 
 Please feel free to direct questions regarding the DDBDP to Rodney Ast (ast AT uni-heidelberg DOT de), James Cowey (james.cowey AT urz.uni-heidelberg DOT de), and Joshua Sosin (joshua.sosin AT duke DOT edu); best to email all three, since inevitably all three will discuss.
-
