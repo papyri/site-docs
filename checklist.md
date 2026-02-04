@@ -2348,7 +2348,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 = _Ostraca et papyrus coptes du topos de Saint-Marc à Thèbes_, ed. A. Boud’hors and C. Heurtel. Cairo 2015. (Bibliothèque d’Etudes Coptes 24.1).
 
 ### <a id="O.Sarga">O.Sarga</a>
-= _Wadi Sarga, Coptic and Greek Texts_, ed. W.E. Crum and H.I. Bell, with an introduction by R. Campbell Thompson. Copenhagen 1922. (Coptica III). The Greek and Coptic texts are listed on p. xv; no. 9 is on vellum, no. 12 on papyrus, the remainder on ostraca (= O.Sarga). All the documentary texts listed in [P.Sarga](#P.Sarga) on page xv as Greek, nos. 121—127, 147, 150—151, 155—156, 159—160, 195, 199—201, 205—374, 380—385 are reprinted in SB XVIII. There is a concordance in SB XIX, Abschnitt 7. Many of these texts contain a word or more in Coptic. [Online: archive.org](https://archive.org/details/cu31924026887616)
+= _Wadi Sarga, Coptic and Greek Texts_, ed. W.E. Crum and H.I. Bell, with an introduction by R. Campbell Thompson. Copenhagen 1922. (Coptica III). The Greek and Coptic texts are listed on p. xv; no. 9 is on vellum, nos. 12, 16, 19, 96, 128, 166, 174-176 are on papyrus (= [P.Sarga](#P.Sarga)), the remainder on ostraca. All the documentary texts listed in on page xv as Greek, nos. 121—127, 147, 150—151, 155—156, 159—160, 195, 199—201, 205—374, 380—385 are reprinted in SB XVIII. There is a concordance in SB XIX, Abschnitt 7. Many of these texts contain a word or more in Coptic. [Online: archive.org](https://archive.org/details/cu31924026887616)
 
 ### <a id="O.Sok.Nes.">O.Sok.Nes.</a>
 = _Soknopaiou Nesos Project II._ 
