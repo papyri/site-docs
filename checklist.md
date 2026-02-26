@@ -2431,7 +2431,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="T.Jucundus">T.Jucundus</a>
 = _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887. [Online: archive.org](https://archive.org/details/umn.31951p00109614s)
 
-### <a id="T.Kellis">T.Kellis</a> (Nos. 1—7 SyrCopt. 1-2, see [P.Kellis II](#P.Kellis))
+### <a id="T.Kellis">T.Kellis</a> (Nos. 1—7; Syr.Copt. 1—2, see [P.Kellis II](#P.Kellis))
 
 ### <a id="T.Möller">T.Möller</a>
 = Demotische Texte aus den Königlichen Museen zu Berlin, ed. Georg Möller. Leipzig 1913. Nos. 1-171. [Online: archive.org](https://archive.org/details/tmoller)
