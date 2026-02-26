@@ -2360,7 +2360,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * I, Griechische und griechisch-demotische Ostraka der Universitäts- und Landesbibliothek zu Strassburg im Elsass, ed. P. Viereck. Berlin 1923. Nos. 1—812; a few are Demotic or bilingual. There is an index to the Demotic material. [MF 1.79]
  * II, Thèbes et ses taxes: Recherches sur la fiscalité en Égypte romaine, ed. P. Heilporn. Paris 2009. Nos. 813—906. There is an index to the Demotic material. [De Boccard]
 
-### <a id="O.Tebt.">O.Tebt.</a> (Nos. 1—20, see [P.Tebt. II](#P.Tebt._II))
+### <a id="O.Tebt.">O.Tebt.</a> (Nos. 1—20, see [P.Tebt. II](#P.Tebt.))
 
 ### <a id="O.Tebt.Pad.">O.Tebt.Pad.</a>
 = _Ostraka da Tebtynis della Università di Padova I_, ed. C. Gallazzi. Milan 1979. Nos. 1—70. [CG]
@@ -2430,6 +2430,8 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
 ### <a id="T.Jucundus">T.Jucundus</a>
 = _Corpus Inscriptionum Latinarum IV Supplementum. Pars I, Tabulae ceratae Pompeis repertae annis MCCCLXXV et MCCCLXXXVII_, ed. K. Zangemeister. Berlin 1898. Nos. 1—153 (the Iucundus tablets) and two additional tablets ("auctarium") uncovered in 1887. [Online: archive.org](https://archive.org/details/umn.31951p00109614s)
+
+### <a id="T.Kellis">T.Kellis</a> (Nos. 1—7 SyrCopt. 1-2, see [P.Kellis II](#P.Kellis))
 
 ### <a id="T.Möller">T.Möller</a>
 = Demotische Texte aus den Königlichen Museen zu Berlin, ed. Georg Möller. Leipzig 1913. Nos. 1-171. [Online: archive.org](https://archive.org/details/tmoller)
