@@ -2679,6 +2679,10 @@ I.2 Galenus – Isocrates
 
  * I. [Online: digi.ub.uni-heidelberg.de](https://doi.org/10.11588/diglit.19671)
  * II. [Online: digi.ub.uni-heidelberg.de](https://doi.org/10.11588/diglit.19672)
+
+ * I, 2nd ed., ed. K. Preisendanz and A.Henrichs. Leipzig 1973. Nos. I-VI.
+ * II, 2nd ed., ed. K. Preisendanz and A.Henrichs. Leipzig 1974. Nos. VII-LXXXI; Chr. 1-24; Ostr. 1-5; Tab. 1-2; Hymn 1-30.
+
  * III. [Online: accademiafiorentina.it](http://www.accademiafiorentina.it/BbltOnLine/PGM_III.pdf)
  * Index. [Online: leidenuniv.nl](https://hum2.leidenuniv.nl/pdf/communicatie/PGMIII.pdf?_ga=2.238526723.2022393760.1511441060-786908276.1511441060)
 
