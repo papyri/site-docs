@@ -1067,6 +1067,12 @@ A new version of no. 29, now lost, is in Archiv 44 (1998) 75—85 (S. Richter); 
  * IV, ed. R. Pintaudi. 1983. ([Pap.Flor.](#Pap.Flor.) XII). Nos. 126—192. [LGF] <ddb:p.laur;4>
  * V, Papiri Laurenziani Copti, ed. G.M. Browne. 1984. ([Pap.Flor.](#Pap.Flor.) XIII). Nos. 193—205. [LGF]
 
+### <a id="P.Lecce">P.Lecce</a>
+= _Papyri Universitatis Lupiensis_.
+
+ * I, ed. A. Ricciardetto and N. Pellé. 2025. Nos. 1—20. [Online: siba](https://doi.org/10.1285/i9788883052415n1)
+ * II, ed. L. Uggetti. 2025. Nos. 21—40. [Online: siba](https://doi.org/10.1285/i9788883052194n2)
+
 ### <a id="P.LeedsMus.">P.LeedsMus.</a>
 = _A Selective Publication and Description of the Greek Papyri in the Leeds City Museum_, ed. S. Strassi. Leeds 1983. (Proceedings of the Leeds Philosophical and Literary Society, Literary and Historical Section, XIX.4). Nos. 1—30, descripta nos. 31—136. Nos. 1—4 are literary; nos. 5—30 and no. 53 (descripta) are republished in SB XVI 12958—12978. Nos. 10 and 20 are republished outside of this series of numbers as SB XVI 13082 and 12862 respectively. <ddb:p.leeds.mus>
 
