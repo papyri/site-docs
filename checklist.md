@@ -2547,6 +2547,9 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="C.Epist.Lat.">C.Epist.Lat.</a>
 = _Corpus Epistularum Latinarum, papyris tabulis ostracis servatarum_, ed. P. Cugusi, 3 vols. Florence 1992 and 2002. ([Pap.Flor.](#Pap.Flor.) XXIII and XXXIII). vols. I and II, nos. 1-245; vol. III, Addenda, Corrigenda, Indices rerum, Index verborum onmium. [LGF]
 
+### <a id="C.Erbstreit">C.Erbstreit</a>
+= _The Erbstreit Papyri. A Bilingual Dossier from Pathyris of the Second century BC_, ed. K. Vandorpe, S.P. Vleeming. Leuven 2017. (Studia Demotica 13). Nos. 1—20. Nos. 1 and 13­—16 are Greek; nos. 2—12 and 17—20 are Demotic; nos. 2 and 7 have a Greek subscript.
+
 ### <a id="C.Étiq.Mom.">C.Étiq.Mom.</a>
 = _Corpus des étiquettes de momies grecques_, ed. B. Boyaval. Lille 1976. (Publications de l'Université de Lille III). Nos. 1657 and 2077 were previously unedited.
 
@@ -4417,7 +4420,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2014: BGU XX; P.Cair.Preis. (2nd ed.); P.Fouad Astr.; P.Heid. X; P.Louvre Bawit; P.Monts.Roca IV; P.Oxy. LXXIX; P.Oxy. LXXX; P.Stras. X; P.Turku
  * 2015: CPR XXXIII; P.Cair.Mich. II; P.Genova V; P.Tebt.Pad. I; P.Köln XIV; P.Coles; P.Daris; PSI Com. 12
  * 2016: P.ÄkNo.; P.Gascou; P.Genova IV; P.Oxy. LXXXI; P.Oxy. LXXXII; O.Bankes; O.Berenike III; O.Trim. II; T.Bloomberg; P.Bastianini; P.Eirene IV; O.BawitFribourg
- * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.
+ * 2017: P.Trier I; P.Petr.Kleon; P.Haun. IV; Pap.Flor. XXXIX; P.Schøyen II; P.Köln XV; P.Nekr.; C.Erbstreit
  * 2018: P.Köln XVI; P.Oxy. LXXXIII; P.Mich. XXI; PSI XVII; CPF IV.2 II.2-II.3; BGU XXII; Pap.Leod. VIII; Pap.Lugd.Bat. XXXIV; P.Petra V; P.Capasso
  * 2019: P.BYU I; O.Krok. II; PapCongr. XXVIII; P.Trier II; P.Oxy. LXXXIV
  * 2020: P.Bas. II; P.Christodote; P.Oxyrhyncha; CPR XXXV; P.Giss. II; P.Math.; P.Berl.Monte; P.Messeri; P.Oxy. LXXXV; C.Pap.Jud. IV
@@ -4593,6 +4596,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * <a id="P.Droysen">P.Droysen</a> (texts in [UPZ II passim](http://papyri.info/ddbdp/upz;2))
  * <a id="P.Edmondstone">P.Edmondstone</a> (text in [Chrest.Mitt. 361](http://papyri.info/ddbdp/chr.mitt;;361) see also [BASP 15 (1978) 235-36.](https://quod.lib.umich.edu/b/basp/0599796.0015.004/5:2) and [P.Oxy. IV, pp.202-203](https://archive.org/details/oxyrhynchuspapyr04gren/page/202/mode/2up))
  * <a id="P.Eitrem">P.Eitrem</a> (see [listing in SB II p.83.](https://archive.org/details/sammelbuchgriech02wissuoft/page/82/mode/2up))
+ * <a id="P.Erbstreit">P.Erbstreit (2017)</a> (see [C.Erbstreit](#C.Erbstreit))
  * <a id="Pes.">Pes.</a> (see [P.Pisentius](#P.Pisentius))
  * <a id="P.Feste">P.Feste</a> (see [Feste](#Feste))
  * <a id="P.Fuad">P.Fuad</a> (see also [P.Fouad](#P.Fouad))
