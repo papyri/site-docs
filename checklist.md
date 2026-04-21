@@ -377,6 +377,9 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
  * III, The Mortuary Texts of Papyrus BM 10507, ed. M. Smith. London 1987. &#91;BMP&#93; [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015020494756)
  * IV, Ptolemaic Legal Texts from the Theban Area, ed. C.A.R. Andrews. London 1990. Published texts in vol. IV are numbered sequentially Cat. 1 to Cat. 48. The indexes, however, give inventory number references. There is a concordance of inventory numbers with publication numbers on p. 108. In addition there is a concordance of Cat. nos. and plate nos. on p. 129. &#91;BMP&#93; [Online: HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015021458040)
 
+### <a id="P.Brit.Mus.Hay">P.Brit.Mus.Hay</a>
+= _The Hay Archive of Coptic Spells on Leather: A Multidisciplinary Approach to the Materiality of Magical Practice_, ed. E.R. O'Connell. London 2022. (British Museum Research Publicaitons 233). [Online: britishmuseum](https://britishmuseum.iro.bl.uk/concern/books/0b0d97a8-9f40-425a-a4cc-5b421c6a7ceb)
+
 ### <a id="P.Brit.Mus.Reich">P.Brit.Mus.Reich</a>
 = _Papyri juristischen Inhalts in hieratischer und demotischer Schrift aus dem British Museum_, ed. N. Reich. Vienna 1914. (DenkschriftWien 55, Abh. 3). [Online: archive.org](https://archive.org/details/papyrijuristisch00reic)
 
