@@ -1806,6 +1806,7 @@ _Rib._Estudis_de_Papirologia_i_Filologia_Biblica_4_pp._148_7_pls._Barcelona_1995
  * I, ed. H. Cadell. Paris 1966. (Publications de la Faculté des Lettres et Sciences Humaines de Paris, Série "Textes et Documents," t. X: Travaux de l'Institut de Papyrologie de Paris IV). Nos. 1—63 are papyri, nos. 64—68 ostraca. [PUF] <ddb:p.sorb;1>
  * II, Un Codex fiscal Hermopolite (P.Sorb. II 69), ed. J. Gascou. Atlanta 1994. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXXII). No. 69. [Oxbow] <ddb:p.sorb;2> [Online: AWDL](http://hdl.handle.net/2333.1/0cfxprkx)
  * III, ed. H. Cadell, W. Clarysse and K. Robic. Paris 2011. (Pap.Paris. I). Nos. 70–144. <ddb:p.sorb;3>
+ * IV, ed. M.-P. Chaufray and S. Wackenier. Paris 2016. (Pap.Paris. IV) Nos. 145-160.
 
 ### <a id="P.Sorb.Copt.">P.Sorb.Copt.</a>
 = _Coptica Sorbonensia. Textes de la 6e école d’été de papyrologie copte, Paris, 2-11 juillet 2018 (P.Sorb.Copt.)_, ed. A. Boud'hors and A. Delattre. Paris 2022. (Studia Papyrologica et Aegyptiaca Parisina 4). Nos. 1—45.
@@ -3884,6 +3885,7 @@ I.2 Galenus – Isocrates
 
  * I, see [P.Sorb.](#P.Sorb.) III.
  * II, see [P.Louvre Hag.](#P.Louvre_Hag.)
+ * IV, see [P.Sorb.](#P.Sorb.) IV
 
 ### <a id="Pap.Texte_Abh.">Pap.Texte Abh.</a>
  = _Papyrologische Texte und Abhandlungen_, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
