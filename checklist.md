@@ -2308,6 +2308,9 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 ### <a id="O.Minor">O.Minor</a>
 = "Ostraca in Various Minor Collections," in [O.Bodl.](#O.Bodl.) I, pp. 174—81. 41 ostraca from 8 collections; no. A6 has a reference to Demotic.
 
+### <a id="O.Mon.Cyr.">O.Mon.Cyr.</a>
+= "Coptic Texts from the ’Monastery of Cyriacus’ (TT 65) with an Archaeological Introduction by T.A. Bács," ed. A. Hasznos, vol. 1. Budapest 2013. (Studia Aegyptiaca XX)
+
 ### <a id="O.Mon.Phoib.">O.Mon.Phoib.</a>
 = _Le Monastère de Phoebammon dans la Thébaïde_, ed. C. Bachatly. Tome 2: Graffiti, inscriptions et ostraca, ed. R. Rémondon, Yassâ ‘Abd al-Masîh, W.C. Till and O.H.E. KHS-Burmester. Cairo 1965. (Publications de la Société d’archéologie copte. Rapports de fouilles). "Coptic Ostraca", ed. W.C. Till and O.H.E. KHS-Burmester, are found on pp. 103—157, pls. 1—13. Nos. 1—125; nos. 1—3 are biblical, 4—5 legal, 6—18 letters, 19—125 fragments. No. 40 Greek? with cryptogram?
 
