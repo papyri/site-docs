@@ -2375,6 +2375,9 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
 
 ### <a id="O.Tebt.">O.Tebt.</a> (Nos. 1—20, see [P.Tebt. II](#P.Tebt.))
 
+### <a id="O.Tebt.Litinas">O.Tebt.Litinas</a>
+= _Tebtynis VII: Greek Ostraca from Tebtynis dated to the Ptolemaic and Roman Periods_, ed. N. Litinas. Cairo 2025. (Institut Français d’Archéologie Orientale, Documents de Fouilles 54). Nos. 1-214. 
+
 ### <a id="O.Tebt.Pad.">O.Tebt.Pad.</a>
 = _Ostraka da Tebtynis della Università di Padova I_, ed. C. Gallazzi. Milan 1979. Nos. 1—70. [CG]
 
