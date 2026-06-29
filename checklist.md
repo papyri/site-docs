@@ -690,7 +690,7 @@ Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublis
  * I, ed. P.J. Sijpesteijn and Ph.A. Verdult. Brussels 1986. (Pap.Brux. XXI). Nos. 1—22. [FERE]  <ddb:p.erasm;1> [Online: AWDL](http://dlib.nyu.edu/ancientworld/books/isaw_pbrx000021/1)
  * II, = P.Erasmianae II, Parts of the Archive of an Arsinoite Sitologus from the Middle of the Second Century BC, ed. Ph.A. Verdult. Amsterdam 1991. (Stud.Amst. XXXII). Nos. 23—58. [JCG]. Rev. ed. of P.Erasmianae II, Delen van een arsinoitisch sitologen-archief uit het midden van de tweede eeuw v. Chr., ed. Ph.A. Verdult (Rotterdam 1988; Mededelingen van het Juridisch Instituut van de Erasmus Universiteit Rotterdam, nr. 45) and one unnumbered text P.Abcoude (51a, pp. 241—242) also reprinted as SB XIV 11962. <ddb:p.erasm;2>
 
-### <a id="P.Erbstreit">P.Erbstreit</a>
+### <a id="P.Erbstreit">P.Erbstreit</a>  (see [C.Erbstreit](#C.Erbstreit))
 = _Ein Erbstreit aus dem ptolemäischen Ägypten_, ed. O. Gradenwitz, F. Preisigke, W. Spiegelberg. Strassburg 1912. (Schriften der Wissenschaftlichen Gesellschaft in Strassburg 13). The Greek text in this volume should be cited as SB I 4512. [Online: archive.org](https://archive.org/details/wu.89102041308)
 
 ### <a id="P.Erl.">P.Erl.</a>
