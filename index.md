@@ -1,3 +1,10 @@
+<div id="banner">
+  <h2>A new version of the Papyri.info platform is coming soon!</h2>
+  <p>The Papyrological Editor will be unavailable from <strong>12pm EDT Monday, July 13 through Friday, July 17th</strong>. The Navigator will remain available during most of this period.</p>
+  <p>In the meantime, you can read more about the <a href="https://papyri.info/release-notes" target="_blank">upcoming release</a> and contact us with any questions at <a href="mailto:papyri@duke.edu">papyri@duke.edu</a>.</p>
+  <p>Thank you for your patience during this migration.</p>
+</div>
+
 <span class="papyriDotInfo">Papyri.info</span> has two primary components. The <strong>Papyrological Navigator</strong> (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the <strong>Papyrological Editor</strong> (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
