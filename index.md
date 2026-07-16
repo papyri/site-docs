@@ -1,16 +1,14 @@
-<span class="papyriDotInfo">Papyri.info</span> has two primary components. The <strong>Papyrological Navigator</strong> (PN) supports searching, browsing, and aggregation of ancient papyrological documents and related materials; the <strong>Papyrological Editor</strong> (PE) enables multi-author, version controlled, peer reviewed scholarly curation of papyrological texts, translations, commentary, scholarly metadata, institutional catalog records, bibliography, and images. 
+<h1 class="visually-hidden">Papyri.info</h1>
 
 Papyri.info aggregates material from the Advanced Papyrological Information System 
 (APIS), [Duke Databank of Documentary Papyri](ddbdp) (DDbDP), [Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens](https://aquila.zaw.uni-heidelberg.de/start) (HGV), [Bibliographie Papyrologique](https://bibpap.be) (BP), and depends on close collaboration with  [Trismegistos](http://www.trismegistos.org/), for rigorous maintenance of relationship mapping and unique identifiers.
 
+Papyri.info aggregates material from the Advanced Papyrological Information System
+(APIS), [Duke Databank of Documentary Papyri](ddbdp) (DDbDP), [Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens](http://www.rzuser.uni-heidelberg.de/~gv0/) (HGV), [Bibliographie Papyrologique](http://www.ulb.ac.be/philo/cpeg/bp.htm) (BP), and depends on close collaboration with [Trismegistos](http://www.trismegistos.org/), for rigorous maintenance of relationship mapping and unique identifiers.
 
-<div id="search" style="display:grid; grid-template-columns: repeat(6, 1fr);"> 
-  <div style="grid-column: 1 / 4; text-align: right; margin-right: 2vw">
-    <a href="/search" id="searchbutton">Search the navigator</a>
-  </div>
-  <div style="grid-column: 4 / 6; text-align: left;">
-    <a href="/editor" id="editorbutton">Contribute content</a>
-  </div>
+<div class="bg-light p-4 justify-content-center d-flex gap-3 mb-5">
+  <a href="/search" class="btn btn-lg btn-primary">Search the navigator</a>
+  <a href="/editor" class="btn btn-lg btn-outline-primary">Contribute content</a>
 </div>
 
 <div style="display:grid; grid-template-columns: repeat(6, 1fr);">
@@ -25,12 +23,12 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
       <li><a href="http://www.ori.uzh.ch/apd" title="learn about the Arabic Papyrological Database">APD</a></li>
     </ul>
   </div>
-  <div style="grid-column: 4;">
-    <h2 style="margin-left: 0;">More information</h2>
-    <ul class="about">
+  <div class="col-md-3">
+    <h2 class="h4">More information</h2>
+    <ul class="list-unstyled no-link-underline">
       <li><a href="/docs/checklist">Checklist of Editions</a></li>
-      <li><a href="/docs/resources">papyrological resources</a></li>
-      <li><a href="feedback.html">send feedback</a></li>
+      <li><a href="/docs/resources">Papyrological Resources</a></li>
+      <li><a href="feedback.html">Send Feedback</a></li>
     </ul>
   </div>
 </div>
