@@ -2589,7 +2589,7 @@ Nos. 1-2, 4-16 are Demotic, no. 3 is bilingual Greek Demotic, nos. 17-107 are Gr
  * VI, pt. VI. VI AD-VI/VII AD. Nos. VI.1-274. Pt. VII. VII AD-VIII AD. Nos. VII.1-124. Appendix. Latin texts on tablets from Egypt. Nos. 1-40.
 
 ### <a id="C.Ord.Ptol.">C.Ord.Ptol.</a>
-= _Corpus des Ordonnances des Ptolémées_, ed. M.-Th. Lenger. Brussels 1964. (Acad. Roy. de Belgique, Cl. des Lettres, Mémoires, coll. in 8�, 57, 1). 2nd ed., corrected and updated, 1980. (Mémoires 64, 2). &#91;ARB]. See also Corpus des Ordonnances des Ptolémées: Bilan des additions et corrections (1964—1988); Compléments à la bibliographie by M.-Th. Lenger. Brussels 1990. (Pap.Brux. XXIV). [FERE&#93; [Online: AWDL](http://hdl.handle.net/2333.1/37pvmjmv)
+= _Corpus des Ordonnances des Ptolémées_, ed. M.-Th. Lenger. Brussels 1964. (Acad. Roy. de Belgique, Cl. des Lettres, Mémoires, coll. in 8�, 57, 1). 2nd ed., corrected and updated, 1980. (Mémoires 64, 2). &#91;ARB]. See also Corpus des Ordonnances des Ptolémées: Bilan des additions et corrections (1964—1988); Compléments à la bibliographie by M.-Th. Lenger. Brussels 1990. (Pap.Brux. XXIV). [FERE&#93; [1st ed. Online: Acad. Roy. de Belgique](https://academieroyale.be/fr/publications-academie-memoires-detail/oeuvres-2/corpus-des-ordonnances-des-ptolemees-2656/) [2nd ed. Online: Acad. Roy. de Belgique](https://academieroyale.be/fr/publications-academie-memoires-detail/oeuvres-2/corpus-des-ordonnances-des-ptolemees/) [Bilan des additions et corrections Online: AWDL](http://hdl.handle.net/2333.1/37pvmjmv)
 
 ### <a id="C.Pap.Gr.">C.Pap.Gr.</a>
 = _Corpus Papyrorum Graecarum_, ed. O. Montevecchi and others.
