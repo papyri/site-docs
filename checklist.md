@@ -505,6 +505,9 @@ Volumes in this series are published unbound. Texts are not numbered in serial f
 = _Saite and Persian Demotic Cattle Documents_, ed. E. Cruz-Uribe. Chico 1985. ([Am.Stud.Pap.](#Am.Stud.Pap.) XXVI). Nos. 1—18.
 Only nos. 4, 8, 9 and 14 (from the Michigan collection) were previously unpublished. [Online: AWDL](http://hdl.handle.net/2333.1/hdr7stn3)
 
+### <a id="P.Caution.">P.Caution.</a>
+= _Cautionnements bilingues de la Sorbonne_, ed. M.-P. Chaufray, W. Clarysse. Paris 2026. (Pap.Paris. V). Nos. 1—231.
+
 ### <a id="P.Charite">P.Charite</a>
 = _Das Aurelia Charite Archiv_, ed. K.A. Worp. Zutphen 1981. (Stud.Amst. XII). Nos. 1—41. [TPC] <ddb:p.charite> [Online: leidenuniv.nl](https://openaccess.leidenuniv.nl/handle/1887/9200)
 
@@ -3897,6 +3900,7 @@ I.2 Galenus – Isocrates
  * I, see [P.Sorb.](#P.Sorb.) III.
  * II, see [P.Louvre Hag.](#P.Louvre_Hag.)
  * IV, see [P.Sorb.](#P.Sorb.) IV
+ * V, see [P.Caution.](#P.Caution.)
 
 ### <a id="Pap.Texte_Abh.">Pap.Texte Abh.</a>
  = _Papyrologische Texte und Abhandlungen_, ed. L. Koenen, R. Merkelbach, D. Hagedorn and R. Kassel. Bonn 1968— .
@@ -4445,6 +4449,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.; P.Cair.Reggiani
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Harr. III; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
  * 2025: Mag.Lev.; P.Tebt. VI; C.Lat.Text.Pap.; O.Trim. III; Pap.Brux. XLIV
+ * 2026: P.Caution
 
 ### <a id="Coptic">Coptic</a>
  * 1876: P.RevilloutCopt.
