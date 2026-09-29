@@ -742,6 +742,9 @@ J. Teixidor, "Deux documents syriaques du IIIe siècle après J.–C. provenant 
 ### <a id="P.Fouad_Astr.">P.Fouad Astr.</a>
 = _Conformément aux observations d'Hipparque : le Papyrus Fouad inv. 267A_, ed. J.-L. Fournet, A. Tihon. Louvain-la-Neuve 2014 (Publications de l'Institut orientaliste de Louvain 67) [Online: HAL](https://halshs.archives-ouvertes.fr/hal-01597507/document)
 
+### <a id="P.Fouad_inv._218">P.Fouad inv. 218</a>
+= _L'Empédocle du Caire : P.Fouad inv. 218 : introduction, texte, commentaire_, ed. N. Carlig, A. Martin, O. Primavesi. 2025 (Pap.Brux. 44)
+
 ### <a id="P.Frankf.">P.Frankf.</a>
 = _Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt_, ed. H. Lewald. Heidelberg 1920. (SBHeidelberg 1920, Abh. 14). Nos. 1—7. An additional text at SB XIV 12093. [MF 1.25] <ddb:p.frankf> [Online: archive.org](https://archive.org/details/wu.89102041563)
 
@@ -3655,8 +3658,8 @@ I.2 Galenus – Isocrates
  * XLI, The bearers of business letters in Roman Egypt, by P. Schubert. 2021
  * XLII, Coptica fennica : catalog of the Coptic manuscripts from the Ilves collection exhibited at the National Archives of Finland (16 June-14 August 2020), by A. Marjanen, I. Miroshnikov, E. Salmenkivi, A.T. Mihálykó. 2023
  * XLIII, Christian inscriptions from Egypt and Nubia : a critical bulletin (2013-2022), by A. Delattre, J. Dijkstra and J. van der Vliet. 2024
- * XLIV, L'Empédocle du Caire : P.Fouad inv. 218 : introduction, texte, commentaire, ed. by N. Carlig, A. Martin, O. Primavesi. 2025
-
+ * XLIV, see [P.Fouad_inv._218](#P.Fouad inv. 218)
+ * 
 ### <a id="Pap.Castr.">Pap.Castr.</a>
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
 
@@ -4448,7 +4451,7 @@ Publications printed without an index are listed in parentheses, e.g., "1901: (S
  * 2022: P.Cair.Gad; P.Christ.Musl.; P.KölnLexikon; P.KölnSarapion; O.Berenike IV; P.Louvre III; O.Blemmyes; P.Aegyptus Cent.; C.Pap.Jud. V; P.Brit.Mus.Hay
  * 2023: P.Jördens; P.Leid.Inst. II; P.Oxy. LXXXVII; P.KölnLand.; P.Cair.Reggiani
  * 2024: P.Würzburg II; BGU XXI; P.Fouad II.; P.Van Minnen; P.Petr.Cahier; P.Kynopolites; P.Harr. III; P.Lit.Var.; P.Poethke II; P.Minutoli; P.Sok.Nes.; O.Sok.Nes.
- * 2025: Mag.Lev.; P.Tebt. VI; C.Lat.Text.Pap.; O.Trim. III; Pap.Brux. XLIV
+ * 2025: Mag.Lev.; P.Tebt. VI; C.Lat.Text.Pap.; O.Trim. III; P.Fouad inv. 218
  * 2026: P.Caution
 
 ### <a id="Coptic">Coptic</a>
