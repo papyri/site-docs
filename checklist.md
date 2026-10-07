@@ -3658,8 +3658,8 @@ I.2 Galenus – Isocrates
  * XLI, The bearers of business letters in Roman Egypt, by P. Schubert. 2021
  * XLII, Coptica fennica : catalog of the Coptic manuscripts from the Ilves collection exhibited at the National Archives of Finland (16 June-14 August 2020), by A. Marjanen, I. Miroshnikov, E. Salmenkivi, A.T. Mihálykó. 2023
  * XLIII, Christian inscriptions from Egypt and Nubia : a critical bulletin (2013-2022), by A. Delattre, J. Dijkstra and J. van der Vliet. 2024
- * XLIV, see [P.Fouad_inv._218](#P.Fouad inv. 218)
- * 
+ * XLIV, see [P.Fouad inv. 218](#P.Fouad_inv._218) 
+   
 ### <a id="Pap.Castr.">Pap.Castr.</a>
  = _Papyrologica Castroctaviana_. Barcelona 1967— . [PIB]
 
