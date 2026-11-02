@@ -3956,7 +3956,8 @@ I.2 Galenus – Isocrates
  * XLVI, see [P.Agri](#P.Agri)
  * XLVII, see [P.Louvre](#P.Louvre) III.
  * XLVIII, see [P.KölnLand.](#P.KölnLand.)
-
+ * XLIX, Untersuchungen zum Buchwesen des griechisch-römischen Ägypten. Bd. 1, Literatur auf der Rückseite von Dokumenten, by D. Kaltsas. 2026.
+   
 ### <a id="Princ.Stud.Pap.">Princ.Stud.Pap.</a>
  = _Princeton University Studies in Papyrology_, vols. I—VI. 1936—1949. [PUP]
 
