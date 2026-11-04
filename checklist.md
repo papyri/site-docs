@@ -2899,7 +2899,7 @@ I.2 Galenus – Isocrates
  = Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw) Ägyptens sich vorfinden, ed. F. Preisigke. Heidelberg 1922, repr. Amsterdam 1967.
 
 ### <a id="NB_Copt.">NB Copt.</a>
- = Namen in koptischen dokumentarischen Texten by M.R.H. Hasitzka. Available online at <http://www.onb.ac.at/files/kopt_namen.pdf>
+ = Koptisches Namenbuch. Personennamen aus vorwiegend koptischen dokumentarischen Texten M.R.H. Hasitzka. Berlin 2026. (MPER N.S. XXXV).
 
 ### <a id="NB_Dem.">NB Dem.</a>
  = Demotisches Namenbuch, ed. E. Lüddeckens and H.J. Thissen. Wiesbaden 1980—. To date, vol. 1 in 16 fascicles, covering the entire alphabet. [Dr. Ludwig Reichert Verlag]
