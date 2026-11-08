@@ -67,20 +67,20 @@ Every block of text must be enclosed in a `<= ... =>` pair.
 
 _To get this PN preview:_ `recto/verso`
 
-_Use this Leiden+:_ `<D=.r<= 1. line of text 2. line of text =>=D> <D=.v<= 3. line of text 4. line of text =>=D>`
+_Use this Leiden+:_ `<D=#_r.r<(r)><= 1. line of text 2. line of text =>=D> <D=.v<= 3. line of text 4. line of text =>=D>`
 
-_To create this XML:_ `<div n="r" type="textpart"><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="v" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
+_To create this XML:_ `<div n="r" type="textpart" xml:id="_r"><head>r</head><ab> <lb n="1"/>line of text <lb n="2"/>line of text </ab></div> <div n="v" type="textpart"><ab> <lb n="3"/>line of text <lb n="4"/>line of text </ab></div>`
 
 _Example PN Link:_
 
 Recto and verso are indicated with closed pairs of tags as follows:
 
 		<S=.grc
-		<D=.r<=
+		<D=#_r.r<(r)><=
 		1. line of text
 		2. line of text
 		=>=D>
-		<D=.v<=
+		<D=#_v.v<(v)><=
 		3. line of text
 		4. line of text
 		=>=D>
